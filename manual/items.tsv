@@ -1,0 +1,559 @@
+wooden shield	модон бамбай
+quarter staff	урт таяг
+bronze sword	хүрэл сэлэм
+bronze mace	хүрэл бороохой
+bronze axe	хүрэл сүх
+bronze shield	хүрэл бамбай
+slingshot	чавх
+iron spear	төмөр жад
+iron sword	төмөр сэлэм
+iron mace	төмөр бороохой
+iron axe	төмөр сүх
+iron shield	төмөр бамбай
+shortbow	богино нум
+steel halberd	ган сүхэн жад
+steel sword	ган сэлэм
+steel mace	ган бороохой
+steel axe	ган сүх
+steel shield	ган бамбай
+steel shield of magic resistance	ид шидийн тэсвэртэй ган бамбай
+crossbow	оньсон нум
+leather gloves	арьсан бээлий
+gloves	бээлий
+leather gloves of dexterity	шаламгайн арьсан бээлий
+iron bracers	төмөр бугуйвч
+bracers	бугуйвч
+iron bracers of constitution	тэсвэрийн төмөр бугуйвч
+steel gauntlets	ган бээлий
+gauntlets	хуягт бээлий
+steel gauntlets of might	хүчний ган бээлий
+cloak	нөмрөг
+cloak of magic reflection	ид шид ойлгох нөмрөг
+cloak of invisibility	үл үзэгдэх нөмрөг
+cloak of protection	хамгаалалтын нөмрөг
+leather boots	арьсан гутал
+leather boots of speed	хурдны арьсан гутал
+iron boots	төмөр гутал
+iron boots of water walking	усан дээгүүр алхах төмөр гутал
+steel boots	ган гутал
+steel boots of levitation	хөвөх ган гутал
+steel boots of feather	өд мэт ган гутал
+leather breastpiece	арьсан цээживч
+iron breastpiece	төмөр цээживч
+steel breastpiece	ган цээживч
+phrygian hat	фриг малгай
+hood	юүдэн
+wizard hat	шидтэний малгай
+jester hat	алиалагчийн малгай
+leather helm	арьсан дуулга
+iron helm	төмөр дуулга
+steel helm	ган дуулга
+amulet of sex change	хүйс солих сахиус
+amulet	сахиус
+amulet of life saving	амь аврах сахиус
+amulet of olympic swimming	гарамгай сэлэх сахиус
+amulet of magic reflection	ид шид ойлгох сахиус
+amulet of strangulation	боомилох сахиус
+amulet of poison resistance	хор тэсвэрлэх сахиус
+bottle of water	лонх ус
+potion	ханд
+bottle of booze	лонх архи
+bottle of fruit juice	лонх жимсний шүүс
+potion of sickness	өвчлүүлэх ханд
+potion of confusion	самууруулах ханд
+potion of extra healing	хүчтэй эдгээх ханд
+potion of healing	эдгээх ханд
+potion of cure ailment	эмгэг анагаах ханд
+potion of blindness	сохлох ханд
+potion of restore magic	мана нөхөх ханд
+potion of invisibility	үл үзэгдэх ханд
+potion of levitation	хөвөх ханд
+potion of speed	хурдлуулах ханд
+potion of acid	хүчлийн ханд
+potion of paralysis	саажуулах ханд
+piece of mail	захидал
+stamped scroll	тамгатай бичиг
+scroll of identify	таних шидэт бичиг
+scroll	шидэт бичиг
+scroll of light	гэрлийн шидэт бичиг
+blank scroll	хоосон бичиг
+scroll of enchant weapon	зэвсэг шидлэх бичиг
+scroll of enchant armor	хуяг шидлэх бичиг
+scroll of remove curse	хараал арилгах бичиг
+scroll of fire	галын шидэт бичиг
+scroll of food	хоолны шидэт бичиг
+scroll of magic mapping	шидэт зураглалын бичиг
+scroll of repair	засварын шидэт бичиг
+scroll of destroy armor	хуяг устгах бичиг
+scroll of teleportation	шилжих шидэт бичиг
+scroll of summon	дуудах шидэт бичиг
+magicstaff of light	гэрлийн шидэт таяг
+magicstaff	шидэт таяг
+magicstaff of digging	ухах шидэт таяг
+magicstaff of locking	түгжих шидэт таяг
+magicstaff of magic missile	шидэт сумны таяг
+magicstaff of opening	нээх шидэт таяг
+magicstaff of slow	удаашруулах шидэт таяг
+magicstaff of cold	хүйтний шидэт таяг
+magicstaff of fire	галын шидэт таяг
+magicstaff of lightning	аянганы шидэт таяг
+magicstaff of sleep	нойрсуулах шидэт таяг
+ring of adornment	гоёлын бөгж
+ring	бөгж
+ring of slow digestion	удаан шингээлтийн бөгж
+ring of protection	хамгаалалтын бөгж
+ring of warning	сэрэмжлүүлэх бөгж
+ring of might	хүчний бөгж
+ring of constitution	тэсвэрийн бөгж
+ring of invisibility	үл үзэгдэх бөгж
+ring of magic resistance	ид шидийн тэсвэрийн бөгж
+ring of conflict	дайсагналын бөгж
+ring of levitation	хөвөх бөгж
+ring of regeneration	нөхөн төлжих бөгж
+ring of teleportation	шилжих бөгж
+spellbook of forcebolt	хүчний сумны ном
+spellbook	шившлэгийн ном
+spellbook of magic missile	шидэт сумны ном
+spellbook of cold	хүйтний ном
+spellbook of fireball	галт бөмбөлгийн ном
+spellbook of light	гэрлийн ном
+spellbook of remove curse	хараал арилгах ном
+spellbook of lightning	аянганы ном
+spellbook of identify	таних ном
+spellbook of magic mapping	шидэт зураглалын ном
+spellbook of sleep	нойрсуулах ном
+spellbook of confuse	самууруулах ном
+spellbook of slow	удаашруулах ном
+spellbook of opening	нээх ном
+spellbook of locking	түгжих ном
+spellbook of levitation	хөвөх ном
+spellbook of invisibility	үл үзэгдэх ном
+spellbook of teleportation	шилжих ном
+spellbook of healing	эдгээх ном
+spellbook of extra healing	хүчтэй эдгээх ном
+spellbook of cure ailment	эмгэг анагаах ном
+spellbook of dig	ухах ном
+rock	чулуу
+luckstone	азын чулуу
+garnet	анар чулуу
+gem	эрдэнийн чулуу
+ruby	бадмаараг
+jacinth	улбар циркон
+amber	хув
+citrine	шар болор
+jade	хаш
+emerald	маргад
+sapphire	индранил
+aquamarine	усан биндэръяа
+amethyst	ягаан болор
+fluorite	хайлуур жонш
+opal	гэрэлтчимэд
+diamond	алмааз
+jetstone	хар хув
+obsidian	галт уулын шил
+piece of worthless glass	энгийн шилний хэлтэрхий
+pickaxe	жоотуу
+tin opener	лааз онгойлгогч
+mirror	толь
+lockpick	цоож тайлагч
+skeleton key	бүх цоожны түлхүүр
+key	түлхүүр
+torch	бамбар
+lantern	дэнлүү
+blindfold	нүдний боолт
+towel	алчуур
+pair of glasses	нүдний шил
+beartrap	хавх
+bread	талх
+cream pie	цөцгийтэй бялуу
+cheese	бяслаг
+apple	алим
+meat	мах
+fish	загас
+tin	лаазалсан хүнс
+book	ном
+readable book	унших ном
+spell	шившлэг
+Dyrnwyn	Дирнвин
+magic sword	шидэт сэлэм
+Sharur	Шарур
+magic mace	шидэт бороохой
+Gungnir	Гунгнир
+magic spear	шидэт жад
+Parashu	Парашу
+magic axe	шидэт сүх
+Khryselakatos	Хриселакатос
+magic bow	шидэт нум
+Dragon's Mail	Луугийн хуяг
+artifact breastpiece	домогт цээживч
+Sphinx's Casque	Сфинксийн дуулга
+artifact helm	домогт дуулга
+Oracle's Treads	Зөнчийн гутал
+artifact boots	домогт гутал
+Wraith's Gown	Сүнсний нөмрөг
+artifact cloak	домогт нөмрөг
+Djinni's Brace	Жиннигийн бугуйвч
+artifact gloves	домогт бээлий
+crystal breastpiece	болор цээживч
+crystal helm	болор дуулга
+crystal boots	болор гутал
+crystal shield	болор бамбай
+crystal gauntlets	болор бээлий
+vampire doublet	цус сорогчийн хүрэм
+doublet	хүрэм
+wizard doublet	шидтэний хүрэм
+healer doublet	эмчийн хүрэм
+mirror shield	толин бамбай
+brass knuckles	гууль нударга
+knuckles	нударга
+iron knuckles	төмөр нударга
+spiked gauntlets	өргөст бээлий
+tomalley	хавчны элэг
+crystal shard	болрын хэлтэрхий
+crystal sword	болор сэлэм
+crystal spear	болор жад
+crystal axe	болор сүх
+crystal mace	болор бороохой
+bronze tomahawk	хүрэл шидэх сүх
+iron dagger	төмөр чинжаал
+steel chakram	ган чакрам
+crystal shuriken	болор шидэх од
+black cloak	хар нөмрөг
+magicstaff of stoneblood	чулуужуулах шидэт таяг
+magicstaff of bloodletting	цус алдуулах шидэт таяг
+magicstaff of conjure skeleton	араг яс дуудах шидэт таяг
+blindfold of free action	чөлөөт хөдөлгөөний нүдний боолт
+blindfold of telepathy	далд харааны нүдний боолт
+spellbook of conjure skeleton	араг яс дуудах ном
+spellbook of stoneblood	чулуужуулах ном
+spellbook of bloodletting	цус алдуулах ном
+spellbook of reflect magic	ид шид ойлгох ном
+spellbook of spray acid	хүчил шүрших ном
+spellbook of steal weapon	зэвсэг хулгайлах ном
+spellbook of drain soul	сүнс сорох ном
+spellbook of vampiric aura	цус сорогчийн хүрээний ном
+spellbook of charm monster	мангас ховсдох ном
+empty bottle	хоосон лонх
+blue mystic orb	цэнхэр шидэт бөмбөлөг
+red mystic orb	улаан шидэт бөмбөлөг
+purple mystic orb	нил ягаан шидэт бөмбөлөг
+green mystic orb	ногоон шидэт бөмбөлөг
+tunic	цамц
+fez	фес малгай
+magicstaff of charm monster	мангас ховсдох шидэт таяг
+potion of polymorph	дүрс хувиргах ханд
+vial of blood	лонх цус
+backpack	үүргэвч
+alembic	нэрэх сав
+potion of firestorm	галт шуурганы ханд
+unstable potion	тогтворгүй ханд
+potion of icestorm	мөсөн шуурганы ханд
+potion of thunderstorm	аянган шуурганы ханд
+potion of strength	хүчний ханд
+suede boots	илгэн гутал
+suede gloves	илгэн бээлий
+silver cloak	мөнгөлөг нөмрөг
+silver hood	мөнгөлөг юүдэн
+red hood	улаан юүдэн
+silver doublet	мөнгөлөг хүрэм
+spellbook of revert form	дүрс сэргээх ном
+spellbook of rat form	харх болох ном
+spellbook of arthropod form	үе хөлтөн болох ном
+spellbook of troll form	тролль болох ном
+spellbook of imp form	бяцхан чөтгөр болох ном
+spellbook of spray web	тор шүрших ном
+spellbook of poison	хордуулах ном
+spellbook of speed	хурдлуулах ном
+spellbook of fear	айлгах ном
+spellbook of power strike	хүчирхэг цохилтын ном
+spellbook of detect food	хоол илрүүлэх ном
+spellbook of weakness	сулруулах ном
+shaman mask	бөөгийн баг
+spellbook of elemental focus	махбод төвлөрүүлэх ном
+spellbook of arcane mark	увдист тэмдгийн ном
+spellbook of teleport other	бусдыг шилжүүлэх ном
+spellbook of inner demon	дотоод чөтгөрийн ном
+spellbook of troll's blood	троллийн цусны ном
+spellbook of salvage	задлах ном
+whip	ташуур
+spellbook of flutter	дэвэх ном
+spellbook of dash	ухасхийх ном
+spellbook of polymorph	дүрс хувиргах ном
+spellbook of 9	9-р шившлэгийн ном
+spellbook of 10	10-р шившлэгийн ном
+magicstaff of poison	хордуулах шидэт таяг
+metal scrap	металлын хаягдал
+scrap	хаягдал
+magic scrap	шидэт хаягдал
+tinkering kit	урлалын багаж
+sentry bot	харуул робот
+detonator	тэслүүр
+flame trap	галт урхи
+trap	урхи
+sleep trap	нойрсуулах урхи
+freeze trap	хөлдөөх урхи
+teleportation trap	шилжүүлэх урхи
+gyrobot	гироробот
+spellbot	шившлэгийн робот
+noisemaker	чимээ үүсгэгч
+dummybot	өгөөш робот
+leather apron	арьсан хормогч
+apron	хормогч
+enchanted feather	шидэт өдөн үзэг
+feather	өдөн үзэг
+executioner hood	цаазлагчийн юүдэн
+scroll of charging	цэнэглэх шидэт бичиг
+quiver of silver ammo	мөнгөн сумтай саадаг
+quiver	саадаг
+quiver of piercing ammo	нэвтлэх сумтай саадаг
+quiver of swift ammo	хурдан сумтай саадаг
+quiver of fire ammo	галт сумтай саадаг
+quiver of springshot ammo	ойх сумтай саадаг
+quiver of crystal ammo	болор сумтай саадаг
+quiver of hunting ammo	ангийн сумтай саадаг
+longbow	урт нум
+compound bow	нийлмэл нум
+arbalest	хүнд оньсон нум
+boomerang	бумеранг
+scroll of conjure arrow	сум бүтээх шидэт бичиг
+monocle	нэг нүдний шил
+death box	үхлийн хайрцаг
+bandit mask	дээрэмчний баг
+eyepatch	өрөөсөн нүдний хаалт
+masquerade mask	багт наадмын баг
+rose	сарнай
+golden mask	алтан баг
+spooky mask	аймшгийн баг
+tech goggles	техникийн нүдний шил
+hazard goggles	хамгаалалтын нүдний шил
+phantom mask	хий үзэгдлийн баг
+pipe	гаанс
+sweetgrass sprig	анхилуун өвсний мөчир
+plague mask	тахлын баг
+mouth knife	аманд зуудаг хутга
+silken bow	торгон тууз
+plumed cap	өдтэй малгай
+bycocket	анчны малгай
+top hat	өндөр малгай
+bandana	толгойн алчуур
+circlet of mysticism	далдын ухааны титэм
+circlet	цагариг титэм
+crown	титэм
+laurels	лаврын хэлхээ
+turban	толгойн ороолт
+crowned helmet	титэмт дуулга
+warm hat	дулаан малгай
+wolf hood	чонын юүдэн
+bear hood	баавгайн юүдэн
+stag hood	бугын юүдэн
+bunny hood	туулайн юүдэн
+bounty hunter's hat	ангуучийн малгай
+priestly miter	санваартны малгай
+magus' headdress	их шидтэний толгойн гоёл
+chef's toque	тогоочийн малгай
+mining helmet	уурхайчны дуулга
+steel visor	ган нүүрэвч
+crystal visor	болор нүүрэвч
+Valkyrie's Veil	Валькирийн гивлүүр
+artifact visor	домогт нүүрэвч
+circlet of wisdom	мэргэн ухааны титэм
+apprentice's hood	шавийн юүдэн
+assassin's hood	алуурчны юүдэн
+hood of whispers	шивнээн юүдэн
+ring of resolve	тэвчээрийн бөгж
+cloak of the guardian	сахиулын нөмрөг
+marigold	хилэн цэцэг
+stone key	чулуун түлхүүр
+spirit key	сүнсний түлхүүр
+bronze key	хүрэл түлхүүр
+iron key	төмөр түлхүүр
+silver key	мөнгөн түлхүүр
+gold key	алтан түлхүүр
+crystal key	болор түлхүүр
+machine key	механик түлхүүр
+focus of flames	галын төвлөрүүлэгч
+focus	төвлөрүүлэгч
+flute	лимбэ
+lyre	лир хөгжим
+drum	хэнгэрэг
+lute	лют хөгжим
+horn	эвэр бүрээ
+rapier	нарийн сэлэм
+amulet of burning resistance	гал тэсвэрлэх сахиус
+grease ball	тосон бөмбөлөг
+branch staff	мөчир таяг
+branch bow	мөчир нум
+infected branch bow	халдварт мөчир нум
+dust ball	тоосон бөмбөлөг
+bolas	оосорт чулуу
+steel flail	ган гинжит бороохой
+ration	хүнсний нөөц
+spicy ration	халуун ногоотой хүнс
+sour ration	исгэлэн хүнс
+bitter ration	гашуун хүнс
+hearty ration	шимтэй хүнс
+herbal ration	ургамлын хүнс
+sweet ration	чихэрлэг хүнс
+slop ball	шаарны бөмбөлөг
+frypan	хайруулын таваг
+cleats	хадаастай гутал
+bandit leather	дээрэмчний арьсан хуяг
+blouse	нимгэн цамц
+bone breastpiece	ясан цээживч
+blackiron breastpiece	хар төмөр цээживч
+silver breastpiece	мөнгөн цээживч
+iron pauldrons	төмөр мөрөвч
+quilted gambeson	ширмэл хуяг
+cultist robe	шүтлэгтний нөмрөг
+healer robe	эмчийн нөмрөг
+monk robe	ламын нөмрөг
+wizard robe	шидтэний нөмрөг
+shawl	мөрний алчуур
+chain hauberk	гинжин хуяг
+bone bracers	ясан бугуйвч
+blackiron gauntlets	хар төмөр бээлий
+silver gauntlets	мөнгөн бээлий
+quilted gloves	ширмэл бээлий
+chain gloves	гинжин бээлий
+bone boots	ясан гутал
+blackiron boots	хар төмөр гутал
+silver boots	мөнгөн гутал
+quilted boots	ширмэл гутал
+loafers	намхан шаахай
+chain boots	гинжин гутал
+scutum	том тэгш өнцөгт бамбай
+bone shield	ясан бамбай
+blackiron shield	хар төмөр бамбай
+silver shield	мөнгөн бамбай
+dendrite cloak	мөчирт нөмрөг
+bone helm	ясан дуулга
+blackiron helm	хар төмөр дуулга
+silver helm	мөнгөн дуулга
+felt hat	эсгий малгай
+quilted cap	ширмэл малгай
+teal hood	хөх ногоон юүдэн
+chain coif	гинжин юүдэн
+mushroom slice	хэрчим мөөг
+nut	самар
+focus of snow	цасны төвлөрүүлэгч
+focus of needles	зүүний төвлөрүүлэгч
+focus of arcs	цахилгааны төвлөрүүлэгч
+focus of sandblast	элсэн шуурганы төвлөрүүлэгч
+icon of claim life	амь хураах шүтээн
+icon	шүтээн
+icon of void rift	хоосны ангалын шүтээн
+icon of silence	чимээгүйн шүтээн
+icon of vengeance	өшөөний шүтээн
+icon of suppression	дарангуйллын шүтээн
+symbol of peace	энх тайвны бэлгэ тэмдэг
+symbol	бэлгэ тэмдэг
+symbol of justice	шударга ёсны бэлгэ тэмдэг
+symbol of providence	ивээлийн бэлгэ тэмдэг
+symbol of purity	ариун байдлын бэлгэ тэмдэг
+symbol of sanctuary	ариун оромжийн бэлгэ тэмдэг
+archon scepter	архоны очирт таяг
+scepter	очирт таяг
+tablet	шившлэгийн хавтан
+circlet of sorcery	ид шидийн титэм
+circlet of thaumaturgy	гайхамшгийн титэм
+duck	нугас
+shillelagh	модон шийдэм
+claymore	хоёр гарт сэлэм
+anelace	өргөн чинжаал
+lance	морин жад
+steel falshion	ган махир сэлэм
+steel greataxe	ган их сүх
+blackiron axe	хар төмөр сүх
+blackiron crossbow	хар төмөр оньсон нум
+blackiron dart	хар төмөр шидэх зүү
+blackiron mace	хар төмөр бороохой
+blackiron sword	хар төмөр сэлэм
+blackiron trident	хар төмөр сэрээт жад
+bone axe	ясан сүх
+bone mace	ясан бороохой
+bone shortbow	ясан богино нум
+bone spear	ясан жад
+bone sword	ясан сэлэм
+bone	яс
+silver axe	мөнгөн сүх
+silver glaive	мөнгөн ирт жад
+silver mace	мөнгөн бороохой
+silver plumbata	мөнгөн туухайт сум
+silver sword	мөнгөн сэлэм
+quiver of bone ammo	ясан сумтай саадаг
+quiver of blackiron ammo	хар төмөр сумтай саадаг
+jewel	эрдэнийн чимэг
+spellbook of meteor	солирын ном
+spellbook of ice wave	мөсөн давалгааны ном
+spellbook of guard body	бие хамгаалах ном
+spellbook of guard spirit	сүнс хамгаалах ном
+spellbook of divine guard	тэнгэрлэг хамгаалалтын ном
+spellbook of nimbleness	шаламгайн ном
+spellbook of greater might	их хүчний ном
+spellbook of counsel	мэргэн зөвлөхийн ном
+spellbook of sturdiness	бат бөхийн ном
+spellbook of blessed meals	хоол ерөөх ном
+spellbook of pinpoint	бай тэмдэглэх ном
+spellbook of donation	хандивын ном
+spellbook of scry allies	анд тандах ном
+spellbook of scry traps	урхи тандах ном
+spellbook of scry treasures	эрдэнэс тандах ном
+spellbook of detect enemy	дайсан илрүүлэх ном
+spellbook of exorcise	ад хөөх ном
+spellbook of minor heal other	бусдыг бага эдгээх ном
+spellbook of blood ward	цус хамгаалах ном
+spellbook of divine zeal	тэнгэрлэг эрчмийн ном
+spellbook of maximise	томруулах ном
+spellbook of minimise	жижигрүүлэх ном
+spellbook of incoherence	учиргүйтлийн ном
+spellbook of overcharge	хэт цэнэглэх ном
+spellbook of envenom weapon	зэвсэг хордуулах ном
+spellbook of psychic spear	сэтгэлийн жадны ном
+spellbook of defy flesh	махбодыг тарчлаах ном
+spellbook of grease spray	тос шүрших ном
+spellbook of blood waves	цусан давалгааны ном
+spellbook of compel	албадан захирах ном
+spellbook of metallurgy	металл хувиргах ном
+spellbook of forge key	түлхүүр бүтээх ном
+spellbook of reshape weapon	зэвсэг хувиргах ном
+spellbook of alter arrow	сум хувиргах ном
+spellbook of void chest	хоосны авдрын ном
+spellbook of lead bolt	хар тугалган сумны ном
+spellbook of numbing bolt	мэдээ алдуулах сумны ном
+spellbook of curse flesh	махбод хараах ном
+spellbook of cowardice	хулчгарын ном
+spellbook of seek ally	анд эрэх ном
+spellbook of deep shade	гүн сүүдрийн ном
+spellbook of spirit weapon	сүнсэн зэвсгийн ном
+spellbook of spores	мөөгний спорын ном
+spellbook of windgate	салхин хаалганы ном
+spellbook of telekinesis	бодлоор хөдөлгөх ном
+spellbook of disarm	зэвсэггүйжүүлэх ном
+spellbook of abundance	элбэгшлийн ном
+spellbook of preserve	элэгдлээс хамгаалах ном
+spellbook of sabotage	хорлон сүйтгэх ном
+spellbook of mist form	манан болох ном
+spellbook of kinetic defense	хөдөлгөөний хамгаалалтын ном
+spellbook of splinter armor	хуяг бутаргах ном
+spellbook of attract items	эд зүйл татах ном
+spellbook of absorb magic	ид шид шингээх ном
+spellbook of portal	порталын ном
+spellbook of null area	ид шидгүй бүсийн ном
+spellbook of summon fire sprite	галын савдаг дуудах ном
+spellbook of spin	эргүүлэх ном
+spellbook of cleanse food	хоол цэвэрлэх ном
+spellbook of flame cloak	галт нөмрөгийн ном
+spellbook of lightning bolt	аянган сумны ном
+spellbook of disrupt earth	газар доргиох ном
+spellbook of fire wall	галт ханын ном
+spellbook of lift	өргөх ном
+spellbook of ignite	гал авалцуулах ном
+spellbook of shatter objects	эд зүйл бутлах ном
+spellbook of kinetic field	хөдөлгөөний орны ном
+spellbook of thorns	өргөсний ном
+spellbook of magicians' bubble	шидтэний хөөсийн ном
+spellbook of minor heal	бага эдгээх ном
+spellbook of holy sigil	ариун тамганы ном
+spellbook of divine fortress	тэнгэрлэг цайзын ном
+spellbook of holy beam	ариун цацрагийн ном
+spellbook of dominate	эрхшээлдээ оруулах ном

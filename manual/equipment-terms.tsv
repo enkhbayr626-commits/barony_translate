@@ -1,0 +1,151 @@
+Spell of 	Шившлэг: 
+tablet of 	Хавтан: 
+scroll of 	Шидэт бичиг: 
+piece of 	Захидал: 
+unknown scroll	үл таних шидэт бичиг
+Evaporated	Ууршсан
+Cloudy	Булингартай
+Swirly	Хуйларсан
+Plain	Энгийн
+Bubbly	Хөөсөрсөн
+Shredded	Сэмэрсэн
+Torn	Урагдсан
+Faded	Гандсан
+Marked	Тэмдэгтэй
+Brand-new	Цоо шинэ
+Destroyed	Сүйдсэн
+Cracked	Цуурсан
+Rough	Барзгар
+Flawed	Сэвтэй
+Flawless	Сэвгүй
+[The Mines] and\nearlier depths 	[Уурхай] болон\nдээрх давхрууд 
+[The Swamp] and\nearlier depths 	[Намаг] болон\nдээрх давхрууд 
+[Sand Labyrinth] and\nearlier depths 	[Элсэн төөрдөг хонгил]\nболон дээрх давхрууд 
+all dungeon depths\n	гяндангийн бүх давхарт\n
+Simple	Энгийн хийцтэй
+Complex	Нарийн хийцтэй
+Intricate	Уран хийцтэй
+Artisan	Дархны урлалтай
+Curse	Хараал
+Blessing	Ерөөл
+penalty	суутгал
+bonus	нэмэлт
+Unidentified	Таниагүй
+\n+No ally damage	\n+Анддаа хохирол өгөхгүй
+Base ingredient for mixing	Холих үндсэн орц
+Secondary ingredient for mixing	Холих нэмэлт орц
+No unique effects	Тусгай нөлөөгүй
+Unknown effect	Үл таних нөлөө
+Novice	Шинэ
+Basic	Анхан
+Skilled	Чадварлаг
+Expert	Мэргэжилтэн
+Master	Мастер
+Legend	Домогт
+Blocking	Хориглох
+Magic	Ид шид
+Torso	Их бие
+Helm	Дуулга
+Boots	Гутал
+Main-hand	Гол гар
+Off-hand	Туслах гар
+Face	Нүүр
+Strength	Хүч
+Dexterity	Шаламгай
+Constitution	Тэсвэр
+Intelligence	Оюун
+Perception	Гярхай
+Charisma	Харизм
+Armor Class	Хуяг
+damage	хохирол
+duration	хугацаа
+effect	нөлөө
+Area	Бүс
+Self-effect	Өөрт үйлчлэх
+Sustained	Тогтмол үйлчлэх
+Projectile	Суман шившлэг
+3x Projectile	3 суман шившлэг
+Ground Target	Газарт онох
+Wall Target	Хананд онох
+Touch Target	Хүрч онох
+Object Target	Эд зүйлд онох
+Divine Target	Ариун бай
+Grants [Levitation]	[Хөвөх] нөлөө өгнө
+[Lightweight]	[Хөнгөн]
+Grants [Waterwalking]	[Усан дээгүүр алхах] нөлөө өгнө
+Grants [Poison Resistance]	[Хор тэсвэрлэх] нөлөө өгнө
++30% [Magic Resistance]	+30% [Ид шидийн тэсвэр]
+Grants [Magic Reflection]	[Ид шид ойлгох] нөлөө өгнө
+Applies [Sex Change]	[Хүйс солих] нөлөө өгнө
+Grants [Waterbreathing]	[Усанд амьсгалах] нөлөө өгнө
+Applies [Strangulation]	[Боомилох] нөлөө өгнө
+Adds [Hunting] damage modifier	[Анчлах] хохирол нэмнэ
+Inflicts [Poison/Slow] for  [3s]	[Хордуулах/Удаашруулах] нөлөө [3с] өгнө
+Adds [Smite] damage modifier	[Ариун цохилт] хохирол нэмнэ
++50% [Armor Pierce]	+50% [Хуяг нэвтлэх]
+Grants [Swift Reload]	[Шуурхай цэнэглэх] нөлөө өгнө
+Applies [Knockback] on hit	Оноход [Түлхэх] нөлөө өгнө
+Inflicts [Burning] on hit	Оноход [Шатах] нөлөө өгнө
+Grants [Slow Digestion]	[Удаан шингээлт] нөлөө өгнө
+Grants [Warning]	[Сэрэмжлүүлэг] өгнө
+Grants [Lesser Warning]	[Бага сэрэмжлүүлэг] өгнө
+Grants [Invisibility]	[Үл үзэгдэх] нөлөө өгнө
+Incites [Conflict] in an\narea around the wearer	Өмсөгчийн ойр хавьд\n[Дайсагнал] үүсгэнэ
+[HP Regen]	[Амины нөхөлт]
+Disables HP\nRegeneration\n	Амины нөхөлтийг\nзогсооно\n
+[MP Regen]	[Манын нөхөлт]
+Applies [Teleportation]\nat random intervals	Санамсаргүй хугацаанд\n[Шилжих] нөлөө өгнө
+[Unbreakable]	[Эвдэршгүй]
+[Disarms] weapons and shields	Зэвсэг, бамбайг [Унагаана]
+Grants [Burning Resistance]	[Гал тэсвэрлэх] нөлөө өгнө
+Grants [MP Regen] when\ninflicting [Bleed] on foes	Дайсанд [Цус алдах] нөлөө\nөгөхөд [Манын нөхөлт] өгнө
+[Cold Resistance]	[Хүйтний тэсвэр]
+Spell Power	Шившлэгийн хүч
+additional Spell Power\nwhen using [Damaging Spells]\n	[Хохироох шившлэг] ашиглахад\nшившлэгийн хүч нэмнэ\n
+additional Spell Power\nwhen using [Healing Spells]\n	[Эдгээх шившлэг] ашиглахад\nшившлэгийн хүч нэмнэ\n
+Spell Power casting\n[Sorcery] spells\n	[Ид шид] шившихэд\nшившлэгийн хүч\n
+Spell Power casting\n[Mysticism] spells\n	[Далдын ухаан] шившихэд\nшившлэгийн хүч\n
+Spell Power casting\n[Thaumaturgy] spells\n	[Гайхамшиг] шившихэд\nшившлэгийн хүч\n
+Lightweight	Хөнгөн
+Noodles	Гоймон
+Quackers	Гааглагч
+Billy	Билли
+Verdana	Вердана
+Quillard	Квиллард
+Wingnut	Далавчит
+Charlotte	Шарлотт
+Flip	Флип
+Jack	Жак
+Ducklas	Даклас
+Quackson	Кваксон
+Buzz	Базз
+Plops	Плопс
+Llardo	Ллардо
+Mal	Мал
+Bobby	Бобби
+Guin	Гвин
+Byrd	Берд
+Al	Ал
+Echolas	Эколас
+Peking	Бээжин
+Swimbledon	Свимблдон
+Moby	Моби
+Rolly	Ролли
+Drake	Дрейк
+Grapes	Усан үзэм
+Gordon	Гордон
+Pato	Пато
+Canardo	Канардо
+Anatra	Анатра
+Anka	Анка
+Waddles	Дэгэнцэгч
+Wade	Уэйд
+Hennifer	Хеннифер
+Norris	Норрис
+Chan	Чан
+Paddy	Падди
+Daphne	Дафни
+Croucho	Краучо
+Doodle	Дүүдл
+Tape	Тэйп
+Muri	Мури

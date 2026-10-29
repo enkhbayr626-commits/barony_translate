@@ -1,0 +1,309 @@
+Sustaining a magical source of light	Шидэт гэрлийг үргэлжлүүлж байна
+Sustaining a magical source of shade	Шидэт сүүдрийг үргэлжлүүлж байна
+Arcane Mark\n(Active on %s)	Увдист тэмдэг\n(%s дээр идэвхтэй)
+Arcane Mark (Active on %s)	Увдист тэмдэг (%s дээр идэвхтэй)
+Arcane Mark (Unknown target)	Увдист тэмдэг (бай тодорхойгүй)
+Nullifies racial damage resistances/weaknesses of target\nTeleportation spells are refocused to target	Байны язгуурын хохирлын тэсвэр, сул талыг арилгана\nШилжих шившлэгүүд тэр бай руу чиглэнэ
+Oversatiated!	Хэт цадсан!
+Starving!	Өлбөрч байна!
+Suffering from overeating:\n- Strength\n- Dexterity	Хэт идсэнээс:\n- Хүч\n- Шаламгай
+Failure to eat will incur negative effects	Хоол идэхгүй бол сөрөг нөлөө үүснэ
+Suffering from lack of food:\n- Strength\n- Dexterity	Хоол дутагдсанаас:\n- Хүч\n- Шаламгай
+Suffering from lack of food:\n- HP regen disabled\n- Taking % Max HP damage over time\n- Strength\n- Dexterity\n- Intelligence\n- Perception	Хоол дутагдсанаас:\n- Амины нөхөлт зогсоно\n- Хугацааны явцад дээд амины % хохирол авна\n- Хүч\n- Шаламгай\n- Оюун\n- Гярхай
+Suffering from lack of food, taking damage over time:\n- Strength\n- Dexterity\n- Intelligence\n- Perception	Хоол дутагдаж, аажмаар хохирол авч байна:\n- Хүч\n- Шаламгай\n- Оюун\n- Гярхай
+Boiler Status:\nSUPERHEATED	Уурын тогоо:\nХЭТ ХАЛСАН
+Boiler Status:\nNOMINAL	Уурын тогоо:\nХЭВИЙН
+Boiler Status:\nCRITICALLY LOW	Уурын тогоо:\nМАШ БАГА
+Boiler Status: SUPERHEATED	Уурын тогоо: ХЭТ ХАЛСАН
+Boiler Status: NOMINAL	Уурын тогоо: ХЭВИЙН
+Boiler Status: CRITICALLY LOW	Уурын тогоо: МАШ БАГА
+Producing HT at 200% nominal rate, up to 400% when HT below 50% capacity\nReduced Dexterity when HT is less than 25% capacity	Дулаан (HT) хэвийн хурдны 200%-аар үүснэ; HT 50%-аас доош бол 400% хүртэл өснө\nHT 25%-аас доош бол Шаламгай буурна
+Producing HT steadily\nReduced Dexterity when HT is less than 25% capacity	Дулаан (HT) тогтмол үүснэ\nHT 25%-аас доош бол Шаламгай буурна
+Losing HT rapidly due to empty boiler, unit malfunction may occur at 0 HT\nReduced Dexterity when HT is less than 25% capacity\n- Strength\n- Perception	Уурын тогоо хоосон тул HT хурдан буурна; 0 HT хүрвэл доголдож магадгүй\nHT 25%-аас доош бол Шаламгай буурна\n- Хүч\n- Гярхай
+Losing HT rapidly due to empty boiler, unit malfunction may occur at 0 HT\nReduced Dexterity when HT is less than 25% capacity	Уурын тогоо хоосон тул HT хурдан буурна; 0 HT хүрвэл доголдож магадгүй\nHT 25%-аас доош бол Шаламгай буурна
+Wanted!	Эрэн сурвалжилж байна!
+Decreed an enemy of the Merchant's Guild for your %s crimes:	%s төрлийн гэмт хэргийн улмаас Худалдаачдын холбооны дайснаар зарлагдсан:
+Assassination	Аллага
+Inciting violence	Хүчирхийлэл өдөөх
+Accessory to violence	Хүчирхийлэлд хамтрах
+Outlawed facewear	Хориотой нүүрний өмсгөл
+Wanted!\n(Trespassing)	Эрэн сурвалжилж байна!\n(Зөвшөөрөлгүй нэвтэрсэн)
+Taking damage over time	Хугацааны явцад хохирол авч байна
+Free Action	Чөлөөт хөдөлгөөн
+Cures [Sleep], [Slow], [Paralyze]	[Нойр], [Удаашрал], [Саажилт] арилгана
+Lesser Warning	Бага сэрэмжлүүлэг
+Revealing location of moving monsters on the map	Хөдөлж буй мангасын байршлыг газрын зурагт харуулна
+Degeneration	Нөхөн төлжилтгүй
+Base HP regen disabled	Үндсэн амины нөхөлт зогссон
+Base HP Regen disabled due to Hunger being disabled in Game Settings\nRestore HP by consuming food and using potions/spells	Тохиргоонд Өлсгөлөн идэвхгүй тул үндсэн амины нөхөлт зогссон\nХоол, ханд, шившлэгээр амиа сэргээ
+Burning Resistance	Галын тэсвэр
+Immune to [Burning]	[Шатах] нөлөө авахгүй
+Poison Resistance	Хорны тэсвэр
+Cures [Poison]\nResist Poison, Acid spells	[Хор] арилгана\nХор, хүчлийн шившлэгт тэсвэртэй
+Slow Digestion	Удаан шингээлт
+Increased food satiation and delayed starvation	Хоолны цатгалан байдлыг нэмэгдүүлж, өлбөрөхийг удаашруулна
+Strangled!	Боогдож байна!
+Taking damage over time\nUnable to drink or eat	Хугацааны явцад хохирол авч байна\nИдэж, ууж чадахгүй
+Warning	Сэрэмжлүүлэг
+Revealing location of monsters on the map	Мангасын байршлыг газрын зурагт харуулна
+Waterbreathing	Усанд амьсгалах
+Uninhibited movement speed while swimming	Сэлэх үед хөдөлгөөний хурд буурахгүй
+Conflict	Дайсагнал
+Inciting nearby monsters to attack anything in sight	Ойрын мангасууд харагдсан бүхнээ довтлоно
+Waterwalking	Усан дээгүүр алхах
+Floating over water and lava	Ус, лавын дээгүүр хөвнө
+Lifesaving	Амь аврах
+Revival on death	Үхэхэд амилна
+Push	Түлхэх
+Able to move boulders	Том чулуу хөдөлгөж чадна
+Sneaking	Гэтэх
+Reduced detection range	Дайсанд мэдэгдэх зай багасна
+Drunk (Goatman)	Согтуу (Ямаан хүн)
++ Strength\n+ Constitution\n+ 20% Damage Resistance\n- Dexterity\n- Intelligence	+ Хүч\n+ Тэсвэр\n+ 20% хохирлын тэсвэр\n- Шаламгай\n- Оюун
+Bounty Target\n(Active)	Шагналт бай\n(Идэвхтэй)
+Bounty Target (Active)	Шагналт бай (Идэвхтэй)
+Receive bonus gold by killing your marked Bounty target	Тэмдэглэсэн шагналт байгаа албал нэмэлт алт авна
+Inspiration	Урам зориг
+Ally players and followers gaining increased XP when lower LVL than yourself	Танаас бага түвшинтэй анд тоглогч, дагалдагчид нэмэлт туршлага авна
+Retaliation	Хариу хохирол
+Dealing damage to melee attackers on receiving damage	Хохирол авахад ойроос довтлогчид хариу хохирол өгнө
+Assistance	Тусламж
+Claimed one or more Assist Items	Нэг буюу түүнээс олон туслах эд зүйл авсан
+%d Assistance Pts (Self)	%d тусламжийн оноо (Өөрийн)
+%d Assistance Pts (Party Total)	%d тусламжийн оноо (Багийн нийт)
+%d%% Score Penalty	%d%% онооны суутгал
+Stability	Тогтвортой байдал
+Reduced effects of knockback and slippery terrain	Түлхэлт, халтиргаатай газрын нөлөө багасна
+Vandal	Сүйтгэгч
+Vandal (Tier I)	Сүйтгэгч (I зэрэг)
+Vandal (Tier II)	Сүйтгэгч (II зэрэг)
+Vandal (Tier III)	Сүйтгэгч (III зэрэг)
+Vandal (Tier IV)	Сүйтгэгч (IV зэрэг)
+Effects increase as you destroy more objects\nEffects reset each floor\nGaining a tier provides bonus MP	Олон эд зүйл устгах тусам нөлөө өснө\nДавхар бүрд нөлөө шинэчлэгдэнэ\nЗэрэг ахихад нэмэлт мана авна
+%+d Melee Damage bonus	%+d ойрын хохирлын нэмэлт
+%+d%% Movement Speed	%+d%% хөдөлгөөний хурд
+%+d%% Cast Speed	%+d%% шивших хурд
+The next memorized spell cast will be kept charged for a number of successive casts\nSuccessive casts will consume HP when out of MP\nCanceling the charged spell dispels the effect	Дараагийн сурсан шившлэг хэд хэдэн удаа дараалан шившихэд цэнэгтэй хэвээр байна\nМана дуусвал дараагийн шившлэгүүд амь хэрэглэнэ\nЦэнэгтэй шившлэгийг цуцалбал нөлөө арилна
+Wealth	Баялаг
+Wealth (Tier I)	Баялаг (I зэрэг)
+Wealth (Tier II)	Баялаг (II зэрэг)
+Wealth (Tier III)	Баялаг (III зэрэг)
+Wealth (Tier IV)	Баялаг (IV зэрэг)
++%d%% chance to gain +1 MP while regenerating MP	Мана нөхөх үед +1 MP авах магадлал +%d%%
+Effect increases with quantity of gold carried	Авч яваа алтны хэмжээгээр нөлөө өснө
+Unable to move or see	Хөдөлж, харж чадахгүй
+Movement is reversed	Хөдөлгөөн урвуу болсон
+Drunk	Согтуу
++ Strength\n- Dexterity	+ Хүч\n- Шаламгай
+Unable to be detected by enemies outside of melee range	Ойрын тулааны зайнаас гаднах дайсанд мэдэгдэхгүй
+Blinded	Сохорсон
+Unable to see	Харж чадахгүй
+Greasy	Тос болсон
+Held weapons may slip from your grasp	Барьсан зэвсэг гараас мултарч магадгүй
+Messy	Бохирдсон
+Increased Dexterity and movement speed	Шаламгай ба хөдөлгөөний хурд нэмэгдсэн
+Unable to move or act	Хөдөлж, үйлдэл хийж чадахгүй
+Levitating	Хөвж буй
+Floating over chasms, water and lava	Ангал, ус, лавын дээгүүр хөвнө
+Telepathy	Далд хараа
+See monsters through walls	Ханын цаадах мангасыг харна
+Vomiting!	Бөөлжиж байна!
+Suffering from an upset stomach	Ходоод хямарсан
+Reduced movement speed	Хөдөлгөөний хурд буурсан
++1 Magic Resistance	+1 ид шидийн тэсвэр
+Reflecting enemy spells	Дайсны шившлэгийг ойлгоно
+Vampiric Curse	Цус сорогчийн хараал
++ Strength and Dexterity\nIncreased hunger rate\nIncreased chance to inflict [bleed] status while unarmed\nChance to lifesteal on unarmed lethal stealth attacks	+ Хүч ба Шаламгай\nИлүү хурдан өлсөнө\nЗэвсэггүй үед [цус алдуулах] магадлал нэмэгдэнэ\nЗэвсэггүй нууц довтолгоогоор алахдаа амь сорох боломжтой
++ Strength and Dexterity\nIncreased hunger rate\nIncreased chance to inflict [bleed] status while unarmed\nChance to lifesteal on all unarmed attacks\nNatural HP regen is disabled	+ Хүч ба Шаламгай\nИлүү хурдан өлсөнө\nЗэвсэггүй үед [цус алдуулах] магадлал нэмэгдэнэ\nБүх зэвсэггүй довтолгоогоор амь сорох боломжтой\nАмины ердийн нөхөлт зогссон
+Red Shrine Buff	Улаан тахилын ивээл
++ Strength\n+ Constitution	+ Хүч\n+ Тэсвэр
+Green Shrine Buff	Ногоон тахилын ивээл
++ Dexterity\n+ Perception	+ Шаламгай\n+ Гярхай
+Blue Shrine Buff	Цэнхэр тахилын ивээл
++ Intelligence\n+1 Magic Resistance	+ Оюун\n+1 ид шидийн тэсвэр
+Health Regeneration	Амины нөхөлт
++2 [HP Regen]	+2 [Амины нөхөлт]
+Mana Regeneration	Манын нөхөлт
++2 [MP Regen]	+2 [Манын нөхөлт]
+Pacified	Номхорсон
+Unable to attack or voluntarily move	Довтолж, дураараа хөдөлж чадахгүй
+Polymorphed	Дүрс хувирсан
+Disguised as another monster	Өөр мангасын дүрд орсон
+Hungover	Шартсан
+- Dexterity\nCurable by intoxication	- Шаламгай\nСогтоход арилна
++ Strength\n- Perception	+ Хүч\n- Гярхай
++ DEX/INT/PER\nFaster swimming\nHigher chance to gain DEX/INT on level up\n(Shaman class only) Access to spells [Detect Food] and [Speed]	+ DEX/INT/PER\nХурдан сэлнэ\nТүвшин ахихад DEX/INT нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Хоол илрүүлэх], [Хурдлуулах] шившлэг ашиглана
++ PER/STR/CON\nHigher chance to gain PER/CON on level up\n(Shaman class only) Access to spells [Spray Web] and [Poison]	+ PER/STR/CON\nТүвшин ахихад PER/CON нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Тор шүрших], [Хордуулах] шившлэг ашиглана
++ STR/CON\n- DEX\nHigher chance to gain STR/CON on level up\n(Shaman class only) Access to spells [Power Strike], [Fear] and [Troll's Blood]	+ STR/CON\n- DEX\nТүвшин ахихад STR/CON нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Хүчирхэг цохилт], [Айлгах], [Троллийн цус] шившлэг ашиглана
+Provides levitation\n+ INT/PER\nHigher chance to gain CHR/INT on level up\n(Shaman class only) Access to spells [Lightning], [Confuse] and [Elemental Focus]	Хөвөх нөлөө өгнө\n+ INT/PER\nТүвшин ахихад CHR/INT нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Аянга], [Самууруулах], [Махбод төвлөрүүлэх] шившлэг ашиглана
+Webbed	Торонд орсон
+Reduced movement speed\nKnocked back when receiving melee strikes	Хөдөлгөөний хурд буурсан\nОйрын цохилтод өртөхөд хойш түлхэгдэнэ
+Increased damage and shorter range when casting [Fire], [Cold], [Lightning] or [Magic Missile] spells	[Гал], [Хүйтэн], [Аянга], [Шидэт сум] шившлэгийн хохирол өсөж, тусгалын зай багасна
+Arcane Marked	Увдист тэмдэгтэй
+Racial damage resistances/weaknesses nullified on self	Өөрийн язгуурын хохирлын тэсвэр, сул тал арилсан
++1 [HP Regen]	+1 [Амины нөхөлт]
+Levitating for a short duration	Богино хугацаанд хөвнө
+Rooted	Үндэслэсэн
+Unable to move	Хөдөлж чадахгүй
+Nausea Resistance	Огиулалтын тэсвэр
+Immune to vomit inducing events such as indigestion, hunting arrows or drunkenness	Хоол шингэхгүй байх, ангийн сум, согтолт зэрэг бөөлжүүлэх нөлөөнд тэсвэртэй
+Stamina	Тамир
++ Constitution\nEffect increases with lower remaining HP	+ Тэсвэр\nҮлдсэн амь бага байх тусам нөлөө өснө
+Mentality	Сэтгэлийн хүч
++ Spell Power\nEffect increases with lower remaining MP	+ Шившлэгийн хүч\nҮлдсэн мана бага байх тусам нөлөө өснө
+Agility	Хөнгөн шаламгай
++ Dexterity\n+30% Chance to evade physical and magical attacks	+ Шаламгай\n+30% биеийн ба ид шидийн довтолгооноос бултах магадлал
+Rally	Зоригжуулалт
++ Rallied	+ Зоригжсон
+Marigold Healing	Хилэн цэцгийн эмчилгээ
++ Restoring HP over time	+ Амиа аажмаар сэргээнэ
+Flute (Tier I)	Лимбэ (I зэрэг)
+Flute (Tier II)	Лимбэ (II зэрэг)
+Flute (Tier III)	Лимбэ (III зэрэг)
+Flute (Tier IV)	Лимбэ (IV зэрэг)
+%+d%% Critical Charge Speed	%+d%% хүчтэй цохилт бэлтгэх хурд
+Lyre (Tier I)	Лир хөгжим (I зэрэг)
+Lyre (Tier II)	Лир хөгжим (II зэрэг)
+Lyre (Tier III)	Лир хөгжим (III зэрэг)
+Lyre (Tier IV)	Лир хөгжим (IV зэрэг)
+%+d%% Damage Resistance	%+d%% хохирлын тэсвэр
+Drum (Tier I)	Хэнгэрэг (I зэрэг)
+Drum (Tier II)	Хэнгэрэг (II зэрэг)
+Drum (Tier III)	Хэнгэрэг (III зэрэг)
+Drum (Tier IV)	Хэнгэрэг (IV зэрэг)
+%+d%% chance Armor Pierce on melee attacks	%+d%% ойрын довтолгооны хуяг нэвтлэх магадлал
+Lute (Tier I)	Лют хөгжим (I зэрэг)
+Lute (Tier II)	Лют хөгжим (II зэрэг)
+Lute (Tier III)	Лют хөгжим (III зэрэг)
+Lute (Tier IV)	Лют хөгжим (IV зэрэг)
+%+d%% Evasion	%+d%% булталт
+Horn (Tier I)	Эвэр бүрээ (I зэрэг)
+Horn (Tier II)	Эвэр бүрээ (II зэрэг)
+Horn (Tier III)	Эвэр бүрээ (III зэрэг)
+Horn (Tier IV)	Эвэр бүрээ (IV зэрэг)
+%+d Retaliation Damage to melee attackers	%+d ойрын довтлогчид өгөх хариу хохирол
+Lifted	Өргөгдсөн
+Prevents movement.\nTaking damage on effect\nend based on CON	Хөдөлгөөн хориглоно.\nНөлөө дуусахад CON-оос\nхамаарсан хохирол авна
++RES\nBuilds charges while active.\nAttacks deplete charges.	+RES\nИдэвхтэй үед цэнэг хуримтлуулна.\nДовтолгоо цэнэг хорогдуулна.
++AC\nBuilds charges while active\nAttacks deplete charges	+AC\nИдэвхтэй үед цэнэг хуримтлуулна\nДовтолгоо цэнэг хорогдуулна
++AC\n+RES\nBuilds charges while active.\nAttacks deplete charges.	+AC\n+RES\nИдэвхтэй үед цэнэг хуримтлуулна.\nДовтолгоо цэнэг хорогдуулна.
++STR\n+Push	+STR\n+Түлхэх
+Grants [Nourished]\nwhen non-spoiled food	Муудаагүй хоол идэхэд\n[Шим хүртсэн] нөлөө өгнө
+Takes additional damage upon being attacked by the caster.	Шившигчээр довтлуулбал нэмэлт хохирол авна.
+Friendly to the caster.	Шившигчид нөхөрсөг.
+Trap Guard	Урхины хамгаалалт
+Reduced damage from traps.	Урхинаас авах хохирол буурна.
+Revealed to hostile caster.	Дайсан шившигчид харагдана.
+Taking reduced damage from poisonous\ncreatures and elemental spells\nImmune to [Poison / Bleed]	Хорт амьтан, махбодын\nшившлэгээс бага хохирол авна\n[Хор / Цус алдалт] нөлөө авахгүй
+Reduces sting damage.\nImmunity to:n-Slow\n-Paralyze\n-Poison\n-Bleed	Хатгалтын хохирол буурна.\nТэсвэртэй нөлөө: -Удаашрал\n-Саажилт\n-Хор\n-Цус алдалт
+Physical attacks inflict additional Smite damage to susceptible enemies	Биеийн довтолгоо эмзэг дайсанд нэмэлт ариун цохилтын хохирол өгнө
++STR\n+CON\n-DEX\nIncreases XP yield	+STR\n+CON\n-DEX\nОлох туршлагыг нэмэгдүүлнэ
++DEX\n-STR\n-CON\nReduces XP yield	+DEX\n-STR\n-CON\nОлох туршлагыг багасгана
+Melee ATK reduced	Ойрын довтолгоо буурсан
+PWR Reduced	Шившлэгийн хүч буурсан
+Applies +PWR to:\n-Magicstaffs\n-Off-Hand Spellbooks\n-Magic Foci	Дараахад +PWR өгнө:\n-Шидэт таяг\n-Туслах гарын шившлэгийн ном\n-Шидэт төвлөрүүлэгч
+Weapon attacks have a chance\n to inflict additional poisoned damage	Зэвсгийн довтолгоо нэмэлт\nхорт хохирол өгөх магадлалтай
+Slippery	Халтиргаатай
+Reduced control of movement	Хөдөлгөөн удирдахад хүндрэлтэй
+Forced to obey one command	Нэг тушаал биелүүлэхээр албадуулсан
+EFF_MIMIC_VOID	Хоосны дуурайгч
+Cursed Flesh	Хараалтай махбод
+Spawning a Revenant Skull when killed.	Үхэхэд эргэн амилсан гавал үүсгэнэ.
+Numb	Мэдээ алдсан
+Can't feel the next hit taken.	Дараагийн авсан цохилтыг мэдрэхгүй.
+Undying	Үхэшгүй
+Delaying damage taken	Авах хохирлыг хойшлуулна
+Seek Other	Бусдыг эрэх
+Compelled to seek out another creature	Өөр амьтан эрэхээр албадуулсан
+Makes all creatures hostile to you	Бүх амьтныг өөртөө дайсагнуулна
+Releasing clouds of spores when hit,\n-Inflicts [Poison / Slow]	Цохилт авахад спорын үүл гаргана,\n-[Хор / Удаашрал] нөлөө өгнө
+Food has a chance to not deplete upon consumption	Идэхэд хоол хорогдохгүй байх магадлалтай
+Food and potions have a chance to not deplete upon consumption	Хэрэглэхэд хоол, ханд хорогдохгүй байх магадлалтай
+Preventing equipment degradation at the cost of MP	Мана зарцуулан өмсгөлийн элэгдлээс хамгаална
+Evading attacks at the cost of MP.	Мана зарцуулан довтолгооноос бултана.
+Kinetic Shield	Хөдөлгөөний бамбай
+Adds AC to Off-Hand items	Туслах гарын эд зүйлд хуяг нэмнэ
+Reduced the SPD penalty of inventory WGT	Үүргэвчийн жингээс үүсэх хурдны суутгал багасна
+Attract	Татах
+Levitates and draws in nearby items.	Ойрын эд зүйлийг хөвүүлж, өөртөө татна.
+Return	Буцаах
+Thrown weapons return from the floor at the cost of MP.	Мана зарцуулан шидсэн зэвсгээ газраас буцаана.
+Off-Hand items reflect magic projectiles while defending.	Хамгаалах үед туслах гарын эд зүйл шидэт сумыг ойлгоно.
+Spinning uncontrollably	Хяналтгүй эргэж байна
+Forcing you to turn the opposite direction.	Таныг эсрэг зүгт эргэхээр албадана.
+Next spell cast remains prepared with reduced MP cost	Дараагийн шившлэг бага мана шаардан бэлтгэлтэй хэвээр үлдэнэ
+Increases PWR for each MP spent during the effect duration.	Нөлөөний хугацаанд зарцуулсан MP бүрээр PWR өснө.
+Static	Цахилгаан цэнэг
+Taking increased damage from lightning elemental spells	Аянганы махбодын шившлэгээс илүү хохирол авна
+Negates incoming magic projectiles\nEach negated spell increases PWR of the next spell cast	Ирж буй шидэт сумыг саармагжуулна\nСаармагжуулсан шившлэг бүр дараагийн шившлэгийн хүчийг нэмнэ
+Nullifies [Burning] Damage\nCatches fire near flame sources\nIgnites enemies on contact	[Шатах] хохирлыг үгүйсгэнэ\nГалын ойролцоо гал авалцана\nШүргэлцсэн дайснаа шатаана
+Dusted	Тоос болсон
+More visible to enemies\n- Perception	Дайсанд илүү харагдана\n- Гярхай
+Ration (Spicy)	Хүнс (халуун ногоотой)
++4 Strength\n+4 Dexterity	+4 Хүч\n+4 Шаламгай
+Ration (Sour)	Хүнс (исгэлэн)
++4 Intelligence\n+25% Spell Power	+4 Оюун\n+25% шившлэгийн хүч
+Ration (Bitter)	Хүнс (гашуун)
++4 Constitution\n+4 Perception	+4 Тэсвэр\n+4 Гярхай
+Ration (Hearty)	Хүнс (шимтэй)
++4 Strength\n+4 Constitution	+4 Хүч\n+4 Тэсвэр
+Ration (Herbal)	Хүнс (ургамлын)
++4 Charisma\n+20% Magic Resistance	+4 Харизм\n+20% ид шидийн тэсвэр
+Ration (Sweet)	Хүнс (чихэрлэг)
++1 [HP Regen]\n+1 [MP Regen]	+1 [Амины нөхөлт]\n+1 [Манын нөхөлт]
+Growth (Tier I)	Ургалт (I зэрэг)
+Growth (Tier II)	Ургалт (II зэрэг)
+Growth (Tier III)	Ургалт (III зэрэг)
+Growth blooms on gaining LVLs and chance % when eating rotten food	Түвшин ахихад, мөн ялзарсан хоол идэхэд тодорхой % магадлалаар ургалт дэлгэрнэ
+Growth blooms on gaining LVLs and chance % when drinking water	Түвшин ахихад, мөн ус уухад тодорхой % магадлалаар ургалт дэлгэрнэ
+Spores effect speed improved	Спорын нөлөөний хурд сайжирсан
+Spores also triggers on receiving magic damage and ranged attacks	Ид шидийн хохирол, холын довтолгоонд өртөхөд ч спор гарна
+%+d AC / Poison DMG	%+d хуяг / хорт хохирол
+%+d%% Physical Resistance	%+d%% биеийн хохирлын тэсвэр
+%+d%% Inflicted Poison speed	%+d%% өгсөн хорны хурд
+%+d%% Germinate Damage	%+d%% Соёолуулах хохирол
+%+d%% Fire Damage taken	%+d%% авах галын хохирол
+Retaliates against melee attackers	Ойрын довтлогчид хариу хохирол өгнө
+EFF_BLADEVINES	Ирт ороонго
+Bastion Mycelium	Бэхлэлтийн мөөгний үндэс
+EFF_BASTION_MUSHROOM	Бэхлэлт мөөг
+Bastion Roots	Бэхлэлтийн үндэс
+Roots inherit Thorns and Bladevines	Үндэс нь Өргөс, Ирт ороонгын нөлөөг өвлөнө
+PWR increase +10 per growth	Ургалт бүрд PWR +10 нэмэгдэнэ
+Peace	Энх тайван
+HP restoring over time	Амь аажмаар сэргэнэ
+Justice	Шударга ёс
+Physical attacks deal additional Smite damage.	Биеийн довтолгоо нэмэлт ариун цохилтын хохирол өгнө.
+Providence	Ивээл
+Slows hunger	Өлсөхийг удаашруулна
+Purity	Ариун байдал
+Protects against harmful status effects.	Хортой төлөвийн нөлөөнөөс хамгаална.
+Sanctuary	Ариун оромж
+Improves AC	Хуяг нэмэгдүүлнэ
+Void Stasis	Хоосны зогсонги байдал
+Unable to move or act\nCannot be damaged	Хөдөлж, үйлдэл хийж чадахгүй\nХохирол авахгүй
+Nourished	Шим хүртсэн
+Restoring HP/MP every 5s from eating blessed food\nEffect is lost on indigestion	Ерөөгдсөн хоол идсэнээр 5 секунд тутам амь, мана сэргэнэ\nХоол шингэхгүй бол нөлөө арилна
+Disrupted	Доргилтод өртсөн
+Reduced movement and AC	Хөдөлгөөн, хуяг буурсан
+Frostbitten	Хөлдсөн
+Reduced movement	Хөдөлгөөн буурсан
+Intercepts all damage from enemies while charges remain.	Цэнэг дуусаагүй үед дайсны бүх хохирлыг хаана.
+Fowl Spirit	Шувууны сүнс
+Inhabiting the the form of a ghostly duck	Сүнсэн нугасны дүрд орсон
+Taking additional magic damage when hit	Цохилт авахад нэмэлт ид шидийн хохирол авна
+Taking extra Smite damage when attacked by the caster.	Шившигчээр довтлуулбал нэмэлт ариун цохилтын хохирол авна.
+Radiant Heart	Гэрэлт зүрх
+Stone Heart	Чулуун зүрх
+Dissipates below 60% Fervor (FR)\nLevitation\n+PWR/-CON from CHR\n+25% Fire Resistance\nFR depleting over time	Эрчим (FR) 60%-аас доош бол арилна\nХөвөх\nCHR-аас +PWR/-CON\n+25% галын тэсвэр\nFR аажмаар хорогдоно
+Dissipates below 60% Fervor (FR)\n0 MP Spells\nBreathe Fire increased effects\nLevitation\n+PWR/-CON from CHR\n+25% Fire Resistance\nFR depleting over time	Эрчим (FR) 60%-аас доош бол арилна\nШившлэгт 0 MP зарцуулна\nГал тургих нөлөө нэмэгдэнэ\nХөвөх\nCHR-аас +PWR/-CON\n+25% галын тэсвэр\nFR аажмаар хорогдоно
+Dissipates above 40% Fervor (FR)\n+STR/CON from CHR\n-DEX from CHR	Эрчим (FR) 40%-аас дээш бол арилна\nCHR-аас +STR/CON\nCHR-аас -DEX
+Dissipates above 40% Fervor (FR)\nImmune to Damage\n+STR/CON from CHR\n-DEX from CHR	Эрчим (FR) 40%-аас дээш бол арилна\nХохирол авахгүй\nCHR-аас +STR/CON\nCHR-аас -DEX
+Damage taken is increased	Авах хохирол нэмэгдсэн
+Healing Word	Эдгээх үг
+Praying for healing\nEffect is lost on taking damage	Эдгээхийг гуйж залбирна\nХохирол авбал нөлөө арилна
+Burning from a supernatural fire source	Ер бусын галд шатаж байна
+Sigil	Тамга
+Receiving additional healing\nFoes take additional Smite damage	Нэмэлт эмчилгээ авна\nДайснууд нэмэлт ариун цохилтын хохирол авна
+Damage Resistance increased per tier	Зэрэг бүрд хохирлын тэсвэр нэмэгдэнэ
+EFF_DUCKED	Нугас болсон

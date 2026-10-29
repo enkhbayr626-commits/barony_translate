@@ -1,0 +1,140 @@
+Traits	Онцлог
+- Faster swimming	- Хурдан сэлнэ
+- Welcomed by Shopkeepers	- Худалдаачид угтана
+Resistances	Тэсвэр
+Friendly With	Нөхөрсөг язгуур
+Humans, Automatons	Хүн, автоматон
+Weaknesses	Сул тал
+- Does not Hunger or Starve	- Өлсөхгүй, өлбөрөхгүй
+- HP and MP Regeneration	- Амь, мана нөхөгдөх нь
+    reduced by 75%	    75%-аар буурсан
+- Self-Resurrects for 75MP	- 75 MP-аар өөрөө амилна
+- Immune to Burning	- Шатахгүй
+- Immune to Strangulation	- Боогдохгүй
+- Swim speed reduced by 50%	- Сэлэх хурд 50% бага
+- Swords	- Сэлэм
+- Ranged	- Холын зэвсэг
+- Axes	- Сүх
+- Magic	- Ид шид
+- Ghouls, Automatons	- Гуль, автоматон
+- Maces	- Бороохой
+- Polearms	- Жад
+- Smite	- Ариун цохилт
+Innate Spells	Төрөлхийн шившлэг
+- Bloodletting, Levitation	- Цус алдуулах, хөвөх
+- Uses HP when out of MP to	- Мана дуусвал амь зарцуулж
+    cast and sustain spells	    шившиж, нөлөөг хадгална
+- Can only sustain hunger	- Өлсгөлөнг зөвхөн
+    with Blood Vials	    лонх цусаар тайлна
+- Kills may drop Blood Vials	- Алахад лонх цус гарч болно
+- Bloodletting / Assassinate	- Цус алдуулж / нууцаар
+    kills drop Blood Vials	    албал лонх цус гарна
+- Vampires, Automatons	- Цус сорогч, автоматон
+- Water	- Ус
+- Teleport, Polymorph	- Шилжих, дүрс хувиргах
+- Cursed equipment can be	- Хараалтай өмсгөлийг
+    removed; gives bonuses	    тайлж болно; нэмэлттэй
+- Blessed equipment is not	- Ерөөлтэй өмсгөлийг
+    removable; gives bonuses	    тайлахгүй; нэмэлттэй
+- +MP from Strangulation	- Боогдоход +MP
+- Able to recruit Drunk/	- Согтуу / самуурсан
+    Confused Humans	    хүнийг элсүүлнэ
+- Succubi, Incubi,	- Суккуб, инкуб,
+    Automatons	    автоматон
+- Afflicted with Alcoholism,	- Архинд донтсон тул
+    causing Hangovers	    шартдаг
+- +STR/CON/Damage Resist/	- Согтуу үед +STR/CON,
+    Free Action while Drunk	    тэсвэр, Чөлөөт хөдөлгөөн
+- Can recruit fellow Drunks	- Согтуу этгээд элсүүлнэ
+- Eats Tins without an Opener	- Лаазыг онгойлгогчгүй иднэ
+- Immune to Greasy effect	- Тослогт өртөхгүй
+- May find bonus potions	- Оргилуураас нэмэлт
+    interacting with fountains	    ханд олох боломжтой
+- Goatmen, Automatons	- Ямаан хүн, автоматон
+- Salvage	- Задлах
+- Requires Heat (HT) to	- Дулаан (HT) хэрэгтэй:
+    survive and cast spells	    амьдрах, шившихэд
+- Regen HT with a hot boiler	- Тогоогоо халааж HT нөхнө,
+    fueled by gems and paper	    чулуу, цаасаар түлнэ
+- Can remove cursed items	- Хараалтай зүйлийг тайлна
+- +20 to Tinkering Repairs	- Урлалын засварт +20
+- Unarmed	- Нударга
+- Automatons, Humans	- Автоматон, хүн
+- Teleport, Arcane Mark	- Шилжих, увдист тэмдэг
+- Worn Equipment has lower	- Өмссөн зүйлийн элэгдэх
+    chance to degrade	    магадлал багасна
+- Raising any Melee Weapon	- Нэг ойрын зэвсгийн чадвар
+    Skill raises all of them	    өсөхөд бүгд нь өснө
+- Weapon Skills raise slower	- Зэвсгийн чадвар удаан өснө
+- Cannot Memorize new spells	- Шинэ шившлэг тогтоохгүй
+- Goblins, Automatons	- Гоблин, автоматон
+- Flutter, Dash, Spray Acid	-Дэвэх/ухасхийх/хүчил цацах
+- Requires Energy (EN) to	- Эрчим (EN) хэрэгтэй:
+- Regain EN by consuming	- Хоол, чихэрлэг шингэнээр
+    food and sweet liquids	    EN эрчмээ нөхнө
+- Immune to Poison	- Хордохгүй
+- Immune to rotten food	- Муудсан хоол нөлөөгүй
+- Insectoids, Scarabs	- Шавж хүн, аргалын цох
+    Scorpions, Automatons	    хилэнц, автоматон
+- Higher chance to gain	- Түвшин ахихад
+    DEX/INT on level up	    DEX/INT өсөх нь их
+- Rats, Automatons	- Харх, автоматон
+    PER/CON on level up	    PER/CON өсөх нь их
+- None	- Байхгүй
+- Spiders, Scarabs, Scorpions,	- Аалз, цох, хилэнц,
+Crab	Хавч
+- Crabs, Scarabs, Scorpions,	- Хавч, цох, хилэнц,
+    STR/CON on level up	    STR/CON өсөх нь их
+- Trolls, Automatons	- Тролль, автоматон
+Swords	Сэлэм
+Axes	Сүх
+    INT/DEX on level up	    INT/DEX өсөх нь их
+- Levitation	- Хөвөх
+- Imps, Automatons	- Чөтгөр, автоматон
+- Germinate, Thorns	- Соёолуулах, өргөс
+- Grows foliage on LVL up	- Малгайгүй түвшин ахивал
+    without headwear,	    навчис ургаж,
+    provides +PWR, +MP RGN	    +PWR, +MP RGN өгнө
+- +Growth % from water	- Ус уухад ургалтын % өснө,
+    consume; short form buffs	    түр хувирах магадлал
+    chance % and +5% evasion	    % өсөж, +5% булталт өгнө
+- 20% reduced CHR growth	- CHR өсөлт 20% бага
+- Dryads; Humans (Neutral)	- Ойн дагина; хүн (саармаг)
+- Fire	- Гал
+- Germinate, Spores	- Соёолуулах, спор
+    provides physical defense	    биеийн хамгаалалт өгнө
+- +MP and +Growth % from	- +MP, +% ургалт
+    rotten food; short form	    ялзарсан хоолноос; түр
+    buffs chance %	    хувирах магадлал % өснө
+- Immune to indigestion	- Хоолны хямралд тэсвэртэй
+- 20% reduced DEX growth	- DEX өсөлт 20% бага
+- Myconids; Humans (Neutral)	- Мөөг хүн; хүн (саармаг)
+- Breathe Fire	- Гал тургих
+- Uses Fervor (FR) to cast	- Шившихэд FR ашиглана,
+    spells, regens up to 50%	    50% хүртэл сэргэнэ
+- Gaining XP increases FR	- Туршлага авахад FR өснө
+- Turns Radiant Form using	- Гал тургихад Гэрэлт дүрд
+    Breathe Fire at 75% FR	    75% FR-тай бол хувирна
+- Stone Form at 25% FR	- 25% FR-тай Чулуун дүртэй
+- CHR buffs Forms and FR gain	- CHR нь дүр, FR-ыг дэмжинэ
+- +35% hungrier	- 35% илүү өлсөнө
+- Salamanders;	- Саламандр;
+    Humans (Neutral)	    хүн (саармаг)
+- Deface	- Эвдэх
+- Adept at breaking objects	- Эд зүйл эвдэхдээ сайн,
+    granting SPD, MP RGN, DMG	    олноор эвдэх тусам
+    as more are broken	    SPD, MP RGN, DMG өснө
+- Evasive when Slippery	- Халтиргаатай үед бултамхай
+- Improved Sneak Vision	- Гэтэх үеийн хараа сайн
+- 20% reduced CON growth	- CON өсөлт 20% бага
+- Gremlins; Goblins (Neutral)	- Гремлин; гоблин (саармаг)
+- Forge Jewel	- Эрдэнийн чимэг бүтээх
+- Sense gold (when Blind)	- Сохор үед алт мэдэрнэ
+- More gold from containers	- Савнаас илүү алт олно
+- Increased MP RGN from	- Алт хурааснаар
+    hoarding gold	    MP RGN нэмэгдэнэ
+- Improved Pickaxe Combat	- Жоотууны тулаанд сайн
+- 20% reduced STR growth	- STR өсөлт 20% бага
+- Recruits with forged jewels	- Бүтээсэн чимгээр элсүүлнэ
+Neutral To	Саармаг язгуур
+- Humans, Trolls	- Хүн, тролль

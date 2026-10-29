@@ -1,0 +1,27 @@
+# Local originals, machine state, research and generated working files
+source/
+english-backup/
+*direct-language-state*.json
+.barony-mongolian-backup/
+__pycache__/
+*.pyc
+research/
+catalog.json
+translation-cache.json
+asset-schema.txt
+schema-compact.txt
+font-preview.png
+WORKLOG.md
+validation.json
+dist/
+publish-*.json
+publish-*.py
+legacy-*/
+# Superseded local-only installers/tools
+direct_language.py
+restore-english.ps1
+install.ps1
+translate_catalog.py
+inspect_assets.py
+README.mn.md
+.pixel-font-test/

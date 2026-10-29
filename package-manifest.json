@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "version": "0.2.0",
+  "gameVersion": "5.0.2.2026.04.03",
+  "files": [
+    {
+      "path": "data/achievements.json",
+      "sha256": "6331aecf1253d175c16e1e27d09d5684b3a5bb86d2ad896eeb53da43974d6e5f",
+      "originalSha256": "0ed1233464903045039ac957dee8b3d2ad53beb4378f60ebedad7afa87f24a5f"
+    },
+    {
+      "path": "data/callout_wheel.json",
+      "sha256": "5b6faf5b62619109a21a7e47d22cf8b8ffc08d8bcab3428507eb35764dcbdab5",
+      "originalSha256": "3c4e51b8c1b3bf5939d45848fd5f71073f55efd35bdbb93abf7892a666566082"
+    },
+    {
+      "path": "data/charsheet.json",
+      "sha256": "779a42395aa82ab2b2f792fb65fe62092d4a654d4b012fc1c3edbc04b596455a",
+      "originalSha256": "a40ed53c4b7ee9d6efec5fd2d496d462ca576bebf68268d45068d3906c09cc37"
+    },
+    {
+      "path": "data/class_descriptions.json",
+      "sha256": "52f7fe4dde43491fa2ff812263a250a99e84986d8a017f2459bafce194575972",
+      "originalSha256": "a20b7bcb87e30a83a909c9ff301e6eee0e6e21ee5380ba75bb95df8bf6eba644"
+    },
+    {
+      "path": "data/follower_wheel.json",
+      "sha256": "d77c08c39b31d191e0417c21934bfbc7ef563cb2caf028bd0608f6dee1d125a7",
+      "originalSha256": "9947fcd12c453c968928c8f98bbee05227be86b75121fc75e00ccfba52ee2702"
+    },
+    {
+      "path": "data/HUD_settings.json",
+      "sha256": "9e9d58f8578cfd949b84e546edef40cc033f0ad9a2875fdce323ea5a399fac32",
+      "originalSha256": "40bee2f2abe4e06014adfa644bfd6d4489414d79a706769005a6ac31efb23c95"
+    },
+    {
+      "path": "data/race_descriptions.json",
+      "sha256": "0b5aab07c9f557118b08845fa757b01729da51609d3b14fb1ff9a27f7a349ae6",
+      "originalSha256": "33e4072cdb788c6bb5e5a99b8a374e1a5d54da0db9b21f6d647c659e8aa466a8"
+    },
+    {
+      "path": "data/scripts/tutorial1/script.json",
+      "sha256": "4e236f987fd47bce73ae6a31d1ee9e783cd000d6c6bab2ceff3564c063f0bea6",
+      "originalSha256": "6deabbc9e18937b2ee305084570cd8e7513658de80000521e1cdf74f03a8a8d7"
+    },
+    {
+      "path": "data/scripts/tutorial5/script.json",
+      "sha256": "78b93ae3a286de089341ffd8a5ca0b2f4bd225b5edd5f830d845dd0fe520ad38",
+      "originalSha256": "ecb93f7636a7055d6f4a2a3315481f7411a665ce910ca43fcb814d4ff3f2d9dc"
+    },
+    {
+      "path": "data/scripts/tutorial7/script.json",
+      "sha256": "280fba688f67bde2fca067dfa3572b6e51f9513500a012699673003700456abc",
+      "originalSha256": "a53a33e674385767ec3509611ce345c0c64cf8bf46d4c6c42fb43a53f6198d07"
+    },
+    {
+      "path": "data/scripts/tutorial_hub/script.json",
+      "sha256": "9c51147703a4bc5a5fd4a4abe13ac4f91cafcb4fd9ac4de98b74326e120ac831",
+      "originalSha256": "ef30aa873e148c83c166ee7012f4517915452d03fed1c2b94a1f2c73c8aa5b28"
+    },
+    {
+      "path": "data/skillsheet_entries.json",
+      "sha256": "c3a8cf2b819319c0a91ecb6a2b4648160a51a310953eaf770ff123fa7440d6e7",
+      "originalSha256": "ab15201016d3830cec6f67e478ad7b41c95cf3d30d9a471b6ec3b361fa6ad59e"
+    },
+    {
+      "path": "data/status_effects.json",
+      "sha256": "e478a5d44ff3a915164a278920f5acc650d0bcee34ba287e5e6e54747c9a6128",
+      "originalSha256": "6b4b55506b1fa5f39a78819e5b7100b494eb24804cc706320e519bbf576b33ec"
+    },
+    {
+      "path": "fonts/alphbeta.ttf",
+      "sha256": "14883dcf018ce40af1e39b7378b38c719f07369465c83962b9888b3d52f76a6e",
+      "originalSha256": "a62f402546b4402a45560e192b8202b86e0dd99abca950253779f6bd260dab23"
+    },
+    {
+      "path": "fonts/kongtext.ttf",
+      "sha256": "9f39af5240bd02efa8767e65696e8ac37a3532a6379f6919a5d89762bbcb0cb7",
+      "originalSha256": "a7d2b91d8ba1cdb527d5e856339d1cd85fd3c5b900816c3ee713a45e7b9b1eed"
+    },
+    {
+      "path": "fonts/pixel_maz.ttf",
+      "sha256": "1eb2f71f68e9ff83e3cdda5e80a8e1865f10e24f1914fdeaa4e567c341ba3473",
+      "originalSha256": "1c95b6d0605764315bce2e98679abf8414ff94b6989226ac611086d28411227a"
+    },
+    {
+      "path": "fonts/pixel_maz_large.ttf",
+      "sha256": "2b959938f96de5476107c5c9a3d8e6c92b47ef519ace3f5e6fe55e80dbe546f1",
+      "originalSha256": "dc479bd22dba8cbcc7fb0be14e717b41ca7b724fca8db9f16e6fb0992fa266a8"
+    },
+    {
+      "path": "fonts/pixel_maz_multiline.ttf",
+      "sha256": "e9dd80a014400ff76454811e7ec1fb856d6b55584771f2651f6cb5a86893273f",
+      "originalSha256": "aaf3d366c9b6cf5bebc61a5698024e5033af98a419418407387613f3bb32d78c"
+    },
+    {
+      "path": "fonts/PixelMaz_monospace.ttf",
+      "sha256": "53b56186ec5080418e2cfea2a835a9a8e2f82e306ae84425dce0cdf5a26a6d8f",
+      "originalSha256": "a415c89ce4b8b41ab1891859584542cc06c6f10c845a194a9588aebc7cd605b7"
+    },
+    {
+      "path": "fonts/pixelmix.ttf",
+      "sha256": "e77c7699c0d92a7dcddbc63768f2e50403b4e9d27d85995aa145b84a54b360be",
+      "originalSha256": "9baad585f4f4a2f61ad510d2fb1b7822425644e6cf1dcd3b8142b0dab8a370d9"
+    },
+    {
+      "path": "fonts/pixelmix_bold.ttf",
+      "sha256": "1ad0d6045ca2ba29be6c9cdd62979d2a19e487db2485b830a5d93dac85b5ee8b",
+      "originalSha256": "5f5af416ca374a507f270e6978d9fe0bc66d6a0585d003c1cb74c4ff722ada80"
+    },
+    {
+      "path": "fonts/scream.ttf",
+      "sha256": "2f88c224af6c5987624b80b8f3ca6d7c524bda50f85f3b90a98ee2b4693e3e91",
+      "originalSha256": "099f69d814380fb1e980e27212dcc2477eb39029baf8bbd6f441b84e3de1a769"
+    },
+    {
+      "path": "items/item_tooltips.json",
+      "sha256": "7791232a8c7fd4f9823b33a4e5b9449d628d8d43bf4499286587af0d3b8f4124",
+      "originalSha256": "7222408e9de8603360600de6bf52e1041fe0ce3f0e5ad9423135e740fe1d82a1"
+    },
+    {
+      "path": "lang/compendium_lang/contents_achievements.json",
+      "sha256": "f63baa35ceb5378f101db11c750c97ca3819ef71da3b3dd87364cbdc131dd9ed",
+      "originalSha256": "f5b0e46955d6ab9bfc5d70677dab4dc459ef502895a8e842fd13232e7d25fbcc"
+    },
+    {
+      "path": "lang/compendium_lang/contents_codex.json",
+      "sha256": "1e7a3bbb6f98d58d0cc540cd062620dc03d565905ade21c64d077cbffb3e442b",
+      "originalSha256": "351fb75ddb5d3faf2bb9ff4a199fb866b4d28f17b87a7aa9d20c10cb5c3242e0"
+    },
+    {
+      "path": "lang/compendium_lang/contents_items.json",
+      "sha256": "38a60f4cc8efbf1fb0e349728a6c669684242d9d7419c63b6544c9ee075dd6bd",
+      "originalSha256": "f6f8e9a34cb5ea2eb2fb655fb7b6cdebbd9e69694c25daeeef70797c5f8e057b"
+    },
+    {
+      "path": "lang/compendium_lang/contents_magic.json",
+      "sha256": "1356f0b4f829be5271b45a5749b44b18310aee2dd6c1ed752c8786fa899c1698",
+      "originalSha256": "c526a261bf0526cf23c9eb2d7e5662adc846e0f13dc16fc34009f4c214aae6fd"
+    },
+    {
+      "path": "lang/compendium_lang/contents_monsters.json",
+      "sha256": "6a258a1b377c5121a6ec70bafcf15fa0e0a59a48b1882aebf3e9c89691b3d8b6",
+      "originalSha256": "22f4e90035a9a79f681dc367b043950985260b851e258fd5b6f4a8a8026b1273"
+    },
+    {
+      "path": "lang/compendium_lang/contents_world.json",
+      "sha256": "e2d179ce02d10f56d2b291471fd5e29a62d222a0098f46f4837e343dcd973848",
+      "originalSha256": "99c6e666a07c3118b0ded1e43391736e193ef35c255cef548932f236c510cc15"
+    },
+    {
+      "path": "lang/compendium_lang/lang_monsters.json",
+      "sha256": "1ab47a605255c8e565ee14b0a85d4c13386f0cc8820286497d489b1ec1d2cc96",
+      "originalSha256": "e5076fdfca806e262f6fa5de5255356bcb8bc2e012ccb1d797d06c1a669930df"
+    },
+    {
+      "path": "lang/compendium_lang/lang_world.json",
+      "sha256": "52aa5204c5b38367a54202f58778753cf2bd92104e45b3cc961004f92c1f38da",
+      "originalSha256": "b1c68abfb5f0ec958de05f8db98adafe800cd58cd5c4ce912dcaded4f8c0ef01"
+    },
+    {
+      "path": "lang/en.ttf",
+      "sha256": "5b6369b18c01a049a15d632987a30824c1a05fb24c76ee90f09fb622e3f18a95",
+      "originalSha256": "bbd8ccabdf86d9a892d6392ec766dbffa438f7412ec015d553eaa6cd7cc7747e"
+    },
+    {
+      "path": "lang/en.txt",
+      "sha256": "0c863d1e0f621fa948e69568b327fc039fdcbcd45953ea1ffd0a06b471ddc5a7",
+      "originalSha256": "153ef608caafea9226db4e006ad8d778bfe675cf006227efe0fb5c5cac551f40"
+    },
+    {
+      "path": "lang/item_names.json",
+      "sha256": "105f26ac97fdb0b49e6a2da117d53ddd475921bfbf4224e5b0922f034d702875",
+      "originalSha256": "628728f8274ccc918abe2488b3ede182ba480bddb20855c551030aaeb34ef4ae"
+    },
+    {
+      "path": "themes/merry/items/item_tooltips.json",
+      "sha256": "14babfa9044871787677f90aca8ce6452c8b15386443bcc15915a418b1cd9771",
+      "originalSha256": "ab8be094f1d5237167f08eb64f87a9a892c68cc7fc12a0ac7a7647789dc7b383"
+    },
+    {
+      "path": "themes/merry/lang/en.txt",
+      "sha256": "497cb1b806b0a3b52d71aff618e0d7787861424fb8faef1a2699fd410d576c84",
+      "originalSha256": "557778adca5827e5683eb0ade691090fd81403fa08d9076bf4b2886d3fce6d0a"
+    },
+    {
+      "path": "themes/merry/lang/item_names.json",
+      "sha256": "89d7b999310d400e7c98ca3b483994b0670cb455a8479948d66dff91ead0bc69",
+      "originalSha256": "25eb537ddc139373e8e9c907aae22ced0c763ea59180950e4f83298c78ef27a1"
+    },
+    {
+      "path": "themes/scarony/items/item_tooltips.json",
+      "sha256": "c698833e6d5edff171f1ed7f042f7c53044b6887cfb2cae6f988868b8402f4ac",
+      "originalSha256": "4b87ca9b96c1a93bbaea6da2a07b351689a59d758a0f7bb5a840a99c4be5d1c8"
+    },
+    {
+      "path": "themes/scarony/lang/item_names.json",
+      "sha256": "9e2bcabb73fc2313ce1aae2baa20732b62d44351f1b89374483fdd8574f9f3a1",
+      "originalSha256": "bc9d7de1aa36dd66fef648b48cd27b02792680efb3f251e161c6a6a716110a4e"
+    }
+  ]
+}
