@@ -1,21 +1,191 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "gameVersion": "5.0.2.2026.04.03",
   "files": [
     {
+      "path": "books/A Brief Survey of Goblins.txt",
+      "sha256": "92b49aac42899ca333067eaa1717af5bd6d51b92db375bba88053d2e92b97810",
+      "originalSha256": "9d6661c740d768785731b39fbf8fe41b964f1a84dfb15fc7e59e5f0976deb2a8"
+    },
+    {
+      "path": "books/Assessing the ZAP Brigade.txt",
+      "sha256": "eb1fe0133acb49701410d9c8f52174fecba20101b093cdf08cc5cbd1b4fad892",
+      "originalSha256": "ac6dcbd6e2db2b8322dbb3cfe52d79efe9bb766d75682621662eb6716bb16f94"
+    },
+    {
+      "path": "books/Bottle Book.txt",
+      "sha256": "7108ec36e3f2005ff5269254ee4da6e165f64419efec6fcad0d7b808bdebab0e",
+      "originalSha256": "2bab438ae671fed7640b637044ceea746475b8617c37e7ee5e6a3f6d66488884"
+    },
+    {
+      "path": "books/Cave Beasts.txt",
+      "sha256": "8577f286070153fd7871570fb7f636da6fbdfb6eee100f5d0cb7f7cfef301619",
+      "originalSha256": "85b554812ff4a59b29de94da1ae85f3272cfe26b3fc8aa19150abb5fbdacd153"
+    },
+    {
+      "path": "books/Character Attributes.txt",
+      "sha256": "c141948855e2ad483d3bdcb67e3cda97c56fda3234ac62cfe84195da34ef1b71",
+      "originalSha256": "0c6fa25e4d3da11314e9254df9f8a93903201e3b9b8785fce739832449372d3d"
+    },
+    {
+      "path": "books/Citadel Servant FAQ.txt",
+      "sha256": "1ad4c010838c269495b138aae3ca1b14aaa1501e722a28515af5766c325183de",
+      "originalSha256": "48e84f51328f6107484d92a1010b3f630fc788df5561288b2ca014ce584e3de6"
+    },
+    {
+      "path": "books/Concerning the Undead.txt",
+      "sha256": "280cabfd7c1f511707e598d84a757f45c5ab110c5da5b64edca69a4153c821c3",
+      "originalSha256": "84c45f3e403d1a6131bf32dff45100cf3943524b76caf7175f1f7a124dea87dc"
+    },
+    {
+      "path": "books/Controlling Goblins.txt",
+      "sha256": "05d1ff4fa3adf3ffaf24066ff45d3b9e647f15c327e35daac233e69df46bbcee",
+      "originalSha256": "148a4ed893ebe73d16945d0b58e1a1d3498998f68e2c5b34e7b4d77cfba5e73c"
+    },
+    {
+      "path": "books/Dethroning Herx.txt",
+      "sha256": "d88f3327492cdbb64899c7b39437849a766a12357e667f066e9320e2cad51ea0",
+      "originalSha256": "3016c3fdd2ce21ceeb1f0ced6fc4755a697d57eda0c7579e1aa66c8d18defe48"
+    },
+    {
+      "path": "books/How to be Strong.txt",
+      "sha256": "7d56398d24b1b0ff0c866889c49877dbf77f362920da227a38ffd44e4d0996f4",
+      "originalSha256": "a0e15052c98560c2fc8d8a79efe4184d5496f268094194386112c53293f9de63"
+    },
+    {
+      "path": "books/Lost Journal.txt",
+      "sha256": "14c8293ac7d28e6940f2dda3101b9e8b74c3abe7a1f9e7a079309a53a9e37ca9",
+      "originalSha256": "9f21d50ef638b11d01b6e59223f7de850f95badb4686397d52403704061499b4"
+    },
+    {
+      "path": "books/Miner's Christmas.txt",
+      "sha256": "8fa25312cea6b9cee693e62b6d23154f24fcedc59dff338d392b00ccb625d193",
+      "originalSha256": "6ffd14f523e11b331488a9540a4069e04ab1172b4cfb23038b5ff60a4ab0e8c0"
+    },
+    {
+      "path": "books/Mining My Soul.txt",
+      "sha256": "a8dbc58a0009e02e94e4773978f8bc71417b11e19bb5a2e779172751a606016b",
+      "originalSha256": "8351ffec37f5baa4964865dc9d445e86010f796bbb826b57285040c488bcba85"
+    },
+    {
+      "path": "books/My Journal.txt",
+      "sha256": "63ac28f0cc7c6c379f9762019bcdbb32ad927a162b91b4756fe31594331a5c66",
+      "originalSha256": "f0ebf8a8199e74fde5abf22497907eea387d8a45fb9093ecbc446cfcfe7da2ee"
+    },
+    {
+      "path": "books/Newspaper Clipping.txt",
+      "sha256": "9cf36bff7879cbf0570c771c0289b2106dfc6a942dfa10d7750ee509e8237e6f",
+      "originalSha256": "7f6ec59505e96f267ca440bfe89d866e6fd2ab3fba6eab6c57ee75d482b14b8e"
+    },
+    {
+      "path": "books/On Giantism, Vol 1.txt",
+      "sha256": "e4bcc70b8841f8b79682e498b07d714e8c6254329b666e0c48c87e88ab365a09",
+      "originalSha256": "af0967d4e26faa04aee0975eff7c3b2bc9dc8df448562937efab2e761da0a368"
+    },
+    {
+      "path": "books/On Giantism, Vol 2.txt",
+      "sha256": "30815c060e724da22631e7bd9c79eec31f6cb614d7dae71808df1a42b3696b23",
+      "originalSha256": "ea43f24273db4c4b620a595d021895eeedb5601822b20d492f847dd88414ef6b"
+    },
+    {
+      "path": "books/Poem of the Mines.txt",
+      "sha256": "4ce933ef7cd68fa7a72712c2fbcad4bd65b5e8722a3278f8d96889ecdd9340f8",
+      "originalSha256": "e15ee470d2d11e7392064729bbcf3118d10f6f978dc1793546924fdb7010c08e"
+    },
+    {
+      "path": "books/Sightings of the Lich.txt",
+      "sha256": "0f62905c79596b6004e06d6f82d5a2a6a0371fcdd27867bc325f4513464c7acb",
+      "originalSha256": "1ee340409f05f2857a26850f4d4d9714bb4437a8a2583ad4fe3156e923a48aff"
+    },
+    {
+      "path": "books/Surviving the Mines.txt",
+      "sha256": "dc497231480540de94e7bac5ffcaa110a12e276c188282806902dacf58f322b7",
+      "originalSha256": "9d960a2c0f29d7eebda761ee50b0f710efa477f118f8a7204a7390c0e7a20031"
+    },
+    {
+      "path": "books/The Adventurer Who Went To Hell.txt",
+      "sha256": "81900ce9b7311494602705975a4aa42f2527462b2a2da90c432f96e17160aa44",
+      "originalSha256": "d21b0e310b30d413450307ebe00cda05ad8bc600a7942f4ac30f6c6a47a2287c"
+    },
+    {
+      "path": "books/The Art of Mine Warfare.txt",
+      "sha256": "18a5467d0dba7d813376c333a707bf130afb49bceadd88650bff55965be84184",
+      "originalSha256": "c2dfcbbecc088993297b4017595327c228a9c7623f9e4861a4dc39fe2b79aaa5"
+    },
+    {
+      "path": "books/The Campaign.txt",
+      "sha256": "67322f96508627ef059b650a05b574708489911b152e8a1f5effd278c8737bc4",
+      "originalSha256": "76eddf6897752fd16c5183e4c8f4e147268cfb2dd3c82ea053ad65b169f30cb4"
+    },
+    {
+      "path": "books/The Flying Minecart.txt",
+      "sha256": "9e96f2a5aae49fb8fd71947cd632f3ff0e0d9fe2cc02ed75ce9b815c61f46a84",
+      "originalSha256": "f73e7185fa11b5bab96c53c759352d09b079fba244760754bb7148708c192326"
+    },
+    {
+      "path": "books/The History of Baron Herx.txt",
+      "sha256": "be23fc6c771de8e7f812c0dfa329618479985d7877079096877e2055832f90a2",
+      "originalSha256": "6ddc22bfffa6e4102801cdecebe3062957c7e60673cf455a0d7f29e7e6a7600a"
+    },
+    {
+      "path": "books/The Lusty Goblin Maid.txt",
+      "sha256": "3d34d8b069536006f7ef09dd81c196addb852841729ec19b7f936eea5bc684de",
+      "originalSha256": "3668334e65099d35922a388990e3a9fb6f6b8b013bd5f970319de3e28bd6cb2d"
+    },
+    {
+      "path": "books/The Meaning of the Labyrinth.txt",
+      "sha256": "01bb11950c927786b0bcca9f17b14a12c2b4d896fcee94658cd0b160507a26c1",
+      "originalSha256": "166b5209d66fa8ef8089f539e233f84d9983c020a12f1cdb723cf24869050b22"
+    },
+    {
+      "path": "books/The Pirate King.txt",
+      "sha256": "cfafd2d05deb64edc02dff5abe13b7722304abd0e980da9f303a73ed623037b8",
+      "originalSha256": "f1ce325ebc040ad58b19aa4a33cf10f8c03ada2965f89a18f9655b95837a1af1"
+    },
+    {
+      "path": "books/To Emily.txt",
+      "sha256": "eabad733428dca5b18d528bcac7cf8a96cbd99e7d524e2465926d189fe41d1a7",
+      "originalSha256": "bc437e55efcfdbc2d8bf9d1032a0231c8b9da99cc5f9070b65e2f953d1916693"
+    },
+    {
+      "path": "books/Winny's Report.txt",
+      "sha256": "04b6e53b49415cf5bd2e9c13d62ed3dbf428723a068441ddf4702a40ba4436af",
+      "originalSha256": "e01ef3ebdcfa01da386895a2c2ecc2a8169cc904c620473625adddf51e7468f5"
+    },
+    {
+      "path": "books/Worker's Journal, Entry 1.txt",
+      "sha256": "38322fd4e3f33d6f6e9585e1b27abb3d0ecd87bc9ac2990a9b6287990cb2b12a",
+      "originalSha256": "69a39a85358aa2eb77bff24560d47b4f6b3151285397be44b49c088ac133ea71"
+    },
+    {
+      "path": "books/Worker's Journal, Entry 2.txt",
+      "sha256": "f0dc250fe4b1202343110c32e1341376e511588ac3629a040f5dfc906169f2e8",
+      "originalSha256": "02f3284d12defc6a648c1a56c41a58623d7aff82bc9e9bfd7053837f3298bec1"
+    },
+    {
+      "path": "books/Worker's Journal, Entry 3.txt",
+      "sha256": "3e546f7d8ce9b47172ff93e06d1c1b90a9deb5b5c3d1c42242a2aac2e3d21d58",
+      "originalSha256": "04396b4ec3be3b1a66e1a67c6e001cddaa590e1d7922f01ac51604aaa9fadf6d"
+    },
+    {
+      "path": "books/Worker's Journal, Entry 4.txt",
+      "sha256": "f7ee5e8965bf0856b993fd0234e81528731e5cee6baddf634f1a45209178fac0",
+      "originalSha256": "675a2901210a8e18a6279fac73a6912bad1fffa7186f679aa203d612dd6d937d"
+    },
+    {
       "path": "data/achievements.json",
-      "sha256": "6331aecf1253d175c16e1e27d09d5684b3a5bb86d2ad896eeb53da43974d6e5f",
+      "sha256": "34556f369ddf2a66c13c98c8c08a0789b4bc07accdf3461834534d0d43353019",
       "originalSha256": "0ed1233464903045039ac957dee8b3d2ad53beb4378f60ebedad7afa87f24a5f"
     },
     {
       "path": "data/callout_wheel.json",
-      "sha256": "5b6faf5b62619109a21a7e47d22cf8b8ffc08d8bcab3428507eb35764dcbdab5",
+      "sha256": "938035f88b0389abc776ae1437da3eeb32aa890790b7f5af8e7ec3e5e2f86341",
       "originalSha256": "3c4e51b8c1b3bf5939d45848fd5f71073f55efd35bdbb93abf7892a666566082"
     },
     {
       "path": "data/charsheet.json",
-      "sha256": "779a42395aa82ab2b2f792fb65fe62092d4a654d4b012fc1c3edbc04b596455a",
+      "sha256": "2535c1501ee7d1282d15584a84a3b460f2e9514039b8013387e245e6b74fb8eb",
       "originalSha256": "a40ed53c4b7ee9d6efec5fd2d496d462ca576bebf68268d45068d3906c09cc37"
     },
     {
@@ -25,13 +195,18 @@
     },
     {
       "path": "data/follower_wheel.json",
-      "sha256": "d77c08c39b31d191e0417c21934bfbc7ef563cb2caf028bd0608f6dee1d125a7",
+      "sha256": "b31252cefa61315bbe10cd03b31e19ede4b565dd5147fd04aa562d4188afcdbd",
       "originalSha256": "9947fcd12c453c968928c8f98bbee05227be86b75121fc75e00ccfba52ee2702"
     },
     {
       "path": "data/HUD_settings.json",
-      "sha256": "9e9d58f8578cfd949b84e546edef40cc033f0ad9a2875fdce323ea5a399fac32",
+      "sha256": "97783c5264dba7a8466067432a878ad9cb4334f403b97f067ad28f06b46bc55d",
       "originalSha256": "40bee2f2abe4e06014adfa644bfd6d4489414d79a706769005a6ac31efb23c95"
+    },
+    {
+      "path": "data/monster_data.json",
+      "sha256": "f13b2566e3cfe7b9f7d6a133fecc413cd46d9f59726d2dd362a9d6b9e4007b44",
+      "originalSha256": "79a358c6525bef73bbab59dd8b09b42c5d21336c90df32da6708c319b63600da"
     },
     {
       "path": "data/race_descriptions.json",
@@ -39,34 +214,174 @@
       "originalSha256": "33e4072cdb788c6bb5e5a99b8a374e1a5d54da0db9b21f6d647c659e8aa466a8"
     },
     {
+      "path": "data/scripts/dungeon_signs/script.json",
+      "sha256": "1499e689b6c39448eb5c3ac506546f9441a2bca8ae4e77e6c93e2cee1957b9df",
+      "originalSha256": "368b2a68faf0510435075f6f620438fb059ea1d37e4eec13f12e19ba7d5f5f3e"
+    },
+    {
       "path": "data/scripts/tutorial1/script.json",
-      "sha256": "4e236f987fd47bce73ae6a31d1ee9e783cd000d6c6bab2ceff3564c063f0bea6",
+      "sha256": "fd8ec5aea3260cb78cd2301d6e13a7f583961ba6fd4e103d8542b59fbabebd6b",
       "originalSha256": "6deabbc9e18937b2ee305084570cd8e7513658de80000521e1cdf74f03a8a8d7"
     },
     {
+      "path": "data/scripts/tutorial2/script.json",
+      "sha256": "3d5b3405c51fb8d9957de5710b8e04b381912f069067a0b0ebaed1466dcda763",
+      "originalSha256": "b00f7602bc7c96e65027d44d34bdbfd951221e1137ab1c6e7b827c4a347359ed"
+    },
+    {
+      "path": "data/scripts/tutorial3/script.json",
+      "sha256": "a0d7b6c346e6b57b64707dcad3b719ab5fe0bcbd63893f3b713d7526407bd6a5",
+      "originalSha256": "73c0d06c06f32efe45ca9fb9d2018c96ac96f83db8b6bf6bae7365493aff8108"
+    },
+    {
+      "path": "data/scripts/tutorial4/script.json",
+      "sha256": "e5eed6f5336638d1a46b9325d3a6e85af067273ff24239977f9909a6bd9e1d54",
+      "originalSha256": "8172e23c29178a4a8079ffb56bfde2d182381a7ecbabb7f5f2d193bb26f13bcc"
+    },
+    {
       "path": "data/scripts/tutorial5/script.json",
-      "sha256": "78b93ae3a286de089341ffd8a5ca0b2f4bd225b5edd5f830d845dd0fe520ad38",
+      "sha256": "78c68e2a5ad99b1453375c96074f2a8ec0a9388b7cf48df17362c38c43173b0d",
       "originalSha256": "ecb93f7636a7055d6f4a2a3315481f7411a665ce910ca43fcb814d4ff3f2d9dc"
     },
     {
+      "path": "data/scripts/tutorial6/script.json",
+      "sha256": "86ceadea60bff7125025a392622c87f91e49c795dca921ffd78f985eaf68f9a6",
+      "originalSha256": "ebbc48e0c8e8e4d13b13060c2ec072b4ae46b4f691da4b51b7fd1e5a5e77dc43"
+    },
+    {
       "path": "data/scripts/tutorial7/script.json",
-      "sha256": "280fba688f67bde2fca067dfa3572b6e51f9513500a012699673003700456abc",
+      "sha256": "23e718f53c041c39c844ac7ebddd7a6ecc7db3834e5a1e6e91aa6493d6905ba0",
       "originalSha256": "a53a33e674385767ec3509611ce345c0c64cf8bf46d4c6c42fb43a53f6198d07"
     },
     {
+      "path": "data/scripts/tutorial8/script.json",
+      "sha256": "ca682d230591f2be220956155d6504726bc1911857d913c5c56ca1b74b6179cf",
+      "originalSha256": "c950f126de85f773da2e1901c394472bcbe2090e04946a8f5acc7e33c3149319"
+    },
+    {
       "path": "data/scripts/tutorial_hub/script.json",
-      "sha256": "9c51147703a4bc5a5fd4a4abe13ac4f91cafcb4fd9ac4de98b74326e120ac831",
+      "sha256": "ffffdb3cb20a93a13f786ee1e6d331fdd89fa357f9c3136482e6f058c7283e78",
       "originalSha256": "ef30aa873e148c83c166ee7012f4517915452d03fed1c2b94a1f2c73c8aa5b28"
     },
     {
       "path": "data/skillsheet_entries.json",
-      "sha256": "c3a8cf2b819319c0a91ecb6a2b4648160a51a310953eaf770ff123fa7440d6e7",
+      "sha256": "a04d85a65f5612df88fd6eae1ee68eb7a711ac92b92aa31f3b7131979a611788",
       "originalSha256": "ab15201016d3830cec6f67e478ad7b41c95cf3d30d9a471b6ec3b361fa6ad59e"
     },
     {
       "path": "data/status_effects.json",
       "sha256": "e478a5d44ff3a915164a278920f5acc650d0bcee34ba287e5e6e54747c9a6128",
       "originalSha256": "6b4b55506b1fa5f39a78819e5b7100b494eb24804cc706320e519bbf576b33ec"
+    },
+    {
+      "path": "data/story/BaphometMidpointAutomaton.json",
+      "sha256": "bd3324481843a28135df568151d378b4603fd01ea8b875173aa3414daedacfd8",
+      "originalSha256": "312df01e3dde84bd4e539d07edf5feeef945fffb1e9b55d8cc8777e5bb61e817"
+    },
+    {
+      "path": "data/story/BaphometMidpointBeast.json",
+      "sha256": "5b0eaae1a935263b986aecd82233c8d986fbc33a53370b63592e61f3f72b92e7",
+      "originalSha256": "65c296bf0bc41869bc1b5f4d789c8cb95cbeec209007ea675123c26309ecb42c"
+    },
+    {
+      "path": "data/story/BaphometMidpointEvil.json",
+      "sha256": "d5b50b3ba37d52588a8776599fd60a63374ab54764b28c850a08563cdb3f7a6a",
+      "originalSha256": "0afd38892df86a26580de12e27a0481ae8fed6e4159100ef1ccd2e46b5de2698"
+    },
+    {
+      "path": "data/story/BaphometMidpointHuman.json",
+      "sha256": "83611d020a303bbbcef706688035d9d4cdaba7502c00811df7d6fc3cf0d0cc0e",
+      "originalSha256": "b05e6480e2263a18cff14c2f0dddbb48207759e334e8498351c6815fcbedf68f"
+    },
+    {
+      "path": "data/story/ClassicBaphometEndingAutomaton.json",
+      "sha256": "7bcd2dfc3e9d683ca76aecb5232050998323dea96ff45d7652be587f36eb8a94",
+      "originalSha256": "6020d5ae2998600f20a60105b8a61bdb8d51929dfb93f5da4bb0ec3896aa7227"
+    },
+    {
+      "path": "data/story/ClassicBaphometEndingBeast.json",
+      "sha256": "43fb8a49fbd8198104ea434cf6547092515179d6c8cbf446b16a35d68f3fd08d",
+      "originalSha256": "972d24029e84153520d0deb601f6e52b06cc3a75089aca1643524148864780d4"
+    },
+    {
+      "path": "data/story/ClassicBaphometEndingEvil.json",
+      "sha256": "29ad25c3d5c8ab1669700a1d4bc61cbaa1a566026139d741ab9dcb6613ed4db4",
+      "originalSha256": "c6bdff8044e0ebeedf98e0a54e9fcb9e50c01618b89b3e88bd6c5d4b6892bdc7"
+    },
+    {
+      "path": "data/story/ClassicBaphometEndingHuman.json",
+      "sha256": "f53dcd0714c27f8be08aee148c95576427bb8367f36ec91dfd0358e03a7483f2",
+      "originalSha256": "5a6109107ff8bb001bceff7953142c526171d9135024fa7470b413a0d1dd5cd6"
+    },
+    {
+      "path": "data/story/ClassicEndingAutomaton.json",
+      "sha256": "f975d84dbf4314de5d1547a4685890b4476177a6065b92f7a94bdbb37ba857a5",
+      "originalSha256": "b15bbcf8cf6448e4cb13fab67e4b6c8cb5c3d4bc376d2cfceb3471bf204b18ba"
+    },
+    {
+      "path": "data/story/ClassicEndingBeast.json",
+      "sha256": "2bc92f910f3fb97e233ebf61b0b32231dc8741822e543313cc886c7268ff8800",
+      "originalSha256": "9701d1aab3757c44ea56352d722a18b245cf5318e75325a2aaf50b4bec62220e"
+    },
+    {
+      "path": "data/story/ClassicEndingEvil.json",
+      "sha256": "2bc92f910f3fb97e233ebf61b0b32231dc8741822e543313cc886c7268ff8800",
+      "originalSha256": "9701d1aab3757c44ea56352d722a18b245cf5318e75325a2aaf50b4bec62220e"
+    },
+    {
+      "path": "data/story/ClassicEndingHuman.json",
+      "sha256": "f975d84dbf4314de5d1547a4685890b4476177a6065b92f7a94bdbb37ba857a5",
+      "originalSha256": "b15bbcf8cf6448e4cb13fab67e4b6c8cb5c3d4bc376d2cfceb3471bf204b18ba"
+    },
+    {
+      "path": "data/story/EndingAutomaton.json",
+      "sha256": "96c6a5114cb9b359394b564bf735086810c01e33453e980c50eab48b4d1fc3b3",
+      "originalSha256": "d63e5fc80eac85734b49adda1b3abda88410a4645ddab669fcec8a7ac3d6e8b3"
+    },
+    {
+      "path": "data/story/EndingBeast.json",
+      "sha256": "8a4370c35fe450f2aba48346f41e0a4e0b4f9da8880194b51498c1f2216f6a8f",
+      "originalSha256": "677ec6370bbdf66d1aeb18299bed71dee97d0d4700a27380be1968a2a78d2336"
+    },
+    {
+      "path": "data/story/EndingEvil.json",
+      "sha256": "9216627602bcfbe27150b9c2b218672bb76093e5e5c5707d4b14145fe90259d3",
+      "originalSha256": "bfb7557ef3b14e17eb0ad4a71a66fcf4444b981543d60ee790de1093f51a303e"
+    },
+    {
+      "path": "data/story/EndingHuman.json",
+      "sha256": "e70b9508946b42be16d94743016952ee737c27f5c0f3653b19ead7fb93304a20",
+      "originalSha256": "3b804cae00d30c583da4b4898947b56de47db7c694d774c37a6d2a9b568aa837"
+    },
+    {
+      "path": "data/story/HerxMidpointAutomaton.json",
+      "sha256": "2e4cb3c2acc9ae72a22d63dcbe5fadbf15624ff3f01a8ad03c7d1b6665a9c600",
+      "originalSha256": "04048cd151ad1ddbe637bb741a7d3a4ec42aa6f1fbb84d318179db5371e7af1e"
+    },
+    {
+      "path": "data/story/HerxMidpointBeast.json",
+      "sha256": "ca1549ca99b90b90b0fa1cf781aa4e0083cda247a95d9ef646476e183cfa224f",
+      "originalSha256": "2b3a6b48c1b631e968b2c211caf4e6c1e1b59a4cebe70a7fe98b3a3435de9db9"
+    },
+    {
+      "path": "data/story/HerxMidpointEvil.json",
+      "sha256": "2dc6abf76eae13a1cf8a58c2640b0e8cb4a28f3e7f2322dec6df4cca58543cc2",
+      "originalSha256": "a164e38de85c3f99733eaf7837108a0d642e0c0482ec3d592c1063112ecf7e94"
+    },
+    {
+      "path": "data/story/HerxMidpointHuman.json",
+      "sha256": "eb2547fa8c8c300946db2661f770d34d5a20c0aca071f6bcae38404a7289a3c1",
+      "originalSha256": "28c7fb0bacafcf630c11b9ae84eb7974b159a815bc6be0f67a5c317d81d26f0e"
+    },
+    {
+      "path": "data/story/intro.json",
+      "sha256": "9d6e1ee4494d2256e536c957544913268ba8e4180f2ede60bf3ce85547599d08",
+      "originalSha256": "1dcfb8356720700281a5e87e9a7d8f37ab03f56188c5504dffa7fca125dcbf4f"
+    },
+    {
+      "path": "data/tutorial_strings.json",
+      "sha256": "b3ddb798e0c80f8559df2788b5c30857548dcd30bb11be2bd5a677d6e73bf6ff",
+      "originalSha256": "9f66372a1844881450f0fb497601dc3a1e377de39c968f2449bfd3d63075bd80"
     },
     {
       "path": "fonts/alphbeta.ttf",
@@ -119,43 +434,63 @@
       "originalSha256": "7222408e9de8603360600de6bf52e1041fe0ce3f0e5ad9423135e740fe1d82a1"
     },
     {
+      "path": "lang/book_names.json",
+      "sha256": "094334fbc746dc73cbcbd7cae9c3d454320698b964eb3ab3cd6544a4392de2c0",
+      "originalSha256": "544ec0b17a52950674ccfe801dff18f45c844c9ae5e5c87d7b6ae412e134a07a"
+    },
+    {
       "path": "lang/compendium_lang/contents_achievements.json",
-      "sha256": "f63baa35ceb5378f101db11c750c97ca3819ef71da3b3dd87364cbdc131dd9ed",
+      "sha256": "b4594063de3c9357f1637d6db903c5f28e06d9dcd06ce76dff172dabc57baa31",
       "originalSha256": "f5b0e46955d6ab9bfc5d70677dab4dc459ef502895a8e842fd13232e7d25fbcc"
     },
     {
       "path": "lang/compendium_lang/contents_codex.json",
-      "sha256": "1e7a3bbb6f98d58d0cc540cd062620dc03d565905ade21c64d077cbffb3e442b",
+      "sha256": "64e61dc0b9fe00a3b01d61754f94ffb825cf933886f3deeffcc017c5a2b864ca",
       "originalSha256": "351fb75ddb5d3faf2bb9ff4a199fb866b4d28f17b87a7aa9d20c10cb5c3242e0"
     },
     {
       "path": "lang/compendium_lang/contents_items.json",
-      "sha256": "38a60f4cc8efbf1fb0e349728a6c669684242d9d7419c63b6544c9ee075dd6bd",
+      "sha256": "579fa22ee46981b3eb6073c3b5b13268501874942117e9cc432b8a5b0d9b39d6",
       "originalSha256": "f6f8e9a34cb5ea2eb2fb655fb7b6cdebbd9e69694c25daeeef70797c5f8e057b"
     },
     {
       "path": "lang/compendium_lang/contents_magic.json",
-      "sha256": "1356f0b4f829be5271b45a5749b44b18310aee2dd6c1ed752c8786fa899c1698",
+      "sha256": "687a5cd55e7375ad9550bacb1c06e3cd481ee7216a55fd008232c2d1d6fdf407",
       "originalSha256": "c526a261bf0526cf23c9eb2d7e5662adc846e0f13dc16fc34009f4c214aae6fd"
     },
     {
       "path": "lang/compendium_lang/contents_monsters.json",
-      "sha256": "6a258a1b377c5121a6ec70bafcf15fa0e0a59a48b1882aebf3e9c89691b3d8b6",
+      "sha256": "5d4c559b74701ae563daec12dab3abfe0d138593e492117f83e0f3d8bfdb3785",
       "originalSha256": "22f4e90035a9a79f681dc367b043950985260b851e258fd5b6f4a8a8026b1273"
     },
     {
       "path": "lang/compendium_lang/contents_world.json",
-      "sha256": "e2d179ce02d10f56d2b291471fd5e29a62d222a0098f46f4837e343dcd973848",
+      "sha256": "8d9b791265b4e8a8450e2e1e6b68a9bf81ccadece9cb1f1ded89b8031c00aae9",
       "originalSha256": "99c6e666a07c3118b0ded1e43391736e193ef35c255cef548932f236c510cc15"
     },
     {
+      "path": "lang/compendium_lang/lang_codex.json",
+      "sha256": "112b71a2f909a326f06f9609681314ede0c399ac3ba6d3b70efed43ee7588698",
+      "originalSha256": "2484da281d3742d5e2f515a2cbbb358142aff972152396d00df5dfc30439297f"
+    },
+    {
+      "path": "lang/compendium_lang/lang_items.json",
+      "sha256": "71ffd401fa725ece476ce09139ec78bd853d485f1901a8b633d3e2cb828a5011",
+      "originalSha256": "1fb961064ded235a3e4e26f954e2ebe022ce58f80bf954c2f7c8f149f06bbff1"
+    },
+    {
+      "path": "lang/compendium_lang/lang_magic.json",
+      "sha256": "9923fb8ecd30a729b12a23ad2db2c0b27a905706aeaf2f9eb655e51d04c3c479",
+      "originalSha256": "85b46d4737a4d1ebf0aeb6373876aa2f1a9f169837a973ebc950df3e3a6d0592"
+    },
+    {
       "path": "lang/compendium_lang/lang_monsters.json",
-      "sha256": "1ab47a605255c8e565ee14b0a85d4c13386f0cc8820286497d489b1ec1d2cc96",
+      "sha256": "502b511983581841b210f15a86a72786525bf39fef1f0f72736f0674b34daff2",
       "originalSha256": "e5076fdfca806e262f6fa5de5255356bcb8bc2e012ccb1d797d06c1a669930df"
     },
     {
       "path": "lang/compendium_lang/lang_world.json",
-      "sha256": "52aa5204c5b38367a54202f58778753cf2bd92104e45b3cc961004f92c1f38da",
+      "sha256": "b8754cbe75d25080ee946f523f10151ef4458208c262f9b2ae62841b7727f92c",
       "originalSha256": "b1c68abfb5f0ec958de05f8db98adafe800cd58cd5c4ce912dcaded4f8c0ef01"
     },
     {
@@ -165,7 +500,7 @@
     },
     {
       "path": "lang/en.txt",
-      "sha256": "0c863d1e0f621fa948e69568b327fc039fdcbcd45953ea1ffd0a06b471ddc5a7",
+      "sha256": "56d600b9fc478d2fe3026b059fd425e3fc5b855e8b309057b1f57311b04d50f0",
       "originalSha256": "153ef608caafea9226db4e006ad8d778bfe675cf006227efe0fb5c5cac551f40"
     },
     {
@@ -175,27 +510,32 @@
     },
     {
       "path": "themes/merry/items/item_tooltips.json",
-      "sha256": "14babfa9044871787677f90aca8ce6452c8b15386443bcc15915a418b1cd9771",
+      "sha256": "640e42ab55ee5ee94b69272dca08ab221b1f4d5f5aa9b12b1b06ede1b634fd32",
       "originalSha256": "ab8be094f1d5237167f08eb64f87a9a892c68cc7fc12a0ac7a7647789dc7b383"
     },
     {
       "path": "themes/merry/lang/en.txt",
-      "sha256": "497cb1b806b0a3b52d71aff618e0d7787861424fb8faef1a2699fd410d576c84",
+      "sha256": "21fdf9b3a70dae00ef3a0d10208a04bafe498734187abed9a7f02a069b8031d1",
       "originalSha256": "557778adca5827e5683eb0ade691090fd81403fa08d9076bf4b2886d3fce6d0a"
     },
     {
       "path": "themes/merry/lang/item_names.json",
-      "sha256": "89d7b999310d400e7c98ca3b483994b0670cb455a8479948d66dff91ead0bc69",
+      "sha256": "a3e51c9855179bcaa4439ad4d98c789875941bcb7ce505830a16907498e9096b",
       "originalSha256": "25eb537ddc139373e8e9c907aae22ced0c763ea59180950e4f83298c78ef27a1"
     },
     {
       "path": "themes/scarony/items/item_tooltips.json",
-      "sha256": "c698833e6d5edff171f1ed7f042f7c53044b6887cfb2cae6f988868b8402f4ac",
+      "sha256": "1afbc2b15ef1fc1c19e603f2b8f8de92ac5bd885e338a1a0b1623722521282e4",
       "originalSha256": "4b87ca9b96c1a93bbaea6da2a07b351689a59d758a0f7bb5a840a99c4be5d1c8"
     },
     {
+      "path": "themes/scarony/lang/en.txt",
+      "sha256": "d074b08f2c61cfef66b10ed7ca8655ab1d4517c34d43b094fb4c19c79655cca4",
+      "originalSha256": "83c03d03e9008e662ba48463c60973da4a2a55a9b956217067697dc6326d6d09"
+    },
+    {
       "path": "themes/scarony/lang/item_names.json",
-      "sha256": "9e2bcabb73fc2313ce1aae2baa20732b62d44351f1b89374483fdd8574f9f3a1",
+      "sha256": "8a01a31bcecfe438eaf2bae115f68d1757ff2e348a21711265aa317b40e4c7ba",
       "originalSha256": "bc9d7de1aa36dd66fef648b48cd27b02792680efb3f251e161c6a6a716110a4e"
     }
   ]

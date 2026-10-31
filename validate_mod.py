@@ -15,6 +15,20 @@ def validate():
         if rel.as_posix() in ('data/callout_wheel.json','data/follower_wheel.json'):
             assert f.stat().st_size<65536,('Exceeds Barony radial JSON buffer',rel)
         src=json.loads((SOURCE/rel).read_text('utf-8-sig')); dst=json.loads(f.read_text('utf-8'))
+        if rel.parent.as_posix()=='lang/compendium_lang' and f.name.startswith('contents_'):
+            assert list(src)==list(dst),(rel,'Changed contents sections')
+            for section,rows in src.items():
+                if not isinstance(rows,list):
+                    assert rows==dst[section]
+                    continue
+                assert len(rows)==len(dst[section]),(rel,'Changed contents length')
+                for oldrow,newrow in zip(rows,dst[section]):
+                    assert list(oldrow.values())==list(newrow.values()),(rel,'Changed internal navigation IDs')
+                    assert len(oldrow)==len(newrow)==1
+                    assert critical(next(iter(oldrow)))==critical(next(iter(newrow)))
+                    report['changed_strings']+=list(oldrow)!=list(newrow)
+            report['json_files']+=1
+            continue
         def cmp(a,b,p=()):
             assert type(a)==type(b),(rel,p,'changed type')
             if isinstance(a,dict):

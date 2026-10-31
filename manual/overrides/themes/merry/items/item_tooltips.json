@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "adjectives": {
+    "food_status": {
+      "broken": "Ялзарсан",
+      "decrepit": "Өнгөрсөн жилийн",
+      "worn": "Үлдэгдэл",
+      "serviceable": "Дахин бэлэглэсэн",
+      "excellent": "Шинэхэн"
+    }
+  }
+}

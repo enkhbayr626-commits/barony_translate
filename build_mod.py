@@ -76,6 +76,21 @@ def build():
         elif f.suffix=='.json':
             obj=json.loads(text)
             contextual={}
+            override_file=ROOT/'manual/overrides'/rel
+            if override_file.exists():
+                override=json.loads(override_file.read_text('utf-8-sig'))
+                contextual=dict(walk(override))
+            if rel.parent.as_posix()=='lang/compendium_lang' and f.name.startswith('contents_'):
+                # These JSON objects use display labels as keys and stable link
+                # identifiers as values. Never translate the navigation targets.
+                new_obj=override if override_file.exists() else obj
+                for section,rows in obj.items():
+                    if not isinstance(rows,list): continue
+                    for oldrow,newrow in zip(rows,new_obj[section]):
+                        total+=1
+                        different=list(oldrow)!=list(newrow)
+                        n+=different; changed+=different
+                obj=new_obj
             if rel.as_posix()=='data/class_descriptions.json':
                 translations=json.loads((ROOT/'manual/classes.json').read_text('utf-8'))
                 for classkey,translation in translations.items():
@@ -88,15 +103,21 @@ def build():
             for p,s in list(walk(obj)):
                 if translatable(rel,p,s):
                     total+=1; v=contextual[p] if p in contextual else tr(s)
+                    meaningful=lambda x:[t for t in TOKEN.findall(x) if not t.isspace()]
+                    if meaningful(s)!=meaningful(v): raise ValueError(f'Invalid override tokens: {rel}:{p}')
                     if v!=s: setpath(obj,p,v); n+=1; changed+=1
             # Barony's radial menu readers use a fixed 65,536-byte stack buffer.
             # Compact JSON prevents harmless indentation from overflowing it.
             out=json.dumps(obj,ensure_ascii=False,separators=(',',':'))+'\n'
         else:
             parts=re.split(r'(\n\s*\n)',text)
+            override_file=ROOT/'manual/overrides'/rel
+            translated_parts=re.split(r'(\n\s*\n)',override_file.read_text('utf-8-sig')) if override_file.exists() else None
+            if translated_parts is not None and len(parts)!=len(translated_parts):
+                raise ValueError('Book paragraph structure changed: '+str(rel))
             for i,s in enumerate(parts):
                 if translatable(rel,(),s):
-                    total+=1; v=tr(s); n+=v!=s; changed+=v!=s; parts[i]=v
+                    total+=1; v=translated_parts[i] if translated_parts is not None else tr(s); n+=v!=s; changed+=v!=s; parts[i]=v
             out=''.join(parts)
         if n:
             dst=MOD/rel; dst.parent.mkdir(parents=True,exist_ok=True); dst.write_text(out,encoding='utf-8')

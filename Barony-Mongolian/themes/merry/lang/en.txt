@@ -3,398 +3,398 @@
 # lines beginning with pound character are a comment
 # blank lines are ignored
 
-98 snowman#
-103 elf#
-110 Santa's helper#
-119 snowmen#
-124 elfs#
-131 Santa's helpers#
-158 Blitzen#
-159 Cupid#
-160 Comet#
-161 Dasher#
-162 Dancer#
-163 Donner#
-164 Kringle#
-165 Father Xmas#
-166 Claus#
-167 Sanctus#
-168 Papa Noel#
-169 Drummer#
-170 Niklaus#
-171 Nicholas#
-172 Nicolas#
-173 Prancer#
-174 Rudolph#
-175 Жак#
-176 Santa#
-177 St.Nick#
-178 Nicolo#
-179 Nikola#
-180 Frosty#
-181 Scrooge#
-182 Ebenezer#
-183 Yul#
-194 Season's Greetings!#
-195 Ho ho ho!
-Merry Christmas!#
-196 Happy Holidays!#
-197 Have you been naughty
-this year?#
-198 Better than a stocking
-full of coal!#
-199 Remember to send
-a "Thank You" note!#
-200 It is better to give
-than receive.#
-201 That item made me
- think of you.#
-202 A fine gift exchange!#
-203 Ho ho ho! No no no.#
-204 You don't want to be
-on my naughty list!#
-205 You need a stocking
-full of gold!#
-206 A generous gift!#
-207 You shouldn't have!#
-208 You're too kind!#
-209 I know a good boy
-who wants this.#
-210 I know a good girl
-who wants this.#
-211 Kids are always
-asking for those.#
-212 'Tis not the season for that.#
-213 I'd rather some figgy pudding.#
-214 That's not on my list, sorry.#
-216 At Christmas, all
-roads lead home.#
+98 цасан хүн#
+103 эльф#
+110 Сантагийн туслах#
+119 цасан хүмүүс#
+124 эльфүүд#
+131 Сантагийн туслахууд#
+158 Блицен#
+159 Купид#
+160 Комет#
+161 Дэшер#
+162 Дэнсер#
+163 Доннер#
+164 Крингл#
+165 Өвлийн өвгөн#
+166 Клаус#
+167 Санктус#
+168 Папа Ноэль#
+169 Бөмбөрчин#
+170 Никлаус#
+171 Николас#
+172 Николас#
+173 Прэнсер#
+174 Рудольф#
+175 Жек#
+176 Санта#
+177 Гэгээн Ник#
+178 Николо#
+179 Никола#
+180 Цантай#
+181 Скруж#
+182 Эбенезер#
+183 Юл#
+194 Баярын мэнд!#
+195 Хо хо хо!
+Зул сарын мэнд!#
+196 Баярын мэнд хүргэе!#
+197 Энэ жил чи
+сахилгагүйтсэн үү?#
+198 Нүүрс дүүрэн оймсноос
+дээр шүү!#
+199 «Баярлалаа» гэсэн
+захиа явуулахаа мартав!#
+200 Авахаас өгөх нь
+илүү сайхан.#
+201 Энэ зүйлийг хараад
+ чамайг бодсон юм.#
+202 Сайхан бэлэг солилцлоо!#
+203 Хо хо хо! Үгүй, үгүй, үгүй.#
+204 Миний сахилгагүйчүүдийн
+жагсаалтад бүү ороорой!#
+205 Чамд алт дүүрэн
+оймс хэрэгтэй юм!#
+206 Өгөөмөр бэлэг байна!#
+207 Ингэх хэрэггүй л байсан юм!#
+208 Чи дэндүү сайхан сэтгэлтэй юм!#
+209 Үүнийг хүсдэг
+сайн хүүг би мэднэ.#
+210 Үүнийг хүсдэг
+сайн охиныг би мэднэ.#
+211 Хүүхдүүд үүнийг л
+байнга гуйдаг.#
+212 Наадахын чинь улирал биш.#
+213 Би инжиртэй пудинг авмаар байна.#
+214 Уучлаарай, наадах жагсаалтад алга.#
+216 Зул сараар бүх зам
+гэрт хүргэдэг.#
 
-217 Christmas will always be
-as long as we stand heart
-to heart and hand-in-hand.#
+217 Бид гар гараасаа барьж,
+сэтгэлээ нэгтгэх цагт
+Зул сар мөнхөд оршино.#
 
-218 A joy shared is a joy
-made double.#
+218 Хуваалцсан баяр
+хоёр дахин нэмэгдэнэ.#
 
-219 Remembrance, like a
-candle, burns brightest
-at Christmastime.#
+219 Дурсамж лаа адил
+Зул сараар хамгийн
+тод гэрэлтдэг.#
 
-220 Christmas is doing a
-little extra for someone.#
+220 Зул сар бол бусдын төлөө
+арай илүүг хийх явдал.#
 
-221 Christmas is the season
-for kindling the fire of
-hospitality.#
+221 Зул сар бол зочломтгой
+сэтгэлийн галыг
+асаах улирал.#
 
-222 May your days be
-merry and bright!#
+222 Өдрүүд тань баяртай,
+гэрэлтэй байг!#
 
-223 'Tis the season
-of giving!#
+223 Өгөөмөр сэтгэлийн
+улирал ирлээ!#
 
-224 Christmas waves a magic
-wand over this world,
-and behold, everything is
-softer and more beautiful.#
+224 Зул сар дэлхийд шидэт
+саваагаа дохиход
+бүх зүйл зөөлөн,
+үзэсгэлэнтэй болдог.#
 
-225 It's not how much we
-give, but how much love
-we put into giving.#
+225 Хэр ихийг өгснөөс бус,
+ямар их хайраар
+өгснөөс бүх юм шалтгаална.#
 
-226 It's the most
-wonderful time
-of the year!#
+226 Жилийн хамгийн
+гайхамшигтай
+цаг ирлээ!#
 
-227 Christmas isn't just a
-day, it's a frame of mind.#
+227 Зул сар бол ганц өдөр
+биш, сэтгэлийн төлөв.#
 
-228 Christmas is a season
-not only of rejoicing,
-but of reflection.#
+228 Зул сар бол баясахын
+зэрэгцээ эргэцүүлэн
+бодох улирал юм.#
 
-229 The world has grown
-weary through the years,
-but at Christmas
-it is young.#
+229 Дэлхий олон жилд
+ядарсан ч
+Зул сараар
+залууждаг.#
 
-230 He who has not Christmas
-in his heart will never
-find it under a tree.#
+230 Зул сарыг зүрхэндээ
+агуулаагүй хүн модны
+доороос ч олохгүй.#
 
-231 The joy of brightening
-other lives becomes for
-us the magic of the
-holidays.#
+231 Бусдын амьдралыг
+гэрэлтүүлэх баяр
+бидэнд баярын
+ид шид болдог.#
 
-232 I should write a philosophy
-of toys, showing that
-nothing else in life need
-to be taken seriously.#
+232 Тоглоомын гүн ухааныг
+бичмээр санагдана.
+Амьдралд өөр юуг ч
+хэт чухалчлах албагүй.#
 
-233 Perhaps the best Yuletide
-decoration is being
-wreathed in smiles.#
+233 Инээмсэглэлээр дүүрэн
+байх нь баярын хамгийн
+сайхан чимэглэл биз.#
 
-234 Baby it's cold outside.#
+234 Хонгор минь, гадаа хүйтэн байна.#
 
-235 'Tis the season to be jolly!#
-255 You see a decorated torch.#
-262 You see a decorated fountain.#
-266 You see a gift box.#
-267 You see an decorated portcullis.#
-270 You see a giant snowball.#
-271 You see a Christmas tree.#
-373 Gift Box Inventory#
-374 Took %s from the gift box.#
-400 The spell locks the gift box!#
-404 The spell unlocks the gift box!#
-405 Your spell destroys the giant snowball!#
-455 You are struck by a giant snowball!#
-456 You lack the might to move the giant snowball.#
-459 The gift box swings open!#
-460 You seal the gift box shut!#
-461 Somebody closed the gift box!#
-462 The gift box is locked!#
-463 You put the %s into the gift box.#
+235 Баясах улирал ирлээ!#
+255 Та чимэглэсэн бамбар харлаа.#
+262 Та чимэглэсэн усан оргилуур харлаа.#
+266 Та бэлгийн хайрцаг харлаа.#
+267 Та чимэглэсэн өргөгддөг хаалга харлаа.#
+270 Та аварга цасан бөмбөг харлаа.#
+271 Та Зул сарын мод харлаа.#
+373 Бэлгийн хайрцгийн эд зүйлс#
+374 Бэлгийн хайрцгаас %s авлаа.#
+400 Шившлэг бэлгийн хайрцгийг түгжлээ!#
+404 Шившлэг бэлгийн хайрцгийг тайллаа!#
+405 Таны шившлэг аварга цасан бөмбөгийг сүйтгэлээ!#
+455 Аварга цасан бөмбөг таныг цохилоо!#
+456 Аварга цасан бөмбөгийг хөдөлгөх хүч тань хүрэхгүй.#
+459 Бэлгийн хайрцаг дэлгэгдэн нээгдлээ!#
+460 Та бэлгийн хайрцгийг битүүлэн хаалаа!#
+461 Хэн нэгэн бэлгийн хайрцгийг хаачихлаа!#
+462 Бэлгийн хайрцаг түгжээтэй!#
+463 Та %s зүйлийг бэлгийн хайрцагт хийлээ.#
 
 # headstone messages
 
-485 There's a card in the tree:
-  "I believe... I believe...
-  it's silly, but I believe."#
+485 Модонд зурвас байна:
+  «Би итгэдэг... Итгэдэг...
+  Тэнэг хэрэг ч би итгэдэг.»#
 
-486 There's a card in the tree:
-  "A good conscience is a
-  continual Christmas."#
+486 Модонд зурвас байна:
+  «Цэвэр мөс чанар бол
+  тасралтгүй Зул сар юм.»#
 
-487 There's a card in the tree:
-  "Gifts of time and love are
-  surely the the basic ingredients
-  of a truly merry Christmas"#
+487 Модонд зурвас байна:
+  «Цаг зав, хайрын бэлэг бол
+  үнэхээр жаргалтай Зул сарын
+  гол орц гарцаагүй мөн.»#
 
-488 There's a card in the tree:
-  "A Christmas miracle is when
-  your family doesn't get into
-  a single argument all day."#
+488 Модонд зурвас байна:
+  «Гэр бүл тань өдөржин
+  ганц ч удаа маргалдахгүй бол
+  тэр Зул сарын гайхамшиг.»#
 
-489 There's a card in the tree:
-  "What if Christmas didn't
-  come from a store. What if
-  it means a little bit more?"#
+489 Модонд зурвас байна:
+  «Зул сар дэлгүүрээс
+  ирдэггүй бол яах вэ?
+  Илүү утгатай юм бол?»#
 
-490 There's a card in the tree:
-  "At Christmas, you
-  tell the truth"#
+490 Модонд зурвас байна:
+  «Зул сараар чи
+  үнэнийг хэлдэг.»#
 
-491 There's a card in the tree:
-  "No man is a failure
-  who has friends."#
+491 Модонд зурвас байна:
+  «Найз нөхөдтэй хүн
+  хэзээ ч бүтэлгүйтэгч биш.»#
 
-492 There's a card in the tree:
-  "No one should be alone
-  on Christmas."#
+492 Модонд зурвас байна:
+  «Зул сараар хэн ч
+  ганцаараа байх ёсгүй.»#
 
-493 There's a card in the tree:
-  "Christmas is compulsory, like
-  a thunderstorm, and we all
-  go through it together."#
+493 Модонд зурвас байна:
+  «Зул сар аянга адил
+  зайлшгүй ирнэ. Бид бүгд
+  хамтдаа түүнийг туулна.»#
 
-494 There's a card in the tree:
-  "There has to be at least one
-  day of the year to remind us
-  that we're here for something
-  else besides ourselves."#
+494 Модонд зурвас байна:
+  «Жилд дор хаяж нэг өдөр
+  бид зөвхөн өөрсдийн төлөө
+  амьдраагүйг сануулах
+  ёстой шүү дээ.»#
 
-495 There's a card in the tree:
-  "Reflect upon your present
-  blessings -- of which every man
-  has many -- not on your past
-  misfortunes, of which all
-  men have some."#
+495 Модонд зурвас байна:
+  «Хүн бүрд элбэг байдаг
+  одоогийн хишгээ бод.
+  Хүн бүрд тохиолддог
+  өнгөрсөн гай зовлонгоо
+  бүү бод.»#
 
-496 There's a card in the tree:
-  "Thumpity thump thump,
-  thumpity thump thump,
-  look at Frosty go!"#
+496 Модонд зурвас байна:
+  «Түп түп түп,
+  түп түп түп,
+  Цантай явахыг хар!»#
 
-497 There's a card in the tree:
-  "Mistletoe. It's often
-  infested with nargles."#
+497 Модонд зурвас байна:
+  «Өмхий өвсөнд наргл
+  их үүрлэдэг юм.»#
 
-498 There's a card in the tree:
-  "The main reason Santa is so
-  jolly is because he knows where
-  all the bad girls live."#
+498 Модонд зурвас байна:
+  «Санта сахилгагүй охидын
+  хаягийг мэддэг болохоороо
+  л тийм баяртай байдаг.»#
 
-499 There's a card in the tree:
-  "It's lovely weather
-  for a sleigh ride
-  together with you."#
+499 Модонд зурвас байна:
+  «Чамтай хамт чаргаар
+  зугаалахад
+  сайхан өдөр байна.»#
 
-500 There's a card in the tree:
-  "Sweet silver bells,
-  all seem to say,
-  ding-dong, m'kay."#
+500 Модонд зурвас байна:
+  «Мөнгөн хонхнууд
+  бүгд л хэлнэ,
+  дин дон, за юу.»#
 
-501 There's a card in the tree:
-  "He loves me, I love you.
-  Therefore, vicariously,
-  he loves you."#
+501 Модонд зурвас байна:
+  «Тэр надад хайртай, би чамд.
+  Тэгэхээр дам утгаараа
+  тэр чамд хайртай.»#
 
-502 A snowman emerges from the tree!#
-540 "Did you know?"
-"Santa's helpers pay nothing for unidentified gems."
-"It's true!"#
-563 "Did you know?"
-"Elfs and trolls are best friends."
-"It's true!"#
-564 "Did you know?"
-"Santa really IS a magical genius!"
-"It's true!"#
-568 "Did you know?"
-"Broken gift boxes don't yield many items."
-"It's true!"#
-663 You destroy the giant snowball!#
-667 You hit the gift box!#
-671 The gift box is smashed into pieces!#
-675 gift box#
-716 You hear the faint crunch of giant snowballs.#
-1003 last year's %+2d #
-1004 a leftover %+2d #
-1005 a re-gifted %+2d #
-1029 %d last year's %+2d #
-1030 %d leftover %+2d #
-1031 %d re-gifted %+2d #
-1055 last year's #
-1056 a leftover #
-1057 a re-gifted #
-1081 %d last year's #
-1082 %d leftover #
-1083 %d re-gifted #
-1097 You unlock the gift box.#
-1098 You lock the gift box.#
-1102 You failed to unlock the gift box.#
-1105 This gift box is already unlocked.#
-1505 fails to dodge the incoming giant snowball.#
-1521 gets scratched off the naughty list by an elf.#
-1527 gets added to Santa's naughty list.#
-1969 Grab All From Gift Box#
+502 Модноос цасан хүн гарч ирлээ!#
+540 «Мэдэх үү?»
+«Сантагийн туслахууд таниагүй үнэт чулуунд мөнгө төлдөггүй.»
+«Үнэн шүү!»#
+563 «Мэдэх үү?»
+«Эльф, тролл хоёр хамгийн сайн найзууд.»
+«Үнэн шүү!»#
+564 «Мэдэх үү?»
+«Санта үнэхээр ид шидийн суут ухаантан!»
+«Үнэн шүү!»#
+568 «Мэдэх үү?»
+«Эвдэрсэн бэлгийн хайрцгаас олон эд зүйл гардаггүй.»
+«Үнэн шүү!»#
+663 Та аварга цасан бөмбөгийг сүйтгэлээ!#
+667 Та бэлгийн хайрцгийг цохилоо!#
+671 Бэлгийн хайрцаг хэдэн хэсэг болтлоо бутарлаа!#
+675 бэлгийн хайрцаг#
+716 Аварга цасан бөмбөгийн бүдэг шаржигнаан сонсогдоно.#
+1003 өнгөрсөн жилийн %+2d #
+1004 үлдэгдэл %+2d #
+1005 дахин бэлэглэсэн %+2d #
+1029 %d өнгөрсөн жилийн %+2d #
+1030 %d үлдэгдэл %+2d #
+1031 %d дахин бэлэглэсэн %+2d #
+1055 өнгөрсөн жилийн #
+1056 үлдэгдэл #
+1057 дахин бэлэглэсэн #
+1081 %d өнгөрсөн жилийн #
+1082 %d үлдэгдэл #
+1083 %d дахин бэлэглэсэн #
+1097 Та бэлгийн хайрцгийг тайллаа.#
+1098 Та бэлгийн хайрцгийг түгжлээ.#
+1102 Та бэлгийн хайрцгийг тайлж чадсангүй.#
+1105 Энэ бэлгийн хайрцаг аль хэдийн тайлагдсан.#
+1505 ирж буй аварга цасан бөмбөгөөс бултаж чадсангүй.#
+1521 эльфийн гарт сахилгагүйчүүдийн жагсаалтаас хасагдлаа.#
+1527 Сантагийн сахилгагүйчүүдийн жагсаалтад нэмэгдлээ.#
+1969 Бэлгийн хайрцгаас бүгдийг авах#
 
-2366 The pedestal seems to require some sort of holiday element.#
-2367 The element defies your grasp and is unable to be retrieved!#
-2368 You place the holiday element in the receptacle...#
-2370 The holiday element starts floating!#
-2377 You see a holiday element sitting atop a pedestal.#
-2520 Your spell destroys the gift box!#
+2366 Тавцанд ямар нэг баярын эд зүйл хэрэгтэй бололтой.#
+2367 Эд зүйл атгагдахгүй тул авах боломжгүй!#
+2368 Та баярын эд зүйлийг хонхорт байрлууллаа...#
+2370 Баярын эд зүйл хөвж эхэллээ!#
+2377 Та тавцан дээрх баярын эд зүйл харлаа.#
+2520 Таны шившлэг бэлгийн хайрцгийг сүйтгэлээ!#
 
-2712 The %s
- Santa's Helpers are tougher after surviving the Baron's dungeon.#
-2821 The %s
- I sensed power from the ornament when you put it on that pedestal.#
-2823 The %s
- I was able to trap some of the power that Herx's ornament released.#
-2824 The %s
- This portal pierces the seal to the Caves using the power of the ornament.#
+2712 %s
+ Бароны гянданд амьд үлдсэн Сантагийн туслахууд илүү хат суужээ.#
+2821 %s
+ Чимэглэлийг тавцан дээр тавихад чинь би хүч мэдэрсэн.#
+2823 %s
+ Би Херксийн чимэглэлээс гарсан хүчний заримыг барьж авсан.#
+2824 %s
+ Энэ үүд чимэглэлийн хүчээр Агуйн битүүмжийг нэвтэлнэ.#
 2834 %s
- I'm only interested in the rarest of
- artifacts in the land.              
- In particular, the holiday elements that were stolen by Herx.#
+ Би энэ нутгийн хамгийн ховор
+ эртний эдлэлүүдийг л сонирхдог.
+ Ялангуяа Херксийн хулгайлсан баярын эд зүйлсийг.#
 2836 %s
- You see, a high ranking guild member
- such as myself can extort those mages 
- for every penny they own with their 
- precious holiday elements!#
-3088 That one was from last year!#
-3099 gift box#
-3243 You're on my naughty list, %s %s!#
-3244 discovers all %s are on %s's naughty list.#
-3317 Locks doors and gift boxes#
-3897 You spot a hidden compartment inside the gift box!#
-3974 The giant snowball cannot be moved that way.#
-4004 Close gift box#
-4005 Open gift box#
-4010 Inspect Christmas tree#
-4021 Push snowball#
-4022 Take holiday element#
-4088 You found %d gold pieces in the gift box!#
-4098 There is no room left in the gift box for a
- %s!#
-4099 Took %d items from the gift box.#
-4126 Hand the element to me directly.
-There is no need to involve
-formalities of gold, now!#
-4197 You put %d %s into the gift box.#
+ Над шиг холбооны дээд тушаалтан
+ тэдгээр шидтэний нандин эдлэлээр
+ далайлган тэдний бүх мөнгийг
+ хуу хамж чадна шүү дээ!#
+3088 Наадах чинь өнгөрсөн жилийнх!#
+3099 бэлгийн хайрцаг#
+3243 Чи миний сахилгагүйчүүдийн жагсаалтад байна, %s %s!#
+3244 бүх %s нь %s этгээдийн сахилгагүйчүүдийн жагсаалтад байгааг олж мэдлээ.#
+3317 Хаалга, бэлгийн хайрцаг түгжинэ#
+3897 Та бэлгийн хайрцгаас нууц тасалгаа оллоо!#
+3974 Аварга цасан бөмбөгийг тэгж хөдөлгөх боломжгүй.#
+4004 Бэлгийн хайрцаг хаах#
+4005 Бэлгийн хайрцаг нээх#
+4010 Зул сарын мод шинжих#
+4021 Цасан бөмбөг түлхэх#
+4022 Баярын эд зүйл авах#
+4088 Та бэлгийн хайрцгаас %d алтан зоос оллоо!#
+4098 Бэлгийн хайрцагт
+ %s хийх зай алга!#
+4099 Бэлгийн хайрцгаас %d эд зүйл авлаа.#
+4126 Эд зүйлийг надад шууд өг.
+Алт мөнгөний ёслол
+хийх хэрэггүй шүү!#
+4197 Та %d ширхэг %s бэлгийн хайрцагт хийлээ.#
 
 # NPC insults
 
-4217 naughty#
-4218 not-nice#
-4219 disobedient#
-4220 greedy#
-4221 unkind#
-4222 meanie#
-4223 rude#
-4224 бохирдсон#
-4225 irresponsible#
-4226 back-talking#
-4227 wasteful#
-4228 selfish#
-4229 lying#
-4230 thieving#
-4231 unrepentant#
-4232 troublemaking#
-4233 taddle-tale#
+4217 сахилгагүй#
+4218 сайн биш#
+4219 дуулгаваргүй#
+4220 шуналтай#
+4221 нинжин бус#
+4222 муухай ааштай#
+4223 бүдүүлэг#
+4224 замбараагүй#
+4225 хариуцлагагүй#
+4226 сөргөлддөг#
+4227 үрэлгэн#
+4228 аминч#
+4229 худалч#
+4230 хулгайч#
+4231 гэмшдэггүй#
+4232 хэрэг таригч#
+4233 ховч#
 
-4234 Naughty#
-4235 Not-nice#
-4236 Disobedient#
-4237 Greedy#
-4238 Unkind#
-4239 Meanie#
-4240 Rude#
-4241 Бохирдсон#
-4242 Irresponsible#
-4243 Back-talking#
-4244 Wasteful#
-4245 Selfish#
-4246 Lying#
-4247 Thieving#
-4248 Unrepentant#
-4249 Troublemaking#
-4250 Taddle-tale#
+4234 Сахилгагүй#
+4235 Сайн биш#
+4236 Дуулгаваргүй#
+4237 Шуналтай#
+4238 Нинжин бус#
+4239 Муухай ааштай#
+4240 Бүдүүлэг#
+4241 Замбараагүй#
+4242 Хариуцлагагүй#
+4243 Сөргөлддөг#
+4244 Үрэлгэн#
+4245 Аминч#
+4246 Худалч#
+4247 Хулгайч#
+4248 Гэмшдэггүй#
+4249 Хэрэг таригч#
+4250 Ховч#
 
 # shop try to buy hidden item
-4252 Sorry, those are for
- Extra-Nice kids.#
-4253 Oh no, that's for
- another child.#
-4254 Maybe if you're
- nicer next year!#
+4252 Уучлаарай, эдгээр нь
+ тун сайн хүүхдүүдэд зориулагдсан.#
+4253 Өө үгүй, тэр чинь
+ өөр хүүхдийнх.#
+4254 Ирэх жил илүү сайн
+ байвал болох л юм!#
 
 # shop buy added consumables
-4255 You're on my
- Extra-Nice list!#
-4256 That one is addressed
- to you!#
-4257 Made special for you
- in my workshop.#
-4258 From my sack's
- secret pouches!#
-4259 I keep a few of those in
-my sleigh, just in case.#
-4304 You are no longer an enemy of Santa's Helpers.#
-4305 You are now deemed an enemy of Santa's Helpers
-for inciting violence!#
-4306 You are now deemed an enemy of Santa's Helpers
-for accessory to violence!#
-4349 snowball trap#
-4357 christmas tree#
-4358 giant snowball#
-5120 Control size of in-world popups for items, christmas trees and NPC dialogue.#
-5122 Control size of in-world popups for items, christmas trees and NPC dialogue in splitscreen.#
-5715 The elfs are laughing at you!
-Are you really gonna take that?#
-5805 Giant Snowball#
-5959 Gift Box#
+4255 Чи миний тун сайн
+ хүүхдийн жагсаалтад байна!#
+4256 Наадахыг чинь
+ чамд хаягласан байна!#
+4257 Миний урланд зөвхөн
+ чамд зориулж хийсэн.#
+4258 Миний уутны
+ нууц халааснаас!#
+4259 Хэрэг болж магадгүй гээд
+чаргандаа хэдийг хадгалдаг юм.#
+4304 Та Сантагийн туслахуудын дайсан байхаа болилоо.#
+4305 Хүчирхийлэл өдөөсөн учраас таныг
+Сантагийн туслахуудын дайсан гэж үзлээ!#
+4306 Хүчирхийлэлд хамтран оролцсон учраас таныг
+Сантагийн туслахуудын дайсан гэж үзлээ!#
+4349 цасан бөмбөгийн урхи#
+4357 Зул сарын мод#
+4358 аварга цасан бөмбөг#
+5120 Эд зүйл, Зул сарын мод, туслахын ярианы орчинд харагдах цонхны хэмжээг тохируулна.#
+5122 Хуваасан дэлгэцэд эд зүйл, Зул сарын мод, туслахын ярианы цонхны хэмжээг тохируулна.#
+5715 Эльфүүд чамайг шоолж байна!
+Үүнийг тэвчих гэж үү?#
+5805 Аварга цасан бөмбөг#
+5959 Бэлгийн хайрцаг#

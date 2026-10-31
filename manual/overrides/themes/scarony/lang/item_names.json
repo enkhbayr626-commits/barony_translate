@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "items": {
+    "bronze_sword": {
+      "name_identified": "махны хутга",
+      "name_unidentified": "махны хутга"
+    },
+    "bronze_mace": {
+      "name_identified": "бороохой",
+      "name_unidentified": "бороохой"
+    },
+    "bronze_axe": {
+      "name_identified": "махны сүх",
+      "name_unidentified": "махны сүх"
+    },
+    "iron_spear": {
+      "name_identified": "сэрээ",
+      "name_unidentified": "сэрээ"
+    },
+    "iron_sword": {
+      "name_identified": "төмөр махир сэлэм",
+      "name_unidentified": "төмөр махир сэлэм"
+    },
+    "iron_mace": {
+      "name_identified": "төмөр алх",
+      "name_unidentified": "төмөр алх"
+    },
+    "iron_axe": {
+      "name_identified": "төмөр дэгээ",
+      "name_unidentified": "төмөр дэгээ"
+    },
+    "steel_halberd": {
+      "name_identified": "ган хадуур",
+      "name_unidentified": "ган хадуур"
+    },
+    "steel_axe": {
+      "name_identified": "сарьсан багваахайн далавчтай сүх",
+      "name_unidentified": "сарьсан багваахайн далавчтай сүх"
+    },
+    "cloak": {
+      "name_identified": "нурууны багт хувцас",
+      "name_unidentified": "нурууны багт хувцас"
+    },
+    "cloak_magicreflection": {
+      "name_identified": "ид шид буцаах нурууны багт хувцас",
+      "name_unidentified": "нурууны багт хувцас"
+    },
+    "cloak_invisibility": {
+      "name_identified": "үл үзэгдэх нурууны багт хувцас",
+      "name_unidentified": "нурууны багт хувцас"
+    },
+    "cloak_protection": {
+      "name_identified": "хамгаалах нурууны багт хувцас",
+      "name_unidentified": "нурууны багт хувцас"
+    },
+    "hat_phrygian": {
+      "name_identified": "фараоны толгойн өмсгөл",
+      "name_unidentified": "фараоны толгойн өмсгөл"
+    },
+    "hat_hood": {
+      "name_identified": "толгойн багт өмсгөл",
+      "name_unidentified": "толгойн багт өмсгөл"
+    },
+    "mask_steel_visor": {
+      "name_identified": "аймшигт баг",
+      "name_unidentified": "аймшигт баг"
+    },
+    "hat_wizard": {
+      "name_identified": "шуламын малгай",
+      "name_unidentified": "шуламын малгай"
+    },
+    "hat_jester": {
+      "name_identified": "алиалагчийн хиймэл үс",
+      "name_unidentified": "алиалагчийн хиймэл үс"
+    },
+    "leather_helm": {
+      "name_identified": "инээдмийн толгойн тууз",
+      "name_unidentified": "инээдмийн толгойн тууз"
+    },
+    "iron_helm": {
+      "name_identified": "хар шидтэний дуулга",
+      "name_unidentified": "хар шидтэний дуулга"
+    },
+    "steel_helm": {
+      "name_identified": "багт наадмын дуулга",
+      "name_unidentified": "багт наадмын дуулга"
+    },
+    "scroll_food": {
+      "name_identified": "чихрийн шидэт бичиг",
+      "name_unidentified": "шидэт бичиг"
+    },
+    "tool_tinopener": {
+      "name_identified": "хайч",
+      "name_unidentified": "хайч"
+    },
+    "tool_torch": {
+      "name_identified": "сүнсний дөл",
+      "name_unidentified": "сүнсний дөл"
+    },
+    "tool_lantern": {
+      "name_identified": "хулуун дэнлүү",
+      "name_unidentified": "хулуун дэнлүү"
+    },
+    "tool_glasses": {
+      "name_identified": "дүр өөрчлөх шил",
+      "name_unidentified": "дүр өөрчлөх шил"
+    },
+    "food_bread": {
+      "name_identified": "иштэй чихэр",
+      "name_unidentified": "иштэй чихэр"
+    },
+    "food_cheese": {
+      "name_identified": "зажлууртай шоколад",
+      "name_unidentified": "зажлууртай шоколад"
+    },
+    "food_apple": {
+      "name_identified": "карамельтай алим",
+      "name_unidentified": "карамельтай алим"
+    },
+    "food_meat": {
+      "name_identified": "аварга чихрэн гулдмай",
+      "name_unidentified": "аварга чихрэн гулдмай"
+    },
+    "food_fish": {
+      "name_identified": "чихрэн гавал",
+      "name_unidentified": "чихрэн гавал"
+    },
+    "food_tin": {
+      "name_identified": "жижиг амттаны уут",
+      "name_unidentified": "жижиг амттаны уут"
+    },
+    "artifact_orb_blue": {
+      "name_identified": "сарьсан багваахайн цэнхэр бэлгэдэл",
+      "name_unidentified": "сарьсан багваахайн цэнхэр бэлгэдэл"
+    },
+    "artifact_orb_red": {
+      "name_identified": "хулууны улбар шар бэлгэдэл",
+      "name_unidentified": "хулууны улбар шар бэлгэдэл"
+    },
+    "artifact_orb_purple": {
+      "name_identified": "сүнсний нил ягаан бэлгэдэл",
+      "name_unidentified": "сүнсний нил ягаан бэлгэдэл"
+    },
+    "artifact_orb_green": {
+      "name_identified": "гавлын ногоон бэлгэдэл",
+      "name_unidentified": "гавлын ногоон бэлгэдэл"
+    },
+    "hat_fez": {
+      "name_identified": "муурын чих",
+      "name_unidentified": "муурын чих"
+    },
+    "cloak_backpack": {
+      "name_identified": "дэрний уут",
+      "name_unidentified": "дэрний уут"
+    },
+    "spellbook_detect_food": {
+      "name_identified": "чихэр илрүүлэх шившлэгийн ном",
+      "name_unidentified": "шившлэгийн ном"
+    }
+  },
+  "spell_names": {
+    "spell_detect_food": {
+      "name": "Чихэр илрүүлэх"
+    }
+  }
+}

@@ -25,3 +25,9 @@ translate_catalog.py
 inspect_assets.py
 README.mn.md
 .pixel-font-test/
+remaining-ids.json
+
+# One-off translation drafting scripts; authoritative results are manual/overrides
+narrative_*.py
+translate_compendium_*.py
+compendium_edit.py

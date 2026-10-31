@@ -1,0 +1,1705 @@
+{
+  "version": 1,
+  "default_attributes": {
+    "font_color": {
+      "r": 239,
+      "g": 237,
+      "b": 235,
+      "a": 255
+    },
+    "font_outline_color": {
+      "r": 50,
+      "g": 29,
+      "b": 25,
+      "a": 255
+    },
+    "font_highlight_color": {
+      "r": 18,
+      "g": 196,
+      "b": 131,
+      "a": 255
+    },
+    "font_highlight2_color": {
+      "r": 64,
+      "g": 192,
+      "b": 255,
+      "a": 255
+    }
+  },
+  "script_entries": {
+    "tutorial5a": {
+      "sign": [
+        "Хаалга, тавилга, авдар",
+        "зам хааж болно.",
+        "Тэднийг галт бөмбөг,",
+        "дайсан, бул чулуунаас",
+        "гадна ойрын дайралтаар",
+        "ч устгаж болно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [],
+          [
+            3
+          ],
+          [
+            0
+          ],
+          []
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/furniture.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": []
+    },
+    "tutorial5b": {
+      "sign": [
+        "Бэлэн шившлэг,",
+        "барьсан ном болон",
+        "шидэт таяг ашиглан",
+        "олон төрлийн шидийг",
+        "хурдан хэрэглэж болно.",
+        "",
+        "$ $ $"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0
+          ],
+          [],
+          [
+            1
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#items/images/SpellbookGreen.png",
+          "sizex": 36,
+          "sizey": 36
+        },
+        {
+          "type": "image",
+          "value": "*#items/images/spells/forcebolt.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "image",
+          "value": "*#items/images/RedMysticStaff.png",
+          "sizex": 36,
+          "sizey": 36
+        }
+      ]
+    },
+    "tutorial5c": {
+      "sign": [
+        "Ид шидийн мэдлэгээрээ",
+        "энэ өрөөний",
+        "үхэгсдийг цэвэрлэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            2,
+            3
+          ],
+          [
+            0,
+            1,
+            2,
+            3
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial5d": {
+      "sign": [
+        "Хэцүү шившлэгийн",
+        "номыг түр мөрөөс",
+        "ашиглахад автоматаар",
+        "барьж болно.",
+        "",
+        "Түр мөрөөс номыг",
+        "цээжлэх оролдлогогүй",
+        "шууд барихын тулд",
+        "эхлээд $ дарж барь."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [
+            0,
+            1,
+            2
+          ],
+          [],
+          [
+            1
+          ],
+          [],
+          [],
+          [],
+          [],
+          [
+            0
+          ]
+        ],
+        "word_highlights2": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            3
+          ],
+          [
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#images/ui/Glyphs/KeyboardGlyphs/Rendered/NamedKeys/Unpressed_Text_Alt_00.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5d_gamepad": {
+      "sign": [
+        "Хэцүү шившлэгийн",
+        "ном эсвэл өмнө нь",
+        "цээжилсэн номыг",
+        "түр мөрөөс ашиглаж",
+        "барьж болно.",
+        "",
+        "Зарим шившлэг",
+        "барьсан номоос",
+        "шившихэд хүчтэй."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            2
+          ],
+          [],
+          [],
+          [
+            2
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "word_highlights2": [
+          [],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial5e": {
+      "sign": [
+        "Энэ хуйлмал эд",
+        "зүйлийн хараал тайлна.",
+        "Үүргэвч дотроосоо",
+        "$ ашиглан хэрэглэ.",
+        "$"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "word_highlights2": [
+          [
+            2
+          ],
+          [
+            0
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "MenuRightClick"
+        },
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_cursed.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5e_gamepad": {
+      "sign": [
+        "Энэ хуйлмал эд",
+        "зүйлийн хараал тайлна.",
+        "Үүргэвч дотроосоо",
+        "$ ашиглан хэрэглэ.",
+        "$"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "word_highlights2": [
+          [
+            2
+          ],
+          [
+            0
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "MenuConfirm"
+        },
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_cursed.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5f": {
+      "sign": [
+        "Шидийн чадвар муу бол",
+        "шившлэг замхарч болно.",
+        "",
+        "$",
+        "",
+        "Дахиад оролдоорой!",
+        "Дадлага төгс болгоно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 255,
+          "g": 64,
+          "b": 64,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [
+            0
+          ]
+        ],
+        "word_highlights2": [
+          [
+            1,
+            2
+          ],
+          [
+            2
+          ],
+          [],
+          [],
+          [],
+          [
+            1,
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/fizzle.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#images/ui/SkillSheet/Icons/Casting02_32.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5g": {
+      "sign": [
+        "Гяндан олон нууцтай.",
+        "Заримд нь хүрэхэд",
+        "тусгай чадвар хэрэгтэй.",
+        "",
+        "Тэнд ихэвчлэн",
+        "агуу шагнал нуугдана."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            0,
+            2
+          ],
+          [],
+          [
+            2
+          ],
+          [],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial5h": {
+      "sign": [
+        "Ном, цээжилсэн",
+        "шившлэг, хуйлмал,",
+        "шидэт таяг нь",
+        "шившигчид гянданд",
+        "амьд үлдэж, ялан дийлэх",
+        "олон арга олгоно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [],
+          [],
+          [
+            2
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial5i": {
+      "sign": [
+        "Шившлэгийн номоор",
+        "шившлэг цээжилнэ.",
+        "",
+        "$",
+        "",
+        "Үүргэвч доторх номыг",
+        "$ болон [Унших]-аар",
+        "ашиглаж шившлэг цээжил."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            3
+          ],
+          [
+            1
+          ]
+        ],
+        "word_highlights2": [
+          [
+            0
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#images/ui/SkillSheet/Icons/Magic02_32.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "input_glyph",
+          "value": "MenuRightClick"
+        }
+      ]
+    },
+    "tutorial5i_gamepad": {
+      "sign": [
+        "Шившлэгийн номоор",
+        "шившлэг цээжилнэ.",
+        "",
+        "$",
+        "",
+        "Үүргэвч доторх номыг",
+        "$ болон [Унших]-аар",
+        "ашиглаж шившлэг цээжил."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            3
+          ],
+          [
+            1
+          ]
+        ],
+        "word_highlights2": [
+          [
+            0
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#images/ui/SkillSheet/Icons/Magic02_32.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "input_glyph",
+          "value": "MenuConfirm"
+        }
+      ]
+    },
+    "tutorial5j": {
+      "sign": [
+        "$",
+        "Шидэт таяг нэг л",
+        "төрлийн шившлэгтэй.",
+        "Аль ч адал явдалтан",
+        "түүнийг барьж,",
+        "$ ашиглан шившиж чадна."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            0,
+            3
+          ]
+        ],
+        "word_highlights2": [
+          [],
+          [
+            0,
+            2
+          ],
+          [],
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_firestaff.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "input_glyph",
+          "value": "Attack"
+        }
+      ]
+    },
+    "tutorial5k": {
+      "sign": [
+        "Адал явдалтан",
+        "гянданд амьд",
+        "үлдэхийн тулд ид",
+        "шидийг ойлгох хэрэгтэй."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            1
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial5l": {
+      "sign": [
+        "Зарим шившлэг цээжлэхэд",
+        "илүү INT эсвэл шидийн",
+        "чадвар шаарддаг.",
+        "",
+        "$ $",
+        "",
+        "Гэхдээ тэдгээрийг",
+        "номыг нь бариад",
+        "шившиж болно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            2
+          ]
+        ],
+        "word_highlights2": [
+          [
+            2
+          ],
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [],
+          [],
+          [],
+          [
+            3
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "image",
+          "value": "*#images/ui/SkillSheet/Icons/Magic01.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5m": {
+      "sign": [
+        "Цээжилсэн шившлэг",
+        "шидийн жагсаалтад орно.",
+        "Түр мөрт байрлуулж болно.",
+        "$",
+        "Жагсаалтыг",
+        "$ ашиглан хурдан нээж,",
+        "$ ашиглан шидээ бэлд."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [
+            1
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "word_highlights2": [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            3
+          ],
+          [],
+          [
+            3
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/magiclist_mk.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_readyspell.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "input_glyph",
+          "value": "Spell List"
+        },
+        {
+          "type": "input_glyph",
+          "value": "MenuRightClick"
+        }
+      ]
+    },
+    "tutorial5m_gamepad": {
+      "sign": [
+        "Цээжилсэн шившлэг",
+        "шидийн жагсаалтад орно.",
+        "Түр мөрт байрлуулж",
+        "хурдан ашиглаж болно.",
+        "$",
+        "Үүргэвчээс жагсаалтыг",
+        "$ ашиглан нээж,",
+        "$ ашиглан шидээ бэлд."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "word_highlights2": [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            3
+          ],
+          [],
+          [
+            3
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/magiclist_gamepad.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_readyspell.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "input_glyph",
+          "value": "MenuPageLeftAlt"
+        },
+        {
+          "type": "input_glyph",
+          "value": "MenuConfirm"
+        }
+      ]
+    },
+    "tutorial5n": {
+      "sign": [
+        "Бэлдсэн шившлэгээ",
+        "$ ашиглан шивш.",
+        "",
+        "Шившлэгийн төрлөөс",
+        "хамааран MP зарцуулна."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "word_highlights2": [
+          [
+            2
+          ],
+          [],
+          [],
+          [
+            1,
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/cast_memorized.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "Cast Spell"
+        }
+      ]
+    },
+    "tutorial5o": {
+      "sign": [
+        "Үүргэвчийн ном дээр $",
+        "дарж, [Барих] сонгож",
+        "номоо гартаа",
+        "барь.",
+        "",
+        "Барьсан номоос",
+        "$ ашиглан шивш."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            0,
+            2
+          ],
+          [],
+          [
+            1,
+            2
+          ],
+          [
+            0
+          ],
+          [],
+          [
+            0,
+            2
+          ],
+          [
+            1
+          ]
+        ],
+        "word_highlights2": []
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "MenuRightClick"
+        },
+        {
+          "type": "input_glyph",
+          "value": "Defend"
+        }
+      ]
+    },
+    "tutorial5o_gamepad": {
+      "sign": [
+        "Үүргэвчийн ном дээр $",
+        "дарж, [Барих] сонгож",
+        "номоо гартаа",
+        "барь.",
+        "",
+        "Барьсан номоос",
+        "$ ашиглан шивш."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            0,
+            2
+          ],
+          [],
+          [
+            1,
+            2
+          ],
+          [
+            0
+          ],
+          [],
+          [
+            0,
+            2
+          ],
+          [
+            1
+          ]
+        ],
+        "word_highlights2": []
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "MenuConfirm"
+        },
+        {
+          "type": "input_glyph",
+          "value": "Defend"
+        }
+      ]
+    },
+    "tutorial5p": {
+      "sign": [
+        "$",
+        "Хуйлмал зөвхөн",
+        "нэг удаа ашиглаж",
+        "болох онцгой ид",
+        "шид агуулж болно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            0
+          ],
+          [],
+          [
+            3
+          ],
+          [
+            1
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial4/sign_scroll.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5q": {
+      "sign": [
+        "Энэ хаалгыг зөвхөн",
+        "барьсан номоос",
+        "шившиж нээнэ.",
+        "",
+        "$ $"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [
+            3
+          ],
+          [],
+          [
+            2,
+            3
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/open_mk.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "Defend"
+        },
+        {
+          "type": "image",
+          "value": "*#items/images/spells/opening.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5q_gamepad": {
+      "sign": [
+        "Энэ хаалгыг зөвхөн",
+        "барьсан номоос",
+        "шившиж нээнэ.",
+        "",
+        "$ $"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [
+            3
+          ],
+          [],
+          [
+            2,
+            3
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/open_gamepad.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "Defend"
+        },
+        {
+          "type": "image",
+          "value": "*#items/images/spells/opening.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5r": {
+      "sign": [
+        "Ид шидийнхээ",
+        "ашгийг бүрэн гаргахын",
+        "тулд хурдан сэтгэх",
+        "шаардлагатай.",
+        "",
+        "Бэлтгэлээ ханга."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial5s": {
+      "sign": [
+        "Шалгуулахад бэлэн",
+        "болсон үедээ $ ашиглан",
+        "шидэт хаалгыг идэвхжүүл."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "word_highlights2": []
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "Use"
+        }
+      ]
+    },
+    "tutorial5t": {
+      "sign": [
+        "Шидтэний малгай INT",
+        "өсгөж, шидийн чадварыг",
+        "сайжруулж болно.",
+        "$",
+        "Адислагдсан малгай",
+        "INT бүр ч их нэмнэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [],
+          [
+            1
+          ],
+          [
+            4,
+            5
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_wizardhat.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5u": {
+      "sign": [
+        "Хөөрөх",
+        "",
+        "$ ",
+        "",
+        "Адал явдалтанд шингэн",
+        "болон нүхэн дээгүүр",
+        "чөлөөтэй гарах чадвар өгнө"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#items/images/spells/levitation.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5v": {
+      "sign": [
+        "Цэнэглэх хуйлмал",
+        "$ ",
+        "Энэ хуйлмалаар",
+        "шидэт таягийг",
+        "дахин цэнэглэнэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            1
+          ],
+          []
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_recharge.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5w": {
+      "sign": [
+        "Үргэлжлэх шившлэг",
+        "шившсэний дараа идэвхтэй",
+        "байж, MP зарцуулна.",
+        "",
+        "$",
+        "",
+        "Дахин шившээд",
+        "идэвхгүй болгоно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "word_highlights2": [
+          [
+            0,
+            1
+          ],
+          [
+            0
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/sustained.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#items/images/spells/light.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5x": {
+      "sign": [
+        "Нойр",
+        "",
+        "$ ",
+        "",
+        "Байг түр хугацаанд",
+        "унтуулна.",
+        "Унтаж буй байг",
+        "гэмтээвэл сэрнэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [],
+          [],
+          [],
+          [
+            2
+          ],
+          [
+            4
+          ],
+          [],
+          [
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/sleep.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#items/images/spells/sleep.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5y": {
+      "sign": [
+        "$$",
+        "MP аажмаар",
+        "нөхөгдөнө (RGN).",
+        "Эсвэл шид нөхөх",
+        "хандаар MP-гээ",
+        "шууд нөхөж болно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            0,
+            1
+          ],
+          [
+            2
+          ],
+          [],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_restoremp.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "image",
+          "value": "*#images/ui/CharSheet/HUD_CharSheet_REGEN_00.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5z": {
+      "sign": [
+        "Хүйтэн",
+        "",
+        "$ ",
+        "",
+        "Байг гэмтээж,",
+        "удаашруулна"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [],
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            0
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial5/cold.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#items/images/spells/cold.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5aa": {
+      "sign": [
+        "$ $ $",
+        "Илбэ, Гайхамшиг,",
+        "Нууц увдис бол",
+        "шидийн ур чадварыг",
+        "захирах гурван сургууль.",
+        "",
+        "Тус бүр өөрийн",
+        "шившлэг, шидэт",
+        "эд зүйлстэй."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            0,
+            1
+          ],
+          [
+            1
+          ],
+          [],
+          [
+            2
+          ],
+          [],
+          [],
+          [
+            2
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_sorcery.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_thaumaturgy.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_mysticism.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial5ab": {
+      "sign": [
+        "$",
+        "Шившлэгийн тэмдэг нь",
+        "түүгээр ур чадвар",
+        "ахих эсэхийг харуулна.",
+        "",
+        "Ур чадвараа сорих",
+        "тохирох шившлэгийг",
+        "ашиглан ахиул."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [],
+        "word_highlights2": [
+          [],
+          [
+            2
+          ],
+          [],
+          [],
+          [],
+          [
+            1,
+            2
+          ],
+          [],
+          [
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial5/sign_spell_training.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    }
+  }
+}

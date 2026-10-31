@@ -35,24 +35,24 @@
 
 # appearance names
 
-20 landguard#
-21 northborn#
-22 firebrand#
-23 hardbred#
-24 highwatch#
-25 gloomforge#
-26 pyrebloom#
-27 snakestone#
-28 windclan#
-29 warblood#
-30 millbound#
-31 sunstalk#
-32 claymount#
-33 stormward#
-34 tradefall#
-35 nighthill#
-36 baytower#
-37 whetsong#
+20 газрын харуул#
+21 умардын үр#
+22 галт цог#
+23 хат суусан#
+24 өндөр харуул#
+25 бүүдгэр дархны газар#
+26 галан цэцэг#
+27 могойн чулуу#
+28 салхин овог#
+29 дайчин цус#
+30 тээрмийн удам#
+31 нарны иш#
+32 шавар уул#
+33 шуурганы хамгаалалт#
+34 наймааны хишиг#
+35 шөнийн толгод#
+36 булангийн цамхаг#
+37 ирлэгчийн дуу#
 
 
 # appearance descriptions
@@ -101,76 +101,76 @@
 
 # baron herx subtitles
 
-70 "Best of luck, mortal."#
-71 "All the best, human."#
-72 "Well, good luck, human."#
-73 "Hahahahaha!"#
-74 "My minotaur is hungry!"#
-75 "My pet hungers for human flesh..."#
-76 "The minotaur is coming..."#
-77 "Hmm... another mortal at my doorstep..."#
-78 "Ahh, another one joins the fray..."#
-79 "Hmm... someone new..."#
-80 "You'd best not linger for much longer, mortal."#
-81 "What a pity if you should be here when He arrives..."#
-82 "You would be wise to abandon this place soon, mortal."#
-83 "Hmm... this one's still alive."#
-84 "Hmm, so you've made it this far..."#
-85 "What do you hope to accomplish down here, mortal?"#
-86 "You know nothing of the power that I've found here..."#
-87 "Face me if you dare, mortal. You will not survive."#
-88 "Meet me in my lair, mortal, and I will show you the meaning of pain."#
-89 "Welcome to your doom, mortal!"#
+70 «Амжилт хүсье, мөнх бус аа.»#
+71 «Сайн сайхныг хүсье, хүн минь.»#
+72 «За тэгвэл амжилт хүсье, хүн минь.»#
+73 «Хахахаха!»#
+74 «Миний минотавр өлсөж байна!»#
+75 «Миний тэжээвэр хүн мах идэхийг хүсэж байна...»#
+76 «Минотавр ирж байна...»#
+77 «Хмм... бас нэг мөнх бус амьтан үүдэнд минь...»#
+78 «Аан... бас нэг нь тулаанд нэгдлээ...»#
+79 «Хмм... шинэ зочин...»#
+80 «Удаан саатах хэрэггүй шүү, мөнх бус аа.»#
+81 «Түүнийг ирэхэд чи энд байвал харамсалтай л юм...»#
+82 «Энэ газраас эртхэн явсан нь дээр дээ, мөнх бус аа.»#
+83 «Хмм... энэ амьд хэвээр байна.»#
+84 «Хмм, чи ийм хол хүрээ юу...»#
+85 «Энд доор юу бүтээх санаатай байна, мөнх бус аа?»#
+86 «Миний эндээс олсон хүчийг чи огт мэдэхгүй...»#
+87 «Зоригтой бол надтай тулалд, мөнх бус аа. Чи амьд үлдэхгүй.»#
+88 «Үүрэнд минь ир, мөнх бус аа. Өвдөлт гэж юу болохыг үзүүлье.»#
+89 «Мөхөлдөө тавтай морил, мөнх бус аа!»#
 
 
 # monster names
 
-90 nothing#
+90 юу ч үгүй#
 91 хүн#
 92 харх#
 93 гоблин#
-94 slime#
+94 нялцгай#
 95 тролль#
-96 bat#
+96 сарьсан багваахай#
 97 аалз#
-98 ghoul#
+98 шарил идэгч#
 99 араг яс#
-100 scorpion#
+100 хилэнцэт хорхой#
 101 бяцхан чөтгөр#
 102 хавч#
 103 гном#
-104 demon#
+104 чөтгөр#
 105 суккуб#
-106 mimic#
-107 lich#
-108 minotaur#
-109 devil#
-110 shopkeeper#
+106 дуурайгч#
+107 лич#
+108 минотавр#
+109 шулмас#
+110 дэлгүүрийн эзэн#
 
 
 # monster names (plural)
 
-111 nothing#
-112 humans#
-113 rats#
-114 goblins#
-115 slimes#
-116 trolls#
-117 bats#
-118 spiders#
-119 ghouls#
-120 skeletons#
-121 scorpions#
-122 imps#
-123 crabs#
-124 gnomes#
-125 demons#
-126 succubi#
-127 mimics#
-128 liches#
-129 minotaurs#
-130 devils#
-131 shopkeepers#
+111 юу ч үгүй#
+112 хүмүүс#
+113 хархнууд#
+114 гоблинууд#
+115 нялцгайнууд#
+116 троллууд#
+117 сарьсан багваахайнууд#
+118 аалзнууд#
+119 шарил идэгчид#
+120 араг яснууд#
+121 хилэнцэт хорхойнууд#
+122 жижиг чөтгөрүүд#
+123 хавчнууд#
+124 гномууд#
+125 чөтгөрүүд#
+126 суккубууд#
+127 дуурайгчид#
+128 личүүд#
+129 минотаврууд#
+130 шулмасууд#
+131 дэлгүүрийн эзэд#
 
 
 # injury types
@@ -179,22 +179,22 @@
 133 цохив#
 134 хазав#
 135 цохив#
-136 slimes you#
-137 thumps you#
+136 таныг нялцайлгана#
+137 таныг дэлсэнэ#
 138 хазав#
 139 хазав#
 140 цохив#
 141 цохив#
 142 хатгав#
 143 маажив#
-144 pinches#
+144 чимхэнэ#
 145 цохив#
-146 mauls you#
-147 slaps you#
+146 таныг урна#
+147 таныг алгадана#
 148 хазав#
 149 цохив#
-150 pounds you#
-151 pounds you#
+150 таныг балбана#
+151 таныг балбана#
 152 цохив#
 
 
@@ -209,187 +209,187 @@
 
 # shopkeeper names
 
-158 Adrian#
-159 Bob#
-160 Carmack#
-161 Derek#
-162 Error#
-163 Felix#
-164 Geoff#
-165 Harold#
-166 Izchak#
-167 Jesse#
-168 Ken#
-169 Luke#
-170 Marty#
-171 Norian#
-172 Oliver#
-173 Peter#
-174 Quentin#
-175 Romero#
-176 Sidney#
-177 Tom#
-178 Ulf#
-179 Vern#
-180 Wallace#
-181 Xavier#
-182 Yoshi#
-183 Zeb#
+158 Адриан#
+159 Боб#
+160 Кармак#
+161 Дерек#
+162 Эррор#
+163 Феликс#
+164 Жефф#
+165 Харолд#
+166 Изчак#
+167 Жесси#
+168 Кен#
+169 Люк#
+170 Марти#
+171 Нориан#
+172 Оливер#
+173 Питер#
+174 Квентин#
+175 Ромеро#
+176 Сидни#
+177 Том#
+178 Ульф#
+179 Верн#
+180 Уоллес#
+181 Ксавьер#
+182 Ёши#
+183 Зеб#
 
 
 # shop names
 
-184 Arms & Armor#
-185 Hat Store#
-186 Jewelry Store#
-187 Bookstore#
-188 Potion Shop#
-189 Fine Staves#
-190 Delicatessen#
-191 Hardware Store#
-192 Hunting Goods#
-193 General Store#
+184 Зэвсэг, хуяг#
+185 Малгайны дэлгүүр#
+186 Үнэт эдлэлийн дэлгүүр#
+187 Номын дэлгүүр#
+188 Хандны дэлгүүр#
+189 Чанартай таягууд#
+190 Амттан, хүнс#
+191 Багажны дэлгүүр#
+192 Анчны хэрэглэл#
+193 Өргөн хэрэглээний дэлгүүр#
 
 
 # shopkeeper lines
 
-194 Greetings!#
-195 Hello!#
-196 Good day!#
+194 Мэнд хүргэе!#
+195 Сайн байна уу!#
+196 Өдрийн мэнд!#
 
 
 # shopkeeper sells item at an unfair price
 
-197 Thou hast received a good
-price for that!#
-198 Excellent choice!#
-199 That was a real bargain!#
+197 Та үүнийг тун сайхан
+үнээр авлаа!#
+198 Гайхалтай сонголт!#
+199 Ёстой хямд авлаа шүү!#
 
 
 # shopkeeper sells item at a fair price
 
-200 That is a fair trade.#
-201 I suppose that I can part
-with it.#
-202 Alright, but not for a penny
-less!#
+200 Шударга наймаа боллоо.#
+201 Үүнийг танд өгч
+болох л юм.#
+202 За тэгье, гэхдээ нэг ч
+зоосоор буулгахгүй!#
 
 
 # shopkeeper refuses a purchase
 
-203 No money, no item!#
-204 I shall not sell it for anything
-less.#
-205 Thou dost not have enough
-money!#
+203 Мөнгөгүй бол бараагүй!#
+204 Үүнээс хямд үнээр
+зарахгүй.#
+205 Таны мөнгө
+хүрэхгүй байна!#
 
 
 # shopkeeper buys item at an unfair price
 
-206 I shall gladly buy that!#
-207 I shall buy that from thee!#
-208 I shall buy it!#
+206 Үүнийг дуртайяа авъя!#
+207 Наадахыг танаас авъя!#
+208 Үүнийг авъя!#
 
 
 # shopkeeper buys item at a fair price
 
-209 I suppose I shall buy it.#
-210 I shall trade thee for that.#
-211 I shall buy that from thee.#
+209 За, авъя даа.#
+210 Наадахаар тань сольё.#
+211 Үүнийг танаас худалдаж авъя.#
 
 
 # shopkeeper refuses to buy an item
 
-212 I do not trade in that.#
-213 I am not interested in that.#
-214 No! I have no want for that.#
+212 Би тийм юм авдаггүй.#
+213 Наадахыг сонирхохгүй байна.#
+214 Үгүй! Наадах хэрэггүй.#
 
 
 # shopkeeper makes an offer to buy an item
 
-215 I would buy it for %dG.
+215 %dG-оор авъя.
 
-Trade? (Right click from
-inventory)#
+Арилжих уу? (Үүргэвчинд
+баруун товч дар)#
 
 
 # shopkeeper chit-chat
 
-216 They say rings of conflict
-create an aura of strife
-around a person.#
+216 Зөрчлийн бөгж зүүсэн
+хүний эргэн тойронд
+дайсагнал үүсдэг гэдэг.#
 
-217 Lamp oil? Rope? Bombs? Dost
-thou want it? It is thine, my
-friend, so long as thou
-hast enough rubies!#
+217 Дэнлүүний тос уу? Олс уу?
+Тэсрэх бөмбөг үү? Хэрэгтэй
+юу, найз минь? Бадмаараг
+чинь хүрвэл бүгд чинийх!#
 
-218 They say some items are
-enchanted with special
-magical effects.#
+218 Зарим эд зүйл онцгой
+ид шидийн нөлөөгөөр
+шившигдсэн байдаг гэдэг.#
 
-219 Slimes may be found in two
-colors. It is said that the
-blue ones are stronger.#
+219 Нялцгай хоёр өнгөтэй.
+Цэнхэр нь илүү хүчтэй
+байдаг гэлцдэг юм.#
 
-220 They say cursed items often
-do the opposite of what they
-were meant to do.#
+220 Хараалтай эд зүйл
+зориулалтынхаа эсрэг
+нөлөө үзүүлэх нь бий.#
 
-221 Trolls ignore thee if thou
-keepest thy distance!#
+221 Зайгаа баривал тролл
+таныг тоохгүй!#
 
-222 Weapons come at different
-levels of effectiveness. Wood
-and bronze are weak, but
-steel is very strong.#
+222 Зэвсгийн чадал ялгаатай.
+Мод, хүрэл сул боловч
+ган маш бат бөх
+байдаг.#
 
-223 The effects of potions wear
-off over time.#
+223 Хандны нөлөө цаг
+өнгөрөхөд арилдаг.#
 
-224 Beware of picture books.
-I knew a person who touched
-one, and suddenly, they were
-all alone on a tiny island.#
+224 Зурагт номоос болгоомжил.
+Нэг танил минь түүнд
+хүрээд гэнэт эзгүй жижиг
+арал дээр ганцаар үлдсэн.#
 
-225 Thy skills shall improve as
-thou makest use of them.#
+225 Дадлага хийх тусам
+таны чадвар сайжирна.#
 
-226 Goblins make good
-scavengers. Do not leave
-powerful items where they
-might find them!#
+226 Гоблин юм түүхдээ сайн.
+Хүчтэй эд зүйлийг
+тэдний олж болох
+газарт бүү орхи!#
 
-227 I may look weak, but I'm
-actually a master of the
-mystic arts.#
+227 Би сулхан харагдавч
+үнэндээ далдын ухааны
+мастер шүү.#
 
-228 Canned food can make thy
-hands greasy. Use a towel to
-keep thyself clean.#
+228 Лаазалсан хүнс гарыг
+тосдуулдаг. Алчуураар
+өөрийгөө цэвэрлээрэй.#
 
-229 Thou canst bind wounds with
-towels.#
+229 Алчуураар шархаа
+боож болно.#
 
-230 Art thou hungry? Rat meat
-is a staple down here.#
+230 Өлсөж байна уу? Энд
+хархны мах л гол хүнс.#
 
-231 Scorpion stings can paralyze
-thee. Watch out for them.#
+231 Хилэнцэт хорхойн хатгалт
+саажуулдаг. Болгоомжил.#
 
-232 They say Succubi enjoy
-trying to steal peoples'
-clothes.#
+232 Суккуб хүмүүсийн
+хувцсыг хулгайлах
+дуртай гэдэг.#
 
-233 The older food is, the more
-likely it is to make one sick
-when eaten.#
+233 Хүнс хуучрах тусам
+идэхэд өвчлөх
+магадлал нэмэгдэнэ.#
 
-234 Mirrors can do odd things at
-times.#
+234 Толь заримдаа хачин
+зүйл хийдэг.#
 
-235 Try to identify items before
-thou makest use of them.#
+235 Эд зүйлийг хэрэглэхээсээ
+өмнө танихыг хичээгээрэй.#
 
 
 # skill names
@@ -5301,8 +5301,8 @@ eShop-оос үзэх үү?#
 5393 Урилгаар#
 5394 Зөвхөн найзууд#
 5395 Нээлттэй өрөө#
-6018 Set Player
-Count#
+6018 Тоглогчийн тоо
+тохируулах#
 5396 %s болон
 %s хөөгдөнө!#
 5397 %s хөөгдөнө.
@@ -5548,20 +5548,20 @@ Epic Online өрөө үүсгэх үү?#
 5587 За#
 5588 «%s» хадгалалтыг
 устгахдаа итгэлтэй байна уу?#
-5589 Warning: This is a modded save game!
-No mods are currently loaded.
+5589 Анхаар: Энэ нь модтой хадгалалт!
+Одоогоор мод ачаалаагүй байна.
 
-Continuing may cause save data issues.
+Үргэлжлүүлбэл хадгалалтын өгөгдөлд алдаа гарч болно.
 
-Are you sure you want to load
-the save game "%s"?#
-5590 Warning: This is an unmodded save game!
-%d mod(s) are currently loaded.
+Та «%s» хадгалалтыг
+үнэхээр ачаалах уу?#
+5590 Анхаар: Энэ нь модгүй хадгалалт!
+Одоогоор %d мод ачаалагдсан байна.
 
-Continuing may invalidate achievements for this save.
+Үргэлжлүүлбэл энэ хадгалалтын амжилтууд идэвхгүй болж болно.
 
-Are you sure you want to load
-the save game "%s"?#
+Та «%s» хадгалалтыг
+үнэхээр ачаалах уу?#
 5591 Болих#
 5592 «%s» хадгалалтыг
 ачаалах уу?#
@@ -5643,78 +5643,78 @@ the save game "%s"?#
 
 # quit messages
 
-5700 You want to leave, eh?
-Then get out and don't come back!#
-5701 Fine geez#
-5702 Never!#
-5703 Did the wittle gobwins
-hurt your feewings?#
+5700 Явах гээд байна уу?
+Тэгвэл зайл, дахиж бүү ир!#
+5701 За за, сүртэй юм#
+5702 Хэзээ ч үгүй!#
+5703 Жаахан гоблинууд
+сэтгэлийг чинь шархлуулчихав уу?#
 5704 Тийм#
 5705 Үгүй#
-5706 Just cancel your plans.
-I'll wait.#
-5707 Good luck#
-5708 Sure#
-5709 You couldn't kill the lich anyway.#
-5710 You're right#
-5711 Oh yeah?#
-5712 Mad cuz bad!
-Git gud!#
-5713 I am anger#
+5706 Төлөвлөгөөгөө цуцалчих.
+Би хүлээе.#
+5707 Амжилт хүсье#
+5708 Тэгье#
+5709 Чи угаасаа личийг алж чадахгүй.#
+5710 Чиний зөв#
+5711 Тийм үү?#
+5712 Муу тоглодогтоо уурлав уу!
+Сайжир л даа!#
+5713 Би уур хилэн#
 5714 За#
-5715 The gnomes are laughing at you!
-Are you really gonna take that?#
-5716 Yeah :(#
-5717 No way!#
-5718 Don't go now! There's a
-boulder trap around the corner!#
-5719 Kill me#
-5720 Oh thanks#
-5721 I'll tell your parents
-you said a bad word.#
-5722 Poop#
-5723 Please no#
-5724 Please don't leave!
-There's more treasure to loot!#
-5725 Don't care#
-5726 More loot!#
-5727 Just be glad I can't summon
-the minotaur in real life.#
-5728 Too bad#
-5729 Point taken#
-5730 Off to leave a salty review I see?#
-5731 ... yeah#
-5732 No way!#
-5733 I'd leave too.
-This game looks just like Minecraft.#
-5734 lol#
-5735 Ouch#
-5736 Okay, I see how it is.
-See if I'm still here tomorrow.#
-5737 Whatever#
-5738 I love you!#
-5739 Don't quit now, you were
-going to win the next run.#
-5740 Don't lie#
-5741 Really?#
-5742 A wimpy adventurer
-would quit right now.#
-5743 Wimp time#
-5744 Am not!#
-5745 An adventurer is trapped
-and they need your help!#
-5746 Who cares#
-5747 I'll do it!#
-5748 A quitter says what?#
-5749 What?#
-5750 Not today#
-5751 You won't quit.
-You're just bluffing.#
-5752 Bet#
-5753 Ya got me.#
-5754 Say one more thing and
-I'm kicking you out of this game.#
-5755 Thing#
+5715 Гномууд чамайг шоолж байна!
+Үүнийг тэвчих гэж үү?#
+5716 Тийм ээ :(#
+5717 Яасан ч үгүй!#
+5718 Битгий яв! Булангийн цаана
+хадан урхи байгаа!#
+5719 Намайг алчих#
+5720 Өө, баярлалаа#
+5721 Чамайг муухай үг хэлсэн гэж
+аав ээжид чинь хэлнэ дээ.#
+5722 Баас#
+5723 Тэгж битгий л дээ#
+5724 Битгий яваач!
+Олзлох эрдэнэс зөндөө байна!#
+5725 Хамаагүй#
+5726 Дахиад олз!#
+5727 Бодит амьдралд минотавр дуудаж
+чадахгүйд минь баярла.#
+5728 Харамсалтай#
+5729 Ойлголоо#
+5730 Ууртай шүүмж бичихээр явлаа юу?#
+5731 ... тийм ээ#
+5732 Яасан ч үгүй!#
+5733 Би ч бас гарах байсан.
+Энэ тоглоом яг Minecraft шиг юм.#
+5734 хаха#
+5735 Ёох#
+5736 За, тийм байдаг байж.
+Маргааш би энд байх эсэхийг харъя.#
+5737 Яадаг ч юм#
+5738 Би чамд хайртай!#
+5739 Одоо бүү гар, дараагийн
+оролдлогоороо ялах гэж байсан шүү.#
+5740 Битгий худлаа ярь#
+5741 Нээрээ юу?#
+5742 Хулчгар адал явдалчин
+л яг одоо гарна.#
+5743 Хулчийх цаг#
+5744 Би хулчгар биш!#
+5745 Нэг адал явдалчин гацчихаад
+таны тусламжийг хүлээж байна!#
+5746 Хэнд хамаатай юм#
+5747 Би тусалъя!#
+5748 Бууж өгдөг хүн юу гэдэг гээч?#
+5749 Юу?#
+5750 Өнөөдөр л лав үгүй#
+5751 Чи гарахгүй ээ.
+Зүгээр л сүрдүүлж байгаа.#
+5752 Мөрийцье#
+5753 Намайг барьчихлаа.#
+5754 Дахиад ганц юм хэлбэл
+би чамайг тоглоомоос хөөнө.#
+5755 Юм#
 5756 ...#
 
 5757 Дэлгэц хэвийн харагдаж байна уу?
@@ -5753,17 +5753,17 @@ I'm kicking you out of this game.#
 5786 Онлайн тоглогч: ... #
 5787 Онлайн тоглогч: %d #
 
-5788 The network connection to the game has been lost.#
-5789 The network connection to the game has been lost.
+5788 Тоглоомын сүлжээний холболт тасарлаа.#
+5789 Тоглоомын сүлжээний холболт тасарлаа.
 
-Please re-establish your network connection and try again later.#
-5790 The network connection to the game has been lost.
+Холболтоо сэргээгээд дараа дахин оролдоно уу.#
+5790 Тоглоомын сүлжээний холболт тасарлаа.
 
-All game progress up to the current dungeon level has been saved.
+Гяндангийн одоогийн давхар хүртэлх явцыг хадгаллаа.
 
-Please re-establish your network connection and try again later.#
-5791 The network connection
-has been lost.#
+Холболтоо сэргээгээд дараа дахин оролдоно уу.#
+5791 Сүлжээний холболт
+тасарлаа.#
 
 5792 Та амь үрэгдлээ.#
 5793 Танай баг бүрэн ялагдлаа.#
@@ -5794,26 +5794,26 @@ has been lost.#
 5818 Угаалтуур#
 5819 Алхими#
 
-5820 We hardly knew ye.#
-5821 Rest In Peace.#
-5822 You will be missed.#
-5823 Until we meet again.#
-5824 Now at rest.#
-5825 Mourn not my death.#
-5826 Passed into memory.#
-5827 In Loving Memory.#
-5828 They sleep in memory.#
-5829 Gone but not forgotten.#
+5820 Бид чамайг таньж амжсангүй.#
+5821 Амар тайван нойрс доо.#
+5822 Чамайг үгүйлэх болно.#
+5823 Дахин уулзах хүртэл.#
+5824 Одоо тайван амар.#
+5825 Үхэлд минь бүү гашууд.#
+5826 Дурсамж болон үлдэв.#
+5827 Хайрлан дурсана.#
+5828 Тэд дурсамжид нойрсоно.#
+5829 Одсон ч мартагдаагүй.#
 5830 Үхлийн шалтгаан: #
 
-5831 Learn from your failure
-to complete the test!#
-5832 You will be revived if your
-party makes it to the next level.#
-5833 You placed at position (%d)
-in local high scores!#
-5834 You failed to place
-in local high scores.#
+5831 Шалгалтыг дуусгаж чадаагүй
+алдаанаасаа суралцаарай!#
+5832 Баг тань дараагийн давхарт
+хүрвэл та амилах болно.#
+5833 Та дотоод дээд онооны
+(%d)-р байранд орлоо!#
+5834 Та дотоод дээд онооны
+жагсаалтад орж чадсангүй.#
 
 5835 Хаах#
 5836 Танхим руу#
@@ -5821,41 +5821,41 @@ in local high scores.#
 5838 Дахин эхлэх#
 5839 За#
 
-5840 Congratulations, you've completed the first tutorial!
+5840 Баяр хүргэе, эхний сургалтаа дуусгалаа!
 
-You are now within the Hall of Trials,
-9 more trials are available to teach and test you.
+Та одоо Сорилтын танхимд байна.
+Танд зааж, шалгах өөр 9 сорилт бий.
 
-Explore the Hall of Trials to learn more or return
-to the main menu and start your adventure.#
+Сорилтын танхимаар аялж илүү ихийг сурах эсвэл
+үндсэн цэс рүү буцаж адал явдлаа эхлүүлээрэй.#
 5841 Сорилын танхим
 судлах#
 5842 Үндсэн цэс
 рүү буцах#
-5843 Reconnect the controller for Player #
-5844 Please reconnect your controller.#
-5845 RECONNECT CONTROLLER#
+5843 Удирдлагыг дахин холбоно уу. Тоглогч #
+5844 Удирдлагаа дахин холбоно уу.#
+5845 УДИРДЛАГА ДАХИН ХОЛБОХ#
 
-5846 Enabling Crossplay allows you to host and join
-lobbies via Epic Games, Inc.
+5846 Хамтарсан платформын тоглолтыг идэвхжүүлснээр
+Epic Games, Inc.-ийн өрөө үүсгэж, нэгдэж болно.
 
-By clicking Accept, you agree to share public info
-about your Steam profile with Epic Games, Inc.
-for the purpose of enabling crossplay.#
+«Зөвшөөрөх» дарснаар та Steam профайлынхаа
+нийтийн мэдээллийг Epic Games, Inc.-тэй
+хамтарсан тоглолт идэвхжүүлэхээр хуваалцахыг зөвшөөрнө.#
 
-5847 Would you like to link your device to an online
-account hosted by Epic Games, Inc. to play online?
+5847 Онлайн тоглохын тулд төхөөрөмжөө Epic Games, Inc.-ийн
+онлайн бүртгэлтэй холбох уу?
 
-By choosing Accept, you agree to share some info
-about your Nintendo console with Epic Games, Inc.
-for the purpose of enabling online play.#
+«Зөвшөөрөх» дарснаар Nintendo консолынхоо
+зарим мэдээллийг Epic Games, Inc.-тэй
+онлайн тоглолт идэвхжүүлэхээр хуваалцахыг зөвшөөрнө.#
 
-5848 Enabling online play allows you to host and join
-online lobbies hosted via Epic Games, Inc.
+5848 Онлайн тоглолтыг идэвхжүүлснээр Epic Games, Inc.-ийн
+онлайн өрөө үүсгэж, нэгдэж болно.
 
-By clicking Accept, you agree to share some info
-about your device with Epic Games, Inc. for the
-purpose of enabling online play.#
+«Зөвшөөрөх» дарснаар төхөөрөмжийнхөө зарим
+мэдээллийг Epic Games, Inc.-тэй онлайн тоглолт
+идэвхжүүлэх зорилгоор хуваалцахыг зөвшөөрнө.#
 
 5849 Зөвшөөрөх#
 5850 Нууцлалын
@@ -5896,9 +5896,9 @@ Workshop:
 ИДЭВХГҮЙ#
 5875 АМЖИЛТ
 ИДЭВХТЭЙ#
-5876 Note: Not all modded files can be
-verified prior to game start to
-ensure Achievements are enabled.#
+5876 Анхаар: Амжилтууд идэвхтэй эсэхийг
+батлахын тулд модын бүх файлыг
+тоглолтоос өмнө шалгах боломжгүй.#
 5877 Хаах#
 5878 Модтой
 тоглох#
@@ -5908,200 +5908,200 @@ ensure Achievements are enabled.#
 үзэх#
 5881 Workshop
 нээх#
-5882 Browse community created mods and 'subscribe' to
-download mods for use.
+5882 Олон нийтийн бүтээсэн модыг үзэж,
+«бүртгүүлэх» дарж татан ашиглана.
 
-Subscribing while Barony is running may require
-closing the game in order for Steam to begin downloading.
+Barony ажиллаж байхад бүртгүүлсэн бол Steam татаж
+эхлэхийн тулд тоглоомыг хаах шаардлагатай байж болно.
 
-Current game version: #
-5883 Your workshop items
-will now reload.#
+Тоглоомын одоогийн хувилбар: #
+5883 Таны Workshop бүтээлүүд
+одоо дахин ачаална.#
 5884 За#
 5885 Болих#
 5886 Хоосон мод
 үүсгэх#
-5887 This will create a new mod folder inside the Barony
-/mods/ directory with a blank file structure
-and default preview.png file.#
+5887 Энэ нь Barony-ийн /mods/ хавтаст
+хоосон бүтэцтэй шинэ модын хавтас болон
+анхны preview.png файл үүсгэнэ.#
 5888 Шинэ хавтасны нэр#
 5889 Батлах#
 5890 Болих#
-5891 Error: Folder name cannot
- be blank.#
-5892 New folder: '%s'
-created successfully!#
-5893 Error: A folder already exists
-named '%s'#
-5894 Error: Unable to write folder
-'%s'#
+5891 Алдаа: Хавтасны нэр
+хоосон байж болохгүй.#
+5892 Шинэ «%s» хавтас
+амжилттай үүслээ!#
+5893 Алдаа: «%s» нэртэй
+хавтас аль хэдийн байна.#
+5894 Алдаа: «%s» хавтаст
+бичих боломжгүй.#
 5895 Гарчиг#
 5896 Тайлбар#
-5897 UPDATE WORKSHOP MOD#
-5898 NEW WORKSHOP MOD#
-5899 Upload a folder within the /mods/ directory for your mod.
-Files/tags may be changed within this menu after creation.#
-5900 Submitting an update changes the tagged game version.
-Choosing a new folder or changing tags is optional.#
-5901 Folder to Upload:#
-5902 No folder selected#
-5903 Choose...#
-5904 Error: Parent folder
-must be "mods".#
-5905 Error: Could not open folder:#
-5906 Title:#
-5907 Edit...#
-5908 This can be edited later with a larger length
-within the Steam Workshop page after creation.#
-5909 Enter a title for this item#
+5897 WORKSHOP МОД ШИНЭЧЛЭХ#
+5898 ШИНЭ WORKSHOP МОД#
+5899 Өөрийн модын /mods/ хавтас доторх нэг хавтсыг байршуулна.
+Үүсгэсний дараа энэ цэсэнд файл, шошгыг өөрчилж болно.#
+5900 Шинэчлэлт илгээхэд тоглоомын хувилбарын шошго өөрчлөгдөнө.
+Шинэ хавтас сонгох, шошго солих нь заавал биш.#
+5901 Байршуулах хавтас:#
+5902 Хавтас сонгоогүй#
+5903 Сонгох...#
+5904 Алдаа: Эх хавтас
+«mods» байх ёстой.#
+5905 Алдаа: Хавтсыг нээж чадсангүй:#
+5906 Гарчиг:#
+5907 Засах...#
+5908 Үүсгэсний дараа Steam Workshop хуудсанд
+илүү урт гарчиг оруулж засаж болно.#
+5909 Энэ бүтээлийн гарчгийг оруулна уу#
 5910 Батлах#
 5911 Болих#
-5912 For existing items, visit the
-Workshop page to make edits.#
-5913 Description:#
-5914 Enter a description for this item#
-5915 For existing items, visit the
-Workshop page to make edits.#
-5916 Tags:#
-5917 Manage In
-Workshop#
-5918 You can view and edit most attributes of your mod
-directly on the Workshop page, such as longer
-descriptions with HTML support, setting visibility to public
-or adding screenshots to the carousel.
+5912 Байгаа бүтээлийг засах бол
+Workshop хуудсанд зочилно уу.#
+5913 Тайлбар:#
+5914 Энэ бүтээлийн тайлбарыг оруулна уу#
+5915 Байгаа бүтээлийг засах бол
+Workshop хуудсанд зочилно уу.#
+5916 Шошго:#
+5917 Workshop дээр
+удирдах#
+5918 Модын ихэнх шинжийг Workshop хуудсанд шууд
+харж, засаж болно. Жишээ нь HTML дэмждэг урт
+тайлбар оруулах, нийтэд харагдах болгох,
+зургийн жагсаалтад дэлгэцийн зураг нэмэх боломжтой.
 
-If you need to edit the preview image or modded files,
-use the upload window here in-game instead.#
+Харин урьдчилан харах зураг эсвэл модын файлыг засах бол
+тоглоомын энэ байршуулах цонхыг ашиглаарай.#
 5919 Workshop
 нээх#
-5920 Your workshop items
-will now reload.#
-5921 Submit
-Update#
-5922 Submit New
-Workshop Mod#
-5923 No new files selected:
-Only tags/version will be modified.#
-5924 New files will be uploaded and
-tags/version will be modified.#
-5925 Proceed#
+5920 Таны Workshop бүтээлүүд
+одоо дахин ачаална.#
+5921 Шинэчлэлт
+илгээх#
+5922 Шинэ Workshop
+мод илгээх#
+5923 Шинэ файл сонгоогүй:
+Зөвхөн шошго, хувилбар өөрчлөгдөнө.#
+5924 Шинэ файлууд байршиж,
+шошго, хувилбар өөрчлөгдөнө.#
+5925 Үргэлжлүүлэх#
 5926 Болих#
-5927 Starting upload#
-5928 Modifying existing item#
-5929 Creating item#
-5930 Waiting on update handle#
-5931 Setting title#
-5932 Setting description#
-5933 Setting tags#
-5934 Preparing content#
-5935 Note: No preview.png image found#
-5936 First upload.#
-5937 Item updated.#
-5938 Uploading content, this may take
-some time.#
-5939 Timed out while uploading,
-retrying 1/3...#
-5940 Timed out while uploading,
-retrying 2/3...#
-5941 Timed out while uploading,
-retrying 3/3...#
-5942 Timed out while uploading,
-try again later.#
-5943 Successfully uploaded content!#
-5944 Unknown error#
-5945 Waiting#
-5946 Error: Not logged in.#
-5947 Error: No content folder
-selected to upload.#
-5948 Error: Could not read
-content folder.#
-5949 Starting upload#
-5950 Please
-wait#
-5951 View Item#
-5952 Retry
-Upload#
-5953 Error code: #
-5954 CUSTOM DIFFICULTY#
-5955 No subscribed Workshop items found.#
+5927 Байршуулж эхэлж байна#
+5928 Байгаа бүтээлийг өөрчилж байна#
+5929 Бүтээл үүсгэж байна#
+5930 Шинэчлэлтийн холболтыг хүлээж байна#
+5931 Гарчиг тохируулж байна#
+5932 Тайлбар тохируулж байна#
+5933 Шошго тохируулж байна#
+5934 Агуулга бэлтгэж байна#
+5935 Анхаар: preview.png зураг олдсонгүй#
+5936 Анхны байршуулалт.#
+5937 Бүтээл шинэчлэгдлээ.#
+5938 Агуулга байршуулж байна,
+багагүй хугацаа зарцуулж магадгүй.#
+5939 Байршуулах хугацаа хэтэрлээ,
+1/3 удаа дахин оролдож байна...#
+5940 Байршуулах хугацаа хэтэрлээ,
+2/3 удаа дахин оролдож байна...#
+5941 Байршуулах хугацаа хэтэрлээ,
+3/3 удаа дахин оролдож байна...#
+5942 Байршуулах хугацаа хэтэрлээ,
+дараа дахин оролдоно уу.#
+5943 Агуулга амжилттай байршлаа!#
+5944 Үл мэдэгдэх алдаа#
+5945 Хүлээж байна#
+5946 Алдаа: Нэвтрээгүй байна.#
+5947 Алдаа: Байршуулах агуулгын
+хавтас сонгоогүй байна.#
+5948 Алдаа: Агуулгын хавтсыг
+уншиж чадсангүй.#
+5949 Байршуулж эхэлж байна#
+5950 Түр
+хүлээнэ үү#
+5951 Бүтээл үзэх#
+5952 Дахин
+байршуулах#
+5953 Алдааны код: #
+5954 ТОХИРУУЛСАН ХҮНДРЭЛ#
+5955 Бүртгүүлсэн Workshop бүтээл олдсонгүй.#
 
 5956 Өмсөх#
 5957 Хаях#
-5958 SPELLS#
-5959 Chest#
+5958 ШИВШЛЭГҮҮД#
+5959 Авдар#
 5960 Бүгдийг авах#
-5961 Skill Level:#
-5962 Associated Stat:#
+5961 Чадварын түвшин:#
+5962 Холбогдох үзүүлэлт:#
 5963 Довтлох#
 5964 Гэтэх#
-5965 Cast Spell#
-5966 Map#
-5967 Log#
-5968 CHARACTER SHEET#
-5969 GOLD#
+5965 Шившлэг хэрэглэх#
+5966 Газрын зураг#
+5967 Бүртгэл#
+5968 ДҮРИЙН ҮЗҮҮЛЭЛТ#
+5969 АЛТ#
 
 5970 Довтлох#
 5971 Ашиглах#
-5972 Cast Spell#
+5972 Шившлэг хэрэглэх#
 5973 Хамгаалах#
 5974 Гэтэх#
-5975 Character Status#
-5976 Pause Game#
-5977 Spell List#
-5978 Skill Sheet#
-5979 Autosort Inventory#
-5980 Command NPC#
-5981 Show NPC Commands#
-5982 Cycle NPCs#
+5975 Дүрийн төлөв#
+5976 Тоглолт түр зогсоох#
+5977 Шившлэгийн жагсаалт#
+5978 Чадварын үзүүлэлт#
+5979 Үүргэвч автоматаар эрэмбэлэх#
+5980 Туслахад тушаах#
+5981 Туслахын тушаал харуулах#
+5982 Туслахууд сэлгэх#
 5983 Газрын зураг#
 5984 Тэмдэглэл#
-5985 Toggle Minimap#
-5986 Hotbar Left#
-5987 Hotbar Right#
-5988 Hotbar Up / Select#
-5989 Hotbar Down / Cancel#
-5990 Interact Tooltip Next#
-5991 Interact Tooltip Prev#
-5992 Expand Inventory Tooltip#
-5993 Quick Turn#
+5985 Жижиг зураг сэлгэх#
+5986 Шуурхай мөр зүүн#
+5987 Шуурхай мөр баруун#
+5988 Шуурхай мөр дээш / Сонгох#
+5989 Шуурхай мөр доош / Болих#
+5990 Дараагийн үйлдлийн тайлбар#
+5991 Өмнөх үйлдлийн тайлбар#
+5992 Үүргэвчийн тайлбар дэлгэх#
+5993 Огцом эргэх#
 5994 Чат#
-5995 Move Forward#
-5996 Move Left#
-5997 Move Backward#
-5998 Move Right#
-5999 Turn Left#
-6000 Turn Right#
-6001 Look Up#
-6002 Look Down#
-6003 Screenshot#
-6004 Hotbar Slot 1#
-6005 Hotbar Slot 2#
-6006 Hotbar Slot 3#
-6007 Hotbar Slot 4#
-6008 Hotbar Slot 5#
-6009 Hotbar Slot 6#
-6010 Hotbar Slot 7#
-6011 Hotbar Slot 8#
-6012 Hotbar Slot 9#
-6013 Hotbar Slot 10#
+5995 Урагш явах#
+5996 Зүүн явах#
+5997 Хойш явах#
+5998 Баруун явах#
+5999 Зүүн эргэх#
+6000 Баруун эргэх#
+6001 Дээш харах#
+6002 Доош харах#
+6003 Дэлгэцийн зураг авах#
+6004 Шуурхай мөрийн нүд 1#
+6005 Шуурхай мөрийн нүд 2#
+6006 Шуурхай мөрийн нүд 3#
+6007 Шуурхай мөрийн нүд 4#
+6008 Шуурхай мөрийн нүд 5#
+6009 Шуурхай мөрийн нүд 6#
+6010 Шуурхай мөрийн нүд 7#
+6011 Шуурхай мөрийн нүд 8#
+6012 Шуурхай мөрийн нүд 9#
+6013 Шуурхай мөрийн нүд 10#
 
-6014 Standard#
+6014 Ердийн#
 6015 Мэргэжилтэн#
 6016 Сонгодог#
-6017 Minimal#
+6017 Хамгийн цөөн#
 #6018 was missed earlier, so it is used.
 
-6019 Populate Hotbar#
-6020 Preload Music Files#
-6021 Preloading improves playback performance but increases system memory usage. (Applied next game launch)#
-6022 Holiday Themes#
-6023 Festive Content#
-6024 Toggle holiday themed content on or off as desired. Bah, humbug!#
-6025 Credits#
-6026 Display#
-6027 View credits for holiday content.#
-6028 Next
-Page#
+6019 Шуурхай мөр дүүргэх#
+6020 Хөгжмийн файлыг урьдчилан ачаалах#
+6021 Урьдчилан ачаалбал хөгжим жигд тоглох боловч санах ой илүү хэрэглэнэ. (Дараагийн нээлтээр үйлчилнэ)#
+6022 Баярын загвар#
+6023 Баярын агуулга#
+6024 Баярын агуулгыг хүссэнээрээ асааж, унтраана. Пөөх, ямар ядаргаатай юм!#
+6025 Бүтээгчид#
+6026 Харуулах#
+6027 Баярын агуулгын бүтээгчдийг харах.#
+6028 Дараагийн
+хуудас#
 6029 Хаах#
 
 # Scarony Barony Credits:
@@ -6195,207 +6195,207 @@ underworld01 - Deck the Halls by Myuu
 underworld02 - Winter Trouble by Myuu
 intro - God Rest Ye Merry Gentlemen by NaturesEye#
 
-6043 No holiday currently active.#
+6043 Одоогоор идэвхтэй баяр алга.#
 
-6044 Call Out#
-6045 Push item#
-6046 Chill#
-6047 Haunt#
+6044 Дуудах#
+6045 Эд зүйл түлхэх#
+6046 Жиндүүлэх#
+6047 Сүнсээр айлгах#
 6048 Түлхэх#
-6049 View Wheel#
-6050 SPECTATE#
-6051 SPAWN AS GHOST#
-6052 Your party has been wiped out...#
-6053 CUSTOMIZE RULES#
-6054 CUSTOM SEED#
-6055 Enter seed name...#
+6049 Дугуй цэс харах#
+6050 АЖИГЛАХ#
+6051 СҮНС БОЛЖ ТӨРӨХ#
+6052 Танай баг бүрэн устжээ...#
+6053 ДҮРЭМ ТОХИРУУЛАХ#
+6054 ДУРЫН ҮР#
+6055 Үрийн нэр оруулна уу...#
 6056 Байхгүй#
-6057 Here lies
+6057 Энд нойрсоно
 %s
-Death by: %s#
-6058 Penniless-mode active, gold pickup is disabled!#
-6059 Penniless-mode deactivated, gold pickup is enabled.#
-6060 Player savefile is not eligible for Penniless Achievement. Restart game to reset.#
-6061 Unable to connect to global leaderboards.
-Try again later.#
-6062 Top 100#
-6063 Near me#
-6064 Wins#
-6065 Losses#
-6066 Top Scores#
-6067 Best Times#
-6068 Solo#
-6069 Co-op#
-6070 Humans#
-6071 Monsters#
-6072 Normal#
+Үхлийн шалтгаан: %s#
+6058 Зоосгүй горим идэвхтэй, алт авах боломжгүй!#
+6059 Зоосгүй горим унтарч, алт авах боломжтой боллоо.#
+6060 Энэ хадгалалт Зоосгүй амжилт авах эрхгүй. Эрхийг сэргээхийн тулд тоглолтоо дахин эхлүүл.#
+6061 Нийт тоглогчдын эрэмбэд холбогдож чадсангүй.
+Дараа дахин оролдоно уу.#
+6062 Шилдэг 100#
+6063 Миний ойролцоо#
+6064 Ялалт#
+6065 Ялагдал#
+6066 Дээд оноо#
+6067 Шилдэг хугацаа#
+6068 Ганцаарчилсан#
+6069 Хамтарсан#
+6070 Хүмүүс#
+6071 Мангасууд#
+6072 Ердийн#
 6073 Хүнд#
-6074 Apply
-Filter#
-6075 Citadel#
+6074 Шүүлтүүр
+хэрэглэх#
+6075 Цайз#
 6076 Сонгодог#
-6077 Hell#
-6078 Leaderboard Filters#
-6079 Leaderboard
-Filters#
-6080 Depth#
-6081 The mimic swings open!#
-6082 Wait! That's a mimic!#
-6083 You lock the mimic!#
-6084 The mimic evades your skeleton key!#
-6085 The mimic eats your %s!#
-6086 The %s poisons you!#
-6087 Hey! That %s stole your %s!#
-6088 But the goggles protect you!#
-6089 Your goggles protect you from the explosion!#
-6090 The goggles do nothing!#
-6091 *cough*#
-6092 Your hat is sweltering!#
+6077 Там#
+6078 Эрэмбийн шүүлтүүр#
+6079 Эрэмбийн
+шүүлтүүр#
+6080 Гүн#
+6081 Дуурайгч ангайлаа!#
+6082 Байз! Наадах чинь дуурайгч!#
+6083 Та дуурайгчийг түгжлээ!#
+6084 Дуурайгч таны бүх цоожны түлхүүрээс бултлаа!#
+6085 Дуурайгч таны %s зүйлийг идчихлээ!#
+6086 %s амьтан таныг хордууллаа!#
+6087 Хөөе! %s таны %s зүйлийг хулгайллаа!#
+6088 Гэхдээ хамгаалалтын шил таныг аварлаа!#
+6089 Хамгаалалтын шил таныг дэлбэрэлтээс аварлаа!#
+6090 Хамгаалалтын шил юу ч хийсэнгүй!#
+6091 *ханиалгав*#
+6092 Таны малгай бүгчим байна!#
 6093 ATK#
 6094 AC#
 6095 PWR#
 6096 RES#
 6097 RGN#
 6098 WGT#
-6099 Error: Unable to load save file: "%s".
-Error code: %d
+6099 Алдаа: «%s» хадгалалтыг ачаалж чадсангүй.
+Алдааны код: %d
 
-Could not verify required DLC installed
-to load this save file.
+Энэ хадгалалтыг ачаалахад шаардагдах
+нэмэлт агуулга суусан эсэхийг баталж чадсангүй.
 
-Check DLC is installed correctly and
-relaunch the game to try again.#
-6100 Could not verify DLC is installed
-to load your matching save file.#
-6101 You fulfilled your bounty for %d gold!#
-6102 You failed to finish your bounty target.#
-6103 Effects Modifier:#
-6104 Your shot catches the %s unaware!#
-6105 Your shot catches %s unaware!#
+Нэмэлт агуулгаа зөв суулгасан эсэхийг шалгаад
+тоглоомыг дахин нээж оролдоно уу.#
+6100 Тохирох хадгалалтыг ачаалахад
+шаардлагатай нэмэлт агуулгыг баталж чадсангүй.#
+6101 Та шагналт даалгавраа биелүүлж %d алт авлаа!#
+6102 Та шагналт байгаа устгаж чадсангүй.#
+6103 Нөлөөний хувиргагч:#
+6104 Таны сум %s амьтныг гэнэдүүллээ!#
+6105 Таны сум %s этгээдийг гэнэдүүллээ!#
 6106 / 100 XP#
 6107 XP#
-6108 You do not yet have any 
-entries on this leaderboard 
-to find nearby scores.#
-6109 Note: This challenge ends soon!
-Finish before the expiry time
-to make it to the leaderboards!#
-6110 One-Shot
-Challenge#
-6111 Unlimited
-Challenge#
-6112 Event
-Challenge#
-6113 Checking connectivity#
-6114 Unable to load challenges.
-Please try again later.#
-6115 Unable to load challenge.
-Please try again later.#
-6116 Event update in progress.
-Please try again in a few minutes.#
-6117 Challenges are currently
-unavailable.#
-6118 Next
-Event:#
-6119 SEED EVENTS#
-6120 One chance to make the
-leaderboards! Local play only.#
-6121 Tackle weekly set dungeons!
-For solo and multiplayer.#
-6122 Variety event twists each weekend!
-For solo and multiplayer.#
-6123 Savegames do not match.
-LID mismatch.#
-6124 Joined lobby is not hosting
-your selected challenge.#
-6125 You have already submitted an attempt
-for this challenge!
+6108 Энэ эрэмбэд ойролцоо оноо хайх
+өөрийн үзүүлэлт танд
+хараахан алга.#
+6109 Анхаар: Энэ сорилт удахгүй дуусна!
+Эрэмбэд бүртгүүлэхийн тулд
+хугацаанаас нь өмнө дуусгаарай!#
+6110 Нэг оролдлогын
+сорилт#
+6111 Хязгааргүй
+сорилт#
+6112 Үйл явдлын
+сорилт#
+6113 Холболт шалгаж байна#
+6114 Сорилтуудыг ачаалж чадсангүй.
+Дараа дахин оролдоно уу.#
+6115 Сорилтыг ачаалж чадсангүй.
+Дараа дахин оролдоно уу.#
+6116 Үйл явдал шинэчлэгдэж байна.
+Хэдэн минутын дараа дахин оролдоно уу.#
+6117 Одоогоор сорилтууд
+боломжгүй байна.#
+6118 Дараагийн
+үйл явдал:#
+6119 ҮРИЙН ҮЙЛ ЯВДЛУУД#
+6120 Эрэмбэд орох ганцхан
+боломж! Зөвхөн дотоод тоглолт.#
+6121 Долоо хоногийн тогтмол гянданг туул!
+Ганцаар болон олуулаа тоглоно.#
+6122 Амралтын өдрөөр өөр өөр сорилт!
+Ганцаар болон олуулаа тоглоно.#
+6123 Хадгалалтууд таарахгүй байна.
+LID зөрүүтэй.#
+6124 Нэгдсэн өрөө таны сонгосон
+сорилтыг явуулахгүй байна.#
+6125 Та энэ сорилтод оролдлогоо
+аль хэдийн илгээсэн байна!
 
-You may replay this challenge, though your
-scored leaderboard rank will not change.
+Дахин тоглож болно, гэхдээ таны
+эрэмбийн оноо өөрчлөгдөхгүй.
 
-Would you still like to replay this challenge?#
-6126 Myths & Outcasts DLC is required 
-to replay this challenge!
-
-
-#
-6127 Legends & Pariahs DLC is required
-to replay this challenge!
+Энэ сорилтыг дахин тоглох уу?#
+6126 Энэ сорилтыг дахин тоглоход
+Myths & Outcasts нэмэлт агуулга шаардлагатай!
 
 
 #
-6128 Leaderboards Updated!#
-6129 Unable to join lobby.
-Chosen challenge does not
-match host challenge.#
-6130 Unable to join lobby.
-Joining challenges is
-not supported.#
-6131 Seed events require mods
-to be unloaded before starting.#
-6132 Lobby requires mods to be
-unloaded before joining.#
-6133 Savefile requires mods to be
-unloaded before loading.#
+6127 Энэ сорилтыг дахин тоглоход
+Legends & Pariahs нэмэлт агуулга шаардлагатай!
+
+
+#
+6128 Эрэмбэ шинэчлэгдлээ!#
+6129 Өрөөнд нэгдэж чадсангүй.
+Сонгосон сорилт эзнийхтэй
+таарахгүй байна.#
+6130 Өрөөнд нэгдэж чадсангүй.
+Сорилтод нэгдэхийг
+дэмжихгүй байна.#
+6131 Үрийн үйл явдлыг эхлүүлэхээс
+өмнө модыг салгах шаардлагатай.#
+6132 Өрөөнд нэгдэхээс өмнө
+модыг салгах шаардлагатай.#
+6133 Хадгалалт ачаалахаас өмнө
+модыг салгах шаардлагатай.#
 6134 
-New rank achieved for the
 %s
-leaderboards!#
-6135 Changing class is not
-allowed in this challenge!#
-6136 Changing race is not
-allowed in this challenge!#
-6137 ACHIEVEMENTS DISABLED
-(CHALLENGE EVENT)#
-6138 ACHIEVEMENTS DISABLED (CHALLENGE EVENT)#
-6139 Challenge Event!#
+эрэмбэд шинэ
+байр эзэллээ!#
+6135 Энэ сорилтод ангиллаа
+солих хориотой!#
+6136 Энэ сорилтод язгуураа
+солих хориотой!#
+6137 АМЖИЛТУУД ИДЭВХГҮЙ
+(ҮЙЛ ЯВДЛЫН СОРИЛТ)#
+6138 АМЖИЛТУУД ИДЭВХГҮЙ (ҮЙЛ ЯВДЛЫН СОРИЛТ)#
+6139 Үйл явдлын сорилт!#
 # Audio speaker mode settings
-6140 Output Configuration#
+6140 Гаралтын тохиргоо#
 6141 Анхных#
-6142 Raw#
-6143 Mono#
-6144 Stereo#
-6145 Quad#
-6146 Surround Sound#
-6147 5.1 Surround Sound#
-6148 7.1 Surround Sound#
-6149 7.1.4 Surround Sound#
-6150 The desired speaker configuration.#
-6151 No scores found with current filter.
-Try different leaderboard filters
-to see more results.#
-6152 fails the challenge.#
-6153 Challenge#
-6154 Challenge Progress#
-6155 Party Kill Count#
-6156 Challenge Complete!#
-6157 Furniture Destroyed#
-6158 Details:#
-6159 Race:#
-6160 Class:#
+6142 Шууд гаралт#
+6143 Нэг суваг#
+6144 Хоёр суваг#
+6145 Дөрвөн суваг#
+6146 Хүрээлэх дуу#
+6147 5.1 хүрээлэх дуу#
+6148 7.1 хүрээлэх дуу#
+6149 7.1.4 хүрээлэх дуу#
+6150 Хүссэн чанга яригчийн тохиргоо.#
+6151 Одоогийн шүүлтүүрт тохирох оноо алга.
+Өөр эрэмбийн шүүлтүүр ашиглаж
+илүү олон үр дүн харна уу.#
+6152 сорилтод бүдэрлээ.#
+6153 Сорилт#
+6154 Сорилтын явц#
+6155 Багийн устгалын тоо#
+6156 Сорилт дууслаа!#
+6157 Эвдсэн тавилга#
+6158 Дэлгэрэнгүй:#
+6159 Язгуур:#
+6160 Ангилал:#
 6161 Дурын#
-6162 Game Mode:#
-6163 Active Event:#
-6164 Skills:#
-6165 Make Way For
+6162 Тоглолтын горим:#
+6163 Идэвхтэй үйл явдал:#
+6164 Чадварууд:#
+6165 Зам тавь!
 %s
-the Breaker!#
-6166 Tremble Before
+Эвдэгч ирж байна!#
+6166 Чичрэгтүн!
 %s
-the Slayer!#
-6167 Quitting here does not count to
-your One-Shot score attempt.#
-6168 Quitting now will end this run and
-submit it as your One-Shot score.#
-6169 New Seed Events Available!#
-6170 Visit the Seed Events menu
-to participate.#
-6171 Unlock the Achievement:
-"%s"
-to play this class combination.#
+Ангууч ирж байна!#
+6167 Энд гарвал таны Нэг оролдлогын
+онооны оролдлогод тооцохгүй.#
+6168 Одоо гарвал тоглолт дуусч,
+Нэг оролдлогын оноог илгээнэ.#
+6169 Шинэ үрийн үйл явдлууд нээгдлээ!#
+6170 Оролцохын тулд Үрийн үйл
+явдлууд цэсэнд зочлоорой.#
+6171 Энэ ангиллын хослолоор тоглохын тулд
+«%s»
+амжилтыг нээгээрэй.#
 6172 
-Magic Required: %d (%s)#
+Шаардлагатай ид шид: %d (%s)#
 6173 Гяндангийн давхар:#
 6174 Оршин суугчид#
 6175 Эд зүйл#
@@ -6437,367 +6437,367 @@ Magic Required: %d (%s)#
 6211 СУДАЛГАА#
 6212 ДЭЛГҮҮРИЙН САМБАР#
 # breakables
-6213 jar#
-6214 basket#
-6215 casket#
-6216 cage#
-6217 urn#
-6218 sack#
-6219 sarcophagus#
-6220 pot#
-6221 cart#
-6222 pallet#
-6223 crate#
-6224 tent#
-6225 reliquary#
-6226 bulb#
-6227 iron maiden#
-6228 wheelbarrow#
+6213 ваар#
+6214 сагс#
+6215 жижиг авс#
+6216 тор#
+6217 чандарын сав#
+6218 шуудай#
+6219 чулуун авс#
+6220 тогоо#
+6221 тэрэг#
+6222 тавиур#
+6223 хайрцаг#
+6224 майхан#
+6225 шүтээний хайрцаг#
+6226 булцуу#
+6227 өргөст төмөр авс#
+6228 түрдэг тэрэг#
 6229 болор#
-6230 cabinet#
-6231 capsule#
-6232 barrel#
-6233 stump#
-6234 A %s jumps out from the %s!#
-6235 You are knocked back by a torrent!#
-6236 You are sprayed with grease!#
-6237 You are sprayed with magma!#
-6238 %s is sprayed with burning magma!#
-6239 The %s is sprayed with burning magma!#
-6240 %s is sprayed with corrosive sludge!#
-6241 The %s is sprayed with corrosive sludge!#
-6242 You are sprayed with corrosive sludge!#
-6243 %s is sprayed with grease!#
-6244 The %s is sprayed with grease!#
-6245 Your hands become slippery!#
-6246 Your shield slips through your fingers!#
-6247 SORT BY LOCKED FIRST#
-6248 A %s jumps out!#
+6230 шүүгээ#
+6231 бортого#
+6232 торх#
+6233 хожуул#
+6234 %s нь %s зүйлээс үсрэн гарлаа!#
+6235 Хүчтэй урсгал таныг хойш шидлээ!#
+6236 Тос танд цацагдлаа!#
+6237 Хайлмаг танд цацагдлаа!#
+6238 %s дээр халуун хайлмаг цацагдлаа!#
+6239 %s амьтан дээр халуун хайлмаг цацагдлаа!#
+6240 %s дээр идэмхий лаг цацагдлаа!#
+6241 %s амьтан дээр идэмхий лаг цацагдлаа!#
+6242 Идэмхий лаг танд цацагдлаа!#
+6243 %s дээр тос цацагдлаа!#
+6244 %s амьтан дээр тос цацагдлаа!#
+6245 Таны гар халтиргаатай боллоо!#
+6246 Бамбай тань гараас мултарлаа!#
+6247 ТҮГЖЭЭТЭЙГ ЭХЭНД ЭРЭМБЭЛЭХ#
+6248 %s үсрэн гарлаа!#
 6249 Алдав!#
-6250 STATS (HARDCORE)#
+6250 ҮЗҮҮЛЭЛТ (ХАТУУ ГОРИМ)#
 6251 Нэвтэрхий толь#
-6252 A nearby bat awakens!#
-6253 Some %s jump out from the %s!#
-6254 was fangoriously drained by a bat.#
-6255 gets roughhoused by a bugbear.#
-6256 bugbear#
-6257 bugbears#
+6252 Ойрх сарьсан багваахай сэрлээ!#
+6253 Хэдэн %s нь %s зүйлээс үсрэн гарлаа!#
+6254 сарьсан багваахайд цусаа сорууллаа.#
+6255 аварга гоблинд зодууллаа.#
+6256 аварга гоблин#
+6257 аварга гоблинууд#
 6258 цохив#
 6259 *хүрхрэх*#
-6260 You see a shrine of Daedalus.#
-6261 Daedalus shrine#
-6262 Touch Daedalus shrine#
-6263 You are hurt attacking the %s!#
-6264 You are hurt attacking %s!#
-6265 The gnomes' allies cower in fear!#
-6266 Not enough Lore Points available.
-Unlock Achievements to earn more!#
-6267 The exit is revealed!#
-6268 You pull the rope...#
-6269 bell#
-6270 bell#
-6271 Ring bell#
-6272 Something was lodged inside the bell!#
-6273 This bell is broken!#
-6274 But nothing happens.#
-6275 The bell comes crashing down!#
-6276 You are struck by a falling bell!#
-6277 gets their bell rung.#
-6278 Bell#
-6279 The clapper breaks off!#
-6280 The chime invigorates your %s!#
+6260 Та Дедалын шүтээн харлаа.#
+6261 Дедалын шүтээн#
+6262 Дедалын шүтээнд хүрэх#
+6263 %s амьтныг довтлоод та шархдлаа!#
+6264 %s этгээдийг довтлоод та шархдлаа!#
+6265 Гномуудын холбоотнууд айж чичирлээ!#
+6266 Мэдлэгийн оноо хүрэлцэхгүй байна.
+Амжилтууд нээж илүү оноо аваарай!#
+6267 Гарц ил боллоо!#
+6268 Та олсыг татлаа...#
+6269 хонх#
+6270 хонх#
+6271 Хонх цохих#
+6272 Хонхон дотор юм тээглэсэн байжээ!#
+6273 Энэ хонх эвдэрсэн байна!#
+6274 Гэвч юу ч болсонгүй.#
+6275 Хонх нүргэлэн уналаа!#
+6276 Унаж буй хонх таныг цохилоо!#
+6277 хонхонд цохиуллаа.#
+6278 Хонх#
+6279 Хонхны хэл тасарлаа!#
+6280 Хонхны дуу таны %s үзүүлэлтийг сэргэлээ!#
 6281 хүч#
 6282 тамир#
 6283 хөнгөн шаламгай#
 6284 сэтгэлийн хүч#
-6285 The minotaur is nigh, hurry!#
-6286 You dodged an attack!#
-6287 You dodged a %s!#
-6288 Your stamina returns back to normal.#
-6289 Your agility returns back to normal.#
-6290 Your mentality returns back to normal.#
-6291 flying arrow#
-6292 flying bolt#
-6293 flying rock#
-6294 You dodged a flying %s!#
+6285 Минотавр ойртлоо, яараарай!#
+6286 Та довтолгооноос бултлаа!#
+6287 Та %s зүйлээс бултлаа!#
+6288 Таны тэсвэр хэвийн боллоо.#
+6289 Таны шаламгай байдал хэвийн боллоо.#
+6290 Таны оюуны чадал хэвийн боллоо.#
+6291 нисэж буй сум#
+6292 нисэж буй оньсон сум#
+6293 нисэж буй чулуу#
+6294 Та нисэж буй %s зүйлээс бултлаа!#
 6295 шившлэг#
 6296 суман шившлэг#
-6297 The rope catches fire!#
-6298 The chime refreshes you!#
-6299 Lobby: Open#
-6300 Lobby: Friends Only#
-6301 Lobby: Invite Only#
-6302 gnome thief#
-6303 thief leader#
-6304 Enchant Weapon#
-6305 Enchant Armor#
-6306 Select an item to enchant:#
-6307 This %s
- is unable to be enchanted.#
-6308 Your %s loses some of its blessing.#
-6309 You are blasted by a torrent!#
-6310 Quick Turn Speed#
-6311 Affect the horizontal speed of the Quick Turn action.#
+6297 Олс гал авалцлаа!#
+6298 Хонхны дуу таныг сэргээв!#
+6299 Өрөө: Нээлттэй#
+6300 Өрөө: Зөвхөн найзууд#
+6301 Өрөө: Зөвхөн урилгаар#
+6302 гном хулгайч#
+6303 хулгайчдын толгойлогч#
+6304 Зэвсэг шивших#
+6305 Хуяг шивших#
+6306 Шивших эд зүйлээ сонго:#
+6307 Энэ %s зүйлийг
+ шивших боломжгүй.#
+6308 Таны %s зүйлийн адислал бага зэрэг буурлаа.#
+6309 Хүчтэй урсгал таныг ниргэлээ!#
+6310 Огцом эргэх хурд#
+6311 Огцом эргэлтийн хэвтээ хурдыг өөрчилнө.#
 6312 БУЦАХ#
 6313 НҮҮР#
-6314 NECK#
+6314 ХҮЗҮҮ#
 6315 БӨГЖ#
-6316 Claim#
-6317 Already Claimed#
-6318 No Items To Claim#
-6319 CHANGE TO:
+6316 Авах#
+6317 Аль хэдийн авсан#
+6318 Авах эд зүйл алга#
+6319 СОЛИХ НЬ:
 #
-6320 CURRENT: #
-6321 ITEMS#
-6322 RACE#
-6323 CLASS#
-6324 ASSIST ITEM SELECTION#
+6320 ОДОО: #
+6321 ЭД ЗҮЙЛС#
+6322 ЯЗГУУР#
+6323 АНГИЛАЛ#
+6324 ТУСЛАХ ЭД ЗҮЙЛ СОНГОХ#
 6325 ЯЗГУУР СОНГОХ#
 6326 АНГИЛАЛ СОНГОХ#
-6327 CHANGING TO: #
-6328 Assistance:#
-6329 Score Penalty:#
-6330 Achievements:#
+6327 СОЛИХ НЬ: #
+6328 Тусламж:#
+6329 Онооны торгууль:#
+6330 Амжилтууд:#
 6331 ИДЭВХТЭЙ#
 6332 ИДЭВХГҮЙ#
-6333 Class choice has reset
-due to selected race.#
-6334 Character Changed#
-6335 Changes will be applied
-on next game start.#
-6336 %s has changed their character for next game start.
+6333 Сонгосон язгуураас шалтгаалж
+ангиллын сонголт цуцлагдлаа.#
+6334 Дүр өөрчлөгдлөө#
+6335 Өөрчлөлт дараагийн тоглолт
+эхлэхэд үйлчилнэ.#
+6336 %s дараагийн тоглолтод дүрээ өөрчиллөө.
 (%s %s)#
-6337 Sending to server...#
-6338 Invalid Class!#
-6339 Take up to four gifts to ease
-the adventure that awaits.
+6337 Сервер рүү илгээж байна...#
+6338 Буруу ангилал!#
+6339 Ирэх адал явдлаа хөнгөлөхийн
+тулд дөрөв хүртэл бэлэг аваарай.
 
-Each point of Assistance reduces
-the party's final score ranking.#
-6340 ASSIST ITEMS#
-6341 You were Assisted. (%d Pts)#
-6342 Assist Items#
-6343 Allows claiming items from the starting floor Assist Shrine to adjust difficulty.#
-6344 Enable Assist Items#
-6345 Assist Items enabled#
-6346 Assist Items are disabled#
-6347 Take up to four gifts to ease
-the adventure that awaits.
+Тусламжийн оноо бүр багийн
+эцсийн оноог бууруулна.#
+6340 ТУСЛАХ ЭД ЗҮЙЛС#
+6341 Та тусламж авсан. (%d оноо)#
+6342 Туслах эд зүйлс#
+6343 Хүндрэлийг тохируулахын тулд эхний давхрын Тусламжийн шүтээнээс эд зүйл авахыг зөвшөөрнө.#
+6344 Туслах эд зүйлсийг идэвхжүүлэх#
+6345 Туслах эд зүйлс идэвхтэй#
+6346 Туслах эд зүйлс идэвхгүй#
+6347 Ирэх адал явдлаа хөнгөлөхийн
+тулд дөрөв хүртэл бэлэг аваарай.
 
-Assist Items are disabled in Game
-Settings. Toggle the option on to
-use Assist Items.
-
-#
-6348 Take up to four gifts to ease
-the adventure that awaits.
-
-Assist Items are disabled in Game
-Settings. Send a request to the
-Host to enable the game setting.
+Туслах эд зүйлс тоглоомын
+тохиргоонд идэвхгүй байна.
+Тохиргоог асааж ашиглана уу.
 
 #
-6349 Request Assist Items#
+6348 Ирэх адал явдлаа хөнгөлөхийн
+тулд дөрөв хүртэл бэлэг аваарай.
+
+Туслах эд зүйлс тоглоомын
+тохиргоонд идэвхгүй байна.
+Асаах хүсэлтээ эзэнд илгээнэ үү.
+
+#
+6349 Туслах эд зүйл хүсэх#
 6350 Тоглоомын тохиргоо үзэх#
-6351 The shrine is currently in use by someone else.#
-6352 You see an Assist shrine.#
-6353 Assist shrine#
-6354 Use Assist shrine#
-6355 Your character has changed for next game start.
+6351 Шүтээнийг одоо өөр хүн ашиглаж байна.#
+6352 Та Тусламжийн шүтээн харлаа.#
+6353 Тусламжийн шүтээн#
+6354 Тусламжийн шүтээн ашиглах#
+6355 Та дараагийн тоглолтод дүрээ өөрчиллөө.
 (%s %s)#
-6356 You claim %d Assistance points from the shrine.#
-6357 %s claims %d Assistance points from the Assist shrine.#
+6356 Та шүтээнээс %d тусламжийн оноо авлаа.#
+6357 %s нь Тусламжийн шүтээнээс %d тусламжийн оноо авлаа.#
 6358 ойн дагина#
 6359 мөөг хүн#
 6360 саламандр#
 6361 гремлин#
-6362 dryads#
-6363 myconids#
-6364 salamanders#
-6365 gremlins#
+6362 дриадууд#
+6363 мөөгөн хүмүүс#
+6364 саламандрууд#
+6365 гремлинүүд#
 6366 цохив#
 6367 цохив#
 6368 цохив#
 6369 цохив#
-6370 *sigh...*#
-6371 *croak*#
-6372 Hail, champion.#
-6373 Parrat soo skeba da.#
-6374 You reset the %s lock.#
-6375 You activate the %s lock.#
-6376 The %s key is stuck tight!#
-6377 The %s lock is currently in use.#
-6378 You activate the lock using your %s.#
-6379 You have no matching key for that %s lock.#
-6380 That button is already pressed.#
-6381 You press the button.#
-6382 You hit the button!#
+6370 *санаа алдав...*#
+6371 *гуаг*#
+6372 Амар байна уу, аварга аа.#
+6373 Паррат суу скеба да.#
+6374 Та %s цоожийг анхны байдалд орууллаа.#
+6375 Та %s цоожийг идэвхжүүллээ.#
+6376 %s түлхүүр чанга гацжээ!#
+6377 %s цоожийг одоо ашиглаж байна.#
+6378 Та %s зүйлээр цоожийг идэвхжүүллээ.#
+6379 Танд тэр %s цоожинд тохирох түлхүүр алга.#
+6380 Тэр товчийг аль хэдийн дарсан байна.#
+6381 Та товчийг дарлаа.#
+6382 Та товчийг цохилоо!#
 # lock types
-6383 stone#
-6384 spirit#
-6385 bronze#
-6386 iron#
-6387 silver#
+6383 чулуун#
+6384 сүнсний#
+6385 хүрэл#
+6386 төмөр#
+6387 мөнгөн#
 6388 алт#
 6389 болор#
-6390 machine#
+6390 машин#
 6391 түлхүүр#
-6392 lock#
-6393 button#
-6394 You see a %s lock.#
-6395 You see a %s lock with a key.#
-6396 You see a button.#
-6397 Use %s key #
+6392 цоож#
+6393 товч#
+6394 Та %s цоож харлаа.#
+6395 Та түлхүүртэй %s цоож харлаа.#
+6396 Та товч харлаа.#
+6397 %s түлхүүр ашиглах #
 6398 #
-6399 Reset %s lock#
-6400 Activate %s lock#
-6401 Press button#
-6402 (%d held)#
-6403 The iron door's lock is controlled elsewhere!#
-6404 You open the iron door.#
-6405 You close the iron door.#
-6406 The iron door locks as you close it!#
-6407 The iron door is locked!#
-6408 You lock the iron door!#
-6409 You see an iron door.#
-6410 Your spell destroys the iron door!#
-6411 You open the iron door!#
-6412 You hit the iron door!#
-6413 The iron door crashes open!#
-6414 iron door#
-6415 You unlock the iron door.#
-6416 You lock the iron door.#
-6417 You failed to unlock the iron door.#
-6418 This iron door is already unlocked.#
-6419 An arcane protection holds the iron door firmly in place!#
-6420 Close iron door#
-6421 Open iron door#
-6422 You lack the skill to pick this %s lock!#
-6423 There is already a %s key inside this lock.#
-6424 This %s lock can't be picked!#
-6425 The skeleton key doesn't fit!#
-6426 Your %s activates the %s lock!#
-6427 Your %s resets the %s lock.#
-6428 You failed to lockpick the %s lock.#
-6429 The %s lock seems unable to be reset by lockpicking.#
-6430 This %s lock has already been lockpicked open.#
-6431 Your song's effect cannot be extended any further!#
-6432 Your strike pierced the %s's armor!#
-6433 Your strike pierced %s's armor!#
-6434 The %s parries your blow!#
-6435 %s parries your blow!#
-6436 You parry the %s's blow!#
-6437 You parry %s's blow!#
-6438 Input Device#
-6439 The input device for voice chat.#
-6440 Voice#
-6441 Input Gain#
-6442 Adjust volume after normalization effect.#
-6443 Input Monitoring#
-6444 Listen to your input based on input/output settings. Monitored input levels are shown to the right.#
-6445 Voice Volume#
-6446 Adjust volume of incoming player voice chat.#
-6447 Push To Talk#
-6448 Hold the Voice Chat binding to talk. When disabled, the binding instead toggles sending voice on and off.#
-6449 Voice input enabled.#
-6450 Voice input disabled.#
-6451 Voice Chat#
-6452 Send Voice Chat#
-6453 Toggle the feature to send voice on or off. Receive Voice Chat must be enabled to use.#
-6454 Receive Voice Chat#
-6455 Toggle the feature to receive voice on or off.#
-6456 Muted#
-6457 Voice Levels#
-6458 Increased Voice Distance#
-6459 Received voice chat can be heard from further away. Disable to increase proximity effect.#
-6460 Input Volume Normalization#
-6461 Increase volume of quieter input signals, high values increase background noise. 0% disables effect.#
-6462 Raw Input#
-6463 Modified#
+6399 %s цоожийг сэргээх#
+6400 %s цоож идэвхжүүлэх#
+6401 Товч дарах#
+6402 (%d байгаа)#
+6403 Төмөр хаалганы цоожийг өөр газраас удирддаг!#
+6404 Та төмөр хаалгыг нээлээ.#
+6405 Та төмөр хаалгыг хаалаа.#
+6406 Төмөр хаалга хаахад түгжигдлээ!#
+6407 Төмөр хаалга түгжээтэй!#
+6408 Та төмөр хаалгыг түгжлээ!#
+6409 Та төмөр хаалга харлаа.#
+6410 Таны шившлэг төмөр хаалгыг сүйтгэлээ!#
+6411 Та төмөр хаалгыг нээлээ!#
+6412 Та төмөр хаалгыг цохилоо!#
+6413 Төмөр хаалга нүргэлэн нээгдлээ!#
+6414 төмөр хаалга#
+6415 Та төмөр хаалгыг тайллаа.#
+6416 Та төмөр хаалгыг түгжлээ.#
+6417 Та төмөр хаалгыг тайлж чадсангүй.#
+6418 Энэ төмөр хаалга аль хэдийн тайлагдсан.#
+6419 Далдын хамгаалалт төмөр хаалгыг бат тогтоожээ!#
+6420 Төмөр хаалга хаах#
+6421 Төмөр хаалга нээх#
+6422 Таны чадвар энэ %s цоожийг тайлахад хүрэхгүй!#
+6423 Энэ цоожинд %s түлхүүр аль хэдийн байна.#
+6424 Энэ %s цоожийг багажаар тайлж болохгүй!#
+6425 Бүх цоожны түлхүүр таарахгүй байна!#
+6426 Таны %s нь %s цоожийг идэвхжүүллээ!#
+6427 Таны %s нь %s цоожийг анхны байдалд орууллаа.#
+6428 Та %s цоожийг тайлж чадсангүй.#
+6429 %s цоожийг багажаар анхны байдалд оруулах боломжгүй бололтой.#
+6430 Энэ %s цоожийг багажаар аль хэдийн тайлсан байна.#
+6431 Таны дууны нөлөөг цааш сунгах боломжгүй!#
+6432 Таны цохилт %s амьтны хуягийг нэвтэллээ!#
+6433 Таны цохилт %s этгээдийн хуягийг нэвтэллээ!#
+6434 %s амьтан таны цохилтыг зайлууллаа!#
+6435 %s таны цохилтыг зайлууллаа!#
+6436 Та %s амьтны цохилтыг зайлууллаа!#
+6437 Та %s этгээдийн цохилтыг зайлууллаа!#
+6438 Оролтын төхөөрөмж#
+6439 Дуут ярианы оролтын төхөөрөмж.#
+6440 Дуу хоолой#
+6441 Оролтын өсгөлт#
+6442 Дуу жигдрүүлэх нөлөөний дараах чангыг тохируулна.#
+6443 Оролт сонсох#
+6444 Оролт, гаралтын тохиргоогоор өөрийн дууг сонсоно. Сонсож буй оролтын түвшин баруунд харагдана.#
+6445 Ярианы дууны чанга#
+6446 Бусад тоглогчдын ирж буй дуут ярианы чангыг тохируулна.#
+6447 Дарж ярих#
+6448 Ярихын тулд Дуут ярианы товчийг дарж барина. Унтраасан үед уг товч дуу илгээхийг асааж, унтраана.#
+6449 Дууны оролт идэвхтэй.#
+6450 Дууны оролт идэвхгүй.#
+6451 Дуут яриа#
+6452 Дуу илгээх#
+6453 Дуу илгээх боломжийг асааж, унтраана. Ашиглахын тулд дуу хүлээн авахыг идэвхжүүлсэн байна.#
+6454 Дуу хүлээн авах#
+6455 Дуу хүлээн авах боломжийг асааж, унтраана.#
+6456 Дуу хаалттай#
+6457 Дууны түвшин#
+6458 Яриа сонсогдох зай ихэсгэх#
+6459 Ирж буй дуут яриаг илүү холоос сонсоно. Унтраавал ойр байх тусам сонсогдох нөлөө нэмэгдэнэ.#
+6460 Оролтын дуу жигдрүүлэх#
+6461 Сул оролтын дууг өсгөнө. Өндөр утга арын шуугианыг нэмнэ. 0% бол нөлөө идэвхгүй.#
+6462 Шууд оролт#
+6463 Өөрчилсөн#
 
-6464 Guard!#
-6465 Your protection stops an attack!#
-6466 The %s guards your spell!#
-6467 %s guards your spell!#
-6468 The %s guards your attack!#
-6469 %s guards your attack!#
-6470 Your protection stops a spell!#
-6471 Your protection stops a flying %s!#
-6472 Your protection stops a %s!#
-6473 You ward your body against physical harm!#
-6474 You ward your spirit against harmful magics!#
-6475 You ward youself against mundane and magical attack!#
-6476 Your joints are filled with nimble grace.#
-6477 Your muscles swell with greater might.#
-6478 Your mind stirs deeply with wise counsel.#
-6479 Your body hardens with sturdy toughness.#
-6480 Your magic calls for a target of holy wrath!#
-6481 You detect an ally!#
-6482 You divine the location of a nearby shrine.#
-6483 Nearby perils are revealed to you!#
-6484 Nearby perils are revealed to you!#
-6485 The location of nearby treasures emerges in your mind...#
-6486 You give blessings for the food that sustains you.#
-6487 You seek out a wandering soul in search of penance.#
-6488 You beg for providence from lowly places.#
-6489 You call for willing souls to join your quest!#
-6490 Your protection saves you from the boulder!#
-6491 Your protection saves you from the falling bell!#
-6492 Your protection saves you from the spikes!#
-6493 You ward you body against devious traps.#
-6494 Divine forces are leading you to treasure!#
-6495 An enemy is revealed to you!#
-6496 You recall your spell without a target.#
-6497 You command holy exorcism!#
-6498 Your spell had no target!#
-6499 Cast spell...#
-6500 Cast spell on #
+6464 Хамгаалалт!#
+6465 Таны хамгаалалт довтолгоог зогсоолоо!#
+6466 %s амьтан таны шившлэгийг хаалаа!#
+6467 %s таны шившлэгийг хаалаа!#
+6468 %s амьтан таны довтолгоог хаалаа!#
+6469 %s таны довтолгоог хаалаа!#
+6470 Таны хамгаалалт шившлэгийг зогсоолоо!#
+6471 Таны хамгаалалт нисэж буй %s зүйлийг зогсоолоо!#
+6472 Таны хамгаалалт %s зүйлийг зогсоолоо!#
+6473 Та биеэ биет гэмтлээс хамгааллаа!#
+6474 Та сүнсээ хорт ид шидээс хамгааллаа!#
+6475 Та өөрийгөө биет болон ид шидийн дайралтаас хамгааллаа!#
+6476 Таны үе мөч хөнгөн, шаламгай боллоо.#
+6477 Таны булчин илүү хүчирхэгжин тэллээ.#
+6478 Таны ухаан мэргэн зөвлөгөөгөөр гүн сэргэлээ.#
+6479 Таны бие бат бөх болж чангарлаа.#
+6480 Таны ид шид ариун хилэнгийн байг сонгохыг хүслээ!#
+6481 Та холбоотон илрүүллээ!#
+6482 Та ойролцоох шүтээний байрлалыг зөн совингоор оллоо.#
+6483 Ойролцоох аюулууд танд ил боллоо!#
+6484 Ойролцоох аюулууд танд ил боллоо!#
+6485 Ойролцоох эрдэнэсийн байрлал ухаанд тань тодорлоо...#
+6486 Та өөрийгөө тэтгэх хүнсийг адислалаа.#
+6487 Та нүглээ наманчлах төөрсөн сүнсийг эрлээ.#
+6488 Та дорд газраас хишиг гуйлаа.#
+6489 Та аяндаа нэгдэх хүсэлтэй сүнснүүдийг дуудлаа!#
+6490 Таны хамгаалалт хадан уруйн цохилтоос аварлаа!#
+6491 Таны хамгаалалт унаж буй хонхноос аварлаа!#
+6492 Таны хамгаалалт өргөст урхинаас аварлаа!#
+6493 Та биеэ овжин урхинаас хамгааллаа.#
+6494 Тэнгэрлэг хүч таныг эрдэнэс рүү хөтөлж байна!#
+6495 Дайсан танд ил боллоо!#
+6496 Та байгүй шившлэгээ буцаан татлаа.#
+6497 Та ариун сүнс зайлуулах ёслол үйлдлээ!#
+6498 Таны шившлэг байгүй байлаа!#
+6499 Шившлэг хэрэглэх...#
+6500 Шившлэг хэрэглэх бай: #
 6501 Болих#
-6502 Your blood is warded against impurities!#
-6503 Your spell (%s) was interrupted!#
-6504 Failed to sustain spell (%s).#
-6505 The ward against impurities fades...#
-6506 Your blood stirs with noble purpose!#
-6507 Your blood returns to normal...#
-6508 Your attacks are enchanted with holy light!#
-6509 Holy light fades from your attacks...#
-6510 Your attack smites the %s!#
-6511 Your attack smites %s!#
+6502 Таны цус бузар зүйлээс хамгаалагдлаа!#
+6503 Таны шившлэг (%s) тасалдлаа!#
+6504 Шившлэгийг (%s) хадгалж чадсангүй.#
+6505 Бузар зүйлээс хамгаалсан сахиус арилж байна...#
+6506 Таны цус эрхэм зорилгоор бадран буцаллаа!#
+6507 Таны цус хэвийн болж байна...#
+6508 Таны довтолгоо ариун гэрлээр шившигдлээ!#
+6509 Таны довтолгооны ариун гэрэл арилж байна...#
+6510 Таны довтолгоо %s амьтныг ниргэлээ!#
+6511 Таны довтолгоо %s этгээдийг ниргэлээ!#
 6512 Хөгжим хувиргах#
-6513 Select instrument to transmute:#
-6514 This %s
- is unable to be altered.#
-6515 Your %s transforms into
- %s!#
-6516 The %s grows in strength!#
-6517 The %s shrivels away!#
-6518 The %s is severely weakened by your curse!#
-6519 The %s is befuddled by magic!#
-6520 Your spell focus improves!#
-6521 Your weapons are imbued with venom!#
-6522 Your curse humbles the %s!#
-6523 The %s is crushed by your will.#
-6524 You release a torrent of slippery grease!#
-6525 You release a wave of raw magical energy!#
-6526 %s is weakened!#
-6527 The %s is weakened!#
-6528 You feel weak!#
-6529 The magical venom evaporates from your weapons.#
-6530 Your spell focus returns to normal.#
-6531 The %s poisons you!#
-6532 %s poisons you!#
-6533 The %s is poisoned!#
-6534 %s is poisoned!#
-6535 The amulet feels warm against your neck.#
-6536 You feel greasy!#
-6537 The %s is compelled to your command!#
-6538 Gold Cost:#
-6539 Not enough gold#
-6540 Insufficient gold!#
-6541 Select a weapon to transmute:#
-6542 Select an item to transmute:#
-6543 Select a jewel to transmute:#
-6544 Transmutes Into:#
+6513 Хувиргах хөгжмөө сонго:#
+6514 Энэ %s зүйлийг
+ өөрчлөх боломжгүй.#
+6515 Таны %s хувирч
+ %s боллоо!#
+6516 %s амьтан хүчирхэгжлээ!#
+6517 %s амьтан хорчийн багаслаа!#
+6518 Таны хараал %s амьтныг ихэд сулрууллаа!#
+6519 %s амьтан ид шидэд мунхарлаа!#
+6520 Таны шившлэгийн төвлөрөл сайжирлаа!#
+6521 Таны зэвсгүүд хор шингээлээ!#
+6522 Таны хараал %s амьтныг доройтууллаа!#
+6523 %s амьтан таны хүслэнд дарагдлаа.#
+6524 Та халтиргаатай тосон урсгал тавилаа!#
+6525 Та цэвэр ид шидийн энергийн давалгаа тавилаа!#
+6526 %s суларлаа!#
+6527 %s амьтан суларлаа!#
+6528 Таны хүч суларлаа!#
+6529 Таны зэвсгийн ид шидийн хор ууршлаа.#
+6530 Таны шившлэгийн төвлөрөл хэвийн боллоо.#
+6531 %s амьтан таныг хордууллаа!#
+6532 %s таныг хордууллаа!#
+6533 %s амьтан хордлоо!#
+6534 %s хордлоо!#
+6535 Хүзүүнд тань зүүсэн сахиус бүлээсэх мэт болов.#
+6536 Тосонд норсон мэт санагдлаа!#
+6537 %s амьтан таны тушаалд захирагдлаа!#
+6538 Алтны зардал:#
+6539 Алт хүрэлцэхгүй#
+6540 Алт хүрэлцэхгүй!#
+6541 Хувиргах зэвсгээ сонго:#
+6542 Хувиргах эд зүйлээ сонго:#
+6543 Хувиргах үнэт чулуугаа сонго:#
+6544 Хувирах нь:#
 6545 Металл хувиргах#
 6546 Чулуу хувиргах#
 6547 Түлхүүр бүтээх#
@@ -6805,53 +6805,53 @@ Host to enable the game setting.
 6549 Зэвсэг сайжруулах#
 6550 Зэвсэг хувиргах#
 6551 Сум хувиргах#
-6552 Not enough mana#
-6553 Transmuted %s using
- %s.#
-6554 Transmuted %dG
- using %s.#
-6555 Mana Cost:#
-6556 Change Focus#
-6557 You awaken a void chest!#
-6558 Your spell does nothing while the chest is open.#
-6559 Wait! That's a void mimic!#
-6560 Select an item to send to the void:#
-6561 Send To Void#
-6562 Sent %s
- to the void.#
-6563 This does not belong in the void#
-6564 This %s
- does not belong in the void.#
-6565 The void is already being accessed by somebody else.#
-6566 The void cannot accept any more items.#
-6567 The mimic voids your %s!#
-6568 revenant skull#
-6569 minimimic#
-6570 revenant skulls#
-6571 minimimics#
+6552 Мана хүрэлцэхгүй#
+6553 %s зүйлийг хувиргалаа.
+ Ашигласан нь: %s.#
+6554 %dG хувиргалаа.
+ Ашигласан нь: %s.#
+6555 Мана зардал:#
+6556 Төвлөрөл солих#
+6557 Та хоосролын авдар сэрээлээ!#
+6558 Авдар нээлттэй байхад таны шившлэг нөлөөгүй.#
+6559 Байз! Наадах чинь хоосролын дуурайгч!#
+6560 Хоосрол руу илгээх эд зүйлээ сонго:#
+6561 Хоосрол руу илгээх#
+6562 %s зүйлийг
+ хоосрол руу илгээлээ.#
+6563 Үүнийг хоосролд хийж болохгүй#
+6564 Энэ %s зүйлийг
+ хоосролд хийж болохгүй.#
+6565 Хоосролыг өөр хүн ашиглаж байна.#
+6566 Хоосролд нэмж эд зүйл хийх зайгүй.#
+6567 Дуурайгч таны %s зүйлийг хоосролд хийлээ!#
+6568 амилсан гавал#
+6569 жижиг дуурайгч#
+6570 амилсан гавлууд#
+6571 жижиг дуурайгчид#
 6572 цохив#
 6573 хазав#
 6574 *тачигнах*#
 6575 *чахрах*#
-6576 You curse the flesh of the %s!#
-6577 You summon a spirited %s!#
-6578 There is no room here to summon!#
+6576 Та %s амьтны махан биеийг хараалаа!#
+6577 Та сүнслэг %s дуудав!#
+6578 Энд дуудах зай алга!#
 6579 сүнсэн зэвсэг#
-6580 adorcised possession#
+6580 тайвширсан эзэмдэгч#
 6581 галын махбод#
 6582 голограмм#
-6583 moth#
-6584 earth sprite#
+6583 эрвээхэй#
+6584 газрын савдаг#
 6585 нугас#
 6586 monster_unused_6#
 6587 monster_unused_7#
 6588 monster_unused_8#
-6589 adorcised possessions#
-6590 flame elementals#
-6591 holograms#
-6592 moths#
-6593 earth sprites#
-6594 ducks#
+6589 тайвширсан эзэмдэгчид#
+6590 галын махбодиуд#
+6591 голограмууд#
+6592 эрвээхэйнүүд#
+6593 газрын савдгууд#
+6594 нугаснууд#
 6595 monster_unused_6s#
 6596 monster_unused_7s#
 6597 monster_unused_8s#
@@ -6869,182 +6869,182 @@ Host to enable the game setting.
 6609 ...#
 6610 ...#
 6611 ...#
-6612 *quack!*#
+6612 *гааг!*#
 6613 ...#
 6614 ...#
 6615 ...#
-6616 Adorcise#
-6617 Select a weapon to summon:#
-6618 This %s
- cannot be adorcised.#
-6619 returns to the floor.#
-6620 vanishes!#
-6621 Your %s 
- returns to the floor.#
-6622 Insufficient gold!#
-6623 The %s is numbed!#
-6624 %s is numbed!#
-6625 You feel numb!#
-6626 dies from delayed pain.#
-6627 You feel unstoppable!#
-6628 Pain returns to your body!#
-6629 The severity of your wounds sets in!#
-6630 The %s could not reach any allies!#
-6631 %s could not reach any allies!#
-6632 The %s loses their courage!#
-6633 The %s wanders in search of an ally!#
-6634 %s wanders in search of an ally!#
-6635 The %s could not reach any foes!#
-6636 %s could not reach any foes!#
-6637 The %s is encouraged!#
-6638 The %s wanders in search of a foe!#
-6639 %s wanders in search of a foe!#
-6640 The %s becomes a scapegoat!#
-6641 You become a scapegoat!#
-6642 Your spore pods shrivel away ...#
-6643 You bristle with swollen spore pods!#
-6644 The %s drops their weapon!#
-6645 %s drops their weapon!#
-6646 The %s drops their equipment!#
-6647 %s drops their equipment!#
-6648 Your food returns to normal.#
-6649 Your provisions return to normal.#
-6650 You beg for your food to be multiplied...#
-6651 You beg for your provisions to be multiplied...#
-6652 Greater Abundance preserves your %s!#
-6653 Abundance preserves your %s!#
-6654 Your magic protects the %s from damage!#
-6655 You cover your equipment with a magic barrier!#
-6656 The protective barrier fades from your equipment.#
-6657 Your magic could not preserve your %s!#
-6658 This trap has already been sabotaged.#
-6659 You sabotage the trap!#
-6660 You blast the %s!#
-6661 You blast %s!#
-6662 Some scrap pours out from the trap!#
-6663 Your body turns to mist!#
-6664 Your body materializes again.#
-6665 Your mana could not sustain your mist form!#
-6666 Your mist form protects you!#
-6667 You create a hologram in your image!#
-6668 fades into nothing.#
-6669 gets spooked by a revenant skull.#
-6670 gets looted by a minimimic.#
-6671 gets reduced to ashes by a flame elemental.#
-6672 is slain by the invisible hand of an adorcised weapon.#
-6673 explodes!#
-6674 You conjure a %s!#
-6675 You were unable to conjure a %s!#
-6676 You are already wielding a %s!#
-6677 You splinter the %s's %s!#
-6678 You splinter %s's %s!#
-6679 You break the %s's %s!#
-6680 You break %s's %s!#
-6681 Your equipment feels lighter!#
-6682 You feel the heft of your equipment again.#
-6683 You reach out to items with unseen energy...#
-6684 Your grasp on nearby items dissipates.#
-6685 Your tether your throwing weapons with invisible magic!#
-6686 Your throwing weapons return to normal.#
-6687 Your %s returns to you!#
-6688 You deface the %s!#
-6689 You've disturbed a %s!#
-6690 Your demesne door was closed.#
-6691 Your demesne door fades.#
-6692 There is no room to create a demesne door!#
-6693 doorway#
-6694 You enchant the doorway!#
-6695 You create a portal!#
+6616 Сүнс шингээх#
+6617 Дуудах зэвсгээ сонго:#
+6618 Энэ %s зүйлд
+ сүнс шингээх боломжгүй.#
+6619 шалан дээр буцаж уналаа.#
+6620 алга боллоо!#
+6621 Таны %s 
+ шалан дээр буцаж уналаа.#
+6622 Алт хүрэлцэхгүй!#
+6623 %s амьтан мэдээгүйжлээ!#
+6624 %s мэдээгүйжлээ!#
+6625 Та мэдээгүйжлээ!#
+6626 хойшлогдсон өвдөлтөөс нас барлаа.#
+6627 Өөрийгөө дийлдэшгүй мэт мэдэрлээ!#
+6628 Биед тань өвдөлт эргэн ирлээ!#
+6629 Шархны тань хүнд байдал мэдрэгдэж эхэллээ!#
+6630 %s амьтан нэг ч холбоотонд хүрч чадсангүй!#
+6631 %s нэг ч холбоотонд хүрч чадсангүй!#
+6632 %s амьтан зориг алдлаа!#
+6633 %s амьтан холбоотон хайж тэнүүчилж байна!#
+6634 %s холбоотон хайж тэнүүчилж байна!#
+6635 %s амьтан нэг ч дайсанд хүрч чадсангүй!#
+6636 %s нэг ч дайсанд хүрч чадсангүй!#
+6637 %s амьтан зоригжлоо!#
+6638 %s амьтан дайсан хайж тэнүүчилж байна!#
+6639 %s дайсан хайж тэнүүчилж байна!#
+6640 %s амьтан золиос боллоо!#
+6641 Та золиос боллоо!#
+6642 Таны спорын хүүдийнүүд хорчийн хатлаа ...#
+6643 Таны бие хавдсан спорын хүүдийгээр бүрхэгдлээ!#
+6644 %s амьтан зэвсгээ унагалаа!#
+6645 %s зэвсгээ унагалаа!#
+6646 %s амьтан хэрэгслээ унагалаа!#
+6647 %s хэрэгслээ унагалаа!#
+6648 Таны хүнс хэвийн боллоо.#
+6649 Таны нөөц хүнс хэвийн боллоо.#
+6650 Та хүнсээ олшруулахыг гуйн залбирлаа...#
+6651 Та нөөц хүнсээ олшруулахыг гуйн залбирлаа...#
+6652 Их арвин хишиг таны %s зүйлийг хадгаллаа!#
+6653 Арвин хишиг таны %s зүйлийг хадгаллаа!#
+6654 Таны ид шид %s зүйлийг гэмтлээс хамгааллаа!#
+6655 Та хэрэгслүүдээ ид шидийн хаалтаар бүрхлээ!#
+6656 Хэрэгслийн тань хамгаалалтын хаалт ариллаа.#
+6657 Таны ид шид %s зүйлийг тань хадгалж чадсангүй!#
+6658 Энэ урхийг аль хэдийн хорлон эвдсэн байна.#
+6659 Та урхийг хорлон эвдлээ!#
+6660 Та %s амьтныг ниргэлээ!#
+6661 Та %s этгээдийг ниргэлээ!#
+6662 Урхинаас хэсэг хаягдал асгарлаа!#
+6663 Таны бие манан болон хувирлаа!#
+6664 Таны бие дахин биет боллоо.#
+6665 Манан хэлбэрийг хадгалах мана тань хүрсэнгүй!#
+6666 Таны манан хэлбэр таныг хамгааллаа!#
+6667 Та өөрийн дүртэй голограм үүсгэлээ!#
+6668 арилан хоосон болов.#
+6669 амилсан гавалд айлгууллаа.#
+6670 жижиг дуурайгчид дээрэмдүүллээ.#
+6671 галын махбодод үнс болтлоо шатлаа.#
+6672 сүнстэй зэвсгийн үл үзэгдэх гарт алагдлаа.#
+6673 дэлбэрлээ!#
+6674 Та %s зүйл бүтээлээ!#
+6675 Та %s зүйл бүтээж чадсангүй!#
+6676 Та аль хэдийн %s зүйл барьж байна!#
+6677 Та %s амьтны %s зүйлийг цууллаа!#
+6678 Та %s этгээдийн %s зүйлийг цууллаа!#
+6679 Та %s амьтны %s зүйлийг хугаллаа!#
+6680 Та %s этгээдийн %s зүйлийг хугаллаа!#
+6681 Таны хэрэгсэл хөнгөрөх мэт боллоо!#
+6682 Танд хэрэгслийн жин дахин мэдрэгдлээ.#
+6683 Та үл үзэгдэх энергээр эд зүйлс рүү тэмүүллээ...#
+6684 Ойрх эд зүйлсийг атгасан хүч тань ариллаа.#
+6685 Та шидэх зэвсгүүдээ үл үзэгдэх ид шидээр холболоо!#
+6686 Таны шидэх зэвсгүүд хэвийн боллоо.#
+6687 Таны %s зүйл танд буцаж ирлээ!#
+6688 Та %s зүйлийг эрэмдэглэлээ!#
+6689 Та %s амьтныг үймүүлчихлээ!#
+6690 Таны эзэмшлийн хаалга хаагдлаа.#
+6691 Таны эзэмшлийн хаалга ариллаа.#
+6692 Эзэмшлийн хаалга үүсгэх зай алга!#
+6693 хаалганы нүх#
+6694 Та хаалганы нүхийг шившлээ!#
+6695 Та үүд үүсгэлээ!#
 6696 Та порталаар гарлаа.#
-6697 You forged %d %s!#
-6698 gets mothballed.#
-6699 Your off-hand items are imbued with defensive force!#
-6700 Your off-hand items are imbued with magic reflection!#
-6701 ASSIST ITEM SELECTION#
+6697 Та %d ширхэг %s давтлаа!#
+6698 эрвээхэйнд идүүллээ.#
+6699 Таны нөгөө гарын эд зүйлс хамгаалах хүч шингээлээ!#
+6700 Таны нөгөө гарын эд зүйлс ид шид буцаах чадвар шингээлээ!#
+6701 ТУСЛАХ ЭД ЗҮЙЛ СОНГОХ#
 6702 АНГИЛАЛ СОНГОХ#
 6703 ЯЗГУУР СОНГОХ#
-6704 The %s spins around!#
-6705 %s spins around!#
-6706 The %s gets dizzied!#
-6707 %s gets dizzied!#
-6708 Vandalize#
+6704 %s амьтан эргэлдлээ!#
+6705 %s эргэлдлээ!#
+6706 %s амьтны толгой эргэлээ!#
+6707 %s этгээдийн толгой эргэлээ!#
+6708 Эрэмдэглэх#
 6709 Бузарлах#
 6710 Ариусгах#
-6711 Bless#
-6712 Cleanse#
-6713 Select an instrument to summon:#
-6714 Select an item to vandalize:#
-6715 Select an item to desecrate:#
-6716 Select a bottle of water to bless:#
-6717 Select an item to sanctify:#
-6718 Select food to cleanse:#
-6719 This %s
- is unable to be vandalized.#
-6720 This %s
- is unable to be desecrated.#
-6721 This %s
- is unable to be blessed.#
-6722 This %s
- is unable to be sanctified.#
-6723 This %s
- is unable to be cleansed.#
-6724 Vandalized %dG using
+6711 Адислах#
+6712 Цэвэрлэх#
+6713 Дуудах хөгжмөө сонго:#
+6714 Эрэмдэглэх эд зүйлээ сонго:#
+6715 Бузарлах эд зүйлээ сонго:#
+6716 Адислах устай лонхоо сонго:#
+6717 Ариусгах эд зүйлээ сонго:#
+6718 Цэвэрлэх хүнсээ сонго:#
+6719 Энэ %s зүйлийг
+ эрэмдэглэх боломжгүй.#
+6720 Энэ %s зүйлийг
+ бузарлах боломжгүй.#
+6721 Энэ %s зүйлийг
+ адислах боломжгүй.#
+6722 Энэ %s зүйлийг
+ ариусгах боломжгүй.#
+6723 Энэ %s зүйлийг
+ цэвэрлэх боломжгүй.#
+6724 %dG эрэмдэглэлээ. Ашигласан нь:
  %s.#
-6725 Your %s looks more edible.#
-6726 Unable to bless further#
-6727 You are already under the effects of %s.#
-6728 You begin drawing energy from a well of magic...#
-6729 You empower your next cast with ritual preparation...#
-6730 You are enveloped by a flame cloak!#
-6731 You are surrounded with protective flames!#
-6732 Your flame cloak ignites the %s!#
-6733 Your flame cloak ignites %s!#
-6734 A flame cloak sets you on fire!#
-6735 You prepare to absorb hostile magical energy!#
-6736 There is no stable ceiling to complete the spell!#
-6737 gets rocked by an earth sprite.#
-6738 gets overgrown by a dryad.#
-6739 gets vandalised by a gremlin.#
-6740 gets capped by a myconid.#
-6741 learns how cold-blooded a salamander can be.#
-6742 %s is hit with a rooting seed!#
-6743 The %s is hit with a rooting seed!#
-6744 You are hit by a rooting seed!#
-6745 %s is hit with a poison seed!#
-6746 The %s is hit with a poison seed!#
-6747 You are hit by a poison seed!#
-6748 There is no ground to complete the spell!#
-6749 mushroom#
-6750 There is no room to complete the spell!#
-6751 You stop shimmering.#
-6752 You are covered with shimmering dust!#
-6753 gets capped by a mushroom.#
-6754 Mushroom#
-6755 The air is filled with a thick fog.#
-6756 You are pulled by telekinetic force!#
-6757 You are caught in a vortex!#
-6758 You are slammed back down!#
-6759 Leaves#
-6760 becomes dust in the wind.#
-6761 %s is covered with shimmering dust!#
-6762 The %s is covered with shimmering dust!#
-6763 You are ensnared!#
-6764 The %s is ensnared!#
-6765 %s is ensnared!#
-6766 The %s was unaffected by the bolas!#
-6767 %s was unaffected by the bolas!#
-6768 [4 rations needed]#
-6769 You combine the %s with some %s...#
-6770 You dissolve the %s and collect it with a %s...#
-6771 Created %s.#
-6772 [No tin opener]#
-6773 Cook#
-6774 [Insufficient fuel]#
-6775 shrub#
-6776 footlocker#
-6777 weapon rack#
-6778 Deserters & Disciples DLC is required
-to replay this challenge!
+6725 Таны %s идэхэд арай дээр харагдана.#
+6726 Цааш адислах боломжгүй#
+6727 Та аль хэдийн %s нөлөөнд байна.#
+6728 Та ид шидийн ундаргаас энерги татаж эхэллээ...#
+6729 Та зан үйлээр дараагийн шившлэгээ хүчирхэгжүүллээ...#
+6730 Та галан нөмрөгөөр хучигдлаа!#
+6731 Таныг хамгаалах дөл хүрээллээ!#
+6732 Таны галан нөмрөг %s амьтныг шатаалаа!#
+6733 Таны галан нөмрөг %s этгээдийг шатаалаа!#
+6734 Галан нөмрөг таныг шатаалаа!#
+6735 Та дайсагнасан ид шидийн энерги шингээхээр бэлдлээ!#
+6736 Шившлэгээ гүйцээх бат бөх тааз алга!#
+6737 газрын савдагт чулуунд цохиуллаа.#
+6738 дриадын ургамалд дарагдлаа.#
+6739 гремлинд эрэмдэглүүллээ.#
+6740 мөөгөн хүнд мөөгөөр дарууллаа.#
+6741 саламандр ямар хүйтэн цустайг мэдлээ.#
+6742 %s дээр үндэслүүлэгч үр туслаа!#
+6743 %s амьтан дээр үндэслүүлэгч үр туслаа!#
+6744 Танд үндэслүүлэгч үр туслаа!#
+6745 %s дээр хорт үр туслаа!#
+6746 %s амьтан дээр хорт үр туслаа!#
+6747 Танд хорт үр туслаа!#
+6748 Шившлэгээ гүйцээх газар алга!#
+6749 мөөг#
+6750 Шившлэгээ гүйцээх зай алга!#
+6751 Та гялтганахаа болилоо.#
+6752 Та гялтганасан тоосоор бүрхэгдлээ!#
+6753 мөөгөөр дарууллаа.#
+6754 Мөөг#
+6755 Агаар өтгөн манангаар дүүрлээ.#
+6756 Далдын хүч таныг татлаа!#
+6757 Та хуй салхинд орлоо!#
+6758 Таныг газарт буцааж савлаа!#
+6759 Навч#
+6760 салхинд хийсэх тоос боллоо.#
+6761 %s гялтганасан тоосоор бүрхэгдлээ!#
+6762 %s амьтан гялтганасан тоосоор бүрхэгдлээ!#
+6763 Та орооцолдлоо!#
+6764 %s амьтан орооцолдлоо!#
+6765 %s орооцолдлоо!#
+6766 %s амьтанд оосорт чулуу нөлөөлсөнгүй!#
+6767 %s этгээдэд оосорт чулуу нөлөөлсөнгүй!#
+6768 [4 хүнсний нөөц хэрэгтэй]#
+6769 Та %s зүйлийг хэсэг %s зүйлтэй хольж байна...#
+6770 Та %s зүйлийг уусгаад %s зүйлээр цуглууллаа...#
+6771 %s үүсгэлээ.#
+6772 [Лааз онгойлгогч алга]#
+6773 Болгох#
+6774 [Түлш хүрэлцэхгүй]#
+6775 бут#
+6776 хувийн авдар#
+6777 зэвсгийн тавиур#
+6778 Энэ сорилтыг дахин тоглоход Deserters & Disciples
+нэмэлт агуулга шаардлагатай!
 
 
 #
@@ -7064,209 +7064,209 @@ to replay this challenge!
 6791 Удамт#
 6792 Даяанч#
 6793 Ариун баатар#
-6794 You lack the foliage to cast the spell!#
-6795 You are covered with thorns!#
-6796 You are covered with bladevines!#
-6797 Your thorns withdraw.#
-6798 Your bladevines crumble away.#
-6799 You steady yourself with firm mycelium!#
-6800 You plant yourself with sturdy roots!#
-6801 You dismount the binding mycelium.#
-6802 You dismount the binding roots.#
-6803 returns to dust.#
-6804 Higher %s skill required#
-6805 Higher skill required#
-6806 finds its final resting place.#
-6807 revenant skeleton#
-6808 You command a %s from the deceased!#
-6809 You splinter the construction of the %s!#
-6810 You splinter the construction of %s!#
-6811 Your splintered armor wounds you!#
-6812 Your shattered armor heavily wounds you!#
-6813 Your mana could not return your %s!#
-6814 You are unable to create a passage through this wall.#
-6815 The %s comes to life!#
-6816 dresser#
-6817 drawer#
-6818 candelabra#
+6794 Шившлэг хэрэглэх ургамал тань хүрэлцэхгүй!#
+6795 Та өргөсөөр бүрхэгдлээ!#
+6796 Та ирт ороонгоор бүрхэгдлээ!#
+6797 Таны өргөснүүд татагдлаа.#
+6798 Таны ирт ороонго бутран ариллаа.#
+6799 Та бат бөх мөөгөн утсаар өөрийгөө тогтоолоо!#
+6800 Та бөх үндсээр өөрийгөө газарт бэхэллээ!#
+6801 Та холбосон мөөгөн утаснаас саллаа.#
+6802 Та холбосон үндэснээс саллаа.#
+6803 эргэн тоос боллоо.#
+6804 %s чадварын илүү өндөр түвшин шаардлагатай#
+6805 Илүү өндөр чадвар шаардлагатай#
+6806 эцсийн амрах газраа оллоо.#
+6807 амилсан араг яс#
+6808 Та үхэгсдээс %s амьтныг захирлаа!#
+6809 Та %s амьтны бүтцийг цууллаа!#
+6810 Та %s этгээдийн бүтцийг цууллаа!#
+6811 Таны цуурсан хуяг таныг шархдууллаа!#
+6812 Таны бутарсан хуяг таныг хүнд шархдууллаа!#
+6813 Таны мана %s зүйлийг тань буцааж чадсангүй!#
+6814 Та энэ хананд гарц үүсгэж чадахгүй байна.#
+6815 %s амь орлоо!#
+6816 шүүгээ#
+6817 шургуулга#
+6818 олон салаа лааны суурь#
 
-6826 You are blessed with peace!#
-6827 You are blessed with justice!#
-6828 You are blessed with providence!#
-6829 You are blessed with purity!#
-6830 You are blessed with sanctuary!#
-6831 Unlearn#
-6832 Sacrifice a spell to recharge:#
-6833 Recharge#
-6834 Recharge#
-6835 Confirm Unlearn (%d)#
-6836 You forget the %s spell.#
-6837 This %s
- cannot be used to recharge.#
-6838 Your %s 
- is already fully charged!#
+6826 Та амар амгалангийн адислал авлаа!#
+6827 Та шударга ёсны адислал авлаа!#
+6828 Та хишиг буянгийн адислал авлаа!#
+6829 Та ариун байдлын адислал авлаа!#
+6830 Та орогнох адислал авлаа!#
+6831 Мартах#
+6832 Цэнэглэхийн тулд нэг шившлэгээ золиосло:#
+6833 Цэнэглэх#
+6834 Цэнэглэх#
+6835 Мартахыг батлах (%d)#
+6836 Та %s шившлэгийг мартлаа.#
+6837 Энэ %s зүйлийг
+ цэнэглэхэд ашиглаж болохгүй.#
+6838 Таны %s 
+ аль хэдийн бүрэн цэнэгтэй!#
 6839 Таны %s дууслаа!#
-6840 The icon holds your enemies in stasis!#
-6841 The icon roots your enemies in place!#
-6842 Filtering Spells:
+6840 Шүтээн дайснуудыг тань хөдөлгөөнгүй тогтоолоо!#
+6841 Шүтээн дайснуудыг тань газарт үндэслүүллээ!#
+6842 Шившлэгийн шүүлтүүр:
 %s#
-6843 Invoke#
-6844 Play#
-6845 You recall your previous light.#
-6846 Player Movement Deadzone#
-6847 Affect the analog deadzone of the control stick used for player movement.#
-6848 Camera Turn Deadzone#
-6849 Affect the analog deadzone of the control stick used for turning the player camera.#
-6850 tablet of %s#
-6851 tablets of %s#
-6852 The %s deteriorates and crumbles to ash!#
-6853 didn't survive the impact.#
-6854 Velocity#
-6855 Not enough resources#
-6856 Your spell can not absorb any more magic!#
-6857 Your spell absorbs the incoming hit!#
-6858 Your absorbed magic increased your damage!#
-6859 Your flame cloak falls to ashes.#
-6860 Your flame cloak is roaring with flames!#
-6861 The scroll erupts in a cloak of flame!#
-6862 You are protected by a magical bubble!#
-6863 Your magical bubble fades.#
-6864 The guard over your body fades.#
-6865 The guard over your spirit fades.#
-6866 Your divine guard fades.#
-6867 Your amulet glows a faint red.#
-6868 You have nothing else to learn by trading with this shopkeep.#
-6869 The duck slips out from your pack!#
-6870 Instrument Background Tracks#
-6871 Enable instrument music tracks to continue while their effects are active but not actively being played.#
-6872 Instrument Foreground Tracks#
-6873 Instrument Foreground Tracks description#
-6874 You project your spirit away!#
-6875 Your spirit rejoins your body.#
-6876 Your spirit projection begins to fade...#
+6843 Дуудах#
+6844 Тоглох#
+6845 Та өмнөх гэрлээ буцаан татлаа.#
+6846 Хөдөлгөөний идэвхгүй бүс#
+6847 Дүрийг хөдөлгөх удирдлагын аналог хөшүүргийн идэвхгүй бүсийг тохируулна.#
+6848 Камер эргүүлэх идэвхгүй бүс#
+6849 Камер эргүүлэх удирдлагын аналог хөшүүргийн идэвхгүй бүсийг тохируулна.#
+6850 %s хавтан#
+6851 %s хавтангууд#
+6852 %s муудаж, үнс болон бутарлаа!#
+6853 мөргөлтийг давж амьд үлдсэнгүй.#
+6854 Хурд#
+6855 Нөөц хүрэлцэхгүй#
+6856 Таны шившлэг дахин ид шид шингээх боломжгүй!#
+6857 Таны шившлэг ирж буй цохилтыг шингээлээ!#
+6858 Шингээсэн ид шид таны гэмтлийг нэмлээ!#
+6859 Таны галан нөмрөг үнс боллоо.#
+6860 Таны галан нөмрөг дөлөөр бадран асаж байна!#
+6861 Шидэт бичиг галан нөмрөг болон дүрэлзлээ!#
+6862 Ид шидийн бөмбөлөг таныг хамгаалж байна!#
+6863 Таны ид шидийн бөмбөлөг ариллаа.#
+6864 Таны биеийн хамгаалалт ариллаа.#
+6865 Таны сүнсний хамгаалалт ариллаа.#
+6866 Таны тэнгэрлэг хамгаалалт ариллаа.#
+6867 Таны сахиус бүдэг улаанаар гэрэлтлээ.#
+6868 Энэ худалдаачинтай арилжаад танд сурах юм үлдсэнгүй.#
+6869 Нугас үүргэвчнээс тань сугарч гарлаа!#
+6870 Хөгжмийн арын аялгуу#
+6871 Хөгжим тоглоогүй ч нөлөө нь идэвхтэй байх хугацаанд аялгууг үргэлжлүүлэн тоглуулна.#
+6872 Хөгжмийн гол аялгуу#
+6873 Хөгжмийн гол аялгууны тайлбар#
+6874 Та сүнсээ биеэсээ гаргалаа!#
+6875 Таны сүнс биетэйгээ эргэн нэгдлээ.#
+6876 Таны сүнсний тусгал арилж эхэллээ...#
 6877 Загвар#
-6878 Quack#
+6878 Гааг#
 6879 Буцаах#
-6880 Hotbar Keys Update Selection#
-6881 Allow the highlighted hotbar slot to change when using the individual slot keys to activate the hotbar.#
-6882 The rot invigorates you!#
-6883 You shed your burning foliage!#
-6884 You sprout forth a shrub!#
-6885 You spore forth a mushroom!#
-6886 Your vandalism energizes you!#
-6887 Select transmutation result:#
+6880 Шуурхай товчоор сонголт өөрчлөх#
+6881 Шуурхай мөрийн тус бүрийн товчийг дарахад онцолсон нүдний сонголтыг тухайн нүд рүү шилжүүлнэ.#
+6882 Ялзрал таныг тэнхрүүллээ!#
+6883 Та шатаж буй навчаа гуужууллаа!#
+6884 Та бут ургууллаа!#
+6885 Та спороос мөөг ургууллаа!#
+6886 Эрэмдэглэх үйл тань танд эрч хүч өглөө!#
+6887 Хувирах үр дүнг сонго:#
 6888 Батлах#
-6889 Deselect#
-6890 %s grows in strength!#
-6891 The %s cannot grow any stronger!#
-6892 %s cannot grow any stronger!#
-6893 %s shrivels away!#
-6894 The %s cannot shrivel down any further!#
-6895 %s cannot shrivel down any further!#
-6896 You feel enlarged!#
-6897 You feel diminished!#
-6898 Your stature feels ordinary once more.#
-6899 You were unable to scry any other allies.#
-6900 %s loses their courage!#
-6901 %s is encouraged!#
-6902 %s is compelled to your command!#
-6903 %s becomes a scapegoat!#
-6904 You curse the flesh of %s!#
-6905 The %s's vitality is defied!#
-6906 %s's vitality is defied!#
-6907 Your vitality is defied!#
-6908 Your spell has no effect right now!#
-6909 %s's spell power is diminished!#
-6910 The %s's spell power is diminished!#
-6911 Your spell power is diminished!#
-6912 You suddenly feel rather tall!#
-6913 You suddenly feel rather small!#
-6914 You suddenly detect a change of appearance!#
-6915 Cauldron#
-6916 Your dousing flames increase your fervor!#
-6917 Your impervious armor fades.#
-6918 You are blazing with radiance!#
-6919 Your scales constrict into impervious stone!#
-6920 Your temperance returns to normal.#
-6921 Your radiance reaches a more stable level.#
-6922 You are unable to charge your symbol any further!#
-6923 You are unable to charge your icon any further!#
-6924 Your foliage flourishes with nutrition!#
-6925 Your foliage grows!#
-6926 Your prayer on %s fades.#
-6927 Your prayer on the %s fades.#
-6928 The %s receives a prayer for healing!#
-6929 %s receives a prayer for healing!#
-6930 You pray for healing!#
-6931 Your prayer fades.#
-6932 You receive a healing prayer!#
-6933 Your prayer was interrupted!#
-6934 The blood ward cures your poisoning!#
-6935 The blood ward cures your bleeding!#
-6936 You are unable to scry any allies.#
-6937 You are unable to scry any traps nearby.#
-6938 You are unable to scry any other traps nearby.#
-6939 You are unable to scry any treasures nearby.#
-6940 You are unable to scry any other treasures nearby.#
-6941 You were not deemed worthy of an additional donation.#
-6942 Your call for divine providence falls unanswered.#
-6943 You discover a gift of divine providence!#
-6944 Your ally %s discovers a gift of divine providence!#
-6945 %s's ally %s discovers a gift of divine providence!#
-6946 You are unable to detect any more monsters nearby.#
-6947 You are unable to detect any monsters nearby.#
-6948 You are unable to pinpoint any more monsters nearby.#
-6949 You are unable to pinpoint any monsters nearby.#
-6950 The %s gets smited with divine precision!#
-6951 %s gets smited with divine precision!#
-6952 You cover the area with a divine sigil!#
-6953 You cover the area with divine sanctuary!#
-6954 The %s is purchased into your service!#
-6955 %s is purchased into your service!#
-6956 (%02d:%02d%) Appraising...#
-6957 (%02d:%02d%) %3.0f%% Appraising...#
-6958 You sabotage the construction of the %s!#
-6959 You sabotage the construction of %s!#
-6960 Your skeleton key is damaged.#
-6961 Your skeleton key is broken.#
-6962 Your current power is unable to dominate any more creatures.#
-6963 The scarab inflicts a curse of weakness!#
-6964 The scarab inflicts a greater curse of weakness!#
-6965 N/A#
-6966 Your influence is not high enough to compel the %s!#
-6967 Your influence is not high enough to compel %s!#
-6968 The %s refuses to be compelled further!#
-6969 %s refuses to be compelled further!#
-6970 was unable to drop some of their equipment.#
-6971 Your magical bubble enhances!#
-6972 Your magical bubble has reached the limit of your powers.#
-6973 Some of your gold has vanished!#
-6974 cauldron#
-6975 The cauldron is currently in use by someone else.#
-6976 You see a cauldron.#
-6977 Use cauldron#
-6978 Workbench#
-6979 Use workbench#
-6980 You see a workbench.#
-6981 workbench#
-6982 The workbench is currently in use by someone else.#
-6983 Mailbox#
-6984 Use mailbox#
-6985 You see a mailbox.#
-6986 mailbox#
-6987 The mailbox is currently in use by someone else.#
-6988 Claim#
-6989 Deserters and Disciples DLC
-has been unlocked!#
-6990 You are blinded by a flying slop ball!
- *SPLAT*#
-6991 Yum! Rotten food!#
-6992 Your unidentified items are further appraised!#
-6993 Alternate Item Use Modifier#
-6994 Hotbar Quickcast Spells#
-6995 When enabled, activating spells from the hotbar will immediately attempt to cast them.#
-6996 Mouse Events Limit#
-6997 Limits the amount of mouse movement events processed per frame to prevent large camera swings.#
-6998 Unlimited#
+6889 Сонголт цуцлах#
+6890 %s хүчирхэгжлээ!#
+6891 %s амьтан цааш хүчирхэгжих боломжгүй!#
+6892 %s цааш хүчирхэгжих боломжгүй!#
+6893 %s хорчийн багаслаа!#
+6894 %s амьтан цааш багасах боломжгүй!#
+6895 %s цааш багасах боломжгүй!#
+6896 Та томорсон мэт мэдэрлээ!#
+6897 Та жижгэрсэн мэт мэдэрлээ!#
+6898 Таны биеийн хэмжээ дахин хэвийн боллоо.#
+6899 Та өөр холбоотон тольдон олж чадсангүй.#
+6900 %s зориг алдлаа!#
+6901 %s зоригжлоо!#
+6902 %s таны тушаалд захирагдлаа!#
+6903 %s золиос боллоо!#
+6904 Та %s этгээдийн махан биеийг хараалаа!#
+6905 %s амьтны амин хүч мохлоо!#
+6906 %s этгээдийн амин хүч мохлоо!#
+6907 Таны амин хүч мохлоо!#
+6908 Таны шившлэг одоогоор нөлөөгүй!#
+6909 %s этгээдийн шившлэгийн хүч буурлаа!#
+6910 %s амьтны шившлэгийн хүч буурлаа!#
+6911 Таны шившлэгийн хүч буурлаа!#
+6912 Танд гэнэт их өндөр болсон мэт санагдлаа!#
+6913 Танд гэнэт их жижиг болсон мэт санагдлаа!#
+6914 Танд гэнэт төрх өөрчлөгдсөн нь мэдрэгдлээ!#
+6915 Тогоо#
+6916 Таны унтраах дөл сүсгийг тань нэмлээ!#
+6917 Таны нэвтэршгүй хуяг ариллаа.#
+6918 Та хурц туяагаар бадарч байна!#
+6919 Таны хайрс нэвтэршгүй чулуу болон нягтарлаа!#
+6920 Таны тэвчээр хэвийн боллоо.#
+6921 Таны туяа илүү тогтвортой түвшинд хүрлээ.#
+6922 Та бэлгэдлээ цааш цэнэглэж чадахгүй!#
+6923 Та шүтээнээ цааш цэнэглэж чадахгүй!#
+6924 Таны навч шим тэжээлээр дэлгэрлээ!#
+6925 Таны навч ургалаа!#
+6926 %s этгээдэд тавьсан залбирал тань ариллаа.#
+6927 %s амьтанд тавьсан залбирал тань ариллаа.#
+6928 %s амьтан эдгээх залбирал хүлээн авлаа!#
+6929 %s эдгээх залбирал хүлээн авлаа!#
+6930 Та эдгэрэхийн төлөө залбирлаа!#
+6931 Таны залбирал ариллаа.#
+6932 Та эдгээх залбирал хүлээн авлаа!#
+6933 Таны залбирал тасалдлаа!#
+6934 Цусны сахиус таны хордлогыг эдгээлээ!#
+6935 Цусны сахиус таны цус алдалтыг тогтоолоо!#
+6936 Та нэг ч холбоотон тольдон олж чадсангүй.#
+6937 Та ойр хавиас урхи тольдон олж чадсангүй.#
+6938 Та ойр хавиас өөр урхи тольдон олж чадсангүй.#
+6939 Та ойр хавиас эрдэнэс тольдон олж чадсангүй.#
+6940 Та ойр хавиас өөр эрдэнэс тольдон олж чадсангүй.#
+6941 Та нэмэлт хандив авах эрхэмд тооцогдсонгүй.#
+6942 Тэнгэрлэг хишиг гуйсан дуудлагад тань хариу ирсэнгүй.#
+6943 Та тэнгэрлэг хишгийн бэлэг оллоо!#
+6944 Таны холбоотон %s тэнгэрлэг хишгийн бэлэг оллоо!#
+6945 %s этгээдийн холбоотон %s тэнгэрлэг хишгийн бэлэг оллоо!#
+6946 Та ойр хавиас өөр мангас илрүүлж чадсангүй.#
+6947 Та ойр хавиас мангас илрүүлж чадсангүй.#
+6948 Та ойр хавийн өөр мангасын байрлалыг тогтоож чадсангүй.#
+6949 Та ойр хавийн мангасын байрлалыг тогтоож чадсангүй.#
+6950 %s амьтан тэнгэрлэг нарийвчлалд ниргүүллээ!#
+6951 %s тэнгэрлэг нарийвчлалд ниргүүллээ!#
+6952 Та талбайг тэнгэрлэг тамгаар бүрхлээ!#
+6953 Та талбайг тэнгэрлэг орогнолоор бүрхлээ!#
+6954 %s амьтныг таны албанд худалдаж авлаа!#
+6955 %s этгээдийг таны албанд худалдаж авлаа!#
+6956 (%02d:%02d%) Шинжиж байна...#
+6957 (%02d:%02d%) %3.0f%% Шинжиж байна...#
+6958 Та %s амьтны бүтцийг хорлон эвдлээ!#
+6959 Та %s этгээдийн бүтцийг хорлон эвдлээ!#
+6960 Таны бүх цоожны түлхүүр гэмтлээ.#
+6961 Таны бүх цоожны түлхүүр хугарлаа.#
+6962 Таны одоогийн хүч илүү олон амьтныг эрхшээлдээ оруулж чадахгүй.#
+6963 Скараб сулруулах хараал тавилаа!#
+6964 Скараб хүчтэй сулруулах хараал тавилаа!#
+6965 Хамаарахгүй#
+6966 Таны нөлөө %s амьтныг захирахад хүрэлцэхгүй!#
+6967 Таны нөлөө %s этгээдийг захирахад хүрэлцэхгүй!#
+6968 %s амьтан цааш захирагдахаас татгалзлаа!#
+6969 %s цааш захирагдахаас татгалзлаа!#
+6970 зарим хэрэгслээ унагаж чадсангүй.#
+6971 Таны ид шидийн бөмбөлөг сайжирлаа!#
+6972 Таны ид шидийн бөмбөлөг таны хүчний хязгаарт хүрлээ.#
+6973 Таны алтны зарим нь алга боллоо!#
+6974 тогоо#
+6975 Тогоог одоо өөр хүн ашиглаж байна.#
+6976 Та тогоо харлаа.#
+6977 Тогоо ашиглах#
+6978 Ажлын ширээ#
+6979 Ажлын ширээ ашиглах#
+6980 Та ажлын ширээ харлаа.#
+6981 ажлын ширээ#
+6982 Ажлын ширээг одоо өөр хүн ашиглаж байна.#
+6983 Шуудангийн хайрцаг#
+6984 Шуудангийн хайрцаг ашиглах#
+6985 Та шуудангийн хайрцаг харлаа.#
+6986 шуудангийн хайрцаг#
+6987 Шуудангийн хайрцгийг одоо өөр хүн ашиглаж байна.#
+6988 Авах#
+6989 Deserters and Disciples нэмэлт агуулга
+нээгдлээ!#
+6990 Нисэж буй шавхруут бөмбөг таныг сохоллоо!
+ *ПАД*#
+6991 Амттай юм! Муудсан хоол!#
+6992 Таны таниагүй эд зүйлс илүү сайн шинжлэгдлээ!#
+6993 Эд зүйлийн өөр хэрэглээний нэмэлт товч#
+6994 Шуурхай мөрөөс шившлэг шууд хэрэглэх#
+6995 Идэвхтэй үед шуурхай мөрийн шившлэгийг дарахад шууд хэрэглэхийг оролдоно.#
+6996 Хулганы хөдөлгөөний хязгаар#
+6997 Камер огцом савлахаас сэргийлж нэг кадрт боловсруулах хулганы хөдөлгөөний тоог хязгаарлана.#
+6998 Хязгааргүй#
 
 7999 END#

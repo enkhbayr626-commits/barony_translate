@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "items": {
+    "leather_helm": {
+      "name_identified": "эльфийн толгойн өмсгөл",
+      "name_unidentified": "эльфийн толгойн өмсгөл"
+    },
+    "steel_helm": {
+      "name_identified": "баярын толгойн өмсгөл",
+      "name_unidentified": "баярын толгойн өмсгөл"
+    },
+    "food_bread": {
+      "name_identified": "жимст бялуу",
+      "name_unidentified": "жимст бялуу"
+    },
+    "food_cheese": {
+      "name_identified": "чихрэн таяг",
+      "name_unidentified": "чихрэн таяг"
+    },
+    "food_apple": {
+      "name_identified": "бялууны зүсэм",
+      "name_unidentified": "бялууны зүсэм"
+    },
+    "food_meat": {
+      "name_identified": "цацагт хяруул",
+      "name_unidentified": "цацагт хяруул"
+    },
+    "food_fish": {
+      "name_identified": "жигнэмэг",
+      "name_unidentified": "жигнэмэг"
+    },
+    "artifact_breastpiece": {
+      "name_identified": "Сантагийн хуяг",
+      "name_unidentified": "домогт цээживч"
+    },
+    "artifact_helm": {
+      "name_identified": "Сантагийн гивлүүр",
+      "name_unidentified": "домогт дуулга"
+    },
+    "artifact_boots": {
+      "name_identified": "Сантагийн гутал",
+      "name_unidentified": "домогт гутал"
+    },
+    "artifact_cloak": {
+      "name_identified": "Сантагийн нөмрөг",
+      "name_unidentified": "домогт нөмрөг"
+    },
+    "artifact_gloves": {
+      "name_identified": "Сантагийн бугуйвч",
+      "name_unidentified": "домогт бээлий"
+    },
+    "food_tomalley": {
+      "name_identified": "цангисын сүмс",
+      "name_unidentified": "цангисын сүмс"
+    },
+    "artifact_orb_blue": {
+      "name_identified": "цэнхэр бэлэг",
+      "name_unidentified": "цэнхэр бэлэг"
+    },
+    "artifact_orb_red": {
+      "name_identified": "улаан оймс",
+      "name_unidentified": "улаан оймс"
+    },
+    "artifact_orb_purple": {
+      "name_identified": "нил ягаан чимэглэл",
+      "name_unidentified": "нил ягаан чимэглэл"
+    },
+    "artifact_orb_green": {
+      "name_identified": "жижиг ногоон мод",
+      "name_unidentified": "жижиг ногоон мод"
+    },
+    "hat_fez": {
+      "name_identified": "эльфийн малгай",
+      "name_unidentified": "эльфийн малгай"
+    },
+    "cloak_backpack": {
+      "name_identified": "бэлгийн шуудай",
+      "name_unidentified": "бэлгийн шуудай"
+    }
+  }
+}

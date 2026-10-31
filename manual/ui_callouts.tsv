@@ -1,0 +1,210 @@
+Check this out!	Үүнийг хараарай!
+Wave to %s!	%s рүү далла!
+%s waves to %s!	%s нь %s рүү даллалаа!
+You wave to %s!	Та %s рүү даллалаа!
+%s waves to you!	%s тан руу даллалаа!
+Gesture to this location.	Энэ газрыг заа.
+%s gestures to a spot over there.	%s тэр газрыг заалаа.
+You gesture to a spot over there.	Та тэр газрыг заалаа.
+There's a %s here.	Энд %s байна.
+There's an %s here.	Энд %s байна.
+There's a %s over here.	Наана %s байна.
+There's an %s over here.	Наана %s байна.
+%s is here.	%s энд байна.
+The enemy %s is here!	Дайсан %s энд байна!
+Enemy %s here!	Дайсан %s энд байна!
+Our ally %s is here.	Манай холбоотон %s энд байна.
+Point out the chest.	Авдрыг заа.
+I found a chest!	Би авдар оллоо!
+Point out this active switch.	Энэ идэвхтэй хөшүүргийг заа.
+That switch over there has already been pulled.	Тэр хөшүүргийг аль хэдийн татсан байна.
+Point out this inactive switch.	Энэ идэвхгүй хөшүүргийг заа.
+That switch over there hasn't been pulled.	Тэр хөшүүргийг татаагүй байна.
+Point out this active button.	Энэ идэвхтэй товчийг заа.
+That button over there has already been pressed.	Тэр товчийг аль хэдийн дарсан байна.
+Point out this inactive button.	Энэ идэвхгүй товчийг заа.
+That button over there hasn't been pressed.	Тэр товчийг дараагүй байна.
+Point out this active %s key.	Энэ идэвхтэй %s түлхүүрийг заа.
+That %s key over there has already been activated.	Тэр %s түлхүүрийг аль хэдийн идэвхжүүлсэн байна.
+Point out this inactive %s key.	Энэ идэвхгүй %s түлхүүрийг заа.
+That %s key over there hasn't been activated.	Тэр %s түлхүүрийг идэвхжүүлээгүй байна.
+Point out the empty %s lock.	Хоосон %s цоожийг заа.
+There's a empty %s lock over there.	Тэнд хоосон %s цоож байна.
+Point out the switch.	Хөшүүргийг заа.
+There's a switch over there.	Тэнд хөшүүрэг байна.
+Point out the boulder.	Бул чулууг заа.
+%s gestures to the boulder.	%s бул чулууг заалаа.
+You gesture to the boulder.	Та бул чулууг заалаа.
+Point out the %s.	%s-г заа.
+Point out the shrine.	Тахилын газрыг заа.
+There's a shrine over here.	Наана тахилын газар байна.
+Point out the bell.	Хонхыг заа.
+There's a bell over here.	Наана хонх байна.
+Point out the Daedalus shrine.	Дедалын тахилын газрыг заа.
+There's a Daedalus shrine over here.	Наана Дедалын тахилын газар байна.
+Point out the Assist shrine.	Тусламжийн тахилын газрыг заа.
+There's an Assist shrine over here.	Наана тусламжийн тахилын газар байна.
+Point out the exit.	Гарцыг заа.
+The exit is over here.	Гарц наана байна.
+Point out the secret level exit.	Нууц давхрын гарцыг заа.
+%s points to the secret level exit.	%s нууц давхрын гарцыг заалаа.
+You point to the secret level exit.	Та нууц давхрын гарцыг заалаа.
+Point out the secret level entrance.	Нууц давхрын орцыг заа.
+%s points out the entrance to a secret area.	%s нууц газрын орцыг заалаа.
+You point out the entrance to a secret area.	Та нууц газрын орцыг заалаа.
+Point out the gold.	Алтыг заа.
+%s points out some gold.	%s алтыг заалаа.
+You point out some gold.	Та алтыг заалаа.
+Point out the fountain.	Оргилуурыг заа.
+%s points out a fountain.	%s оргилуурыг заалаа.
+You point out a fountain.	Та оргилуурыг заалаа.
+Point out the sink.	Угаалтуурыг заа.
+%s points out a sink.	%s угаалтуурыг заалаа.
+You point out a sink.	Та угаалтуурыг заалаа.
+Pount out the teleporter.	Шилжүүлэгчийг заа.
+Looks like there's a teleporter here.	Энд шилжүүлэгч байгаа бололтой.
+Point out the way up.	Дээш гарах замыг заа.
+This ladder leads upward.	Энэ шат дээш хүргэнэ.
+Point out the way down.	Доош орох замыг заа.
+This ladder will take us downward.	Энэ шат биднийг доош хүргэнэ.
+A %s has been placed here.	Энд %s байрлуулжээ.
+Point out the breakable %s.	Эвдэж болох %s-г заа.
+We can bust through this %s.	Бид энэ %s-г эвдээд гарч чадна.
+Player unavailable	Тоглогч боломжгүй
+Call for help!	Тусламж дууд!
+%s calls for help!	%s тусламж дуудлаа!
+You call for help!	Та тусламж дуудлаа!
+Call for help! (%s)	Тусламж дууд! (%s)
+%s calls for help!\n(%s)	%s тусламж дуудлаа!\n(%s)
+You call for help!\n(%s)	Та тусламж дуудлаа!\n(%s)
+I need food! (Hungry)	Надад хоол хэрэгтэй! (Өлссөн)
+I need blood! (Hungry)	Надад цус хэрэгтэй! (Өлссөн)
+I need food! (Feeling Weak)	Надад хоол хэрэгтэй! (Сульдсан)
+I need blood! (Feeling Weak)	Надад цус хэрэгтэй! (Сульдсан)
+My boiler is empty!	Миний зуух хоосорлоо!
+I'm dying of starvation!	Би өлсөж үхлээ!
+I'm dying of starvation! (Blood)	Би өлсөж үхлээ! (Цус)
+I'm dying of starvation!  (Blood)	Би өлсөж үхлээ!  (Цус)
+I need healing!	Намайг эдгээгээрэй!
+I'm almost out of health!	Миний амь бараг дууслаа!
+I need cure ailment!	Надад өвчин тайлах шившлэг хэрэгтэй!
+I need help!	Надад туслаарай!
+%s needs help!	%s-д тусламж хэрэгтэй!
+You request help!	Та тусламж хүслээ!
+I need assistance with this %s.	Энэ %s дээр надад туслаарай.
+I need help with this %s!	Энэ %s дээр надад туслаарай!
+I need help with %s!	%s дээр надад туслаарай!
+Our ally %s needs help!	Манай холбоотон %s-д тусламж хэрэгтэй!
+I need help with this chest.	Энэ авдар дээр надад туслаарай.
+I need help with this switch.	Энэ хөшүүрэг дээр надад туслаарай.
+I need help with this button.	Энэ товч дээр надад туслаарай.
+I need help with this active %s key.	Энэ идэвхтэй %s түлхүүр дээр надад туслаарай.
+I need help with this inactive %s key.	Энэ идэвхгүй %s түлхүүр дээр надад туслаарай.
+I need help with this %s lock.	Энэ %s цоож дээр надад туслаарай.
+I need help with this boulder.	Энэ бул чулуу дээр надад туслаарай.
+I need help by this %s!	Энэ %s-ийн дэргэд надад туслаарай!
+I need help by this shrine!	Энэ тахилын газрын дэргэд надад туслаарай!
+I need help by this Daedalus shrine!	Энэ Дедалын тахилын газрын дэргэд надад туслаарай!
+I would like to use the Assist shrine!	Би тусламжийн тахилын газрыг ашигламаар байна!
+I need help by this bell!	Энэ хонхны дэргэд надад туслаарай!
+Request help by the exit.	Гарцын дэргэд тусламж хүс.
+%s requests help by the exit!	%s гарцын дэргэд тусламж хүслээ!
+You request help by the exit!	Та гарцын дэргэд тусламж хүслээ!
+Request help by the secret level exit.	Нууц давхрын гарцын дэргэд тусламж хүс.
+%s requests help by the secret level exit!	%s нууц давхрын гарцын дэргэд тусламж хүслээ!
+You request help by the secret level exit!	Та нууц давхрын гарцын дэргэд тусламж хүслээ!
+Request help by the secret level entrance.	Нууц давхрын орцын дэргэд тусламж хүс.
+%s requests help by the secret level entrance!	%s нууц давхрын орцын дэргэд тусламж хүслээ!
+You request help by the secret level entrance!	Та нууц давхрын орцын дэргэд тусламж хүслээ!
+I need help carrying this gold.	Энэ алтыг зөөхөд надад туслаарай.
+I need help by this fountain!	Энэ оргилуурын дэргэд надад туслаарай!
+I need help by this sink!	Энэ угаалтуурын дэргэд надад туслаарай!
+I need help by this teleporter!	Энэ шилжүүлэгчийн дэргэд надад туслаарай!
+I need help by this ladder!	Энэ шатны дэргэд надад туслаарай!
+I need help with this breakable %s.	Эвдэж болох энэ %s дээр надад туслаарай.
+Let's move here!	Наашаа явцгаая!
+Thank %s!	%s-д таларх!
+%s thanks %s!	%s нь %s-д талархлаа!
+You give thanks to %s!	Та %s-д талархлаа!
+%s thanks you!	%s танд талархлаа!
+Give a thumbs up.	Эрхий хуруугаа гозойлго.
+You give a thumbs up!	Та эрхий хуруугаа гозойлголоо!
+%s gives a thumbs up!	%s эрхий хуруугаа гозойлголоо!
+Give a thumbs up here.	Энд эрхий хуруугаа гозойлго.
+You give a thumbs up here!	Та энд эрхий хуруугаа гозойлголоо!
+%s gives a thumbs up here!	%s энд эрхий хуруугаа гозойлголоо!
+This %s is good.	Энэ %s сайн байна.
+This %s needs to be dealt with.	Энэ %s-г зохицуулах хэрэгтэй.
+%s needs to be dealt with.	%s-г зохицуулах хэрэгтэй.
+Attack %s!	%s рүү дайр!
+Attack the %s!	%s рүү дайр!
+Our ally %s is up to the task.	Манай холбоотон %s үүнийг чадна.
+I'll check the chest.	Би авдрыг шалгая.
+Turn that switch off!	Тэр хөшүүргийг унтраа!
+Turn that switch on!	Тэр хөшүүргийг асаа!
+That button is on!	Тэр товч идэвхтэй байна!
+Push that button!	Тэр товчийг дар!
+Reset that %s key!	Тэр %s түлхүүрийг буцаа!
+Turn that %s key on!	Тэр %s түлхүүрийг идэвхжүүл!
+Go ahead and open that %s lock.	Тэр %s цоожийг онгойлгоорой.
+Go ahead and use that switch.	Тэр хөшүүргийг ашиглаарай.
+That boulder needs to be handled.	Тэр бул чулууг зохицуулах хэрэгтэй.
+I think that %s is safe.	Тэр %s аюулгүй гэж бодож байна.
+This %s is ready to use.	Энэ %s ашиглахад бэлэн.
+I'll use the shrine.	Би тахилын газрыг ашиглая.
+I'll use the Daedalus shrine.	Би Дедалын тахилын газрыг ашиглая.
+The Assist shrine is good to go.	Тусламжийн тахилын газар бэлэн боллоо.
+I'll use the bell.	Би хонхыг ашиглая.
+I'm ready to use the exit.	Би гарцаар гарахад бэлэн.
+Let's leave the secret level.	Нууц давхраас гарцгаая.
+Let's get out of this place!	Эндээс гарцгаая!
+Let's take the secret path.	Нууц замаар явцгаая.
+I'll carry the gold.	Би алтыг зөөе.
+I'll use the fountain.	Би оргилуурыг ашиглая.
+I'll use the sink.	Би угаалтуурыг ашиглая.
+I'll go through the teleporter.	Би шилжүүлэгчээр дамжъя.
+I'm climbing up this ladder.	Би энэ шатаар өгслөө.
+I'm climbing down the ladder.	Би шатаар уруудлаа.
+This %s is good to go.	Энэ %s бэлэн боллоо.
+Let's bust through this %s.	Энэ %s-г эвдээд гарцгаая.
+Give a thumbs down.	Эрхий хуруугаа доош харуул.
+You give a thumbs down.	Та эрхий хуруугаа доош харууллаа.
+%s gives a thumbs down.	%s эрхий хуруугаа доош харууллаа.
+Give a thumbs down here.	Энд эрхий хуруугаа доош харуул.
+You give a thumbs down here.	Та энд эрхий хуруугаа доош харууллаа.
+%s gives a thumbs down here.	%s энд эрхий хуруугаа доош харууллаа.
+This %s is no good for me.	Энэ %s надад тохирохгүй.
+Avoid that %s!	Тэр %s-ээс зайлсхий!
+Avoid %s!	%s-ээс зайлсхий!
+Flee from %s!	%s-ээс зугт!
+Flee from the %s!	%s-ээс зугт!
+Our ally %s isn't up to the task.	Манай холбоотон %s үүнийг чадахгүй.
+Nothing useful in this chest.	Энэ авдарт хэрэгтэй зүйл алга.
+Leave that switch on!	Тэр хөшүүргийг асаалттай орхи!
+Leave that switch off!	Тэр хөшүүргийг унтраалттай орхи!
+Leave that button pressed!	Тэр товчийг дарсан чигээр нь орхи!
+Leave that button untouched!	Тэр товчийг бүү хөнд!
+Leave that %s key turned!	Тэр %s түлхүүрийг эргүүлсэн чигээр нь орхи!
+Leave that %s key unturned!	Тэр %s түлхүүрийг бүү эргүүл!
+Don't open that %s lock!	Тэр %s цоожийг бүү онгойлго!
+Don't touch that switch!	Тэр хөшүүргийг бүү хөнд!
+Watch out for that boulder!	Тэр бул чулуунаас болгоомжил!
+That %s could be trouble.	Тэр %s асуудал тарьж магадгүй.
+Don't use that %s.	Тэр %s-г бүү ашигла.
+Don't use that shrine.	Тэр тахилын газрыг бүү ашигла.
+Don't use that Daedalus shrine.	Тэр Дедалын тахилын газрыг бүү ашигла.
+Don't use that Assist shrine.	Тэр тусламжийн тахилын газрыг бүү ашигла.
+Don't use that bell.	Тэр хонхыг бүү ашигла.
+I'm not ready to use the exit.	Би гарцаар гарахад бэлэн биш.
+I'm not ready to leave yet.	Би одоохондоо гарахад бэлэн биш.
+I'm not ready to leave the secret level.	Би нууц давхраас гарахад бэлэн биш.
+I'm not ready to leave this place yet.	Би энэ газраас гарахад бэлэн биш.
+We should avoid the secret path.	Бид нууц замаас зайлсхийх хэрэгтэй.
+I don't need this gold.	Надад энэ алт хэрэггүй.
+This fountain is no good for me.	Энэ оргилуур надад тохирохгүй.
+This sink is no good for me.	Энэ угаалтуур надад тохирохгүй.
+I'm not ready to go through the teleporter yet.	Би шилжүүлэгчээр дамжихад хараахан бэлэн биш.
+I'm not ready to ascend just yet.	Би одоохондоо өгсөхөд бэлэн биш.
+I'm not ready to descend just yet.	Би одоохондоо уруудахад бэлэн биш.
+Leave this %s alone.	Энэ %s-г бүү хөнд.
+Leave that %s alone.	Тэр %s-г бүү хөнд.

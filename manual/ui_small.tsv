@@ -1,0 +1,107 @@
+Follow	Дага
+(ALL) Wait Here	(БҮГД) Энд хүлээ
+(ALL) Follow	(БҮГД) Дага
+Move Aside	Холдоорой
+Move aside	Холдоорой
+Attack / Interact with...	Дайрах / Харилцах...
+Interact...	Харилцах...
+Rest	Амар
+Drop Weapon	Зэвсгээ хая
+Drop Equipment	Хэрэгслээ хая
+Drop All	Бүгдийг хая
+Prefer Equipment: Any	Хэрэгслийн сонголт: Аль ч
+Prefer Equipment: Ranged	Хэрэгслийн сонголт: Холын
+Prefer Equipment: Melee	Хэрэгслийн сонголт: Ойрын
+Pickup Items: All	Эд зүйл авах: Бүгдийг
+Pickup Items: Unowned	Эд зүйл авах: Эзэнгүйг
+Pickup Items: None	Эд зүйл авах: Үгүй
+Relinquish Soul	Сүнсээ чөлөөл
+Hold Aim	Онилоогоо барь
+Free Look	Чөлөөтэй хар
+(ALL) Hold Aim	(БҮГД) Онилоогоо барь
+(ALL) Free Look	(БҮГД) Чөлөөтэй хар
+Return & Land	Буцаж газардах
+Deactivate	Идэвхгүй болгох
+Return To Box	Хайрцагт буцаах
+Drop item	Эд зүйл хая
+Detect items with: [Metal Scrap]	[Металлын хаягдал]-тай эд зүйл илрүүлэх
+Detect items with: [Magic Scrap]	[Шидэт хаягдал]-тай эд зүйл илрүүлэх
+Detect items: [Valuable]	Эд зүйл илрүүлэх: [Үнэ цэнтэй]
+Detect: [Monsters]	Илрүүлэх: [Мангасууд]
+Detect: [Traps]	Илрүүлэх: [Урхи]
+Detect: [Exits]	Илрүүлэх: [Гарц]
+Radial Detection OFF	Тойрог илрүүлэлт УНТРААЛТТАЙ
+Emit light: [Faint]	Гэрэл: [Бүдэг]
+Emit light: [Bright]	Гэрэл: [Тод]
+Emit light: [None]	Гэрэл: [Үгүй]
+Missing skill / stat requirement: %d / %d	Ур чадвар / үзүүлэлт хүрэхгүй: %d / %d
+Missing skill / stat requirement: %d / %d 	Ур чадвар / үзүүлэлт хүрэхгүй: %d / %d 
+Command unavailable for %s	%s энэ тушаалыг биелүүлэхгүй
+Command unavailable for %s while Compelled	Захирагдсан %s энэ тушаалыг биелүүлэхгүй
+You may only use this command once per floor	Энэ тушаалыг давхар бүрд нэг л удаа ашиглана
+Higher quality %s required	Илүү чанартай %s шаардлагатай
+ALL	БҮГД
+Autosort Items	Эд зүйлийг эрэмбэлэх
+View Effects	Нөлөөг үзэх
+Rotate Portrait	Хөрөг эргүүлэх
+Red Riding Hood	Улаан малгайт
+King Arthur	Артур хаан
+Merlin	Мерлин
+Robin Hood	Робин Гуд
+Conan the Barbarian	Харгис Конан
+Othello	Отелло
+Anansi	Ананси
+Oya	Оя
+Vishpala	Вишпала
+Kali	Кали
+ZAP Brigadier	ЗАП бригадын дарга
+Algernon	Алжернон
+The Potato King	Төмсний хаан
+Thumpus the Troll	Тролль Тампус
+Shelob	Шелоб
+Bubbles	Хөөсхөн
+Coral Grimes	Корал Граймс
+Funny Bones	Хөгжилтэй яс
+skeleton knight	ясан хөлөг баатар
+Knight	Хөлөг баатар
+skeleton sentinel	ясан харуул
+Sentinel	Харуул
+Skrabblag	Скраблаг
+Deu De'Breau	Дё Де'Бро
+Lilith	Лилит
+Xyggi	Зигги
+Golem	Голем
+Johann	Йоханн
+Bram Kindly	Брам Кайндли
+Artemisia	Артемизия
+Baratheon	Баратеон
+Gharbad	Гарбад
+Sentry	Харуулын төхөөрөмж
+Spell	Шидэт төхөөрөмж
+Gyro	Нисдэг төхөөрөмж
+Dummy	Бэлтгэлийн бай
+fire sprite	галын савдаг
+Take on 10 challenges that teach and test your adventuring skills, preparing you to\n take on the dungeon!	Адал явдлын ур чадварыг тань зааж, шалгах 10 сорилыг давж,\n гянданд ороход бэлтгээрэй!
+Hover over an entry for more information.	Дэлгэрэнгүйг харахын тулд мөр дээр хулганаа аваачна уу.
+The Hall of Trials	Сорилын танхим
+Description: The hub where all tutorial trials can be accessed.	Тайлбар: Бүх сургалтын сорилд нэвтрэх төв.
+Trial 1: Dungeon Basics and Melee Fighting	Сорил 1: Гяндангийн үндэс ба ойрын тулаан
+Description: Learn how to interact with the dungeon, how to attack with melee weapons,\n and defend with shields.	Тайлбар: Гяндан дахь зүйлстэй харилцах, ойрын зэвсгээр дайрах,\n бамбайгаар хамгаалахыг сурна.
+Trial 2: Bows, Arrows and Throwing Weapons	Сорил 2: Нум, сум ба шидэх зэвсэг
+Description: Learn about different bow and ammo types, and how to use throwing weapons.	Тайлбар: Нум, сумны төрөл болон шидэх зэвсэг хэрэглэхийг сурна.
+Trial 3: Dungeon Traps, Spikes and Boulders	Сорил 3: Гяндангийн урхи, шовх төмөр ба бул чулуу
+Description: Learn about the kinds of traps that you will encounter, how dangerous they \n are, and how to avoid them.	Тайлбар: Тулгарах урхины төрөл, тэдгээрийн аюул болон \n хэрхэн зайлсхийхийг сурна.
+Trial 4: Food, Appraisal and Curses	Сорил 4: Хоол, үнэлгээ ба хараал
+Description: Learn about hunger and food, and how appraisal can help you mitigate the\n risk of unidentified items.	Тайлбар: Өлсгөлөн, хоол болон танигдаагүй эд зүйлийн эрсдэлийг\n үнэлгээгээр бууруулахыг сурна.
+Trial 5: Magic, Spellbooks and Casting	Сорил 5: Ид шид, шившлэгийн ном ба шивших
+Description: Learn how to memorize spells and cast from scrolls, tomes and magicstaffs.	Тайлбар: Шившлэг цээжлэх, хуйлмал, ном, шидэт таягаар шившихийг сурна.
+Trial 6: Stealth and Sneak Attacks	Сорил 6: Нуугдах ба сэм дайрах
+Description: Learn how to approach combat at an advantage using darkness, flanking and \n assassinations.	Тайлбар: Харанхуй, хажуугийн дайралт, сэм хороолтоор \n тулаанд давуу тал олж сурна.
+Trial 7: Follower Recruiting and Commands	Сорил 7: Дагуул элсүүлэх ба тушаах
+Description: Learn how to lead followers in order to make the most of their versatile \n capabilities.	Тайлбар: Дагуулуудын олон талын чадварыг бүрэн ашиглахаар \n удирдаж сурна.
+Trial 8: Potions and Alchemy	Сорил 8: Шидэт ханд ба алхими
+Description: Learn the basics of drinking and throwing potions, as well as mixing your \n own with an alembic.	Тайлбар: Ханд уух, шидэхийн үндэс болон нэрэх багажаар \n өөрөө ханд найруулахыг сурна.
+Trial 9: Tinkering	Сорил 9: Урлах
+Description: Learn about many gadgets that use the Tinkering skill, from lockpicking\n to crafting elaborate defenses.	Тайлбар: Урлах чадвар ашиглах олон багаж, цоож онгойлгохоос\n эхлээд нарийн хамгаалалт бүтээх хүртэл сурна.
+Trial 10: Merchants and Shops	Сорил 10: Худалдаачид ба дэлгүүр
+Description: Learn about the enigmatic merchants, who are as picky as they are powerful,\n and how they can help you.	Тайлбар: Сүр хүчтэй атлаа голомтгой нууцлаг худалдаачид\n танд хэрхэн тусалдгийг мэдэж авна.

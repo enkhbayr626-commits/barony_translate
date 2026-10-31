@@ -1,0 +1,1653 @@
+{
+  "version": 1,
+  "colors": {
+    "notification_text": {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "tooltip_heading_text": {
+      "r": 67,
+      "g": 195,
+      "b": 157,
+      "a": 255
+    },
+    "tooltip_desc_text": {
+      "r": 188,
+      "g": 154,
+      "b": 114,
+      "a": 255
+    }
+  },
+  "notification_font": "fonts/pixelmix.ttf#16#2",
+  "default_tooltip_width": 200,
+  "sustained_effects": {
+    "SUSTAIN_LIGHT": {
+      "id": -1,
+      "spell_id": 7,
+      "internal_name": "SUSTAIN_LIGHT",
+      "name": "Гэрэл",
+      "desc": "Шидэт гэрлийг үргэлжлүүлж байна",
+      "img_path": "",
+      "img_from_spell_id": 7
+    },
+    "SUSTAIN_SHADE": {
+      "id": -1,
+      "spell_id": 127,
+      "internal_name": "SUSTAIN_SHADE",
+      "name": "Гүн сүүдэр",
+      "desc": "Шидэт сүүдрийг үргэлжлүүлж байна",
+      "img_path": "",
+      "img_from_spell_id": 127
+    },
+    "EFF_SHADOW_TAGGED": {
+      "id": 34,
+      "spell_id": 45,
+      "internal_name": "EFF_SHADOW_TAGGED",
+      "name": [
+        "Увдист тэмдэг\n(%s дээр идэвхтэй)",
+        "Увдист тэмдэг (%s дээр идэвхтэй)",
+        "Увдист тэмдэг (бай тодорхойгүй)"
+      ],
+      "desc": "Байны язгуурын хохирлын тэсвэр, сул талыг арилгана\nШилжих шившлэгүүд тэр бай руу чиглэнэ",
+      "img_path": "",
+      "img_from_spell_id": 45
+    }
+  },
+  "effects": {
+    "EFF_HUNGER": {
+      "id": -2,
+      "internal_name": "EFF_HUNGER",
+      "name": [
+        "Хэт цадсан!",
+        "Өлссөн",
+        "Их өлссөн",
+        "Өлбөрч байна!"
+      ],
+      "desc": [
+        "Хэт идсэнээс:\n- Хүч\n- Шаламгай",
+        "Хоол идэхгүй бол сөрөг нөлөө үүснэ",
+        "Хоол дутагдсанаас:\n- Хүч\n- Шаламгай",
+        "Хоол дутагдсанаас:\n- Амины нөхөлт зогсоно\n- Хугацааны явцад дээд амины % хохирол авна\n- Хүч\n- Шаламгай\n- Оюун\n- Гярхай"
+      ],
+      "img_path": [
+        "*images/ui/HUD/HUD_Hunger_01A.png",
+        "*images/ui/HUD/HUD_Hunger_01B.png",
+        "*images/ui/HUD/HUD_Hunger_01C.png",
+        "*images/ui/HUD/HUD_Hunger_01D.png"
+      ],
+      "img_from_spell_id": -1,
+      "tooltip_width": 250
+    },
+    "EFF_BLOOD_HUNGER": {
+      "id": -3,
+      "internal_name": "EFF_HUNGER",
+      "name": [
+        "Хэт цадсан!",
+        "Өлссөн",
+        "Их өлссөн",
+        "Өлбөрч байна!"
+      ],
+      "desc": [
+        "Хэт идсэнээс:\n- Хүч\n- Шаламгай",
+        "Хоол идэхгүй бол сөрөг нөлөө үүснэ",
+        "Хоол дутагдсанаас:\n- Хүч\n- Шаламгай",
+        "Хоол дутагдаж, аажмаар хохирол авч байна:\n- Хүч\n- Шаламгай\n- Оюун\n- Гярхай"
+      ],
+      "img_path": [
+        "*images/ui/HUD/HUD_Hunger_Blood_00A.png",
+        "*images/ui/HUD/HUD_Hunger_Blood_00B.png",
+        "*images/ui/HUD/HUD_Hunger_Blood_00C.png",
+        "*images/ui/HUD/HUD_Hunger_Blood_00D.png"
+      ],
+      "img_from_spell_id": -1
+    },
+    "EFF_AUTOMATON_HUNGER": {
+      "id": -4,
+      "internal_name": "EFF_AUTOMATON_HUNGER",
+      "name": [
+        "Уурын тогоо:\nХЭТ ХАЛСАН",
+        "Уурын тогоо:\nХЭВИЙН",
+        "Уурын тогоо:\nМАШ БАГА",
+        "Уурын тогоо: ХЭТ ХАЛСАН",
+        "Уурын тогоо: ХЭВИЙН",
+        "Уурын тогоо: МАШ БАГА"
+      ],
+      "desc": [
+        "Дулаан (HT) хэвийн хурдны 200%-аар үүснэ; HT 50%-аас доош бол 400% хүртэл өснө\nHT 25%-аас доош бол Шаламгай буурна",
+        "Дулаан (HT) тогтмол үүснэ\nHT 25%-аас доош бол Шаламгай буурна",
+        "Уурын тогоо хоосон тул HT хурдан буурна; 0 HT хүрвэл доголдож магадгүй\nHT 25%-аас доош бол Шаламгай буурна\n- Хүч\n- Гярхай",
+        "Уурын тогоо хоосон тул HT хурдан буурна; 0 HT хүрвэл доголдож магадгүй\nHT 25%-аас доош бол Шаламгай буурна"
+      ],
+      "img_path": [
+        "*images/system/Hunger_boiler.png",
+        "*images/system/Hunger_boiler.png",
+        "*images/system/Hunger_boiler.png"
+      ],
+      "img_from_spell_id": -1
+    },
+    "EFF_WANTED": {
+      "id": -5,
+      "internal_name": "EFF_WANTED",
+      "name": "Эрэн сурвалжилж байна!",
+      "desc": [
+        "%s төрлийн гэмт хэргийн улмаас Худалдаачдын холбооны дайснаар зарлагдсан:",
+        "Аллага",
+        "Хүчирхийлэл өдөөх",
+        "Хүчирхийлэлд хамтрах",
+        "Хориотой нүүрний өмсгөл"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/redhanded.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 270
+    },
+    "EFF_WANTED_IN_SHOP": {
+      "id": -6,
+      "internal_name": "EFF_WANTED",
+      "name": "Эрэн сурвалжилж байна!\n(Зөвшөөрөлгүй нэвтэрсэн)",
+      "desc": [
+        "%s төрлийн гэмт хэргийн улмаас Худалдаачдын холбооны дайснаар зарлагдсан:",
+        "Аллага",
+        "Хүчирхийлэл өдөөх",
+        "Хүчирхийлэлд хамтрах",
+        "Хориотой нүүрний өмсгөл"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/redhanded.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 270
+    },
+    "EFF_BURNING": {
+      "id": -7,
+      "internal_name": "EFF_BURNING",
+      "name": "Түлэгдэлт",
+      "desc": "Хугацааны явцад хохирол авч байна",
+      "img_path": "*images/ui/HUD/statusfx/burning.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_FREEACTION": {
+      "id": -8,
+      "internal_name": "EFF_FREEACTION",
+      "name": "Чөлөөт хөдөлгөөн",
+      "desc": "[Нойр], [Удаашрал], [Саажилт] арилгана",
+      "img_path": "*images/ui/HUD/statusfx/freeaction.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 200
+    },
+    "EFF_LESSERWARNING": {
+      "id": -9,
+      "internal_name": "EFF_LESSERWARNING",
+      "name": "Бага сэрэмжлүүлэг",
+      "desc": "Хөдөлж буй мангасын байршлыг газрын зурагт харуулна",
+      "img_path": "*images/ui/HUD/statusfx/lesserwarning.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_HPOFF": {
+      "id": -10,
+      "internal_name": "EFF_HPOFF",
+      "name": "Нөхөн төлжилтгүй",
+      "desc": [
+        "Үндсэн амины нөхөлт зогссон",
+        "Тохиргоонд Өлсгөлөн идэвхгүй тул үндсэн амины нөхөлт зогссон\nХоол, ханд, шившлэгээр амиа сэргээ"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/regen_hpoff.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260
+    },
+    "EFF_RESISTFIRE": {
+      "id": -11,
+      "internal_name": "EFF_RESISTFIRE",
+      "name": "Галын тэсвэр",
+      "desc": "[Шатах] нөлөө авахгүй",
+      "img_path": "*images/ui/HUD/statusfx/resist_fire.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 200
+    },
+    "EFF_RESISTPOISON": {
+      "id": -12,
+      "internal_name": "EFF_RESISTPOISON",
+      "name": "Хорны тэсвэр",
+      "desc": "[Хор] арилгана\nХор, хүчлийн шившлэгт тэсвэртэй",
+      "img_path": "*images/ui/HUD/statusfx/resist_poison.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 220
+    },
+    "EFF_SLOWDIGESTION": {
+      "id": -13,
+      "internal_name": "EFF_SLOWDIGESTION",
+      "name": "Удаан шингээлт",
+      "desc": "Хоолны цатгалан байдлыг нэмэгдүүлж, өлбөрөхийг удаашруулна",
+      "img_path": "*images/ui/HUD/statusfx/slowdigestion.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 230
+    },
+    "EFF_STRANGULATION": {
+      "id": -14,
+      "internal_name": "EFF_STRANGULATION",
+      "name": "Боогдож байна!",
+      "desc": "Хугацааны явцад хохирол авч байна\nИдэж, ууж чадахгүй",
+      "img_path": "*images/ui/HUD/statusfx/strangulation.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 220
+    },
+    "EFF_WARNING": {
+      "id": -15,
+      "internal_name": "EFF_WARNING",
+      "name": "Сэрэмжлүүлэг",
+      "desc": "Мангасын байршлыг газрын зурагт харуулна",
+      "img_path": "*images/ui/HUD/statusfx/warning.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 200
+    },
+    "EFF_WATERBREATHING": {
+      "id": -16,
+      "internal_name": "EFF_WATERBREATHING",
+      "name": "Усанд амьсгалах",
+      "desc": "Сэлэх үед хөдөлгөөний хурд буурахгүй",
+      "img_path": "*images/ui/HUD/statusfx/waterbreathing.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 200
+    },
+    "EFF_CONFLICT": {
+      "id": -17,
+      "internal_name": "EFF_CONFLICT",
+      "name": "Дайсагнал",
+      "desc": "Ойрын мангасууд харагдсан бүхнээ довтлоно",
+      "img_path": "*images/ui/HUD/statusfx/conflict.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_WATERWALKING": {
+      "id": -18,
+      "internal_name": "EFF_WATERWALKING",
+      "name": "Усан дээгүүр алхах",
+      "desc": "Ус, лавын дээгүүр хөвнө",
+      "img_path": "*images/ui/HUD/statusfx/waterwalking.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 200
+    },
+    "EFF_LIFESAVING": {
+      "id": -19,
+      "internal_name": "EFF_LIFESAVING",
+      "name": "Амь аврах",
+      "desc": "Үхэхэд амилна",
+      "img_path": "*images/ui/HUD/statusfx/lifesaving.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 160
+    },
+    "EFF_PUSH": {
+      "id": -20,
+      "internal_name": "EFF_PUSH",
+      "name": "Түлхэх",
+      "desc": "Том чулуу хөдөлгөж чадна",
+      "img_path": "*images/ui/HUD/statusfx/push.png",
+      "tooltip_width": 232,
+      "img_from_spell_id": -1
+    },
+    "EFF_SNEAK": {
+      "id": -21,
+      "internal_name": "EFF_SNEAK",
+      "name": "Гэтэх",
+      "desc": "Дайсанд мэдэгдэх зай багасна",
+      "img_path": "*images/ui/HUD/statusfx/sneak.png",
+      "tooltip_width": 200,
+      "img_from_spell_id": -1
+    },
+    "EFF_DRUNK_GOATMAN": {
+      "id": -22,
+      "internal_name": "EFF_DRUNK_GOATMAN",
+      "name": "Согтуу (Ямаан хүн)",
+      "desc": "+ Хүч\n+ Тэсвэр\n+ 20% хохирлын тэсвэр\n- Шаламгай\n- Оюун",
+      "img_path": "*images/ui/HUD/statusfx/drunk.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 212
+    },
+    "EFF_BOUNTY_TARGET": {
+      "id": -23,
+      "internal_name": "EFF_BOUNTY_TARGET",
+      "name": [
+        "Шагналт бай\n(Идэвхтэй)",
+        "Шагналт бай (Идэвхтэй)"
+      ],
+      "desc": "Тэмдэглэсэн шагналт байгаа албал нэмэлт алт авна",
+      "img_path": "*images/ui/HUD/statusfx/targeting.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 212
+    },
+    "EFF_INSPIRATION": {
+      "id": -24,
+      "internal_name": "EFF_INSPIRATION",
+      "name": "Урам зориг",
+      "desc": "Танаас бага түвшинтэй анд тоглогч, дагалдагчид нэмэлт туршлага авна",
+      "img_path": "*images/ui/HUD/statusfx/inspiration.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 250
+    },
+    "EFF_RELATIATION": {
+      "id": -25,
+      "internal_name": "EFF_RELATIATION",
+      "name": "Хариу хохирол",
+      "desc": "Хохирол авахад ойроос довтлогчид хариу хохирол өгнө",
+      "img_path": "*images/ui/HUD/statusfx/thorns.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260
+    },
+    "EFF_ASSISTANCE": {
+      "id": -26,
+      "internal_name": "EFF_ASSISTANCE",
+      "name": "Тусламж",
+      "desc": [
+        "Нэг буюу түүнээс олон туслах эд зүйл авсан",
+        "%d тусламжийн оноо (Өөрийн)",
+        "%d тусламжийн оноо (Багийн нийт)",
+        "%d%% онооны суутгал"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/assistance.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 300
+    },
+    "EFF_STABILITY": {
+      "id": -27,
+      "internal_name": "EFF_STABILITY",
+      "name": "Тогтвортой байдал",
+      "desc": "Түлхэлт, халтиргаатай газрын нөлөө багасна",
+      "img_path": "*images/ui/HUD/statusfx/stability.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260
+    },
+    "EFF_VANDALISE": {
+      "id": -28,
+      "internal_name": "EFF_VANDALISE",
+      "name": [
+        "Сүйтгэгч",
+        "Сүйтгэгч (I зэрэг)",
+        "Сүйтгэгч (II зэрэг)",
+        "Сүйтгэгч (III зэрэг)",
+        "Сүйтгэгч (IV зэрэг)"
+      ],
+      "desc": [
+        "Олон эд зүйл устгах тусам нөлөө өснө\nДавхар бүрд нөлөө шинэчлэгдэнэ\nЗэрэг ахихад нэмэлт мана авна",
+        "%+d ойрын хохирлын нэмэлт",
+        "%+d%% хөдөлгөөний хурд",
+        "%+d%% шивших хурд"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/vandal.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 320
+    },
+    "EFF_OVERCHARGE_COUNT": {
+      "id": -29,
+      "internal_name": "EFF_OVERCHARGE_COUNT",
+      "name": "Хэт цэнэглэх",
+      "desc": "Дараагийн сурсан шившлэг хэд хэдэн удаа дараалан шившихэд цэнэгтэй хэвээр байна\nМана дуусвал дараагийн шившлэгүүд амь хэрэглэнэ\nЦэнэгтэй шившлэгийг цуцалбал нөлөө арилна",
+      "img_path": "",
+      "img_from_spell_id": 100,
+      "tooltip_width": 260
+    },
+    "EFF_WEALTH": {
+      "id": -30,
+      "internal_name": "EFF_WEALTH",
+      "name": [
+        "Баялаг",
+        "Баялаг (I зэрэг)",
+        "Баялаг (II зэрэг)",
+        "Баялаг (III зэрэг)",
+        "Баялаг (IV зэрэг)"
+      ],
+      "desc": [
+        "Мана нөхөх үед +1 MP авах магадлал +%d%%",
+        "Авч яваа алтны хэмжээгээр нөлөө өснө"
+      ],
+      "img_path": [
+        "*images/ui/HUD/statusfx/wealth.png",
+        "*images/ui/HUD/statusfx/wealth2.png",
+        "*images/ui/HUD/statusfx/wealth3.png",
+        "*images/ui/HUD/statusfx/wealth4.png"
+      ],
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_ASLEEP": {
+      "id": 0,
+      "internal_name": "EFF_ASLEEP",
+      "name": "Унтаж буй",
+      "desc": "Хөдөлж, харж чадахгүй",
+      "img_path": "",
+      "img_from_spell_id": 10
+    },
+    "EFF_POISONED": {
+      "id": 1,
+      "internal_name": "EFF_POISONED",
+      "name": "Хордсон",
+      "desc": "Хугацааны явцад хохирол авч байна",
+      "img_path": "*images/ui/HUD/statusfx/poisoned.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_STUNNED": {
+      "id": 2,
+      "internal_name": "EFF_STUNNED",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_CONFUSED": {
+      "id": 3,
+      "internal_name": "EFF_CONFUSED",
+      "name": "Самуурсан",
+      "desc": "Хөдөлгөөн урвуу болсон",
+      "img_path": "",
+      "img_from_spell_id": 11
+    },
+    "EFF_DRUNK": {
+      "id": 4,
+      "internal_name": "EFF_DRUNK",
+      "name": "Согтуу",
+      "desc": "+ Хүч\n- Шаламгай",
+      "img_path": "*images/ui/HUD/statusfx/drunk.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_INVISIBLE": {
+      "id": 5,
+      "internal_name": "EFF_INVISIBLE",
+      "name": "Үл үзэгдэх",
+      "desc": "Ойрын тулааны зайнаас гаднах дайсанд мэдэгдэхгүй",
+      "img_path": "",
+      "img_from_spell_id": 16,
+      "use_entry_for_sustained_spell": 16
+    },
+    "EFF_BLIND": {
+      "id": 6,
+      "internal_name": "EFF_BLIND",
+      "name": "Сохорсон",
+      "desc": "Харж чадахгүй",
+      "img_path": "*images/ui/HUD/statusfx/blind.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_GREASY": {
+      "id": 7,
+      "internal_name": "EFF_GREASY",
+      "name": "Тос болсон",
+      "desc": "Барьсан зэвсэг гараас мултарч магадгүй",
+      "img_path": "*images/ui/HUD/statusfx/grease.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_MESSY": {
+      "id": 8,
+      "internal_name": "EFF_MESSY",
+      "name": "Бохирдсон",
+      "desc": "Харж чадахгүй",
+      "img_path": "*images/ui/HUD/statusfx/messypie.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_FAST": {
+      "id": 9,
+      "internal_name": "EFF_FAST",
+      "name": "Хурдлуулах",
+      "desc": "Шаламгай ба хөдөлгөөний хурд нэмэгдсэн",
+      "img_path": "",
+      "img_from_spell_id": 39
+    },
+    "EFF_PARALYZED": {
+      "id": 10,
+      "internal_name": "EFF_PARALYZED",
+      "name": "Саажсан",
+      "desc": "Хөдөлж, үйлдэл хийж чадахгүй",
+      "img_path": "*images/ui/HUD/statusfx/paralyze.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_LEVITATING": {
+      "id": 11,
+      "internal_name": "EFF_LEVITATING",
+      "name": "Хөвж буй",
+      "desc": "Ангал, ус, лавын дээгүүр хөвнө",
+      "img_path": "",
+      "img_from_spell_id": 15,
+      "use_entry_for_sustained_spell": 15
+    },
+    "EFF_TELEPATH": {
+      "id": 12,
+      "internal_name": "EFF_TELEPATH",
+      "name": "Далд хараа",
+      "desc": "Ханын цаадах мангасыг харна",
+      "img_path": "*images/ui/HUD/statusfx/telepathy.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_VOMITING": {
+      "id": 13,
+      "internal_name": "EFF_VOMITING",
+      "name": "Бөөлжиж байна!",
+      "desc": "Ходоод хямарсан",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_BLEEDING": {
+      "id": 14,
+      "internal_name": "EFF_BLEEDING",
+      "name": "Цус алдалт",
+      "desc": "Хугацааны явцад хохирол авч байна",
+      "img_path": "*images/ui/HUD/statusfx/bleed.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_SLOW": {
+      "id": 15,
+      "internal_name": "EFF_SLOW",
+      "name": "Удааширсан",
+      "desc": "Хөдөлгөөний хурд буурсан",
+      "img_path": "",
+      "img_from_spell_id": 12
+    },
+    "EFF_MAGICRESIST": {
+      "id": 16,
+      "internal_name": "EFF_MAGICRESIST",
+      "name": "Ид шидийн тэсвэр",
+      "desc": "+1 ид шидийн тэсвэр",
+      "img_path": "*images/ui/HUD/statusfx/resist_magic.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_MAGICREFLECT": {
+      "id": 17,
+      "internal_name": "EFF_MAGICREFLECT",
+      "name": "Ид шид ойлгох",
+      "desc": "Дайсны шившлэгийг ойлгоно",
+      "img_path": "",
+      "img_from_spell_id": 26,
+      "use_entry_for_sustained_spell": 26,
+      "tooltip_width": 220
+    },
+    "EFF_VAMPIRICAURA": {
+      "id": 18,
+      "internal_name": "EFF_VAMPIRICAURA",
+      "name": [
+        "Цус сорогчийн хараал",
+        "Цус сорогчийн хүрээ"
+      ],
+      "desc": [
+        "+ Хүч ба Шаламгай\nИлүү хурдан өлсөнө\nЗэвсэггүй үед [цус алдуулах] магадлал нэмэгдэнэ\nЗэвсэггүй нууц довтолгоогоор алахдаа амь сорох боломжтой",
+        "+ Хүч ба Шаламгай\nИлүү хурдан өлсөнө\nЗэвсэггүй үед [цус алдуулах] магадлал нэмэгдэнэ\nБүх зэвсэггүй довтолгоогоор амь сорох боломжтой\nАмины ердийн нөхөлт зогссон"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/bloodlust.png",
+      "img_from_spell_id": 30,
+      "use_entry_for_sustained_spell": 30,
+      "tooltip_width": 270
+    },
+    "EFF_SHRINE_RED_BUFF": {
+      "id": 19,
+      "internal_name": "EFF_SHRINE_RED_BUFF",
+      "name": "Улаан тахилын ивээл",
+      "desc": "+ Хүч\n+ Тэсвэр",
+      "img_path": "*images/ui/HUD/statusfx/orb_red.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_SHRINE_GREEN_BUFF": {
+      "id": 20,
+      "internal_name": "EFF_SHRINE_GREEN_BUFF",
+      "name": "Ногоон тахилын ивээл",
+      "desc": "+ Шаламгай\n+ Гярхай",
+      "img_path": "*images/ui/HUD/statusfx/orb_green.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_SHRINE_BLUE_BUFF": {
+      "id": 21,
+      "internal_name": "EFF_SHRINE_BLUE_BUFF",
+      "name": "Цэнхэр тахилын ивээл",
+      "desc": "+ Оюун\n+1 ид шидийн тэсвэр",
+      "img_path": "*images/ui/HUD/statusfx/orb_blue.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_HP_REGEN": {
+      "id": 22,
+      "internal_name": "EFF_HP_REGEN",
+      "name": "Амины нөхөлт",
+      "desc": "+2 [Амины нөхөлт]",
+      "img_path": "*images/ui/HUD/statusfx/regen_hp.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_MP_REGEN": {
+      "id": 23,
+      "internal_name": "EFF_MP_REGEN",
+      "name": "Манын нөхөлт",
+      "desc": "+2 [Манын нөхөлт]",
+      "img_path": "*images/ui/HUD/statusfx/regen_mp.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_PACIFY": {
+      "id": 24,
+      "internal_name": "EFF_PACIFY",
+      "name": "Номхорсон",
+      "desc": "Довтолж, дураараа хөдөлж чадахгүй",
+      "img_path": "",
+      "img_from_spell_id": 31
+    },
+    "EFF_POLYMORPH": {
+      "id": 25,
+      "internal_name": "EFF_POLYMORPH",
+      "name": "Дүрс хувирсан",
+      "desc": "Өөр мангасын дүрд орсон",
+      "img_path": "",
+      "img_from_spell_id": 52
+    },
+    "EFF_KNOCKBACK": {
+      "id": 26,
+      "internal_name": "EFF_KNOCKBACK",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_WITHDRAWAL": {
+      "id": 27,
+      "internal_name": "EFF_WITHDRAWAL",
+      "name": "Шартсан",
+      "desc": "- Шаламгай\nСогтоход арилна",
+      "img_path": "*images/ui/HUD/statusfx/hungover.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_POTION_STR": {
+      "id": 28,
+      "internal_name": "EFF_POTION_STR",
+      "name": "Хүч",
+      "desc": "+ Хүч\n- Гярхай",
+      "img_path": "*images/ui/HUD/statusfx/strengthbuff.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_SHAPESHIFT": {
+      "id": 29,
+      "internal_name": "EFF_SHAPESHIFT",
+      "name": [
+        "Харх болох",
+        "Үе хөлтөн болох",
+        "Тролль болох",
+        "Бяцхан чөтгөр болох"
+      ],
+      "desc": [
+        "+ DEX/INT/PER\nХурдан сэлнэ\nТүвшин ахихад DEX/INT нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Хоол илрүүлэх], [Хурдлуулах] шившлэг ашиглана",
+        "+ PER/STR/CON\nТүвшин ахихад PER/CON нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Тор шүрших], [Хордуулах] шившлэг ашиглана",
+        "+ STR/CON\n- DEX\nТүвшин ахихад STR/CON нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Хүчирхэг цохилт], [Айлгах], [Троллийн цус] шившлэг ашиглана",
+        "Хөвөх нөлөө өгнө\n+ INT/PER\nТүвшин ахихад CHR/INT нэмэгдэх магадлал өснө\n(Зөвхөн Бөө) [Аянга], [Самууруулах], [Махбод төвлөрүүлэх] шившлэг ашиглана"
+      ],
+      "img_path": "",
+      "img_from_spell_id": [
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    "EFF_WEBBED": {
+      "id": 30,
+      "internal_name": "EFF_WEBBED",
+      "name": "Торонд орсон",
+      "desc": "Хөдөлгөөний хурд буурсан\nОйрын цохилтод өртөхөд хойш түлхэгдэнэ",
+      "img_path": "",
+      "img_from_spell_id": 37
+    },
+    "EFF_FEAR": {
+      "id": 31,
+      "internal_name": "EFF_FEAR",
+      "name": "Айлгах",
+      "desc": "Довтолж, дураараа хөдөлж чадахгүй",
+      "img_path": "",
+      "img_from_spell_id": 40
+    },
+    "EFF_MAGICAMPLIFY": {
+      "id": 32,
+      "internal_name": "EFF_MAGICAMPLIFY",
+      "name": "Махбод төвлөрүүлэх",
+      "desc": "[Гал], [Хүйтэн], [Аянга], [Шидэт сум] шившлэгийн хохирол өсөж, тусгалын зай багасна",
+      "img_path": "",
+      "img_from_spell_id": 44,
+      "tooltip_width": 300,
+      "use_entry_for_sustained_spell": 44
+    },
+    "EFF_DISORIENTED": {
+      "id": 33,
+      "internal_name": "EFF_DISORIENTED",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_SHADOW_TAGGED": {
+      "id": 34,
+      "internal_name": "EFF_SHADOW_TAGGED",
+      "name": "Увдист тэмдэгтэй",
+      "desc": "Өөрийн язгуурын хохирлын тэсвэр, сул тал арилсан",
+      "img_path": "",
+      "img_from_spell_id": 45,
+      "tooltip_width": 210
+    },
+    "EFF_TROLLS_BLOOD": {
+      "id": 35,
+      "internal_name": "EFF_TROLLS_BLOOD",
+      "name": "Троллийн цус",
+      "desc": "+1 [Амины нөхөлт]",
+      "img_path": "",
+      "img_from_spell_id": 48
+    },
+    "EFF_FLUTTER": {
+      "id": 36,
+      "internal_name": "EFF_FLUTTER",
+      "name": "Дэвэх",
+      "desc": "Богино хугацаанд хөвнө",
+      "img_path": "",
+      "img_from_spell_id": 50
+    },
+    "EFF_DASH": {
+      "id": 37,
+      "internal_name": "EFF_DASH",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_DISTRACTED_COOLDOWN": {
+      "id": 38,
+      "internal_name": "EFF_DISTRACTED_COOLDOWN",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_MIMIC_LOCKED": {
+      "id": 39,
+      "internal_name": "EFF_MIMIC_LOCKED",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_ROOTED": {
+      "id": 40,
+      "internal_name": "EFF_ROOTED",
+      "name": "Үндэслэсэн",
+      "desc": "Хөдөлж чадахгүй",
+      "img_path": "*images/ui/HUD/statusfx/rooted.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_NAUSEA_PROTECTION": {
+      "id": 41,
+      "internal_name": "EFF_NAUSEA_PROTECTION",
+      "name": "Огиулалтын тэсвэр",
+      "desc": "Хоол шингэхгүй байх, ангийн сум, согтолт зэрэг бөөлжүүлэх нөлөөнд тэсвэртэй",
+      "img_path": "*images/ui/HUD/statusfx/resist_nausea.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 280
+    },
+    "EFF_CON_BONUS": {
+      "id": 42,
+      "internal_name": "EFF_CON_BONUS",
+      "name": "Тамир",
+      "desc": "+ Тэсвэр\nҮлдсэн амь бага байх тусам нөлөө өснө",
+      "img_path": "*images/ui/HUD/statusfx/defensebuff.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_PWR": {
+      "id": 43,
+      "internal_name": "EFF_PWR",
+      "name": "Сэтгэлийн хүч",
+      "desc": "+ Шившлэгийн хүч\nҮлдсэн мана бага байх тусам нөлөө өснө",
+      "img_path": "*images/ui/HUD/statusfx/powerbuff.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_AGILITY": {
+      "id": 44,
+      "internal_name": "EFF_AGILITY",
+      "name": "Хөнгөн шаламгай",
+      "desc": "+ Шаламгай\n+30% биеийн ба ид шидийн довтолгооноос бултах магадлал",
+      "img_path": "*images/ui/HUD/statusfx/dexbuff.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_RALLY": {
+      "id": 45,
+      "internal_name": "EFF_RALLY",
+      "name": "Зоригжуулалт",
+      "desc": "+ Зоригжсон",
+      "img_path": "*images/ui/HUD/statusfx/rooted.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_MARIGOLD": {
+      "id": 46,
+      "internal_name": "EFF_MARIGOLD",
+      "name": "Хилэн цэцгийн эмчилгээ",
+      "desc": "+ Амиа аажмаар сэргээнэ",
+      "img_path": "*images/ui/HUD/statusfx/growth.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_ENSEMBLE_FLUTE": {
+      "id": 47,
+      "internal_name": "EFF_ENSEMBLE_FLUTE",
+      "name": [
+        "Лимбэ (I зэрэг)",
+        "Лимбэ (II зэрэг)",
+        "Лимбэ (III зэрэг)",
+        "Лимбэ (IV зэрэг)"
+      ],
+      "desc": [
+        "%+d DEX",
+        "%+d%% хүчтэй цохилт бэлтгэх хурд"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/ensemble_flute.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260
+    },
+    "EFF_ENSEMBLE_LYRE": {
+      "id": 48,
+      "internal_name": "EFF_ENSEMBLE_LYRE",
+      "name": [
+        "Лир хөгжим (I зэрэг)",
+        "Лир хөгжим (II зэрэг)",
+        "Лир хөгжим (III зэрэг)",
+        "Лир хөгжим (IV зэрэг)"
+      ],
+      "desc": [
+        "%+d PER",
+        "%+d%% хохирлын тэсвэр"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/ensemble_lyre.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_ENSEMBLE_DRUM": {
+      "id": 49,
+      "internal_name": "EFF_ENSEMBLE_DRUM",
+      "name": [
+        "Хэнгэрэг (I зэрэг)",
+        "Хэнгэрэг (II зэрэг)",
+        "Хэнгэрэг (III зэрэг)",
+        "Хэнгэрэг (IV зэрэг)"
+      ],
+      "desc": [
+        "%+d STR",
+        "%+d%% ойрын довтолгооны хуяг нэвтлэх магадлал"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/ensemble_drum.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_ENSEMBLE_LUTE": {
+      "id": 50,
+      "internal_name": "EFF_ENSEMBLE_LUTE",
+      "name": [
+        "Лют хөгжим (I зэрэг)",
+        "Лют хөгжим (II зэрэг)",
+        "Лют хөгжим (III зэрэг)",
+        "Лют хөгжим (IV зэрэг)"
+      ],
+      "desc": [
+        "%+d%% PWR",
+        "%+d%% булталт"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/ensemble_lute.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_ENSEMBLE_HORN": {
+      "id": 51,
+      "internal_name": "EFF_ENSEMBLE_HORN",
+      "name": [
+        "Эвэр бүрээ (I зэрэг)",
+        "Эвэр бүрээ (II зэрэг)",
+        "Эвэр бүрээ (III зэрэг)",
+        "Эвэр бүрээ (IV зэрэг)"
+      ],
+      "desc": [
+        "%+d CON",
+        "%+d ойрын довтлогчид өгөх хариу хохирол"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/ensemble_horn.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 240
+    },
+    "EFF_LIFT": {
+      "id": 52,
+      "internal_name": "EFF_LIFT",
+      "name": "Өргөгдсөн",
+      "desc": "Хөдөлгөөн хориглоно.\nНөлөө дуусахад CON-оос\nхамаарсан хохирол авна",
+      "img_path": "",
+      "img_from_spell_id": 185
+    },
+    "EFF_GUARD_SPIRIT": {
+      "id": 53,
+      "internal_name": "EFF_GUARD_SPIRIT",
+      "name": "Сүнс хамгаалах",
+      "desc": "+RES\nИдэвхтэй үед цэнэг хуримтлуулна.\nДовтолгоо цэнэг хорогдуулна.",
+      "img_path": "",
+      "img_from_spell_id": 71,
+      "use_entry_for_sustained_spell": 71
+    },
+    "EFF_GUARD_BODY": {
+      "id": 54,
+      "internal_name": "EFF_GUARD_BODY",
+      "name": "Бие хамгаалах",
+      "desc": "+AC\nИдэвхтэй үед цэнэг хуримтлуулна\nДовтолгоо цэнэг хорогдуулна",
+      "img_path": "",
+      "img_from_spell_id": 70,
+      "use_entry_for_sustained_spell": 70
+    },
+    "EFF_DIVINE_GUARD": {
+      "id": 55,
+      "internal_name": "EFF_DIVINE_GUARD",
+      "name": "Тэнгэрлэг хамгаалалт",
+      "desc": "+AC\n+RES\nИдэвхтэй үед цэнэг хуримтлуулна.\nДовтолгоо цэнэг хорогдуулна.",
+      "img_path": "",
+      "img_from_spell_id": 72,
+      "use_entry_for_sustained_spell": 72
+    },
+    "EFF_NIMBLENESS": {
+      "id": 56,
+      "internal_name": "EFF_NIMBLENESS",
+      "name": "Шаламгай",
+      "desc": "+DEX",
+      "img_path": "",
+      "img_from_spell_id": 73
+    },
+    "EFF_GREATER_MIGHT": {
+      "id": 57,
+      "internal_name": "EFF_GREATER_MIGHT",
+      "name": "Их хүч",
+      "desc": "+STR\n+Түлхэх",
+      "img_path": "",
+      "img_from_spell_id": 74
+    },
+    "EFF_COUNSEL": {
+      "id": 58,
+      "internal_name": "EFF_COUNSEL",
+      "name": "Мэргэн зөвлөгөө",
+      "desc": "+INT",
+      "img_path": "",
+      "img_from_spell_id": 75
+    },
+    "EFF_STURDINESS": {
+      "id": 59,
+      "internal_name": "EFF_STURDINESS",
+      "name": "Бат бөх",
+      "desc": "+CON",
+      "img_path": "",
+      "img_from_spell_id": 76
+    },
+    "EFF_BLESS_FOOD": {
+      "id": 60,
+      "internal_name": "EFF_BLESS_FOOD",
+      "name": "Хоол ерөөх",
+      "desc": "Муудаагүй хоол идэхэд\n[Шим хүртсэн] нөлөө өгнө",
+      "img_path": "",
+      "img_from_spell_id": 77
+    },
+    "EFF_PINPOINT": {
+      "id": 61,
+      "internal_name": "EFF_PINPOINT",
+      "name": "Бай тэмдэглэх",
+      "desc": "Шившигчээр довтлуулбал нэмэлт хохирол авна.",
+      "img_path": "",
+      "img_from_spell_id": 78
+    },
+    "EFF_PENANCE": {
+      "id": 62,
+      "internal_name": "EFF_PENANCE",
+      "name": "Нүглээ наманчлах",
+      "desc": "Шившигчид нөхөрсөг.",
+      "img_path": "",
+      "img_from_spell_id": 84
+    },
+    "EFF_SACRED_PATH": {
+      "id": 63,
+      "internal_name": "EFF_SACRED_PATH",
+      "name": "Урхины хамгаалалт",
+      "desc": "Урхинаас авах хохирол буурна.",
+      "img_path": "",
+      "img_from_spell_id": 86
+    },
+    "EFF_DETECT_ENEMY": {
+      "id": 64,
+      "internal_name": "EFF_DETECT_ENEMY",
+      "name": "Дайсан илрүүлэх",
+      "desc": "Дайсан шившигчид харагдана.",
+      "img_path": "",
+      "img_from_spell_id": 88,
+      "never_display": true
+    },
+    "EFF_BLOOD_WARD": {
+      "id": 65,
+      "internal_name": "EFF_BLOOD_WARD",
+      "name": "Цус хамгаалах",
+      "desc": "Хорт амьтан, махбодын\nшившлэгээс бага хохирол авна\n[Хор / Цус алдалт] нөлөө авахгүй",
+      "img_path": "",
+      "img_from_spell_id": 92,
+      "use_entry_for_sustained_spell": 92
+    },
+    "EFF_TRUE_BLOOD": {
+      "id": 66,
+      "internal_name": "EFF_TRUE_BLOOD",
+      "name": "Жинхэнэ цус",
+      "desc": "Хатгалтын хохирол буурна.\nТэсвэртэй нөлөө: -Удаашрал\n-Саажилт\n-Хор\n-Цус алдалт",
+      "img_path": "",
+      "img_from_spell_id": 93
+    },
+    "EFF_DIVINE_ZEAL": {
+      "id": 67,
+      "internal_name": "EFF_DIVINE_ZEAL",
+      "name": "Тэнгэрлэг эрчим",
+      "desc": "Биеийн довтолгоо эмзэг дайсанд нэмэлт ариун цохилтын хохирол өгнө",
+      "img_path": "",
+      "img_from_spell_id": 94,
+      "use_entry_for_sustained_spell": 94
+    },
+    "EFF_MAXIMISE": {
+      "id": 68,
+      "internal_name": "EFF_MAXIMISE",
+      "name": "Томруулах",
+      "desc": "+STR\n+CON\n-DEX\nОлох туршлагыг нэмэгдүүлнэ",
+      "img_path": "",
+      "img_from_spell_id": 96
+    },
+    "EFF_MINIMISE": {
+      "id": 69,
+      "internal_name": "EFF_MINIMISE",
+      "name": "Жижигрүүлэх",
+      "desc": "+DEX\n-STR\n-CON\nОлох туршлагыг багасгана",
+      "img_path": "",
+      "img_from_spell_id": 97
+    },
+    "EFF_WEAKNESS": {
+      "id": 70,
+      "internal_name": "EFF_WEAKNESS",
+      "name": "Сулруулах",
+      "desc": "Ойрын довтолгоо буурсан",
+      "img_path": "",
+      "img_from_spell_id": 43
+    },
+    "EFF_INCOHERENCE": {
+      "id": 71,
+      "internal_name": "EFF_INCOHERENCE",
+      "name": "Учиргүйтэл",
+      "desc": "Шившлэгийн хүч буурсан",
+      "img_path": "",
+      "img_from_spell_id": 99
+    },
+    "EFF_OVERCHARGE": {
+      "id": 72,
+      "internal_name": "EFF_OVERCHARGE",
+      "name": "Хэт цэнэглэх",
+      "desc": "Дараахад +PWR өгнө:\n-Шидэт таяг\n-Туслах гарын шившлэгийн ном\n-Шидэт төвлөрүүлэгч",
+      "img_path": "",
+      "img_from_spell_id": 100,
+      "use_entry_for_sustained_spell": 100
+    },
+    "EFF_ENVENOM_WEAPON": {
+      "id": 73,
+      "internal_name": "EFF_ENVENOM_WEAPON",
+      "name": "Зэвсэг хордуулах",
+      "desc": "Зэвсгийн довтолгоо нэмэлт\nхорт хохирол өгөх магадлалтай",
+      "img_path": "",
+      "img_from_spell_id": 101,
+      "use_entry_for_sustained_spell": 101
+    },
+    "EFF_MAGIC_GREASE": {
+      "id": 74,
+      "internal_name": "EFF_MAGIC_GREASE",
+      "name": "Халтиргаатай",
+      "desc": "Хөдөлгөөн удирдахад хүндрэлтэй",
+      "img_path": "",
+      "img_from_spell_id": 104
+    },
+    "EFF_COMMAND": {
+      "id": 75,
+      "internal_name": "EFF_COMMAND",
+      "name": "Албадан захирах",
+      "desc": "Нэг тушаал биелүүлэхээр албадуулсан",
+      "img_path": "",
+      "img_from_spell_id": 107
+    },
+    "EFF_MIMIC_VOID": {
+      "id": 76,
+      "internal_name": "EFF_MIMIC_VOID",
+      "name": "Хоосны дуурайгч",
+      "desc": "Хоосны дуурайгч",
+      "img_path": "",
+      "img_from_spell_id": 115
+    },
+    "EFF_CURSE_FLESH": {
+      "id": 77,
+      "internal_name": "EFF_CURSE_FLESH",
+      "name": "Хараалтай махбод",
+      "desc": "Үхэхэд эргэн амилсан гавал үүсгэнэ.",
+      "img_path": "",
+      "img_from_spell_id": 121
+    },
+    "EFF_NUMBING_BOLT": {
+      "id": 78,
+      "internal_name": "EFF_NUMBING_BOLT",
+      "name": "Мэдээ алдсан",
+      "desc": "Дараагийн авсан цохилтыг мэдрэхгүй.",
+      "img_path": "",
+      "img_from_spell_id": 119
+    },
+    "EFF_DELAY_PAIN": {
+      "id": 79,
+      "internal_name": "EFF_DELAY_PAIN",
+      "name": "Үхэшгүй",
+      "desc": "Авах хохирлыг хойшлуулна",
+      "img_path": "",
+      "img_from_spell_id": 120
+    },
+    "EFF_SEEK_CREATURE": {
+      "id": 80,
+      "internal_name": "EFF_SEEK_CREATURE",
+      "name": "Бусдыг эрэх",
+      "desc": "Өөр амьтан эрэхээр албадуулсан",
+      "img_path": "",
+      "img_from_spell_id": 126
+    },
+    "EFF_TABOO": {
+      "id": 81,
+      "internal_name": "EFF_TABOO",
+      "name": "Золиос",
+      "desc": "Бүх амьтныг өөртөө дайсагнуулна",
+      "img_path": "",
+      "img_from_spell_id": 131
+    },
+    "EFF_COURAGE": {
+      "id": 82,
+      "internal_name": "EFF_COURAGE",
+      "name": "Эр зориг",
+      "desc": "+STR\n+CON",
+      "img_path": "",
+      "img_from_spell_id": 124
+    },
+    "EFF_COWARDICE": {
+      "id": 83,
+      "internal_name": "EFF_COWARDICE",
+      "name": "Хулчгар",
+      "desc": "-CON\n-STR",
+      "img_path": "",
+      "img_from_spell_id": 123
+    },
+    "EFF_SPORES": {
+      "id": 84,
+      "internal_name": "EFF_SPORES",
+      "name": "Мөөгний спор",
+      "desc": "Цохилт авахад спорын үүл гаргана,\n-[Хор / Удаашрал] нөлөө өгнө",
+      "img_path": "",
+      "img_from_spell_id": 133,
+      "use_entry_for_sustained_spell": 133
+    },
+    "EFF_ABUNDANCE": {
+      "id": 85,
+      "internal_name": "EFF_ABUNDANCE",
+      "name": "Элбэгшил",
+      "desc": "Идэхэд хоол хорогдохгүй байх магадлалтай",
+      "img_path": "",
+      "img_from_spell_id": 141,
+      "use_entry_for_sustained_spell": 141
+    },
+    "EFF_GREATER_ABUNDANCE": {
+      "id": 86,
+      "internal_name": "EFF_GREATER_ABUNDANCE",
+      "name": "Их элбэгшил",
+      "desc": "Хэрэглэхэд хоол, ханд хорогдохгүй байх магадлалтай",
+      "img_path": "",
+      "img_from_spell_id": 142,
+      "use_entry_for_sustained_spell": 142
+    },
+    "EFF_PRESERVE": {
+      "id": 87,
+      "internal_name": "EFF_PRESERVE",
+      "name": "Элэгдлээс хамгаалах",
+      "desc": "Мана зарцуулан өмсгөлийн элэгдлээс хамгаална",
+      "img_path": "",
+      "img_from_spell_id": 143,
+      "use_entry_for_sustained_spell": 143
+    },
+    "EFF_MIST_FORM": {
+      "id": 88,
+      "internal_name": "EFF_MIST_FORM",
+      "name": "Манан болох",
+      "desc": "Мана зарцуулан довтолгооноос бултана.",
+      "img_path": "",
+      "img_from_spell_id": 147,
+      "use_entry_for_sustained_spell": 147
+    },
+    "EFF_FORCE_SHIELD": {
+      "id": 89,
+      "internal_name": "EFF_FORCE_SHIELD",
+      "name": "Хөдөлгөөний бамбай",
+      "desc": "Туслах гарын эд зүйлд хуяг нэмнэ",
+      "img_path": "",
+      "img_from_spell_id": 149,
+      "use_entry_for_sustained_spell": 149
+    },
+    "EFF_LIGHTEN_LOAD": {
+      "id": 90,
+      "internal_name": "EFF_LIGHTEN_LOAD",
+      "name": "Ачаа хөнгөлөх",
+      "desc": "Үүргэвчийн жингээс үүсэх хурдны суутгал багасна",
+      "img_path": "",
+      "img_from_spell_id": 152,
+      "use_entry_for_sustained_spell": 152
+    },
+    "EFF_ATTRACT_ITEMS": {
+      "id": 91,
+      "internal_name": "EFF_ATTRACT_ITEMS",
+      "name": "Татах",
+      "desc": "Ойрын эд зүйлийг хөвүүлж, өөртөө татна.",
+      "img_path": "",
+      "img_from_spell_id": 153,
+      "use_entry_for_sustained_spell": 153
+    },
+    "EFF_RETURN_ITEM": {
+      "id": 92,
+      "internal_name": "EFF_RETURN_ITEM",
+      "name": "Буцаах",
+      "desc": "Мана зарцуулан шидсэн зэвсгээ газраас буцаана.",
+      "img_path": "",
+      "img_from_spell_id": 154,
+      "use_entry_for_sustained_spell": 154
+    },
+    "EFF_DEMESNE_DOOR": {
+      "id": 93,
+      "internal_name": "EFF_DEMESNE_DOOR",
+      "name": "Шидэт үүд",
+      "desc": "+AC\n+ATK\n+PWR",
+      "img_path": "",
+      "img_from_spell_id": 159,
+      "use_entry_for_sustained_spell": 159
+    },
+    "EFF_REFLECTOR_SHIELD": {
+      "id": 94,
+      "internal_name": "EFF_REFLECTOR_SHIELD",
+      "name": "Ойлгогч",
+      "desc": "Хамгаалах үед туслах гарын эд зүйл шидэт сумыг ойлгоно.",
+      "img_path": "",
+      "img_from_spell_id": 150,
+      "use_entry_for_sustained_spell": 150
+    },
+    "EFF_DIZZY": {
+      "id": 95,
+      "internal_name": "EFF_DIZZY",
+      "name": "Толгой эргүүлэх",
+      "desc": "Хяналтгүй эргэж байна",
+      "img_path": "",
+      "img_from_spell_id": 150,
+      "use_entry_for_sustained_spell": 150
+    },
+    "EFF_SPIN": {
+      "id": 96,
+      "internal_name": "EFF_SPIN",
+      "name": "Эргүүлэх",
+      "desc": "Таныг эсрэг зүгт эргэхээр албадана.",
+      "img_path": "",
+      "img_from_spell_id": 150,
+      "use_entry_for_sustained_spell": 150
+    },
+    "EFF_CRITICAL_SPELL": {
+      "id": 97,
+      "internal_name": "EFF_CRITICAL_SPELL",
+      "name": "Хүчтэй шившлэг",
+      "desc": "Дараагийн шившлэг бага мана шаардан бэлтгэлтэй хэвээр үлдэнэ",
+      "img_path": "",
+      "img_from_spell_id": 176,
+      "use_entry_for_sustained_spell": 176
+    },
+    "EFF_MAGIC_WELL": {
+      "id": 98,
+      "internal_name": "EFF_MAGIC_WELL",
+      "name": "Ид шидийн худаг",
+      "desc": "Нөлөөний хугацаанд зарцуулсан MP бүрээр PWR өснө.",
+      "img_path": "",
+      "img_from_spell_id": 177,
+      "use_entry_for_sustained_spell": 177
+    },
+    "EFF_STATIC": {
+      "id": 99,
+      "internal_name": "EFF_STATIC",
+      "name": "Цахилгаан цэнэг",
+      "desc": "Аянганы махбодын шившлэгээс илүү хохирол авна",
+      "img_path": "*images/ui/HUD/statusfx/static.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_ABSORB_MAGIC": {
+      "id": 100,
+      "internal_name": "EFF_ABSORB_MAGIC",
+      "name": "Ид шид шингээх",
+      "desc": "Ирж буй шидэт сумыг саармагжуулна\nСаармагжуулсан шившлэг бүр дараагийн шившлэгийн хүчийг нэмнэ",
+      "img_path": "",
+      "img_from_spell_id": 155,
+      "use_entry_for_sustained_spell": 155
+    },
+    "EFF_FLAME_CLOAK": {
+      "id": 101,
+      "internal_name": "EFF_FLAME_CLOAK",
+      "name": "Галт нөмрөг",
+      "desc": "[Шатах] хохирлыг үгүйсгэнэ\nГалын ойролцоо гал авалцана\nШүргэлцсэн дайснаа шатаана",
+      "img_path": "",
+      "img_from_spell_id": 175,
+      "use_entry_for_sustained_spell": 175
+    },
+    "EFF_DUSTED": {
+      "id": 102,
+      "internal_name": "EFF_DUSTED",
+      "name": "Тоос болсон",
+      "desc": "Дайсанд илүү харагдана\n- Гярхай",
+      "img_path": "",
+      "img_from_spell_id": 198
+    },
+    "EFF_NOISE_VISIBILITY": {
+      "id": 103,
+      "internal_name": "EFF_NOISE_VISIBILITY",
+      "name": "",
+      "desc": "",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "never_display": true
+    },
+    "EFF_RATION_SPICY": {
+      "id": 104,
+      "internal_name": "EFF_RATION_SPICY",
+      "name": "Хүнс (халуун ногоотой)",
+      "desc": "+4 Хүч\n+4 Шаламгай",
+      "img_path": "*images/ui/HUD/statusfx/Ration_spicy.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_RATION_SOUR": {
+      "id": 105,
+      "internal_name": "EFF_RATION_SOUR",
+      "name": "Хүнс (исгэлэн)",
+      "desc": "+4 Оюун\n+25% шившлэгийн хүч",
+      "img_path": "*images/ui/HUD/statusfx/Ration_sour.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_RATION_BITTER": {
+      "id": 106,
+      "internal_name": "EFF_RATION_BITTER",
+      "name": "Хүнс (гашуун)",
+      "desc": "+4 Тэсвэр\n+4 Гярхай",
+      "img_path": "*images/ui/HUD/statusfx/Ration_bitter.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_RATION_HEARTY": {
+      "id": 107,
+      "internal_name": "EFF_RATION_HEARTY",
+      "name": "Хүнс (шимтэй)",
+      "desc": "+4 Хүч\n+4 Тэсвэр",
+      "img_path": "*images/ui/HUD/statusfx/Ration_hearty.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_RATION_HERBAL": {
+      "id": 108,
+      "internal_name": "EFF_RATION_HERBAL",
+      "name": "Хүнс (ургамлын)",
+      "desc": "+4 Харизм\n+20% ид шидийн тэсвэр",
+      "img_path": "*images/ui/HUD/statusfx/Ration_herbal.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_RATION_SWEET": {
+      "id": 109,
+      "internal_name": "EFF_RATION_SWEET",
+      "name": "Хүнс (чихэрлэг)",
+      "desc": "+1 [Амины нөхөлт]\n+1 [Манын нөхөлт]",
+      "img_path": "*images/ui/HUD/statusfx/Ration_sweet.png",
+      "img_from_spell_id": -1
+    },
+    "EFF_GROWTH": {
+      "id": 110,
+      "internal_name": "EFF_GROWTH",
+      "name": [
+        "Ургалт (I зэрэг)",
+        "Ургалт (II зэрэг)",
+        "Ургалт (III зэрэг)"
+      ],
+      "desc": [
+        "Түвшин ахихад, мөн ялзарсан хоол идэхэд тодорхой % магадлалаар ургалт дэлгэрнэ",
+        "Түвшин ахихад, мөн ус уухад тодорхой % магадлалаар ургалт дэлгэрнэ",
+        "Спорын нөлөөний хурд сайжирсан",
+        "Ид шидийн хохирол, холын довтолгоонд өртөхөд ч спор гарна",
+        "%+d хуяг / хорт хохирол",
+        "%+d%% биеийн хохирлын тэсвэр",
+        "%+d%% PWR",
+        "%+d%% MP RGN",
+        "%+d%% хөдөлгөөний хурд",
+        "%+d%% өгсөн хорны хурд",
+        "%+d%% Соёолуулах хохирол",
+        "%+d%% авах галын хохирол"
+      ],
+      "img_path": "*images/ui/HUD/statusfx/growth_dryad_green.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 320
+    },
+    "EFF_THORNS": {
+      "id": 111,
+      "internal_name": "EFF_THORNS",
+      "name": "Өргөс",
+      "desc": "Ойрын довтлогчид хариу хохирол өгнө",
+      "img_path": "",
+      "img_from_spell_id": 201,
+      "use_entry_for_sustained_spell": 201
+    },
+    "EFF_BLADEVINES": {
+      "id": 112,
+      "internal_name": "EFF_BLADEVINES",
+      "name": "Ирт ороонго",
+      "desc": "Ирт ороонго",
+      "img_path": "",
+      "img_from_spell_id": 202,
+      "use_entry_for_sustained_spell": 202
+    },
+    "EFF_BASTION_MUSHROOM": {
+      "id": 113,
+      "internal_name": "EFF_BASTION_MUSHROOM",
+      "name": "Бэхлэлтийн мөөгний үндэс",
+      "desc": "Бэхлэлт мөөг",
+      "img_path": "",
+      "img_from_spell_id": 203,
+      "use_entry_for_sustained_spell": 203
+    },
+    "EFF_BASTION_ROOTS": {
+      "id": 114,
+      "internal_name": "EFF_BASTION_ROOTS",
+      "name": "Бэхлэлтийн үндэс",
+      "desc": [
+        "Удааширсан",
+        "Үндэс нь Өргөс, Ирт ороонгын нөлөөг өвлөнө",
+        "Ургалт бүрд PWR +10 нэмэгдэнэ"
+      ],
+      "img_path": "",
+      "img_from_spell_id": 204,
+      "use_entry_for_sustained_spell": 204
+    },
+    "EFF_FOCI_LIGHT_PEACE": {
+      "id": 115,
+      "internal_name": "EFF_FOCI_LIGHT_PEACE",
+      "name": "Энх тайван",
+      "desc": "Амь аажмаар сэргэнэ",
+      "img_path": "",
+      "img_from_spell_id": 210
+    },
+    "EFF_FOCI_LIGHT_JUSTICE": {
+      "id": 116,
+      "internal_name": "EFF_FOCI_LIGHT_JUSTICE",
+      "name": "Шударга ёс",
+      "desc": "Биеийн довтолгоо нэмэлт ариун цохилтын хохирол өгнө.",
+      "img_path": "",
+      "img_from_spell_id": 211
+    },
+    "EFF_FOCI_LIGHT_PROVIDENCE": {
+      "id": 117,
+      "internal_name": "EFF_FOCI_LIGHT_PROVIDENCE",
+      "name": "Ивээл",
+      "desc": "Өлсөхийг удаашруулна",
+      "img_path": "",
+      "img_from_spell_id": 212
+    },
+    "EFF_FOCI_LIGHT_PURITY": {
+      "id": 118,
+      "internal_name": "EFF_FOCI_LIGHT_PURITY",
+      "name": "Ариун байдал",
+      "desc": "Хортой төлөвийн нөлөөнөөс хамгаална.",
+      "img_path": "",
+      "img_from_spell_id": 213
+    },
+    "EFF_FOCI_LIGHT_SANCTUARY": {
+      "id": 119,
+      "internal_name": "EFF_FOCI_LIGHT_SANCTUARY",
+      "name": "Ариун оромж",
+      "desc": "Хуяг нэмэгдүүлнэ",
+      "img_path": "",
+      "img_from_spell_id": 214
+    },
+    "EFF_STASIS": {
+      "id": 120,
+      "internal_name": "EFF_STASIS",
+      "name": "Хоосны зогсонги байдал",
+      "desc": "Хөдөлж, үйлдэл хийж чадахгүй\nХохирол авахгүй",
+      "img_path": "",
+      "img_from_spell_id": 206
+    },
+    "EFF_HP_MP_REGEN": {
+      "id": 121,
+      "internal_name": "EFF_HP_MP_REGEN",
+      "name": "Шим хүртсэн",
+      "desc": "Ерөөгдсөн хоол идсэнээр 5 секунд тутам амь, мана сэргэнэ\nХоол шингэхгүй бол нөлөө арилна",
+      "img_path": "*images/ui/HUD/statusfx/nourished.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260
+    },
+    "EFF_DISRUPTED": {
+      "id": 122,
+      "internal_name": "EFF_DISRUPTED",
+      "name": "Доргилтод өртсөн",
+      "desc": "Хөдөлгөөн, хуяг буурсан",
+      "img_path": "",
+      "img_from_spell_id": 180
+    },
+    "EFF_FROST": {
+      "id": 123,
+      "internal_name": "EFF_FROST",
+      "name": "Хөлдсөн",
+      "desc": "Хөдөлгөөн буурсан",
+      "img_path": "",
+      "img_from_spell_id": 68
+    },
+    "EFF_MAGICIANS_ARMOR": {
+      "id": 124,
+      "internal_name": "EFF_MAGICIANS_ARMOR",
+      "name": "Шидтэний хөөс",
+      "desc": "Цэнэг дуусаагүй үед дайсны бүх хохирлыг хаана.",
+      "img_path": "",
+      "img_from_spell_id": 216
+    },
+    "EFF_PROJECT_SPIRIT": {
+      "id": 125,
+      "internal_name": "EFF_PROJECT_SPIRIT",
+      "name": "Шувууны сүнс",
+      "desc": "Сүнсэн нугасны дүрд орсон",
+      "img_path": "",
+      "img_from_spell_id": 217
+    },
+    "EFF_DEFY_FLESH": {
+      "id": 126,
+      "internal_name": "EFF_DEFY_FLESH",
+      "name": "Махбодыг тарчлаах",
+      "desc": "Цохилт авахад нэмэлт ид шидийн хохирол авна",
+      "img_path": "",
+      "img_from_spell_id": 103
+    },
+    "EFF_PINPOINT_DAMAGE": {
+      "id": 127,
+      "internal_name": "EFF_PINPOINT_DAMAGE",
+      "name": "Бай тэмдэглэх",
+      "desc": "Шившигчээр довтлуулбал нэмэлт ариун цохилтын хохирол авна.",
+      "img_path": "",
+      "img_from_spell_id": 78,
+      "never_display": true
+    },
+    "EFF_RADIANT_HEART": {
+      "id": 128,
+      "internal_name": "EFF_RADIANT_HEART",
+      "name": [
+        "Гэрэлт зүрх",
+        "Гэрэлт зүрх",
+        "Чулуун зүрх",
+        "Чулуун зүрх"
+      ],
+      "desc": [
+        "Эрчим (FR) 60%-аас доош бол арилна\nХөвөх\nCHR-аас +PWR/-CON\n+25% галын тэсвэр\nFR аажмаар хорогдоно",
+        "Эрчим (FR) 60%-аас доош бол арилна\nШившлэгт 0 MP зарцуулна\nГал тургих нөлөө нэмэгдэнэ\nХөвөх\nCHR-аас +PWR/-CON\n+25% галын тэсвэр\nFR аажмаар хорогдоно",
+        "Эрчим (FR) 40%-аас дээш бол арилна\nCHR-аас +STR/CON\nCHR-аас -DEX",
+        "Эрчим (FR) 40%-аас дээш бол арилна\nХохирол авахгүй\nCHR-аас +STR/CON\nCHR-аас -DEX"
+      ],
+      "img_path": [
+        "*images/ui/HUD/statusfx/heart_radiant.png",
+        "*images/ui/HUD/statusfx/heart_radiant_bonus.png",
+        "*images/ui/HUD/statusfx/heart_stone.png",
+        "*images/ui/HUD/statusfx/heart_stone_bonus.png"
+      ],
+      "img_from_spell_id": -1,
+      "tooltip_width": 300
+    },
+    "EFF_DIVINE_FIRE": {
+      "id": 129,
+      "internal_name": "EFF_DIVINE_FIRE",
+      "name": "Ариун гал",
+      "desc": "Авах хохирол нэмэгдсэн",
+      "img_path": "",
+      "img_from_spell_id": 219,
+      "tooltip_width": 260
+    },
+    "EFF_HEALING_WORD": {
+      "id": 130,
+      "internal_name": "EFF_HEALING_WORD",
+      "name": "Эдгээх үг",
+      "desc": "Эдгээхийг гуйж залбирна\nХохирол авбал нөлөө арилна",
+      "img_path": "",
+      "img_from_spell_id": 220,
+      "tooltip_width": 260
+    },
+    "EFF_HOLY_FIRE": {
+      "id": 131,
+      "internal_name": "EFF_HOLY_FIRE",
+      "name": "Ариун гал",
+      "desc": "Ер бусын галд шатаж байна",
+      "img_path": "",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260,
+      "never_display": true
+    },
+    "EFF_SIGIL": {
+      "id": 132,
+      "internal_name": "EFF_SIGIL",
+      "name": "Тамга",
+      "desc": "Нэмэлт эмчилгээ авна\nДайснууд нэмэлт ариун цохилтын хохирол авна",
+      "img_path": "",
+      "img_from_spell_id": 222,
+      "tooltip_width": 260
+    },
+    "EFF_SANCTUARY": {
+      "id": 133,
+      "internal_name": "EFF_SANCTUARY",
+      "name": "Ариун оромж",
+      "desc": "Зэрэг бүрд хохирлын тэсвэр нэмэгдэнэ",
+      "img_path": "",
+      "img_from_spell_id": 223,
+      "tooltip_width": 260
+    },
+    "EFF_DUCKED": {
+      "id": 134,
+      "internal_name": "EFF_DUCKED",
+      "name": "Нугас болсон",
+      "desc": "Нугас болсон",
+      "img_path": "*images/ui/HUD/statusfx/ducked.png",
+      "img_from_spell_id": -1,
+      "tooltip_width": 260
+    }
+  }
+}

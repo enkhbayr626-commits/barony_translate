@@ -1,0 +1,776 @@
+{
+  "version": 1,
+  "default_attributes": {
+    "font_color": {
+      "r": 239,
+      "g": 237,
+      "b": 235,
+      "a": 255
+    },
+    "font_outline_color": {
+      "r": 50,
+      "g": 29,
+      "b": 25,
+      "a": 255
+    },
+    "font_highlight_color": {
+      "r": 18,
+      "g": 196,
+      "b": 131,
+      "a": 255
+    },
+    "font_highlight2_color": {
+      "r": 64,
+      "g": 192,
+      "b": 255,
+      "a": 255
+    }
+  },
+  "script_entries": {
+    "tutorial2a": {
+      "sign": [
+        "Нум, сум, шидэх",
+        "зэвсгийг хослуулснаар",
+        "адал явдалтнууд",
+        "гяндангийн илүү",
+        "аюултай заналаас",
+        "зайгаа барьж чадна."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [
+            0,
+            1,
+            2,
+            3
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial2b": {
+      "sign": [
+        "Ангийн сум",
+        "$",
+        "Дайсныг хордуулж удаашруулна."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [
+            0,
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/hunting.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_hunting.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial2c": {
+      "sign": [
+        "Хурдан сум",
+        "$",
+        "Хурдан харвах ч",
+        "хохирол арай бага."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 255,
+          "g": 64,
+          "b": 64,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [
+            1,
+            2
+          ]
+        ],
+        "word_highlights2": [
+          [],
+          [],
+          [
+            1
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/swift.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_swift.png",
+          "sizex": 74,
+          "sizey": 74
+        }
+      ]
+    },
+    "tutorial2d": {
+      "sign": [
+        "Пүршэн сум",
+        "$",
+        "Дайсныг хойш түлхэнэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/springshot.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_springshot.png",
+          "sizex": 74,
+          "sizey": 74
+        }
+      ]
+    },
+    "tutorial2e": {
+      "sign": [
+        "Холоос тулалдах",
+        "чадварыг тань",
+        "одоо шалгана.",
+        "",
+        "Бэлтгэлээ ханга."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": []
+      },
+      "variables": []
+    },
+    "tutorial2f": {
+      "sign": [
+        "Дайснаас зайгаа",
+        "барихын тулд эргэж",
+        "гүйх хэрэг гарч болно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [
+            2
+          ]
+        ]
+      },
+      "variables": []
+    },
+    "tutorial2f_gamepad": {
+      "sign": [
+        "Дайснаас зайгаа",
+        "барихын тулд эргэж",
+        "гүйх хэрэг гарч болно.",
+        "",
+        "$ дарж",
+        "огцом эргэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [
+            2
+          ],
+          [],
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/backpedal.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "Quick Turn"
+        }
+      ]
+    },
+    "tutorial2g": {
+      "sign": [
+        "Урагш алхах нь",
+        "ухрах болон хажуу тийш",
+        "алхахаас хурдан."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [
+            0
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/backpedal.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": []
+    },
+    "tutorial2h": {
+      "sign": [
+        "$",
+        "Хүчтэй шидсэн чакрам",
+        "хананаас ойно.",
+        "Энэ хаалганы цаадах",
+        "шалны урхи зам нээнэ."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [
+            2,
+            3
+          ],
+          [
+            1
+          ],
+          [],
+          [
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_chakram.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial2i": {
+      "sign": [
+        "Зарим эд зүйлийг",
+        "шидэх зэвсэг болгож болно.",
+        "$",
+        "Дайсан руу дайрах эсвэл",
+        "шалны урхи ажиллуул."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [],
+          [],
+          [
+            1,
+            2,
+            3
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/rockthrow.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_rock.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial2j": {
+      "sign": [
+        "$",
+        "Сумтай хоромсого",
+        "нумын дайралтыг",
+        "тань сайжруулна.",
+        "",
+        "Өөр хоромсого зүүж",
+        "өөр нөлөө ав."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [
+            0
+          ],
+          [],
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            2
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_quiver.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial2k": {
+      "sign": [
+        "Сумны нисэх зай",
+        "хэрэглэсэн нумнаас",
+        "хамаарна.",
+        "$",
+        "Урт нум хол харвах ч",
+        "удаан зэвсэг юм."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 255,
+          "g": 64,
+          "b": 64,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            3,
+            4
+          ]
+        ],
+        "word_highlights2": [
+          [],
+          [],
+          [],
+          [],
+          [
+            2,
+            3,
+            4
+          ]
+        ]
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_longbow.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial2l": {
+      "sign": [
+        "Лааванд унах нь",
+        "хурдан үхэх зам.",
+        "",
+        "$"
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": []
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#images/ui/HUD/statusfx/burning.png",
+          "sizex": 32,
+          "sizey": 32
+        }
+      ]
+    },
+    "tutorial2m": {
+      "sign": [
+        "$",
+        "Богино нум бариад",
+        "мэргэнээ харуул.",
+        "$ дарж барин харва."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": -4,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [
+            0
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/bows.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_shortbow.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "input_glyph",
+          "value": "Attack"
+        }
+      ]
+    },
+    "tutorial2n": {
+      "sign": [
+        "Харвасан сумаа",
+        "буцааж авч болохгүй.",
+        "",
+        "Шидэх зэвсгээ",
+        "буцааж аваад",
+        "дахин шидэж болно."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": []
+      },
+      "variables": []
+    },
+    "tutorial2o": {
+      "sign": [
+        "$ дарж барин",
+        "шидэлтээ бэлд.",
+        "",
+        "Бэлдсэн шидэлт хол нисэж,",
+        "их хохирол учруулна."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": -4,
+        "word_highlights": [
+          [
+            0
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/hardthrow.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "input_glyph",
+          "value": "Attack"
+        }
+      ]
+    },
+    "tutorial2q": {
+      "sign": [
+        "Энэ бай хуягтай.",
+        "$$",
+        "Нэвтлэх сум",
+        "хамгаалалт сүлбэж,",
+        "хуягт дайсанд хүчтэй."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [
+            3
+          ],
+          [],
+          [],
+          [],
+          [
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/longbow.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_longbow.png",
+          "sizex": 0,
+          "sizey": 0
+        },
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_pierce.png",
+          "sizex": 0,
+          "sizey": 0
+        }
+      ]
+    },
+    "tutorial2p": {
+      "sign": [
+        "Мөнгөн сум",
+        "",
+        "$",
+        "Чөтгөр болон үхэгсдэд",
+        "илүү аюултай."
+      ],
+      "attributes": {
+        "font": "fonts/pixelmix.ttf#16#2",
+        "font_highlight_color": {
+          "r": 64,
+          "g": 192,
+          "b": 255,
+          "a": 255
+        },
+        "horizontal_justify": "center",
+        "vertical_justify": "center",
+        "line_padding": 0,
+        "top_padding": 0,
+        "inline_img_adjust_x": 0,
+        "word_highlights": [
+          [],
+          [],
+          [],
+          [
+            2
+          ],
+          [
+            2
+          ]
+        ],
+        "video": {
+          "background_img": "data/scripts/video_frame_half_noalpha.png",
+          "background_border": 8,
+          "path": "data/scripts/tutorial2/silver.ogv",
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        }
+      },
+      "variables": [
+        {
+          "type": "image",
+          "value": "*#data/scripts/tutorial2/sign_silver.png",
+          "sizex": 74,
+          "sizey": 74
+        }
+      ]
+    }
+  }
+}

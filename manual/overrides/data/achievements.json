@@ -1,0 +1,2607 @@
+{
+  "achievements": {
+    "BARONY_ACH_ENTER_THE_DUNGEON": {
+      "name": "Гянданд орох",
+      "description": "Гяндангийн 1-р давхар руу буу.",
+      "lore_points": 10,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_ENTER_THE_DUNGEON_l.png",
+      "icon_unlocked": "BARONY_ACH_ENTER_THE_DUNGEON.png"
+    },
+    "BARONY_ACH_5000_SECOND_RULE": {
+      "name": "5000 секундын дүрэм",
+      "description": "Олон тоглолтын турш харх болж илрүүлсэн 50 хоолыг ав.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_5000_SECOND_RULE_l.png",
+      "icon_unlocked": "BARONY_ACH_5000_SECOND_RULE.png"
+    },
+    "BARONY_ACH_ALL_IN_REFLEXES": {
+      "name": "Бүх зүйл рефлекст бий",
+      "description": "Шавжтан эсвэл ямаан хүний шидсэн нисэж буй зэвсгийг барьж ав.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_ALL_IN_REFLEXES_l.png",
+      "icon_unlocked": "BARONY_ACH_ALL_IN_REFLEXES.png"
+    },
+    "BARONY_ACH_ALWAYS_WAITING": {
+      "name": "...Үргэлж хүлээж байх болно",
+      "description": "Их шидтэнүүдийн зовлонг эцэслэ.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_ALWAYS_WAITING_l.png",
+      "icon_unlocked": "BARONY_ACH_ALWAYS_WAITING.png",
+      "hidden": true
+    },
+    "BARONY_ACH_ANGEL_OF_DEATH": {
+      "name": "Үхлийн сахиусан тэнгэр",
+      "description": "Өөр тоглогч эсвэл холбоотон руу дайрч буй дайсныг сэм дайралтаар хороо.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_ANGEL_OF_DEATH_l.png",
+      "icon_unlocked": "BARONY_ACH_ANGEL_OF_DEATH.png"
+    },
+    "BARONY_ACH_ARCANE_LINK": {
+      "name": "Шидийн холбоо",
+      "description": "Хоёр эх үүсвэрээс зэрэг нэмэлт мана нөхөлт ав.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_ARCANE_LINK_l.png",
+      "icon_unlocked": "BARONY_ACH_ARCANE_LINK.png"
+    },
+    "BARONY_ACH_ARSENAL": {
+      "name": "Зэвсгийн сан",
+      "description": "Анчин болж үүргэвчдээ арбалет, нум болон бүх төрлийн сумыг зэрэг байлга.",
+      "lore_points": 2,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_ARSENAL_l.png",
+      "icon_unlocked": "BARONY_ACH_ARSENAL.png"
+    },
+    "BARONY_ACH_BACK_TO_BASICS": {
+      "name": "Үндэс рүүгээ буцах",
+      "description": "Личтэй учирсныхаа дараа нэг сорилыг дуусга.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_BACK_TO_BASICS_l.png",
+      "icon_unlocked": "BARONY_ACH_BACK_TO_BASICS.png",
+      "hidden": true
+    },
+    "BARONY_ACH_BAD_BEAUTIFUL": {
+      "name": "Муу бөгөөд үзэсгэлэнтэй",
+      "description": "Жинхэнэ инкуб эсвэл суккуб болж 4 хараалтай эд зүйлийг зэрэг өмс.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_BAD_BEAUTIFUL_l.png",
+      "icon_unlocked": "BARONY_ACH_BAD_BEAUTIFUL.png"
+    },
+    "BARONY_ACH_BAD_BLOOD": {
+      "name": "Муу цус",
+      "description": "Хараалтан жинхэнэ цус сорогч болж гар нүцгэн сэм хороолтоор 500 HP сор.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BAD_BLOOD_l.png",
+      "icon_unlocked": "BARONY_ACH_BAD_BLOOD.png"
+    },
+    "BARONY_ACH_BAD_BOY_BARON": {
+      "name": "Муу хүү барон",
+      "description": "Жинхэнэ инкуб болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_BAD_BOY_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BAD_BOY_BARON.png"
+    },
+    "BARONY_ACH_BAD_REVIEW": {
+      "name": "Бяцхан одой моринд муу үнэлгээ",
+      "description": "Морины ханын зургийг сүйтгэ.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_BAD_REVIEW_l.png",
+      "icon_unlocked": "BARONY_ACH_BAD_REVIEW.png",
+      "hidden": true
+    },
+    "BARONY_ACH_BAD_ROMANCE": {
+      "name": "Муу дурлал",
+      "description": "Жинхэнэ суккуб болж хоёр инкуб эсвэл суккубыг зэрэг элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BAD_ROMANCE_l.png",
+      "icon_unlocked": "BARONY_ACH_BAD_ROMANCE.png"
+    },
+    "BARONY_ACH_BAIT_AND_SWITCH": {
+      "name": "Өгөөш ба солилцоо",
+      "description": "Жинхэнэ суккуб болж дайсан ойроос дайрч байхад шилж.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BAIT_AND_SWITCH_l.png",
+      "icon_unlocked": "BARONY_ACH_BAIT_AND_SWITCH.png"
+    },
+    "BARONY_ACH_BARFIGHT_CHAMP": {
+      "name": "Баарны зодооны аварга",
+      "description": "Жинхэнэ ямаан хүн болж согтуу байхдаа 50 дайсныг нударгаар хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BARFIGHT_CHAMP_l.png",
+      "icon_unlocked": "BARONY_ACH_BARFIGHT_CHAMP.png"
+    },
+    "BARONY_ACH_BAYOU_BARON": {
+      "name": "Намгийн барон",
+      "description": "Жинхэнэ гоблин болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_BAYOU_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BAYOU_BARON.png"
+    },
+    "BARONY_ACH_BLEATING_BARON": {
+      "name": "Майладаг барон",
+      "description": "Аль ч ангийн жинхэнэ ямаан хүн болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BLEATING_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BLEATING_BARON.png"
+    },
+    "BARONY_ACH_BLESSED": {
+      "name": "#Адислагдсан",
+      "description": "+10 зэвсэг барь.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_BLESSED_l.png",
+      "icon_unlocked": "BARONY_ACH_BLESSED.png"
+    },
+    "BARONY_ACH_BLOOD_BOIL": {
+      "name": "Цус буцалгана",
+      "description": "Жинхэнэ цус сорогч болж усны нөлөөг олж мэд.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BLOOD_BOIL_l.png",
+      "icon_unlocked": "BARONY_ACH_BLOOD_BOIL.png"
+    },
+    "BARONY_ACH_BLOOD_IS_THE_LIFE": {
+      "name": "Цус бол амьдрал",
+      "description": "Өлсгөлөн асаалттай үед хараалтан ангиар эдгэрэлгүй цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BLOOD_IS_THE_LIFE_l.png",
+      "icon_unlocked": "BARONY_ACH_BLOOD_IS_THE_LIFE.png"
+    },
+    "BARONY_ACH_BLOOD_RUNS_CLEAR": {
+      "name": "Цус тунгалаг урсана",
+      "description": "Хараалтан ангиар нуугдах чадвараа домгийн түвшинд хүргэ.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BLOOD_RUNS_CLEAR_l.png",
+      "icon_unlocked": "BARONY_ACH_BLOOD_RUNS_CLEAR.png"
+    },
+    "BARONY_ACH_BLOOD_SPORT": {
+      "name": "Цусан спорт",
+      "description": "Жинхэнэ цус сорогч болж үл үзэгдэх үедээ 50 байг сэм хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BLOOD_SPORT_l.png",
+      "icon_unlocked": "BARONY_ACH_BLOOD_SPORT.png"
+    },
+    "BARONY_ACH_BLOOD_VESSELS": {
+      "name": "Цусны сав",
+      "description": "Жинхэнэ цус сорогч болж 20 цусны шил нэг дор цуглуул.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BLOOD_VESSELS_l.png",
+      "icon_unlocked": "BARONY_ACH_BLOOD_VESSELS.png"
+    },
+    "BARONY_ACH_BODYGUARDS": {
+      "name": "Бие хамгаалагчид",
+      "description": "Захирсан 2 талст големийг удирд.",
+      "lore_points": 3,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_BODYGUARDS_l.png",
+      "icon_unlocked": "BARONY_ACH_BODYGUARDS.png"
+    },
+    "BARONY_ACH_BOILERPLATE_BARON": {
+      "name": "Төмөр хуягт барон",
+      "description": "Жинхэнэ автоматон болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_BOILERPLATE_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BOILERPLATE_BARON.png"
+    },
+    "BARONY_ACH_BOMBARDIER": {
+      "name": "Бөмбөгдөгч",
+      "description": "Шидсэн хандаар 50 дайсан хороо.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_BOMBARDIER_l.png",
+      "icon_unlocked": "BARONY_ACH_BOMBARDIER.png"
+    },
+    "BARONY_ACH_BOMBSHELL_BARON": {
+      "name": "Дур булаам барон",
+      "description": "Аль ч ангийн жинхэнэ суккуб болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BOMBSHELL_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BOMBSHELL_BARON.png"
+    },
+    "BARONY_ACH_BOMBTRACK": {
+      "name": "Бөмбөгийн мөр",
+      "description": "Нэг дайснаар 5 секундэд 5 бөмбөг тэсэл.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_BOMBTRACK_l.png",
+      "icon_unlocked": "BARONY_ACH_BOMBTRACK.png"
+    },
+    "BARONY_ACH_BOMB_SQUAD": {
+      "name": "Бөмбөгийн баг",
+      "description": "Цоож онгойлгох чадвараар 5 автоматоныг амжилттай идэвхгүй болго.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_BOMB_SQUAD_l.png",
+      "icon_unlocked": "BARONY_ACH_BOMB_SQUAD.png"
+    },
+    "BARONY_ACH_BONEHEADED": {
+      "name": "Ясан толгой",
+      "description": "Араг яс болж хоол «ид».",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BONEHEADED_l.png",
+      "icon_unlocked": "BARONY_ACH_BONEHEADED.png",
+      "hidden": true
+    },
+    "BARONY_ACH_BONE_TO_PICK": {
+      "name": "Яримаар асуудал",
+      "description": "Дуудсан туслахаа 35-р түвшинд хүргэ.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BONE_TO_PICK_l.png",
+      "icon_unlocked": "BARONY_ACH_BONE_TO_PICK.png"
+    },
+    "BARONY_ACH_BONY_BARON": {
+      "name": "Ясан барон",
+      "description": "Аль ч ангийн жинхэнэ араг яс болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BONY_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BONY_BARON.png"
+    },
+    "BARONY_ACH_BOOKWORM": {
+      "name": "Номын хорхой",
+      "description": "Жинхэнэ шавжтан болж олон тоглолтын турш ном уншиж эсвэл номоор шившин шидийн 50 түвшин ав.",
+      "lore_points": 3,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_BOOKWORM_l.png",
+      "icon_unlocked": "BARONY_ACH_BOOKWORM.png"
+    },
+    "BARONY_ACH_BOOTS_OF_SPEED": {
+      "name": "Хурдны гутал",
+      "description": "Барон Херкс эсвэл Бафометыг 20 минутаас хэтрэлгүй ял.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_BOOTS_OF_SPEED_l.png",
+      "icon_unlocked": "BARONY_ACH_BOOTS_OF_SPEED.png"
+    },
+    "BARONY_ACH_BORN_AGAIN": {
+      "name": "Дахин төрөх",
+      "description": "Амь аврах сахиусаар агшин зуурын үхлээс амьд үлд.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_BORN_AGAIN_l.png",
+      "icon_unlocked": "BARONY_ACH_BORN_AGAIN.png"
+    },
+    "BARONY_ACH_BOTTLE_NOSED": {
+      "name": "Лонх хамарт",
+      "description": "Жинхэнэ ямаан хүн болж оргилуураас 20 удаа нэмэлт ханд ол.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BOTTLE_NOSED_l.png",
+      "icon_unlocked": "BARONY_ACH_BOTTLE_NOSED.png"
+    },
+    "BARONY_ACH_BRAWLER": {
+      "name": "Зодоонч",
+      "description": "Тоглоомын эхнээс зөвхөн нударга болон шидсэн хандаар дайрч цайзад ялалт байгуул.",
+      "lore_points": 5,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_BRAWLER_l.png",
+      "icon_unlocked": "BARONY_ACH_BRAWLER.png"
+    },
+    "BARONY_ACH_BRING_A_TOWEL": {
+      "name": "Алчуураа бүү мартаарай!",
+      "description": "Алчуураар цус алдалт зогсоож, нүүрний бялуу болон гарын тосыг арч.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_BRING_A_TOWEL_l.png",
+      "icon_unlocked": "BARONY_ACH_BRING_A_TOWEL.png"
+    },
+    "BARONY_ACH_BUCKTOOTH_BARON": {
+      "name": "Соёот барон",
+      "description": "Аль ч ангийн жинхэнэ цус сорогч болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_BUCKTOOTH_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BUCKTOOTH_BARON.png"
+    },
+    "BARONY_ACH_BUGGAR_BARON": {
+      "name": "Шавж барон",
+      "description": "Жинхэнэ шавжтан болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_BUGGAR_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BUGGAR_BARON.png"
+    },
+    "BARONY_ACH_BUT_A_SCRATCH": {
+      "name": "Зүгээр л шалбархай!",
+      "description": "5-аас ихгүй амьтай байхдаа хүчирхэг дайсныг ял.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_BUT_A_SCRATCH_l.png",
+      "icon_unlocked": "BARONY_ACH_BUT_A_SCRATCH.png"
+    },
+    "BARONY_ACH_CALM_LIKE_A_BOMB": {
+      "name": "Бөмбөг мэт тайван",
+      "description": "Нойрны бөмбөгөөр унтуулсан дайсан руу хохирол учруулах бөмбөг шид.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_CALM_LIKE_A_BOMB_l.png",
+      "icon_unlocked": "BARONY_ACH_CALM_LIKE_A_BOMB.png"
+    },
+    "BARONY_ACH_CAUGHT_IN_A_MOSH": {
+      "name": "Шахцалдаанд өртсөн",
+      "description": "Дөрвөөс доошгүй харуулын төхөөрөмжөөр нэг мангасыг зэрэг онил.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_CAUGHT_IN_A_MOSH_l.png",
+      "icon_unlocked": "BARONY_ACH_CAUGHT_IN_A_MOSH.png"
+    },
+    "BARONY_ACH_CHEERS": {
+      "name": "Төлөө!",
+      "description": "Архины нөлөөнд байхдаа өөр дүр рүү архи шид.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_CHEERS_l.png",
+      "icon_unlocked": "BARONY_ACH_CHEERS.png"
+    },
+    "BARONY_ACH_CHOPPING_BLOCK": {
+      "name": "Цаазын тавцан",
+      "description": "Шийтгэгч болж олон тоглолтын турш удааширсан, унтсан эсвэл саажсан 50 дайсныг сүхээр хороо.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_CHOPPING_BLOCK_l.png",
+      "icon_unlocked": "BARONY_ACH_CHOPPING_BLOCK.png"
+    },
+    "BARONY_ACH_CHOSEN_ONE": {
+      "name": "Чи сонгогдсон нэгэн байсан!",
+      "description": "Домгийн эд зүйл өмссөн чигээрээ үх.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_CHOSEN_ONE_l.png",
+      "icon_unlocked": "BARONY_ACH_CHOSEN_ONE.png"
+    },
+    "BARONY_ACH_COCK_BLOCK": {
+      "name": "Тахиан хаалт",
+      "description": "Кокатрисын ойрын дайралтыг хааж ямар ч хохирол бүү ав.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_COCK_BLOCK_l.png",
+      "icon_unlocked": "BARONY_ACH_COCK_BLOCK.png"
+    },
+    "BARONY_ACH_COLD_BLOODED": {
+      "name": "Хүйтэн цуст",
+      "description": "Багт жинхэнэ цус сорогч ба шавжтан орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_COLD_BLOODED_l.png",
+      "icon_unlocked": "BARONY_ACH_COLD_BLOODED.png"
+    },
+    "BARONY_ACH_COMEDIAN": {
+      "name": "Хошин шогч",
+      "description": "Араг яс болж Хөгжилтэй ясны зэвсэг, нөмрөгийг өөр хэрэгсэлгүйгээр өмс.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_COMEDIAN_l.png",
+      "icon_unlocked": "BARONY_ACH_COMEDIAN.png"
+    },
+    "BARONY_ACH_COMMANDER_CHIEF": {
+      "name": "Ерөнхий командлагч",
+      "description": "Аль ч угсааны ховсчин ангиар цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_COMMANDER_CHIEF_l.png",
+      "icon_unlocked": "BARONY_ACH_COMMANDER_CHIEF.png"
+    },
+    "BARONY_ACH_CONFESSOR": {
+      "name": "Наманчлал сонсогч",
+      "description": "Өмнөөс холбоотон байсан дүрийг захир.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_CONFESSOR_l.png",
+      "icon_unlocked": "BARONY_ACH_CONFESSOR.png"
+    },
+    "BARONY_ACH_COWBOY_FROM_HELL": {
+      "name": "Тамаас ирсэн ковбой",
+      "description": "Олон тоглолтын турш шилжүүлснийхээ дараахан 50 дайсныг ташуураар хороо.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_COWBOY_FROM_HELL_l.png",
+      "icon_unlocked": "BARONY_ACH_COWBOY_FROM_HELL.png"
+    },
+    "BARONY_ACH_CULT_FOLLOWING": {
+      "name": "Шүтэгчдийн цуваа",
+      "description": "Кокатрисын үүрээс гар.",
+      "lore_points": 3,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_CULT_FOLLOWING_l.png",
+      "icon_unlocked": "BARONY_ACH_CULT_FOLLOWING.png"
+    },
+    "BARONY_ACH_DESPAIR_CALMS": {
+      "name": "Цөхрөл өөрийн амгалантай",
+      "description": "Брамын цайзаас гар.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_DESPAIR_CALMS_l.png",
+      "icon_unlocked": "BARONY_ACH_DESPAIR_CALMS.png"
+    },
+    "BARONY_ACH_DIPLOMA": {
+      "name": "Диплом",
+      "description": "Сорилын танхимын бүх сорилыг дуусга.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_DIPLOMA_l.png",
+      "icon_unlocked": "BARONY_ACH_DIPLOMA.png"
+    },
+    "BARONY_ACH_DRUNK_POWER": {
+      "name": "Хүч чадалд согтсон",
+      "description": "Аль ч угсааны ханд найруулагч ангиар цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_DRUNK_POWER_l.png",
+      "icon_unlocked": "BARONY_ACH_DRUNK_POWER.png"
+    },
+    "BARONY_ACH_DYSLEXIA": {
+      "name": "Унших бэрхшээл",
+      "description": "Гоблин болж олон тоглолтын турш 50 шившлэгийн номыг үнс болтол шатаа.",
+      "lore_points": 3,
+      "category": "joker",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_DYSLEXIA_l.png",
+      "icon_unlocked": "BARONY_ACH_DYSLEXIA.png"
+    },
+    "BARONY_ACH_EARN_THIS": {
+      "name": "Үүнийг хүрт",
+      "description": "Холбоотон дүрд домгийн эд зүйл өг.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_EARN_THIS_l.png",
+      "icon_unlocked": "BARONY_ACH_EARN_THIS.png"
+    },
+    "BARONY_ACH_ESCORT": {
+      "name": "Хөтөч",
+      "description": "Хүн холбоотонтойгоо Хамлетад буцаж ир.",
+      "lore_points": 3,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_ESCORT_l.png",
+      "icon_unlocked": "BARONY_ACH_ESCORT.png"
+    },
+    "BARONY_ACH_EVIL_INCARNATE": {
+      "name": "Биежсэн бузар",
+      "description": "Бафометыг олж ял.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_EVIL_INCARNATE_l.png",
+      "icon_unlocked": "BARONY_ACH_EVIL_INCARNATE.png"
+    },
+    "BARONY_ACH_EXPELLED": {
+      "name": "Хөөгдсөн",
+      "description": "Сорилын танхимын төвд үх.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_EXPELLED_l.png",
+      "icon_unlocked": "BARONY_ACH_EXPELLED.png",
+      "hidden": true
+    },
+    "BARONY_ACH_EXTERNAL_BATTERY": {
+      "name": "Гадаад зай",
+      "description": "MP тэг байхдаа дуудсан туслахынхаа сүнсийг чөлөөл.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_EXTERNAL_BATTERY_l.png",
+      "icon_unlocked": "BARONY_ACH_EXTERNAL_BATTERY.png"
+    },
+    "BARONY_ACH_EXTRA_CREDIT": {
+      "name": "Нэмэлт оноо",
+      "description": "Сорилын танхимын 10 сорил тус бүрээс нууц газар ол.",
+      "lore_points": 4,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_EXTRA_CREDIT_l.png",
+      "icon_unlocked": "BARONY_ACH_EXTRA_CREDIT.png"
+    },
+    "BARONY_ACH_FACES_OF_DEATH": {
+      "name": "Үхлийн царайнууд",
+      "description": "Багт бөө ба дуудагч орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_FACES_OF_DEATH_l.png",
+      "icon_unlocked": "BARONY_ACH_FACES_OF_DEATH.png"
+    },
+    "BARONY_ACH_FAMILY_REUNION": {
+      "name": "Гэр бүлийн уулзалт",
+      "description": "Жинхэнэ ямаан хүн болж гурван ямаан хүн элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_FAMILY_REUNION_l.png",
+      "icon_unlocked": "BARONY_ACH_FAMILY_REUNION.png"
+    },
+    "BARONY_ACH_FASCIST": {
+      "name": "Дарангуйлагч",
+      "description": "Жинхэнэ автоматон болж олон тоглолтын турш шидгүй 50 ном эсвэл хуйлмал ид.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_FASCIST_l.png",
+      "icon_unlocked": "BARONY_ACH_FASCIST.png"
+    },
+    "BARONY_ACH_FAST_LEARNER": {
+      "name": "Хурдан суралцагч",
+      "description": "Бүх сорилыг нийт 20 минутаас бага хугацаанд дуусга.",
+      "lore_points": 4,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_FAST_LEARNER_l.png",
+      "icon_unlocked": "BARONY_ACH_FAST_LEARNER.png"
+    },
+    "BARONY_ACH_FELL_BEAST": {
+      "name": "Аймшигт араатан",
+      "description": "Холын зэвсгийн ганц сумаар дайсанд асар их хохирол учруул.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_FELL_BEAST_l.png",
+      "icon_unlocked": "BARONY_ACH_FELL_BEAST.png"
+    },
+    "BARONY_ACH_FILTHY_RICH": {
+      "name": "Хэт баян",
+      "description": "10,000 алт цуглуул.",
+      "lore_points": 1,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_FILTHY_RICH_l.png",
+      "icon_unlocked": "BARONY_ACH_FILTHY_RICH.png"
+    },
+    "BARONY_ACH_FIRE_MAYBE_DIFFERENT": {
+      "name": "Энэ удаа өөр байж магадгүй",
+      "description": "Хоёр галын хуйлмал унш.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_FIRE_MAYBE_DIFFERENT_l.png",
+      "icon_unlocked": "BARONY_ACH_FIRE_MAYBE_DIFFERENT.png",
+      "hidden": true
+    },
+    "BARONY_ACH_FIXER_UPPER": {
+      "name": "Засварчин",
+      "description": "Урласан 100 урхи болон төхөөрөмж холбоотныг зас эсвэл задал.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_FIXER_UPPER_l.png",
+      "icon_unlocked": "BARONY_ACH_FIXER_UPPER.png"
+    },
+    "BARONY_ACH_FLUTTERSHY": {
+      "name": "Далавчны ичимхий",
+      "description": "Дэвэх чадвараар тухайн давхрын ердийн замаар хүршгүй газарт хүр.",
+      "lore_points": 1,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_FLUTTERSHY_l.png",
+      "icon_unlocked": "BARONY_ACH_FLUTTERSHY.png"
+    },
+    "BARONY_ACH_FOODLESS_CONDUCT": {
+      "name": "Хоолгүй аян",
+      "description": "Хоол огт идэлгүй тоглоомд ял.",
+      "lore_points": 4,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_FOODLESS_CONDUCT_l.png",
+      "icon_unlocked": "BARONY_ACH_FOODLESS_CONDUCT.png"
+    },
+    "BARONY_ACH_FORUM_TROLL": {
+      "name": "Форумын тролль",
+      "description": "Нэг тоглолтод тролль болж 3 тролль элсүүлж, 3 хана эвдэн, 3 дүрд Айдас шивш.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_FORUM_TROLL_l.png",
+      "icon_unlocked": "BARONY_ACH_FORUM_TROLL.png"
+    },
+    "BARONY_ACH_FREE_REFILLS": {
+      "name": "Үнэгүй дүүргэлт",
+      "description": "Угаалтуур эсвэл оргилуураас 50 хоосон лонх дүүргэ.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_FREE_REFILLS_l.png",
+      "icon_unlocked": "BARONY_ACH_FREE_REFILLS.png"
+    },
+    "BARONY_ACH_FUNCTIONAL": {
+      "name": "Ажиллах чадвартай",
+      "description": "Жинхэнэ ямаан хүн болж нэг тоглолтод шарталтаа 10 удаа тайл.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_FUNCTIONAL_l.png",
+      "icon_unlocked": "BARONY_ACH_FUNCTIONAL.png"
+    },
+    "BARONY_ACH_GASTRIC_BYPASS": {
+      "name": "Ходоод тойрох",
+      "description": "Жинхэнэ шавжтан болж өөрт 5-аас ихгүй эрчим хүч үлдээх шившлэгээр дайсан хороо.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_GASTRIC_BYPASS_l.png",
+      "icon_unlocked": "BARONY_ACH_GASTRIC_BYPASS.png"
+    },
+    "BARONY_ACH_GIFTS_ETERNALS": {
+      "name": "Мөнхийнхний бэлэг",
+      "description": "Домгийн хуягийн бүтэн иж бүрдэл олж өмс.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_GIFTS_ETERNALS_l.png",
+      "icon_unlocked": "BARONY_ACH_GIFTS_ETERNALS.png"
+    },
+    "BARONY_ACH_GILDED": {
+      "name": "Алтаар бүрсэн",
+      "description": "100,000 алт цуглуул.",
+      "lore_points": 4,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_GILDED_l.png",
+      "icon_unlocked": "BARONY_ACH_GILDED.png"
+    },
+    "BARONY_ACH_GOODNIGHT_SWEET_PRINCE": {
+      "name": "Сайхан нойрсоорой, ханхүү минь",
+      "description": "Нисдэг роботоо бул чулуунд няцлуулахыг хар.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_GOODNIGHT_SWEET_PRINCE_l.png",
+      "icon_unlocked": "BARONY_ACH_GOODNIGHT_SWEET_PRINCE.png",
+      "hidden": true
+    },
+    "BARONY_ACH_GUDIPARIAN_BAZI": {
+      "name": "Цаасан шувууны тулаан",
+      "description": "Анчин болж тоглоомын эхнээс дайсныг ойрын зэвсгээр огт цохилгүй цайзаас зугт.",
+      "lore_points": 5,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_GUDIPARAN_BAZI_l.png",
+      "icon_unlocked": "BARONY_ACH_GUDIPARAN_BAZI.png"
+    },
+    "BARONY_ACH_GUERILLA_RADIO": {
+      "name": "Партизаны радио",
+      "description": "Чимээ үүсгэгчид татагдаж буй 20 дайсныг хороо.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_GUERILLA_RADIO_l.png",
+      "icon_unlocked": "BARONY_ACH_GUERILLA_RADIO.png"
+    },
+    "BARONY_ACH_HARDCORE": {
+      "name": "Сонгодог хүнд аян",
+      "description": "Сонгодог болон Хүнд горимыг асааж тоглоомыг эхнээс нь дуустал дуусга.",
+      "lore_points": 4,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_HARDCORE_l.png",
+      "icon_unlocked": "BARONY_ACH_HARDCORE.png"
+    },
+    "BARONY_ACH_HEAL_BOT": {
+      "name": "Эдгээгч робот",
+      "description": "Нэг тоглолтод тоглогч эсвэл холбоотны 1000 амь нөх.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_HEAL_BOT_l.png",
+      "icon_unlocked": "BARONY_ACH_HEAL_BOT.png"
+    },
+    "BARONY_ACH_HOMICIDAL_MANIAC": {
+      "name": "Хүн амины солиот",
+      "description": "Нэг тоглолтод дор хаяж 10 хүн хороо.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_HOMICIDAL_MANIAC_l.png",
+      "icon_unlocked": "BARONY_ACH_HOMICIDAL_MANIAC.png"
+    },
+    "BARONY_ACH_HOT_SHOWER": {
+      "name": "Халуун шүршүүр",
+      "description": "Угаалтуур эсвэл оргилуураар галаа унтраа.",
+      "lore_points": 1,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_HOT_SHOWER_l.png",
+      "icon_unlocked": "BARONY_ACH_HOT_SHOWER.png"
+    },
+    "BARONY_ACH_HOT_TUB": {
+      "name": "Халуун ванны цагийн машин",
+      "description": "Өлсгөлөнг унтрааж, сэлэх гэдэг чадвар байдаг мэт Сэлэх чадварын 50+ түвшин ав.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_HOT_TUB_l.png",
+      "icon_unlocked": "BARONY_ACH_HOT_TUB.png"
+    },
+    "BARONY_ACH_IF_YOU_LOVE_SOMETHING": {
+      "name": "Хэрэв чи хайртай бол",
+      "description": "Олон тоглолтын турш дайсныг оносны дараа бумерангаа 100 удаа буцааж ав.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_IF_YOU_LOVE_SOMETHING_l.png",
+      "icon_unlocked": "BARONY_ACH_IF_YOU_LOVE_SOMETHING.png"
+    },
+    "BARONY_ACH_ILLITERATE_CONDUCT": {
+      "name": "Бичиг үсэггүй аян",
+      "description": "Ном, хуйлмал, шившлэгийн ном огт уншилгүй тоглоомд ял.",
+      "lore_points": 3,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_ILLITERATE_CONDUCT_l.png",
+      "icon_unlocked": "BARONY_ACH_ILLITERATE_CONDUCT.png"
+    },
+    "BARONY_ACH_IN_GREATER_NUMBERS": {
+      "name": "Олуулаа хүчтэй",
+      "description": "Дор хаяж хоёр тоглогч амьд байхад тоглоомд ял.",
+      "lore_points": 5,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_IN_GREATER_NUMBERS_l.png",
+      "icon_unlocked": "BARONY_ACH_IN_GREATER_NUMBERS.png"
+    },
+    "BARONY_ACH_IN_THE_MIX": {
+      "name": "Хольц дунд",
+      "description": "Нэрэх багажаар 50 ханд найруул.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_IN_THE_MIX_l.png",
+      "icon_unlocked": "BARONY_ACH_IN_THE_MIX.png"
+    },
+    "BARONY_ACH_IRONIC_PUNISHMENT": {
+      "name": "Ёгт шийтгэлийн тасаг",
+      "description": "Ташуураар байны ойрын зэвсгийг унагааж аваад түүгээрээ тэр байг хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_IRONIC_PUNISHMENT_l.png",
+      "icon_unlocked": "BARONY_ACH_IRONIC_PUNISHMENT.png"
+    },
+    "BARONY_ACH_IRON_GUT": {
+      "name": "Төмөр ходоод",
+      "description": "Жинхэнэ ямаан хүн болж 20 лааз ид.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_IRON_GUT_l.png",
+      "icon_unlocked": "BARONY_ACH_IRON_GUT.png"
+    },
+    "BARONY_ACH_ITS_A_LIVING": {
+      "name": "Ажил л юм даа",
+      "description": "Олон тоглолтын турш цаазлагчийн юүдэн өмсөж 50 дайснаас цус алдуул.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_ITS_A_LIVING_l.png",
+      "icon_unlocked": "BARONY_ACH_ITS_A_LIVING.png"
+    },
+    "BARONY_ACH_I_WANT_IT_ALL": {
+      "name": "Бүгдийг хүснэ",
+      "description": "Нэмэлт агуулгын бүх анги, угсаагаар тогло.",
+      "lore_points": 3,
+      "category": "experience",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_I_WANT_IT_ALL_l.png",
+      "icon_unlocked": "BARONY_ACH_I_WANT_IT_ALL.png"
+    },
+    "BARONY_ACH_JUNGLE_FEVER": {
+      "name": "Ширэнгийн халуурал",
+      "description": "Намгаас зугт.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_JUNGLE_FEVER_l.png",
+      "icon_unlocked": "BARONY_ACH_JUNGLE_FEVER.png"
+    },
+    "BARONY_ACH_KILL_COMMAND": {
+      "name": "Хороох тушаал",
+      "description": "Татагдсан холбоотнуудаараа 50 дайсан хороолго.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_KILL_COMMAND_l.png",
+      "icon_unlocked": "BARONY_ACH_KILL_COMMAND.png"
+    },
+    "BARONY_ACH_KING_ARTHURS_BLADE": {
+      "name": "Артур хааны ир",
+      "description": "Артур хааны шидэт сэлэм Дирнвиныг ол.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_KING_ARTHURS_BLADE_l.png",
+      "icon_unlocked": "BARONY_ACH_KING_ARTHURS_BLADE.png"
+    },
+    "BARONY_ACH_KNOW_THYSELF": {
+      "name": "Өөрийгөө тань",
+      "description": "Таны дүрийг дуурайсан сүүдрийг хороо.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_KNOW_THYSELF_l.png",
+      "icon_unlocked": "BARONY_ACH_KNOW_THYSELF.png"
+    },
+    "BARONY_ACH_LAST_RESORT": {
+      "name": "Сүүлчийн арга",
+      "description": "Тан руу өнхөрч буй бул чулууг ёотуугаар устга.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_LAST_RESORT_l.png",
+      "icon_unlocked": "BARONY_ACH_LAST_RESORT.png"
+    },
+    "BARONY_ACH_LEVITANT_LACKEY": {
+      "name": "Хөөрдөг зарц",
+      "description": "Нисдэг роботоор хүршгүй эд зүйл авахуул эсвэл хөшүүрэг ашиглуул.",
+      "lore_points": 1,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_LEVITANT_LACKEY_l.png",
+      "icon_unlocked": "BARONY_ACH_LEVITANT_LACKEY.png"
+    },
+    "BARONY_ACH_LICH_HUNTER": {
+      "name": "Личийн анчин",
+      "description": "Барон Херксийг үүрэнд нь олж ял.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_LICH_HUNTER_l.png",
+      "icon_unlocked": "BARONY_ACH_LICH_HUNTER.png"
+    },
+    "BARONY_ACH_LIFE_FOR_A_LIFE": {
+      "name": "Амийг амиар",
+      "description": "Бүх амиа золиослон дайсныг захираад амьд үлд.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_LIFE_FOR_A_LIFE_l.png",
+      "icon_unlocked": "BARONY_ACH_LIFE_FOR_A_LIFE.png"
+    },
+    "BARONY_ACH_LIKE_CLOCKWORK": {
+      "name": "Цаг шиг нарийн",
+      "description": "Аль ч угсааны механикч болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_LIKE_CLOCKWORK_l.png",
+      "icon_unlocked": "BARONY_ACH_LIKE_CLOCKWORK.png"
+    },
+    "BARONY_ACH_LOCAL_CUSTOMS": {
+      "name": "Нутгийн заншил",
+      "description": "Дотоод мод файл ачаалсан тоглолт эхлүүл.",
+      "lore_points": 3,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_LOCAL_CUSTOMS_l.png",
+      "icon_unlocked": "BARONY_ACH_LOCAL_CUSTOMS.png"
+    },
+    "BARONY_ACH_MACHINE_HEAD": {
+      "name": "Машин толгой",
+      "description": "Арбалетын харуул, шидийн харуул, нисдэг тэрэг гурвыг зэрэг ажиллуул.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_MACHINE_HEAD_l.png",
+      "icon_unlocked": "BARONY_ACH_MACHINE_HEAD.png"
+    },
+    "BARONY_ACH_MAGIC_MASTERY": {
+      "name": "Ид шидийн мастер",
+      "description": "20 шившлэг сур.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_MAGIC_MASTERY_l.png",
+      "icon_unlocked": "BARONY_ACH_MAGIC_MASTERY.png"
+    },
+    "BARONY_ACH_MANAGEMENT_TEAM": {
+      "name": "Удирдах баг",
+      "description": "Багт механикч ба ховсчин орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_MANAGEMENT_TEAM_l.png",
+      "icon_unlocked": "BARONY_ACH_MANAGEMENT_TEAM.png"
+    },
+    "BARONY_ACH_MANY_PEDI_PALP": {
+      "name": "Олон хөлт тэмтрүүл",
+      "description": "Аалз болж олон тоглолтын турш торонд орсон 50 дайсныг хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_MANY_PEDI_PALP_l.png",
+      "icon_unlocked": "BARONY_ACH_MANY_PEDI_PALP.png"
+    },
+    "BARONY_ACH_MASTER": {
+      "name": "Мастер",
+      "description": "Сорилын танхимын төвөөс Мастерын жигүүрийг ол.",
+      "lore_points": 4,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_MASTER_l.png",
+      "icon_unlocked": "BARONY_ACH_MASTER.png",
+      "hidden": true
+    },
+    "BARONY_ACH_MIXOLOGIST": {
+      "name": "Хольцын мастер",
+      "description": "Алхимийн бүх үндсэн болон нэмэлт орцыг сур.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_MIXOLOGIST_l.png",
+      "icon_unlocked": "BARONY_ACH_MIXOLOGIST.png"
+    },
+    "BARONY_ACH_MONARCH": {
+      "name": "Хаан",
+      "description": "Жинхэнэ шавжтан болж шавжтан холбоотнуудаараа 20 дайсан хороолго.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_MONARCH_l.png",
+      "icon_unlocked": "BARONY_ACH_MONARCH.png"
+    },
+    "BARONY_ACH_MONSTER_SQUAD": {
+      "name": "Мангасын баг",
+      "description": "Гурав ба түүнээс олон тоглогч бүгд мангас болсон тоглолт тогло.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_MONSTER_SQUAD_l.png",
+      "icon_unlocked": "BARONY_ACH_MONSTER_SQUAD.png"
+    },
+    "BARONY_ACH_MOVED_ITSELF": {
+      "name": "Тэр чулуу өөрөө хөдөлсөн!",
+      "description": "Түлхсэн бул чулуугаар холбоотон тоглогчоо хороо.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_MOVED_ITSELF_l.png",
+      "icon_unlocked": "BARONY_ACH_MOVED_ITSELF.png"
+    },
+    "BARONY_ACH_MUSCLE_MEMORY": {
+      "name": "Булчингийн ой",
+      "description": "Жинхэнэ араг яс болж хүний дүрд хувирсан үедээ хоол ид.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_MUSCLE_MEMORY_l.png",
+      "icon_unlocked": "BARONY_ACH_MUSCLE_MEMORY.png"
+    },
+    "BARONY_ACH_MY_FINAL_FORM": {
+      "name": "Миний эцсийн дүр",
+      "description": "Аль ч угсааны бөө болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_MY_FINAL_FORM_l.png",
+      "icon_unlocked": "BARONY_ACH_MY_FINAL_FORM.png"
+    },
+    "BARONY_ACH_NARCISSIST": {
+      "name": "Өөртөө дурлагч",
+      "description": "Толин бамбайгаар дайсны шившлэгийг буцааж өөрийг нь хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_NARCISSIST_l.png",
+      "icon_unlocked": "BARONY_ACH_NARCISSIST.png"
+    },
+    "BARONY_ACH_NATURAL_BORN_LEADER": {
+      "name": "Төрөлхийн удирдагч",
+      "description": "Дор хаяж гурван дүрийг зэрэг дагуулахаар ятга.",
+      "lore_points": 1,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_NATURAL_BORN_LEADER_l.png",
+      "icon_unlocked": "BARONY_ACH_NATURAL_BORN_LEADER.png"
+    },
+    "BARONY_ACH_NOT_A_TEAM_PLAYER": {
+      "name": "Багийн тоглогч биш",
+      "description": "Өөр тоглогч хороо.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_NOT_A_TEAM_PLAYER_l.png",
+      "icon_unlocked": "BARONY_ACH_NOT_A_TEAM_PLAYER.png"
+    },
+    "BARONY_ACH_OFF_LIMITS": {
+      "name": "Хориглосон",
+      "description": "Номхруулж болохгүй мангасыг татахыг оролд.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_OFF_LIMITS_l.png",
+      "icon_unlocked": "BARONY_ACH_OFF_LIMITS.png"
+    },
+    "BARONY_ACH_OHAI_MARK": {
+      "name": "Сайн уу, Марк",
+      "description": "Нэг тоглолтод тэмдэглэсэн 20 дайсан руу шилжиж, сэм хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_OHAI_MARK_l.png",
+      "icon_unlocked": "BARONY_ACH_OHAI_MARK.png"
+    },
+    "BARONY_ACH_ONE_MANS_TRASH": {
+      "name": "Нэгний хог",
+      "description": "Хараалтай шидэт таягийг эвдэртэл нь ашигла.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_ONE_MANS_TRASH_l.png",
+      "icon_unlocked": "BARONY_ACH_ONE_MANS_TRASH.png",
+      "hidden": true
+    },
+    "BARONY_ACH_ONE_PUNCH_MAN": {
+      "name": "Ганц цохилтын хүн",
+      "description": "Домгийн гар нүцгэн чадвараар мангасыг саажуул.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_ONE_PUNCH_MAN_l.png",
+      "icon_unlocked": "BARONY_ACH_ONE_PUNCH_MAN.png"
+    },
+    "BARONY_ACH_ONE_WHO_KNOCKS": {
+      "name": "Би л хаалга тогшдог",
+      "description": "Минотаврын дайралтыг хаалгүйгээр ямар ч хохирол бүү ав.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_ONE_WHO_KNOCKS_l.png",
+      "icon_unlocked": "BARONY_ACH_ONE_WHO_KNOCKS.png"
+    },
+    "BARONY_ACH_OVERCLOCKED": {
+      "name": "Хэт хурдлуулсан",
+      "description": "Жинхэнэ автоматон болж хэт халсан зуухтай нийт 10 минут тогло.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_OVERCLOCKED_l.png",
+      "icon_unlocked": "BARONY_ACH_OVERCLOCKED.png"
+    },
+    "BARONY_ACH_OWN_WORST_ENEMY": {
+      "name": "Өөрийн хамгийн муу дайсан",
+      "description": "Личийг өөрийнх нь дуудсан туслахаар хороолго.",
+      "lore_points": 3,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_OWN_WORST_ENEMY_l.png",
+      "icon_unlocked": "BARONY_ACH_OWN_WORST_ENEMY.png",
+      "hidden": true
+    },
+    "BARONY_ACH_PENNILESS_CONDUCT": {
+      "name": "Зоосгүй аян",
+      "description": "Алт огт цуглуулалгүй тоглоомд ял.",
+      "lore_points": 4,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_PENNILESS_CONDUCT_l.png",
+      "icon_unlocked": "BARONY_ACH_PENNILESS_CONDUCT.png"
+    },
+    "BARONY_ACH_PIMPIN": {
+      "name": "Уруу татах амаргүй",
+      "description": "Жинхэнэ инкуб эсвэл суккуб болж нийт 6 суккуб, инкуб эсвэл хүн элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_PIMPIN_l.png",
+      "icon_unlocked": "BARONY_ACH_PIMPIN.png"
+    },
+    "BARONY_ACH_PITY_FRIEND": {
+      "name": "Өрөвдсөн найз",
+      "description": "Мангас болж хүн холбоотон элсүүл.",
+      "lore_points": 1,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_PITY_FRIEND_l.png",
+      "icon_unlocked": "BARONY_ACH_PITY_FRIEND.png"
+    },
+    "BARONY_ACH_PLEASE_HOLD": {
+      "name": "Түр хүлээнэ үү",
+      "description": "Дайсныг ангийн эсвэл галын сумаар оноод пүршэн сумаар саатуул.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_PLEASE_HOLD_l.png",
+      "icon_unlocked": "BARONY_ACH_PLEASE_HOLD.png"
+    },
+    "BARONY_ACH_PLUS_BOOTS_OF_SPEED": {
+      "name": "Адислагдсан хурдны гутал",
+      "description": "45 минутаас хэтрэлгүй эцсийн шатанд хүрээд тоглоомд ял.",
+      "lore_points": 5,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_PLUS_BOOTS_OF_SPEED_l.png",
+      "icon_unlocked": "BARONY_ACH_PLUS_BOOTS_OF_SPEED.png"
+    },
+    "BARONY_ACH_POP_QUIZ": {
+      "name": "Гэнэтийн шалгалт",
+      "description": "Жинхэнэ гоблин болж нэг тоглолтод номоос 20 өөр шившлэг шивш.",
+      "lore_points": 3,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_POP_QUIZ_l.png",
+      "icon_unlocked": "BARONY_ACH_POP_QUIZ.png"
+    },
+    "BARONY_ACH_POST_HARDCORE": {
+      "name": "Орчин үеийн хүнд аян",
+      "description": "Хүнд горимыг асааж, Сонгодог горимыг унтраан тоглоомыг эхнээс нь дуустал дуусга.",
+      "lore_points": 5,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_POST_HARDCORE_l.png",
+      "icon_unlocked": "BARONY_ACH_POST_HARDCORE.png"
+    },
+    "BARONY_ACH_POTION_PREPARATION": {
+      "name": "Хандны бэлтгэл",
+      "description": "Урьдчилж найруулах шаардлагагүй 16 өөр ханд эсвэл савласан шингэнийг үүргэвчдээ байлга.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_POTION_PREPARATION_l.png",
+      "icon_unlocked": "BARONY_ACH_POTION_PREPARATION.png"
+    },
+    "BARONY_ACH_POWER_HUNGRY": {
+      "name": "Эрх мэдэлд шунасан",
+      "description": "Аль ч угсааны хараалтан ангиар цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_POWER_HUNGRY_l.png",
+      "icon_unlocked": "BARONY_ACH_POWER_HUNGRY.png"
+    },
+    "BARONY_ACH_PROFESSIONAL_BURGLAR": {
+      "name": "Мэргэжлийн хулгайч",
+      "description": "Нэг тоглолтод дор хаяж 3 дэлгүүрийн эзэн хороо.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_PROFESSIONAL_BURGLAR_l.png",
+      "icon_unlocked": "BARONY_ACH_PROFESSIONAL_BURGLAR.png"
+    },
+    "BARONY_ACH_PUZZLE_MASTER": {
+      "name": "Оньсогын мастер",
+      "description": "Сокобаны нууцыг тайл.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_PUZZLE_MASTER_l.png",
+      "icon_unlocked": "BARONY_ACH_PUZZLE_MASTER.png"
+    },
+    "BARONY_ACH_RAGE_AGAINST": {
+      "name": "Машины эсрэг хилэн",
+      "description": "Олон тоглолтын турш бэлтгэлийн робот руу дайрч буй 20 дайсныг хороо.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_RAGE_AGAINST_l.png",
+      "icon_unlocked": "BARONY_ACH_RAGE_AGAINST.png"
+    },
+    "BARONY_ACH_RANGER_DANGER": {
+      "name": "Анчны аюул",
+      "description": "Аль ч угсааны анчин болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_RANGER_DANGER_l.png",
+      "icon_unlocked": "BARONY_ACH_RANGER_DANGER.png"
+    },
+    "BARONY_ACH_REAL_BOY": {
+      "name": "Би жинхэнэ хүү",
+      "description": "Жинхэнэ автоматон болж дүр хувирсан үедээ хүн элсүүлж, худалдаачнаас худалдан ав.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_REAL_BOY_l.png",
+      "icon_unlocked": "BARONY_ACH_REAL_BOY.png"
+    },
+    "BARONY_ACH_RECYCLER": {
+      "name": "Дахин боловсруулагч",
+      "description": "Холбоотон автоматонд дахин боловсруулах эд зүйл өг.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_RECYCLER_l.png",
+      "icon_unlocked": "BARONY_ACH_RECYCLER.png"
+    },
+    "BARONY_ACH_REPOSSESSION": {
+      "name": "Буцаан эзэмших",
+      "description": "Инкуб эсвэл суккубын танаас хулгайлсан эд зүйлийг буцааж ав.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_REPOSSESSION_l.png",
+      "icon_unlocked": "BARONY_ACH_REPOSSESSION.png"
+    },
+    "BARONY_ACH_REUNITED": {
+      "name": "Дахин уулзсан",
+      "description": "Херкстэй учирсны дараа минотавр хороо.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_REUNITED_l.png",
+      "icon_unlocked": "BARONY_ACH_REUNITED.png"
+    },
+    "BARONY_ACH_REVERSE_THIS_CURSE": {
+      "name": "Энэ хараалыг тайл",
+      "description": "Хараалтан ангийн эмчилгээг ол.",
+      "lore_points": 2,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_REVERSE_THIS_CURSE_l.png",
+      "icon_unlocked": "BARONY_ACH_REVERSE_THIS_CURSE.png"
+    },
+    "BARONY_ACH_RHINESTONE_COWBOY": {
+      "name": "Шилэн шигтгээт ковбой",
+      "description": "Олон тоглолтын турш үнэ цэнгүй шилний 50 ширхгийг тань.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_RHINESTONE_COWBOY_l.png",
+      "icon_unlocked": "BARONY_ACH_RHINESTONE_COWBOY.png"
+    },
+    "BARONY_ACH_RHYTHM_OF_THE_KNIGHT": {
+      "name": "Баатрын хэмнэл",
+      "description": "Нэг дайсны эсрэг хаах, дайрах ээлжийг 3 удаа хийж, хаагаагүй цохилт бүү ав.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_RHYTHM_OF_THE_KNIGHT_l.png",
+      "icon_unlocked": "BARONY_ACH_RHYTHM_OF_THE_KNIGHT.png"
+    },
+    "BARONY_ACH_RICH_ALTER_EGO": {
+      "name": "Миний баян өөр дүр",
+      "description": "Мангас болж дүр хувирсан үедээ бүх тоглолтын турш 50,000 алтны худалдаа хий.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_RICH_ALTER_EGO_l.png",
+      "icon_unlocked": "BARONY_ACH_RICH_ALTER_EGO.png"
+    },
+    "BARONY_ACH_RIGHT_TO_REFUSE": {
+      "name": "Татгалзах эрх",
+      "description": "Мангас учраас дэлгүүрээс хөөгд.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_RIGHT_TO_REFUSE_l.png",
+      "icon_unlocked": "BARONY_ACH_RIGHT_TO_REFUSE.png"
+    },
+    "BARONY_ACH_ROBBING_THE_CRADLE": {
+      "name": "Өлгий тоносон",
+      "description": "Сүнстэй цайзыг тоноод амьд гар.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_ROBBING_THE_CRADLE_l.png",
+      "icon_unlocked": "BARONY_ACH_ROBBING_THE_CRADLE.png"
+    },
+    "BARONY_ACH_ROLL_THE_BONES": {
+      "name": "Ясаа хая",
+      "description": "Бөө болж олон тоглолтын турш шидэт өдөөр 50 хуйлмал бич.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_ROLL_THE_BONES_l.png",
+      "icon_unlocked": "BARONY_ACH_ROLL_THE_BONES.png"
+    },
+    "BARONY_ACH_RUST_IN_PEACE": {
+      "name": "Зэвэрч амраарай",
+      "description": "Жинхэнэ автоматон болж хүйтэн зуухны нөлөөгөөр үх.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_RUST_IN_PEACE_l.png",
+      "icon_unlocked": "BARONY_ACH_RUST_IN_PEACE.png",
+      "hidden": true
+    },
+    "BARONY_ACH_SANDMAN": {
+      "name": "Элсний хүн",
+      "description": "Элсэн төөрдөг хонгилоос зугт.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_SANDMAN_l.png",
+      "icon_unlocked": "BARONY_ACH_SANDMAN.png"
+    },
+    "BARONY_ACH_SAVAGE": {
+      "name": "Зэрлэг",
+      "description": "Жинхэнэ гоблин болж ойрын зэвсгийн аль нэг чадварыг домгийн түвшинд хүргэ.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_SAVAGE_l.png",
+      "icon_unlocked": "BARONY_ACH_SAVAGE.png"
+    },
+    "BARONY_ACH_SCALES_IN_FAVOR": {
+      "name": "Хайрс таны талд",
+      "description": "Кокатрисыг сэм хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_SCALES_IN_FAVOR_l.png",
+      "icon_unlocked": "BARONY_ACH_SCALES_IN_FAVOR.png"
+    },
+    "BARONY_ACH_SECOND_CHANCE": {
+      "name": "Хоёр дахь боломж",
+      "description": "Араг яс болж манагаа зарцуулан өөрийгөө амилуул.",
+      "lore_points": 2,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_SECOND_CHANCE_l.png",
+      "icon_unlocked": "BARONY_ACH_SECOND_CHANCE.png"
+    },
+    "BARONY_ACH_SECRET_WEAPON": {
+      "name": "Нууц зэвсэг",
+      "description": "Шидсэн хандаар лич хороо.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_SECRET_WEAPON_l.png",
+      "icon_unlocked": "BARONY_ACH_SECRET_WEAPON.png"
+    },
+    "BARONY_ACH_SEE_THAT": {
+      "name": "Чи харсан уу?!",
+      "description": "Хананд хоёр удаа ойсон сюрикэнээр мангас хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_SEE_THAT_l.png",
+      "icon_unlocked": "BARONY_ACH_SEE_THAT.png"
+    },
+    "BARONY_ACH_SELF_FLAGELLATION": {
+      "name": "Өөрийгөө ташуурдах",
+      "description": "Олон тоглолтын турш дотоод чөтгөрийн хариу цохилтоор 30 дайсныг өөрөөр нь хороолго.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_SELF_FLAGELLATION_l.png",
+      "icon_unlocked": "BARONY_ACH_SELF_FLAGELLATION.png"
+    },
+    "BARONY_ACH_SERIAL_THRILLA": {
+      "name": "Цуврал догдлол",
+      "description": "Жинхэнэ инкуб эсвэл суккуб болж боомилох сахиусаас 100 мана ав.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_SERIAL_THRILLA_l.png",
+      "icon_unlocked": "BARONY_ACH_SERIAL_THRILLA.png"
+    },
+    "BARONY_ACH_SITTING_DUCK": {
+      "name": "Суугаа нугас",
+      "description": "Нэг тоглолтод саажсан эсвэл урхинд орсон 10 дайсныг хороо.",
+      "lore_points": 1,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_SITTING_DUCK_l.png",
+      "icon_unlocked": "BARONY_ACH_SITTING_DUCK.png"
+    },
+    "BARONY_ACH_SKELETON_CREW": {
+      "name": "Ясан баг",
+      "description": "Хоёр араг ясан туслахыг зэрэг дууд.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_SKELETON_CREW_l.png",
+      "icon_unlocked": "BARONY_ACH_SKELETON_CREW.png"
+    },
+    "BARONY_ACH_SOCIAL_BUTTERFLY": {
+      "name": "Нийтэч эрвээхэй",
+      "description": "Бөө болж олон тоглолтын турш хэлбэр эсвэл дүр хувирсан үедээ 50 холбоотон элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_SOCIAL_BUTTERFLY_l.png",
+      "icon_unlocked": "BARONY_ACH_SOCIAL_BUTTERFLY.png"
+    },
+    "BARONY_ACH_SOCIOPATHS": {
+      "name": "Сэтгэлгүй хүмүүс",
+      "description": "Багт хараалтан ба шийтгэгч орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_SOCIOPATHS_l.png",
+      "icon_unlocked": "BARONY_ACH_SOCIOPATHS.png"
+    },
+    "BARONY_ACH_SOULLESS": {
+      "name": "Сүнсгүй",
+      "description": "Багт жинхэнэ автоматон ба араг яс орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_SOULLESS_l.png",
+      "icon_unlocked": "BARONY_ACH_SOULLESS.png"
+    },
+    "BARONY_ACH_SPEAR_OF_DESTINY": {
+      "name": "Хувь тавилангийн жад",
+      "description": "Одины домгийн жад Гунгнирыг ол.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_SPEAR_OF_DESTINY_l.png",
+      "icon_unlocked": "BARONY_ACH_SPEAR_OF_DESTINY.png"
+    },
+    "BARONY_ACH_SPELUNKY": {
+      "name": "Агуйн адал явдал!",
+      "description": "Агуйгаас зугт.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_SPELUNKY_l.png",
+      "icon_unlocked": "BARONY_ACH_SPELUNKY.png"
+    },
+    "BARONY_ACH_SPICE_OF_LIFE": {
+      "name": "Амьдралын амт",
+      "description": "Анги тус бүрээр дор хаяж нэг тоглолт эхлүүл.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_SPICE_OF_LIFE_l.png",
+      "icon_unlocked": "BARONY_ACH_SPICE_OF_LIFE.png"
+    },
+    "BARONY_ACH_SPICY": {
+      "name": "Халуун ногоотой!",
+      "description": "Жинхэнэ автоматон болж 10 галын хуйлмал ид.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_SPICY_l.png",
+      "icon_unlocked": "BARONY_ACH_SPICY.png"
+    },
+    "BARONY_ACH_SPONGE": {
+      "name": "Хөвөн",
+      "description": "Ганц дайралтаас 150-аас доошгүй хохирол аваад амьд үлд.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_SPONGE_l.png",
+      "icon_unlocked": "BARONY_ACH_SPONGE.png"
+    },
+    "BARONY_ACH_SPUD_LORD": {
+      "name": "Төмсний эзэн",
+      "description": "Ярьдаг шидэт борохой Шарурыг ол.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_SPUD_LORD_l.png",
+      "icon_unlocked": "BARONY_ACH_SPUD_LORD.png"
+    },
+    "BARONY_ACH_SQUAD_GHOULS": {
+      "name": "Гүүлийн баг",
+      "description": "Араг яс болж дөрвөн гүүлийг зэрэг элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_SQUAD_GHOULS_l.png",
+      "icon_unlocked": "BARONY_ACH_SQUAD_GHOULS.png"
+    },
+    "BARONY_ACH_STFU": {
+      "name": "Амаа тат",
+      "description": "Шарурыг нүх рүү шид.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_STFU_l.png",
+      "icon_unlocked": "BARONY_ACH_STFU.png"
+    },
+    "BARONY_ACH_STROBE": {
+      "name": "Анивчдаг гэрэл бий болог",
+      "description": "Нэг минутын дотор Гэрэл шившлэгийг 20 удаа ашигла.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_STROBE_l.png",
+      "icon_unlocked": "BARONY_ACH_STROBE.png"
+    },
+    "BARONY_ACH_STRUNG_OUT": {
+      "name": "Хөвчөө тат",
+      "description": "Нийлмэл нум болон хурдан сумаар богино хугацаанд дайсныг 10 удаа оно.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_STRUNG_OUT_l.png",
+      "icon_unlocked": "BARONY_ACH_STRUNG_OUT.png"
+    },
+    "BARONY_ACH_STUCK_ON_YOU": {
+      "name": "Чамд наалдсан",
+      "description": "Жинхэнэ суккуб болж оргилуураар хэрэгслээ адислуул.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_STUCK_ON_YOU_l.png",
+      "icon_unlocked": "BARONY_ACH_STUCK_ON_YOU.png"
+    },
+    "BARONY_ACH_SUPER_SHREDDER": {
+      "name": "Супер бутлагч",
+      "description": "Урлах багажаар эд зүйл дахин боловсруулж 1000 нэгж хаягдал ба шидийн охь гарга.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_SUPER_SHREDDER_l.png",
+      "icon_unlocked": "BARONY_ACH_SUPER_SHREDDER.png"
+    },
+    "BARONY_ACH_SURROGATES": {
+      "name": "Орлуулагчид",
+      "description": "Ховсчин болж таны албанд буй татагдсан 50 холбоотныг үхүүл.",
+      "lore_points": 3,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_SURROGATES_l.png",
+      "icon_unlocked": "BARONY_ACH_SURROGATES.png"
+    },
+    "BARONY_ACH_SURVIVALISTS": {
+      "name": "Амьд үлдэгсэд",
+      "description": "Багт анчин ба ханд найруулагч орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_SURVIVALISTS_l.png",
+      "icon_unlocked": "BARONY_ACH_SURVIVALISTS.png"
+    },
+    "BARONY_ACH_SWINGERS": {
+      "name": "Хос солигчид",
+      "description": "Багт жинхэнэ инкуб ба суккуб орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_SWINGERS_l.png",
+      "icon_unlocked": "BARONY_ACH_SWINGERS.png"
+    },
+    "BARONY_ACH_TAKE_THIS_OUTSIDE": {
+      "name": "Гадаа гарч үзэлцье",
+      "description": "10 мангасыг хаалга руу түлх.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_TAKE_THIS_OUTSIDE_l.png",
+      "icon_unlocked": "BARONY_ACH_TAKE_THIS_OUTSIDE.png"
+    },
+    "BARONY_ACH_TAKING_WITH": {
+      "name": "Би чамайг дагуулна",
+      "description": "Үхсэнийхээ дараа хор, гал эсвэл шидсэн урласан урхиар дайсан хороо.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_TAKING_WITH_l.png",
+      "icon_unlocked": "BARONY_ACH_TAKING_WITH.png"
+    },
+    "BARONY_ACH_TEACHABLE_MOMENT": {
+      "name": "Сургамжтай мөч",
+      "description": "Сорилын танхимын аль нэг сорилд үх.",
+      "lore_points": 5,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_TEACHABLE_MOMENT_l.png",
+      "icon_unlocked": "BARONY_ACH_TEACHABLE_MOMENT.png",
+      "hidden": true
+    },
+    "BARONY_ACH_TELEFRAG": {
+      "name": "Шилжин хороох",
+      "description": "Дайсныг шилжсэнээс нь хойш 1 секундэд хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_TELEFRAG_l.png",
+      "icon_unlocked": "BARONY_ACH_TELEFRAG.png"
+    },
+    "BARONY_ACH_TEMPTRESS": {
+      "name": "Уруу татагч",
+      "description": "Жинхэнэ суккуб болж будилсан эсвэл согтуу хүн элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_TEMPTRESS_l.png",
+      "icon_unlocked": "BARONY_ACH_TEMPTRESS.png"
+    },
+    "BARONY_ACH_TEMPT_FATE": {
+      "name": "Хувь заяаг сорих",
+      "description": "Бөөлжсөнийхөө дараахан хавчны дотор мах ид.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_TEMPT_FATE_l.png",
+      "icon_unlocked": "BARONY_ACH_TEMPT_FATE.png"
+    },
+    "BARONY_ACH_THANKS_MR_SKELTAL": {
+      "name": "Баярлалаа, араг яс гуай",
+      "description": "Шидэт сүх Парашуг ол.",
+      "lore_points": 5,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_THANKS_MR_SKELTAL_l.png",
+      "icon_unlocked": "BARONY_ACH_THANKS_MR_SKELTAL.png"
+    },
+    "BARONY_ACH_THANK_ME_LATER": {
+      "name": "Дараа нь надад талархана",
+      "description": "Өөр тоглогч эсвэл холбоотон руу эдгээх эсвэл их эдгээх ханд шид.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_THANK_ME_LATER_l.png",
+      "icon_unlocked": "BARONY_ACH_THANK_ME_LATER.png"
+    },
+    "BARONY_ACH_THANK_THE_TANK": {
+      "name": "Бамбайдаа таларх",
+      "description": "Таны хааж буй дайсныг холбоотон тоглогч эсвэл дүрээр хороолго.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_THANK_THE_TANK_l.png",
+      "icon_unlocked": "BARONY_ACH_THANK_THE_TANK.png"
+    },
+    "BARONY_ACH_THESEUS_LEGACY": {
+      "name": "Тесейгийн өв",
+      "description": "Минотаврын төөрдөг хонгилоос зугт.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_THESEUS_LEGACY_l.png",
+      "icon_unlocked": "BARONY_ACH_THESEUS_LEGACY.png"
+    },
+    "BARONY_ACH_THE_WAY_YOU_LIKE_IT": {
+      "name": "Чиний дуртайгаар",
+      "description": "Жинхэнэ суккуб болж адислагдсан зэвсгийг хараа.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_THE_WAY_YOU_LIKE_IT_l.png",
+      "icon_unlocked": "BARONY_ACH_THE_WAY_YOU_LIKE_IT.png"
+    },
+    "BARONY_ACH_THICK_SKULL": {
+      "name": "Зузаан гавал",
+      "description": "Шидийн шившлэгээр илтэс цох хороо.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_THICK_SKULL_l.png",
+      "icon_unlocked": "BARONY_ACH_THICK_SKULL.png"
+    },
+    "BARONY_ACH_THROW_ME_THE_WHIP": {
+      "name": "Ташуураа нааш нь шид!",
+      "description": "Бул чулуунд няцлуул.",
+      "lore_points": 5,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_THROW_ME_THE_WHIP_l.png",
+      "icon_unlocked": "BARONY_ACH_THROW_ME_THE_WHIP.png"
+    },
+    "BARONY_ACH_THUNDERGNOME": {
+      "name": "Аянгат гном",
+      "description": "Гномын уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_THUNDERGNOME_l.png",
+      "icon_unlocked": "BARONY_ACH_THUNDERGNOME.png"
+    },
+    "BARONY_ACH_TIME_TO_PLAN": {
+      "name": "Төлөвлөх хангалттай хугацаа",
+      "description": "Машин ба/эсвэл урхиар минотавр хороох эцсийн цохилтыг хий.",
+      "lore_points": 3,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_TIME_TO_PLAN_l.png",
+      "icon_unlocked": "BARONY_ACH_TIME_TO_PLAN.png"
+    },
+    "BARONY_ACH_TIME_TO_SUFFER": {
+      "name": "Зовох цаг",
+      "description": "Аль ч угсааны шийтгэгч болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_TIME_TO_SUFFER_l.png",
+      "icon_unlocked": "BARONY_ACH_TIME_TO_SUFFER.png"
+    },
+    "BARONY_ACH_TORCHERER": {
+      "name": "Бамбарын шидтэн",
+      "description": "Бамбар задалж 100 хаягдал ав.",
+      "lore_points": 1,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_TORCHERER_l.png",
+      "icon_unlocked": "BARONY_ACH_TORCHERER.png"
+    },
+    "BARONY_ACH_TOUGH_AS_NAILS": {
+      "name": "Хадаас шиг хатуу",
+      "description": "Олон тоглолтын турш 50 дайсны зэвсгийг өөр дээрээ хугалуул.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_TOUGH_AS_NAILS_l.png",
+      "icon_unlocked": "BARONY_ACH_TOUGH_AS_NAILS.png"
+    },
+    "BARONY_ACH_TRADITION": {
+      "name": "Уламжлал юм",
+      "description": "Жинхэнэ инкуб болж оргилуурын ойролцоох 20 дайсныг хороо.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_TRADITION_l.png",
+      "icon_unlocked": "BARONY_ACH_TRADITION.png"
+    },
+    "BARONY_ACH_TRASH_COMPACTOR": {
+      "name": "Хог нягтруулагч",
+      "description": "Жинхэнэ автоматон болж 100 хаягдал ид.",
+      "lore_points": 1,
+      "category": "experience",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_TRASH_COMPACTOR_l.png",
+      "icon_unlocked": "BARONY_ACH_TRASH_COMPACTOR.png"
+    },
+    "BARONY_ACH_TRIBAL": {
+      "name": "Овгийнхон",
+      "description": "Багт жинхэнэ ямаан хүн ба гоблин орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs"
+      ],
+      "icon_locked": "BARONY_ACH_TRIBAL_L.png",
+      "icon_unlocked": "BARONY_ACH_TRIBAL.png"
+    },
+    "BARONY_ACH_TRIBE_SUBSCRIBE": {
+      "name": "Овог ба дагагчид",
+      "description": "Жинхэнэ гоблин болж 4 гоблин элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "legends_pariahs",
+      "icon_locked": "BARONY_ACH_TRIBE_SUBSCRIBE_l.png",
+      "icon_unlocked": "BARONY_ACH_TRIBE_SUBSCRIBE.png"
+    },
+    "BARONY_ACH_TRICKS_AND_TRAPS": {
+      "name": "Заль ба урхи",
+      "description": "Намаг дахь урхи дүүрэн сүмийг ол.",
+      "lore_points": 2,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_TRICKS_AND_TRAPS_l.png",
+      "icon_unlocked": "BARONY_ACH_TRICKS_AND_TRAPS.png"
+    },
+    "BARONY_ACH_TROLLS_BLOOD": {
+      "name": "Троллийн цус",
+      "description": "Хоёр эх үүсвэрээс зэрэг нэмэлт амь нөхөлт ав.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_TROLLS_BLOOD_l.png",
+      "icon_unlocked": "BARONY_ACH_TROLLS_BLOOD.png"
+    },
+    "BARONY_ACH_TURN_UNDEAD": {
+      "name": "Үхэгсдийг эргүүл",
+      "description": "Аль ч угсааны дуудагч ангиар цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_TURN_UNDEAD_l.png",
+      "icon_unlocked": "BARONY_ACH_TURN_UNDEAD.png"
+    },
+    "BARONY_ACH_TWISTY_PASSAGES": {
+      "name": "Мушгиа хонгилууд",
+      "description": "Уурхайгаас зугт.",
+      "lore_points": 10,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_TWISTY_PASSAGES_l.png",
+      "icon_unlocked": "BARONY_ACH_TWISTY_PASSAGES.png"
+    },
+    "BARONY_ACH_UNSTOPPABLE_FORCE": {
+      "name": "Зогсоошгүй хүч",
+      "description": "Олон тоглолтын турш дайсны 50 хуягийг эвд.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_UNSTOPPABLE_FORCE_l.png",
+      "icon_unlocked": "BARONY_ACH_UNSTOPPABLE_FORCE.png"
+    },
+    "BARONY_ACH_UTILITY_BELT": {
+      "name": "Багажны бүс",
+      "description": "Урлаж болох төхөөрөмж тус бүрээс нэгийг үүргэвчдээ байлга.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_UTILITY_BELT_l.png",
+      "icon_unlocked": "BARONY_ACH_UTILITY_BELT.png"
+    },
+    "BARONY_ACH_VEGETARIAN_CONDUCT": {
+      "name": "Цагаан хоолтны аян",
+      "description": "Лаазалсан хоол, мах, загас идэлгүй тоглоомд ял.",
+      "lore_points": 3,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_VEGETARIAN_CONDUCT_l.png",
+      "icon_unlocked": "BARONY_ACH_VEGETARIAN_CONDUCT.png"
+    },
+    "BARONY_ACH_VOLATILE": {
+      "name": "Тогтворгүй",
+      "description": "Ганц найруулсан тогтворгүй хандаар олон дайсныг 20 удаа гэмтээ.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_VOLATILE_l.png",
+      "icon_unlocked": "BARONY_ACH_VOLATILE.png"
+    },
+    "BARONY_ACH_WELL_PREPARED": {
+      "name": "Сайн бэлтгэсэн",
+      "description": "Шидэт бөмбөлгийн 3 нөлөөг зэрэг идэвхжүүл.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_WELL_PREPARED_l.png",
+      "icon_unlocked": "BARONY_ACH_WELL_PREPARED.png"
+    },
+    "BARONY_ACH_WELL_READ": {
+      "name": "Их уншигч",
+      "description": "Бүх номыг олж унш.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_WELL_READ_l.png",
+      "icon_unlocked": "BARONY_ACH_WELL_READ.png"
+    },
+    "BARONY_ACH_WHAT_NOW": {
+      "name": "Өө... Одоо яах вэ?",
+      "description": "Ховсчин болж Татах шившлэгийг мэдэхгүй үедээ татах шидэт таягаа эвд.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_WHAT_NOW_l.png",
+      "icon_unlocked": "BARONY_ACH_WHAT_NOW.png",
+      "hidden": true
+    },
+    "BARONY_ACH_WONDERFUL_TOYS": {
+      "name": "Гайхалтай тоглоомууд",
+      "description": "Шилжүүлэх урхиар ердийн замаар хүршгүй хэсэгт өөрийгөө хүргэ.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_WONDERFUL_TOYS_l.png",
+      "icon_unlocked": "BARONY_ACH_WONDERFUL_TOYS.png"
+    },
+    "BARONY_ACH_YES_WE_CAN": {
+      "name": "Тийм ээ, бид чадна!",
+      "description": "Нэг тоглолтод 10 лааз хоол ид.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_YES_WE_CAN_l.png",
+      "icon_unlocked": "BARONY_ACH_YES_WE_CAN.png"
+    },
+    "BARONY_ACH_YOUNG_BLOOD": {
+      "name": "Залуу цус",
+      "description": "Цус сорогч болж залуу цус сорогч элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "myths_outcasts",
+      "icon_locked": "BARONY_ACH_YOUNG_BLOOD_l.png",
+      "icon_unlocked": "BARONY_ACH_YOUNG_BLOOD.png"
+    },
+    "BARONY_ACH_DAPPER": {
+      "name": "Гоёлтой ганган",
+      "description": "Эхлэх ангийн эд зүйлсээс бусад 30 өөр толгой, нүүрний хэрэгслийг олон тоглолтын турш өмс.",
+      "lore_points": 4,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_DAPPER_l.png",
+      "icon_unlocked": "BARONY_ACH_DAPPER.png"
+    },
+    "BARONY_ACH_BY_EXAMPLE": {
+      "name": "Үлгэр жишээгээр",
+      "description": "Зөвхөн Урамшууллын нэмэлт туршлагаар дагуулынхаа бүтэн нэг түвшинг ахиул.",
+      "lore_points": 3,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_BY_EXAMPLE_l.png",
+      "icon_unlocked": "BARONY_ACH_BY_EXAMPLE.png"
+    },
+    "BARONY_ACH_CRUMPLE_ZONES": {
+      "name": "Нугарах бүс",
+      "description": "Цилиндр малгай эсвэл уурхайн дуулга өмссөн ачаар л бул чулуунд няцлуулаад амьд үлд.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_CRUMPLE_ZONES_l.png",
+      "icon_unlocked": "BARONY_ACH_CRUMPLE_ZONES.png"
+    },
+    "BARONY_ACH_ETERNAL_REWARD": {
+      "name": "Таны мөнхийн шагнал",
+      "description": "Дуураймал авдарт хороолгуул.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_ETERNAL_REWARD_l.png",
+      "icon_unlocked": "BARONY_ACH_ETERNAL_REWARD.png",
+      "hidden": true
+    },
+    "BARONY_ACH_I_NEEDED_THAT": {
+      "name": "Тэр надад хэрэгтэй байсан!",
+      "description": "Олон тоглолтын турш дуураймал авдарт 10 хэрэгслээ хулгайлуул.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_I_NEEDED_THAT_l.png",
+      "icon_unlocked": "BARONY_ACH_I_NEEDED_THAT.png"
+    },
+    "BARONY_ACH_LOCKJAW": {
+      "name": "Зуурсан эрүү",
+      "description": "Түгжих шившлэгийн хохирлоор дуураймал авдрыг хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_LOCKJAW_l.png",
+      "icon_unlocked": "BARONY_ACH_LOCKJAW.png",
+      "hidden": true
+    },
+    "BARONY_ACH_MON_PETIT": {
+      "name": "Миний бяцхан цэцэгхэн",
+      "description": "Инкуб эсвэл суккубыг романтик дохиогоор уяраа.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_MON_PETIT_l.png",
+      "icon_unlocked": "BARONY_ACH_MON_PETIT.png"
+    },
+    "BARONY_ACH_PET_DA_DOG": {
+      "name": "Нохойг илж болно",
+      "description": "Адислагдсан чонын юүдэн өмс.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_PET_DA_DOG_l.png",
+      "icon_unlocked": "BARONY_ACH_PET_DA_DOG.png"
+    },
+    "BARONY_ACH_SMOKIN": {
+      "name": "Утаа суунаглана",
+      "description": "Гаанснаас үүссэн сөрөг амь нөхөлтөөр хохирол ав.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_SMOKIN_l.png",
+      "icon_unlocked": "BARONY_ACH_SMOKIN.png"
+    },
+    "BARONY_ACH_SSSMOKIN": {
+      "name": "УУУУТАА!",
+      "description": "Бүтэн нүүрний баг өмсөж байхдаа эсрэг хүйсийн дүр элсүүл.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_SSSMOKIN_l.png",
+      "icon_unlocked": "BARONY_ACH_SSSMOKIN.png"
+    },
+    "BARONY_ACH_DUNGEONSEED": {
+      "name": "Гяндангийн үр тариалагч Жонни",
+      "description": "12 өөр үрийн арга хэмжээнд анхны оролдлогоороо уурхайгаас зугтаж тэргүүлэгчдийн жагсаалтад ор.",
+      "lore_points": 5,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_DUNGEONSEED_l.png",
+      "icon_unlocked": "BARONY_ACH_DUNGEONSEED.png"
+    },
+    "BARONY_ACH_REAP_SOW": {
+      "name": "Тарьснаа хураана",
+      "description": "Аль нэг үрийн арга хэмжээнд ял.",
+      "lore_points": 4,
+      "category": "adventure",
+      "icon_locked": "BARONY_ACH_REAP_SOW_l.png",
+      "icon_unlocked": "BARONY_ACH_REAP_SOW.png"
+    },
+    "BARONY_ACH_GROWTH_MINDSET": {
+      "name": "Өсөлтийн сэтгэлгээ",
+      "description": "Үрийн арга хэмжээг дахин тоглож, уурхайгаас зугтаад илүү өндөр дээд оноо илгээ.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_GROWTH_MINDSET_l.png",
+      "icon_unlocked": "BARONY_ACH_GROWTH_MINDSET.png"
+    },
+    "BARONY_ACH_SPROUTS": {
+      "name": "Нахиа",
+      "description": "Үрийн арга хэмжээний хамтарсан тоглолтод өөр тоглогчтой хамт намганд хүр.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_SPROUTS_l.png",
+      "icon_unlocked": "BARONY_ACH_SPROUTS.png"
+    },
+    "BARONY_ACH_BLOOM_PLANTED": {
+      "name": "Тарьсан газартаа цэцэглэ",
+      "description": "Анги эсвэл угсааг урьдчилж тогтоосон үрийн арга хэмжээнд лич эсвэл чөтгөр хороо.",
+      "lore_points": 4,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_BLOOM_PLANTED_l.png",
+      "icon_unlocked": "BARONY_ACH_BLOOM_PLANTED.png"
+    },
+    "BARONY_ACH_CARTOGRAPHER": {
+      "name": "Газрын зурагч",
+      "description": "Barony-ийн давхар засварлагчийг ажиллуул.",
+      "lore_points": 4,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_CARTOGRAPHER_l.png",
+      "icon_unlocked": "BARONY_ACH_CARTOGRAPHER.png"
+    },
+    "BARONY_ACH_BAT1000": {
+      "name": "Төгс авиа",
+      "description": "Олон тоглолтын турш сарьсан багваахай руу ойроос дайраад 81 удаа алд.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_BAT1000_l.png",
+      "icon_unlocked": "BARONY_ACH_BAT1000.png",
+      "hidden": true
+    },
+    "BARONY_ACH_BEAR_WITH_ME": {
+      "name": "Надтай тэвчээртэй бай",
+      "description": "Багбирын хамгаалж буй том бамбайг эвд.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_BEAR_WITH_ME_l.png",
+      "icon_unlocked": "BARONY_ACH_BEAR_WITH_ME.png"
+    },
+    "BARONY_ACH_BULL_RUSH": {
+      "name": "Бухын дайралт",
+      "description": "Дедалын тахилын газарт хүрсний дараа Хурд нөлөө ав.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_BULL_RUSH_l.png",
+      "icon_unlocked": "BARONY_ACH_BULL_RUSH.png"
+    },
+    "BARONY_ACH_BY_THE_BOOK": {
+      "name": "Номын дагуу",
+      "description": "Нэвтэрхий толийн Алхимийн чадварын хуудсыг нээснээс хойш 10 секундэд тэнд тэмдэглэсэн жороор ханд найруул.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_BY_THE_BOOK_l.png",
+      "icon_unlocked": "BARONY_ACH_BY_THE_BOOK.png",
+      "hidden": true
+    },
+    "BARONY_ACH_CURIOSITY": {
+      "name": "Сониуч зан",
+      "description": "Нэвтэрхий толийн аль нэг бичвэрийг судал.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_CURIOSITY_l.png",
+      "icon_unlocked": "BARONY_ACH_CURIOSITY.png"
+    },
+    "BARONY_ACH_ISEENTIT": {
+      "name": "Би харсан!",
+      "description": "Нэвтэрхий толийн Ертөнц хэсгийн бүх бичвэрийг нээ.",
+      "lore_points": 5,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_ISEENTIT_l.png",
+      "icon_unlocked": "BARONY_ACH_ISEENTIT.png"
+    },
+    "BARONY_ACH_JUBBAITED": {
+      "name": "Өгөөшинд орсон",
+      "description": "Гном дээр хонх унагааж хороо.",
+      "lore_points": 3,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_JUBBAITED_l.png",
+      "icon_unlocked": "BARONY_ACH_JUBBAITED.png"
+    },
+    "BARONY_ACH_RUNG_OUT": {
+      "name": "Хонхны төгсгөл",
+      "description": "Олон тоглолтын турш 20 хонх эвд.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_RUNG_OUT_l.png",
+      "icon_unlocked": "BARONY_ACH_RUNG_OUT.png"
+    },
+    "BARONY_ACH_SMASH_MELEE": {
+      "name": "Ойрын бутлалт",
+      "description": "Олон тоглолтын турш ойрын дайралтаар 500 эвдэрдэг сав устга.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_SMASH_MELEE_l.png",
+      "icon_unlocked": "BARONY_ACH_SMASH_MELEE.png"
+    },
+    "BARONY_ACH_JANITOR": {
+      "name": "Үйлчлэгч",
+      "description": "Дөрөв ба түүнээс олон өөр түлхүүрийг нэг дор авч яв.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_JANITOR_l.png",
+      "icon_unlocked": "BARONY_ACH_JANITOR.png"
+    },
+    "BARONY_ACH_CALL_LOCKSMITH": {
+      "name": "Цоожчин дууд",
+      "description": "Олон тоглолтын турш 20 төмөр, хүрэл эсвэл мөнгөн цоож онгойлго.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_CALL_LOCKSMITH_l.png",
+      "icon_unlocked": "BARONY_ACH_CALL_LOCKSMITH.png"
+    },
+    "BARONY_ACH_PREMIUM_LOOTBOX": {
+      "name": "Дээд зэрэглэлийн эрдэнэсийн хайрцаг",
+      "description": "Олон тоглолтын турш хүрэл, мөнгө, алтан түлхүүрээр 20 эрдэнэсийн өрөөнд ор.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_PREMIUM_LOOTBOX_l.png",
+      "icon_unlocked": "BARONY_ACH_PREMIUM_LOOTBOX.png"
+    },
+    "BARONY_ACH_WITCHES_BREW": {
+      "name": "Шулмын ханд",
+      "description": "Олон тоглолтын турш тогоонд 50 эд зүйл найруул эсвэл болго.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_WITCHES_BREW_l.png",
+      "icon_unlocked": "BARONY_ACH_WITCHES_BREW.png"
+    },
+    "BARONY_ACH_HOBBYIST": {
+      "name": "Сонирхогч",
+      "description": "Олон тоглолтын турш ажлын ширээнд 50 эд зүйл урла.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_HOBBYIST_l.png",
+      "icon_unlocked": "BARONY_ACH_HOBBYIST.png"
+    },
+    "BARONY_ACH_POWER_BALLAD": {
+      "name": "Хүчирхэг баллад",
+      "description": "Дуучийн хөгжмийн зэмсгээс 4-р зэргийн дууны дөрөв ба түүнээс олон нөлөөг зэрэг идэвхжүүл.",
+      "lore_points": 3,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_POWER_BALLAD_l.png",
+      "icon_unlocked": "BARONY_ACH_POWER_BALLAD.png"
+    },
+    "BARONY_ACH_BLESSED_ADDITION": {
+      "name": "Адислагдсан нэмэр",
+      "description": "Олон тоглолтын турш ариун бэлгэдлийн нөлөөнд байхдаа 50 дайсан хороо.",
+      "lore_points": 2,
+      "category": "experience",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BLESSED_ADDITION_l.png",
+      "icon_unlocked": "BARONY_ACH_BLESSED_ADDITION.png"
+    },
+    "BARONY_ACH_BARDIC_INSPIRATION": {
+      "name": "Дуучийн урамшуулал",
+      "description": "Нэг тоглолтод дуучийн дуу идэвхтэй байхад дараалсан 10 түвшин ахь.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BARDIC_INSPIRATION_l.png",
+      "icon_unlocked": "BARONY_ACH_BARDIC_INSPIRATION.png"
+    },
+    "BARONY_ACH_FIGHT_FIRE_WITH": {
+      "name": "Галыг галаар",
+      "description": "Жинхэнэ саламандр болж Гал үлээх чадвараар галын амьтан хороо.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_FIGHT_FIRE_WITH_l.png",
+      "icon_unlocked": "BARONY_ACH_FIGHT_FIRE_WITH.png"
+    },
+    "BARONY_ACH_MAKE_SMOKEY_PROUD": {
+      "name": "Смокиг бахархуул",
+      "description": "Жинхэнэ дриад болж шатаж байхдаа Соёолуулах чадвараар өөрийгөө унтраа.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_MAKE_SMOKEY_PROUD_l.png",
+      "icon_unlocked": "BARONY_ACH_MAKE_SMOKEY_PROUD.png"
+    },
+    "BARONY_ACH_THATS_A_WRAP": {
+      "name": "Ингээд боолоо",
+      "description": "Олон тоглолтын турш боласад хүлэгдсэн 50 дайсныг гинжин цохиураар хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_THATS_A_WRAP_l.png",
+      "icon_unlocked": "BARONY_ACH_THATS_A_WRAP.png"
+    },
+    "BARONY_ACH_SKID_ROW": {
+      "name": "Хальтиргаат гудамж",
+      "description": "Нэг тоглолтод Хальтиргаатай 50 дайсныг түлх.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_SKID_ROW_l.png",
+      "icon_unlocked": "BARONY_ACH_SKID_ROW.png"
+    },
+    "BARONY_ACH_LET_HIM_COOK": {
+      "name": "Түүнд хоол хийлгэ",
+      "description": "Олон тоглолтын турш 100 замын хоол бэлтгэ.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_LET_HIM_COOK_l.png",
+      "icon_unlocked": "BARONY_ACH_LET_HIM_COOK.png"
+    },
+    "BARONY_ACH_FLAVORTOWN": {
+      "name": "Амтны хот",
+      "description": "Нэг тоглолтод амталсан замын хоолны амт тус бүрээс нэгийг ид.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_FLAVORTOWN_l.png",
+      "icon_unlocked": "BARONY_ACH_FLAVORTOWN.png"
+    },
+    "BARONY_ACH_HELLS_KITCHEN": {
+      "name": "Тамын гал тогоо",
+      "description": "25 тосны галыг зэрэг асаа.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_HELLS_KITCHEN_l.png",
+      "icon_unlocked": "BARONY_ACH_HELLS_KITCHEN.png"
+    },
+    "BARONY_ACH_FOOD_FIGHT": {
+      "name": "ХООЛНЫ ТУЛААН!!!",
+      "description": "Зутан бөмбөлгөөр 5 секундэд 4 өөр байг сохол.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_FOOD_FIGHT_l.png",
+      "icon_unlocked": "BARONY_ACH_FOOD_FIGHT.png"
+    },
+    "BARONY_ACH_SECOND_BREAKFAST": {
+      "name": "Хоёр дахь өглөөний цай",
+      "description": "Өлссөн үедээ өөр тоглогчийн өгсөн замын хоолыг ав.",
+      "lore_points": 1,
+      "category": "teamwork",
+      "icon_locked": "BARONY_ACH_SECOND_BREAKFAST_l.png",
+      "icon_unlocked": "BARONY_ACH_SECOND_BREAKFAST.png"
+    },
+    "BARONY_ACH_HAUNTED": {
+      "name": "Сүнс дагуулсан",
+      "description": "Гутаах шившлэгээр булшийг нь сүйтгэсэн сүүдэрт хороолгуул.",
+      "lore_points": 2,
+      "category": "joker",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_HAUNTED_l.png",
+      "icon_unlocked": "BARONY_ACH_HAUNTED.png",
+      "hidden": true
+    },
+    "BARONY_ACH_WRECKING_CREW": {
+      "name": "Нураах баг",
+      "description": "Нэг тоглолтод Гутаах шившлэгийг 20 зүйлд ашигла.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_WRECKING_CREW_l.png",
+      "icon_unlocked": "BARONY_ACH_WRECKING_CREW.png"
+    },
+    "BARONY_ACH_FAVORITE_BOOK": {
+      "name": "Дуртай ном",
+      "description": "Өв залгамжлагчийн очирт таягаар нэг шившлэгийг 5 удаа дахин сурч март.",
+      "lore_points": 1,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_FAVORITE_BOOK_l.png",
+      "icon_unlocked": "BARONY_ACH_FAVORITE_BOOK.png"
+    },
+    "BARONY_ACH_BONK": {
+      "name": "ТОНГ.",
+      "description": "Нэг тоглолтод 3-аас доошгүй сөрөг нөлөөтэй дайсныг шидэт бороохойгоор 20 удаа хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BONK_l.png",
+      "icon_unlocked": "BARONY_ACH_BONK.png"
+    },
+    "BARONY_ACH_RIGHTEOUS_FURY": {
+      "name": "Зөвт хилэн",
+      "description": "Нэг тоглолтод Тэнгэрлэг зүтгэлээр 50 үхдэл эсвэл чөтгөр хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_RIGHTEOUS_FURY_l.png",
+      "icon_unlocked": "BARONY_ACH_RIGHTEOUS_FURY.png"
+    },
+    "BARONY_ACH_PARRY_TANK": {
+      "name": "Няцаагч бамбай",
+      "description": "Нэг тоглолтод ойрын хохирол авалгүй дараалан 20 дайралт няцаа.",
+      "lore_points": 2,
+      "category": "technique",
+      "icon_locked": "BARONY_ACH_PARRY_TANK_l.png",
+      "icon_unlocked": "BARONY_ACH_PARRY_TANK.png"
+    },
+    "BARONY_ACH_TOUCHE": {
+      "name": "Онов!",
+      "description": "Олон тоглолтын турш рапирын хариу хатгалтаар 1000 хохирол учруул.",
+      "lore_points": 3,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_TOUCHE_l.png",
+      "icon_unlocked": "BARONY_ACH_TOUCHE.png"
+    },
+    "BARONY_ACH_MERCENARY_ARMY": {
+      "name": "Хөлсний арми",
+      "description": "Жинхэнэ гном болж олон тоглолтын турш эрдэнийн чулуугаар 20 удаа холбоотон элсүүл.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_MERCENARY_ARMY_l.png",
+      "icon_unlocked": "BARONY_ACH_MERCENARY_ARMY.png"
+    },
+    "BARONY_ACH_COLONIST": {
+      "name": "Суурьшигч",
+      "description": "Жинхэнэ дриад эсвэл мөөгөн хүн болж олон тоглолтын турш 50 удаа Соёолуул.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_COLONIST_l.png",
+      "icon_unlocked": "BARONY_ACH_COLONIST.png"
+    },
+    "BARONY_ACH_EAT_ME": {
+      "name": "Намайг ид",
+      "description": "Нэг тоглолтод Соёолуулах чадвараар 50 мөөгөн хүний мөөг эсвэл дриадын самар хураа.",
+      "lore_points": 1,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_EAT_ME_l.png",
+      "icon_unlocked": "BARONY_ACH_EAT_ME.png"
+    },
+    "BARONY_ACH_CULINARY_AMBASSADOR": {
+      "name": "Хоолны элч",
+      "description": "Өөрөө идэж чадахгүй хоол хий.",
+      "lore_points": 1,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_CULINARY_AMBASSADOR_l.png",
+      "icon_unlocked": "BARONY_ACH_CULINARY_AMBASSADOR.png",
+      "hidden": true
+    },
+    "BARONY_ACH_NO_CAP": {
+      "name": "Малгайгүй",
+      "description": "Жинхэнэ мөөгөн хүн болж ургамал ургахыг хориглосон дуулгыг гяндангийн 5-аас доошгүй давхарт өмс.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_NO_CAP_l.png",
+      "icon_unlocked": "BARONY_ACH_NO_CAP.png"
+    },
+    "BARONY_ACH_PRICKLY_PERSONALITY": {
+      "name": "Өргөст ааш",
+      "description": "Жинхэнэ дриад болж олон тоглолтын турш Өргөсний хохирлоор 20 дайсан хороо.",
+      "lore_points": 1,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_PRICKLY_PERSONALITY_l.png",
+      "icon_unlocked": "BARONY_ACH_PRICKLY_PERSONALITY.png"
+    },
+    "BARONY_ACH_DONT_TOUCH_HAIR": {
+      "name": "Үсэнд бүү хүр",
+      "description": "Жинхэнэ дриад эсвэл мөөгөн хүн болж ургамлаа огт алдалгүй гяндангийн 25 давхар туул.",
+      "lore_points": 3,
+      "category": "joker",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_DONT_TOUCH_HAIR_l.png",
+      "icon_unlocked": "BARONY_ACH_DONT_TOUCH_HAIR.png"
+    },
+    "BARONY_ACH_FIRE_FIGHTER": {
+      "name": "Гал сөнөөгч",
+      "description": "Жинхэнэ саламандр болж Гэрэлтсэн төлөвийг гяндангийн 5 давхар хадгал.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_FIRE_FIGHTER_l.png",
+      "icon_unlocked": "BARONY_ACH_FIRE_FIGHTER.png"
+    },
+    "BARONY_ACH_GARGOYLES_QUEST": {
+      "name": "Гаргойн эрэл",
+      "description": "Жинхэнэ саламандр болж Чулуужсан төлөвийг гяндангийн 10 давхар хадгал.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_GARGOYLES_QUEST_l.png",
+      "icon_unlocked": "BARONY_ACH_GARGOYLES_QUEST.png"
+    },
+    "BARONY_ACH_DISCIPLINE": {
+      "name": "Сахилга бат",
+      "description": "Жинхэнэ саламандр болж Гэрэлтсэн эсвэл Чулуун дүрд оролгүй гяндангийн 25 давхар туул.",
+      "lore_points": 3,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_DISCIPLINE_l.png",
+      "icon_unlocked": "BARONY_ACH_DISCIPLINE.png"
+    },
+    "BARONY_ACH_MASTER_MAGIC": {
+      "name": "Ид шидийн эзэн",
+      "description": "Шидийн гурван сургуулийн чадварыг бүгдийг домгийн түвшинд хүргэ.",
+      "lore_points": 3,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_MASTER_MAGIC_l.png",
+      "icon_unlocked": "BARONY_ACH_MASTER_MAGIC.png"
+    },
+    "BARONY_ACH_QUACKERY": {
+      "name": "Нугасан эмчилгээ",
+      "description": "Нэг тоглолтод Шувууны сүнсийг 5 минут ашигла.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_QUACKERY_l.png",
+      "icon_unlocked": "BARONY_ACH_QUACKERY.png"
+    },
+    "BARONY_ACH_DISTRACTED": {
+      "name": "Анхаарал сарнисан",
+      "description": "Шувууны сүнсийг ашиглаж байхдаа хохирол авч тасалдуул.",
+      "lore_points": 1,
+      "category": "joker",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_DISTRACTED_l.png",
+      "icon_unlocked": "BARONY_ACH_DISTRACTED.png",
+      "hidden": true
+    },
+    "BARONY_ACH_BOOM_DYNAMITE": {
+      "name": "Динамит тэсэрлээ",
+      "description": "Олон тоглолтын турш тэсрэх урхины дэлбэрэлтээр 50 дайсан хороо.",
+      "lore_points": 2,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BOOM_DYNAMITE_l.png",
+      "icon_unlocked": "BARONY_ACH_BOOM_DYNAMITE.png"
+    },
+    "BARONY_ACH_PAY_TO_WIN": {
+      "name": "Мөнгөөр ялах",
+      "description": "Олон тоглолтын турш шидийн нөлөөнд шаардлагатай 5000 алт зарцуул.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_PAY_TO_WIN_l.png",
+      "icon_unlocked": "BARONY_ACH_PAY_TO_WIN.png"
+    },
+    "BARONY_ACH_BOLDER_BOULDER": {
+      "name": "Илүү зоригтой бул чулуу",
+      "description": "Бодлын хүчээр газрын савдагийг дайсан руу өнхрүүлж хороо.",
+      "lore_points": 1,
+      "category": "technique",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BOLDER_BOULDER_l.png",
+      "icon_unlocked": "BARONY_ACH_BOLDER_BOULDER.png"
+    },
+    "BARONY_ACH_DOESNT_COUNT": {
+      "name": "Тооцохгүй",
+      "description": "Олон тоглолтын турш Шидтэний хөөсөөр 50 цохилт хазайлга.",
+      "lore_points": 1,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_DOESNT_COUNT_l.png",
+      "icon_unlocked": "BARONY_ACH_DOESNT_COUNT.png"
+    },
+    "BARONY_ACH_THATS_CHEATING": {
+      "name": "Энэ чинь хууралт!",
+      "description": "Үгүйсгэх шившлэгээр личийн тан руу хийх 10 шившлэгийг хоригло.",
+      "lore_points": 2,
+      "category": "joker",
+      "icon_locked": "BARONY_ACH_THATS_CHEATING_l.png",
+      "icon_unlocked": "BARONY_ACH_THATS_CHEATING.png"
+    },
+    "BARONY_ACH_APPRENTICES": {
+      "name": "Дадлагажигчид",
+      "description": "Өв залгамжлагч болон шидтэн, эдгээгч эсвэл нууц шидтэн орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_APPRENTICES_l.png",
+      "icon_unlocked": "BARONY_ACH_APPRENTICES.png"
+    },
+    "BARONY_ACH_SHORT_SHORTS": {
+      "name": "Намханчууд",
+      "description": "Жинхэнэ угсаандаа бүгд намхан 3-аас олон буюу тэнцүү тоглогчтой хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_SHORT_SHORTS_l.png",
+      "icon_unlocked": "BARONY_ACH_SHORT_SHORTS.png"
+    },
+    "BARONY_ACH_HOLY_ORDER": {
+      "name": "Ариун бүлэг",
+      "description": "Ариун баатар болон лам, булш сахигч эсвэл санваартан орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_HOLY_ORDER_l.png",
+      "icon_unlocked": "BARONY_ACH_HOLY_ORDER.png"
+    },
+    "BARONY_ACH_CONSCRIPTED": {
+      "name": "Албанд татагдсан",
+      "description": "Тэсэлгээчин болон дайчин эсвэл зэрлэг дайчин орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_CONSCRIPTED_l.png",
+      "icon_unlocked": "BARONY_ACH_CONSCRIPTED.png"
+    },
+    "BARONY_ACH_LONER_LEAGUE": {
+      "name": "Ганцаардлын холбоо",
+      "description": "Даяанч болон хэрмэл эсвэл нинжа орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_LONER_LEAGUE_l.png",
+      "icon_unlocked": "BARONY_ACH_LONER_LEAGUE.png"
+    },
+    "BARONY_ACH_RIZZLERS": {
+      "name": "Дур булаагчид",
+      "description": "Дууч болон худалдаачин, алиалагч эсвэл дээрэмчин орсон хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_RIZZLERS_l.png",
+      "icon_unlocked": "BARONY_ACH_RIZZLERS.png"
+    },
+    "BARONY_ACH_FOREIGN_EXCHANGE": {
+      "name": "Гадаад солилцоо",
+      "description": "Нэмэлт агуулга тус бүрээс дор хаяж нэг угсаа орсон 3-аас доошгүй тоглогчтой хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs",
+        "deserters_disciples"
+      ],
+      "icon_locked": "BARONY_ACH_FOREIGN_EXCHANGE_l.png",
+      "icon_unlocked": "BARONY_ACH_FOREIGN_EXCHANGE.png"
+    },
+    "BARONY_ACH_STUDY_ABROAD": {
+      "name": "Гадаадад суралцах",
+      "description": "Нэмэлт агуулга тус бүрээс дор хаяж нэг анги орсон 3-аас доошгүй тоглогчтой хамтарсан тоглолтод уурхайгаас зугт.",
+      "lore_points": 2,
+      "category": "teamwork",
+      "dlc": [
+        "myths_outcasts",
+        "legends_pariahs",
+        "deserters_disciples"
+      ],
+      "icon_locked": "BARONY_ACH_STUDY_ABROAD_l.png",
+      "icon_unlocked": "BARONY_ACH_STUDY_ABROAD.png"
+    },
+    "BARONY_ACH_SOURCE_ENGINE": {
+      "name": "Хүчний хөдөлгүүр",
+      "description": "Олон тоглолтын турш илбийн төвлөрүүлэгчээр 1000 шидийн оноо зарцуул.",
+      "lore_points": 2,
+      "category": "experience",
+      "icon_locked": "BARONY_ACH_SOURCE_ENGINE_l.png",
+      "icon_unlocked": "BARONY_ACH_SOURCE_ENGINE.png"
+    },
+    "BARONY_ACH_SWAN_SONG": {
+      "name": "Хунгийн дуу",
+      "description": "Аль ч угсааны дууч болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_SWAN_SONG_l.png",
+      "icon_unlocked": "BARONY_ACH_SWAN_SONG.png"
+    },
+    "BARONY_ACH_MISSION_GOD": {
+      "name": "Бурхны даалгавар",
+      "description": "Аль ч угсааны ариун баатар болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_MISSION_GOD_l.png",
+      "icon_unlocked": "BARONY_ACH_MISSION_GOD.png"
+    },
+    "BARONY_ACH_NEPO_BABY": {
+      "name": "Танилын хүүхэд",
+      "description": "Аль ч угсааны өв залгамжлагч болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_NEPO_BABY_l.png",
+      "icon_unlocked": "BARONY_ACH_NEPO_BABY.png"
+    },
+    "BARONY_ACH_REINTEGRATED": {
+      "name": "Эргэн нэгдсэн",
+      "description": "Аль ч угсааны даяанч болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_REINTEGRATED_l.png",
+      "icon_unlocked": "BARONY_ACH_REINTEGRATED.png"
+    },
+    "BARONY_ACH_DUNGEON_SEIGE": {
+      "name": "Гяндангийн бүслэлт",
+      "description": "Аль ч угсааны тэсэлгээчин болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_DUNGEON_SEIGE_l.png",
+      "icon_unlocked": "BARONY_ACH_DUNGEON_SEIGE.png"
+    },
+    "BARONY_ACH_BURNINATION_BARON": {
+      "name": "Шатаагч барон",
+      "description": "Жинхэнэ саламандр болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BURNINATION_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BURNINATION_BARON.png"
+    },
+    "BARONY_ACH_BOLETE_BARON": {
+      "name": "Мөөгөн барон",
+      "description": "Жинхэнэ мөөгөн хүн болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BOLETE_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BOLETE_BARON.png"
+    },
+    "BARONY_ACH_BARKSKIN_BARON": {
+      "name": "Холтост арьст барон",
+      "description": "Жинхэнэ дриад болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BARKSKIN_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BARKSKIN_BARON.png"
+    },
+    "BARONY_ACH_BONKERS_BARON": {
+      "name": "Солиотой барон",
+      "description": "Жинхэнэ грэмлин болж цайзаас зугт.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BONKERS_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BONKERS_BARON.png"
+    },
+    "BARONY_ACH_BITTY_BARON": {
+      "name": "Bitty Baron",
+      "description": "Escape the Citadel as a true Gnome.",
+      "lore_points": 5,
+      "category": "adventure",
+      "dlc": "deserters_disciples",
+      "icon_locked": "BARONY_ACH_BITTY_BARON_l.png",
+      "icon_unlocked": "BARONY_ACH_BITTY_BARON.png"
+    }
+  }
+}

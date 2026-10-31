@@ -1,0 +1,127 @@
+potion of 	ханд: 
+bottle of 	лонх: 
+Provides reduced visibility to enemies, bonus melee stealth attack damage, and additional vision while sneaking. Use the Defend command without holding a shield to sneak.	Дайсанд харагдахыг багасгаж, ойрын сэм дайралтын хохирол болон нуугдах үеийн харааг нэмэгдүүлнэ. Бамбай барилгүй хамгаалах тушаалаар нуугдана.
+Sneaking grants invisibility. Backstab bonus damage is doubled.	Нуугдах үед үл үзэгдэнэ. Араас хатгах нэмэлт хохирол хоёр дахин өснө.
+Visibility Reduction:	Харагдах байдлын бууралт:
+Backstab Bonus DMG:	Араас хатгах нэмэлт хохирол:
+Current Visibility:	Одоогийн харагдах зай:
+%d Tiles	%d Нүд
+Increases Armor Class bonus while defending.\n Provides passive Armor Class bonus to held shields. Improves durability of Off-hand items during combat.	Хамгаалах үеийн хуягийн зэргийн нэмэгдлийг өсгөнө.\n Барьсан бамбайд идэвхгүй хуягийн нэмэгдэл олгоно. Тулаанд туслах гарын эд зүйлийн эдэлгээг сайжруулна.
+Shields never degrade on hit.	Цохилтод өртөхөд бамбай хэзээ ч элэгдэхгүй.
+Defending AC increase:\n(Shields)	Хамгаалах AC өсөлт:\n(Бамбай)
+Defending AC increase:\n(Non-shields)	Хамгаалах AC өсөлт:\n(Бамбай бус)
+Passive AC increase:\n(Shields)	Идэвхгүй AC өсөлт:\n(Бамбай)
+Shield degrade chance:\n (On receiving damage)	Бамбай элэгдэх магадлал:\n (Хохирол авахад)
+Shield degrade chance:\n (While Defending)	Бамбай элэгдэх магадлал:\n (Хамгаалах үед)
+Increases ranged/thrown damage and improves durability of ranged weaponry.	Холын/шидэх дайралтын хохирлыг нэмэгдүүлж, холын зэвсгийн эдэлгээг сайжруулна.
+Ranged weaponry never degrades on use.	Холын зэвсэг ашиглахад хэзээ ч элэгдэхгүй.
+Ranged ATK\n damage variance:	Холын ATK\n хохирлын хэлбэлзэл:
+Ranged weapon\n degrade chance:	Холын зэвсэг\n элэгдэх магадлал:
+Ranged attack\n piercing arrow chance:\n (using PER Stat)	Холын дайралтын\n нэвтлэх сумны магадлал:\n (PER үзүүлэлтээр)
+Thrown weapon ATK:	Шидэх зэвсгийн ATK:
+Increases unarmed damage with bare fists or fist weapons. Improves fist weapon durability and applies knockback on fully charged strikes.	Нүцгэн нударга, гарын зэвсгийн хохирлыг нэмэгдүүлнэ. Гарын зэвсгийн эдэлгээг сайжруулж, бүрэн бэлдсэн цохилтоор түлхэнэ.
++5 ATK and inflict 1 second Paralyze status on fully charged stealth backstab strike.	Бүрэн бэлдсэн сэм араас хатгалт +5 ATK авч, 1 секунд саажуулна.
+Unarmed ATK\n damage variance:	Гар нүцгэн ATK\n хохирлын хэлбэлзэл:
+Unarmed bonus ATK:	Гар нүцгэн нэмэлт ATK:
+Fist weapon degrade\n chance:\n (Normal strikes)	Гарын зэвсэг элэгдэх\n магадлал:\n (Энгийн цохилт)
+Fist weapon degrade\n chance:\n (On 0 damage dealt)	Гарын зэвсэг элэгдэх\n магадлал:\n (0 хохирол учруулахад)
+Fist weapon knockback\n distance:	Гарын зэвсгийн түлхэх\n зай:
+Increases damage and improves durability of sword weaponry.	Сэлэмний хохирол болон эдэлгээг сайжруулна.
++5 ATK and inflict 5 second Bleed status on fully charged strike.	Бүрэн бэлдсэн цохилт +5 ATK авч, 5 секунд цус алдуулна.
+Sword ATK\n damage variance:	Сэлэмний ATK\n хохирлын хэлбэлзэл:
+Weapon degrade\n chance:\n (Normal strikes)	Зэвсэг элэгдэх\n магадлал:\n (Энгийн цохилт)
+Weapon degrade\n chance:\n (On 0 damage dealt)	Зэвсэг элэгдэх\n магадлал:\n (0 хохирол учруулахад)
+Polearms	Жад
+Increases damage and improves durability of polearm weaponry.	Жадны хохирол болон эдэлгээг сайжруулна.
++5 ATK and inflict Knockback status on fully charged strike.	Бүрэн бэлдсэн цохилт +5 ATK авч, байг түлхэнэ.
+Polearm ATK\n damage variance:	Жадны ATK\n хохирлын хэлбэлзэл:
+Increases damage and improves durability of axe weaponry.	Сүхний хохирол болон эдэлгээг сайжруулна.
++10 ATK and inflict 3 second Slow status on fully charged strike.	Бүрэн бэлдсэн цохилт +10 ATK авч, 3 секунд удаашруулна.
+Axe ATK\n damage variance:	Сүхний ATK\n хохирлын хэлбэлзэл:
+Maces	Борохой
+Increases damage and improves durability of mace weaponry.	Борохойны хохирол болон эдэлгээг сайжруулна.
++5 ATK and 25% chance to inflict 1.5 second Paralyze status on fully charged strike.	Бүрэн бэлдсэн цохилт +5 ATK авч, 25% магадлалаар 1.5 секунд саажуулна.
+Mace ATK\n damage variance:	Борохойны ATK\n хохирлын хэлбэлзэл:
+Increases number of NPC followers able to be recruited at one time and unlocks more follower commands while interacting.	Зэрэг элсүүлж болох дагуулын тоог нэмэгдүүлж, харилцах үед өгөх нэмэлт тушаалуудыг нээнэ.
+Can recruit goblins, goatmen and insectoids in addition to standard racial allegiances.	Угсааны ердийн холбоотнуудаас гадна гоблин, ямаан хүн, шавжтан элсүүлж чадна.
+Maximum followers:	Дагуулын дээд тоо:
+Bonus follower\n movement speed:	Дагуулын хөдөлгөөний\n нэмэлт хурд:
+Charm Monster spell\n base chance:\n (Using skill + CHR stat)	Мангас татах шившлэгийн\n суурь магадлал:\n (Ур чадвар + CHR-ээр)
+Current recruitable\n ally races:	Одоо элсүүлж болох\n холбоотны угсаа:
+Reduces buying prices and improves selling prices when trading with Shopkeepers.	Дэлгүүрийн эзэнтэй худалдаалахад авах үнийг бууруулж, зарах үнийг нэмэгдүүлнэ.
+Unlocks the ability to sell items of any kind to any Shopkeeper.	Ямар ч дэлгүүрийн эзэнд бүх төрлийн эд зүйл зарах боломж нээнэ.
+Price markup on\nbuying items from shop:	Дэлгүүрээс эд зүйл\nавах үнийн нэмэгдэл:
+%+.f%% Gold	%+.f%% Алт
+Resale penalty from\nselling items to shop:\n (Using skill + CHR stat)	Дэлгүүрт эд зүйл\nзарах үнийн хасалт:\n (Ур чадвар + CHR-ээр)
+%.f%% Gold	%.f%% Алт
+Increases speed of appraising and allows appraising of higher gold value items. Higher PER stat improves appraisal abilities.	Үнэлэх хурдыг нэмэгдүүлж, илүү үнэтэй эд зүйл үнэлэх боломж олгоно. PER өсөхөд үнэлэх чадвар сайжирна.
++25% Appraisal speed to all items. Unidentified items have gold values revealed.	Бүх эд зүйлийг үнэлэх хурд +25%. Танигдаагүй эд зүйлийн алтны үнэ харагдана.
+Maximum gold value\n able to appraise quickly:	Хурдан үнэлж болох\n алтны дээд үнэ:
+%d Gold	%d Алт
+Maximum gold value\n able to appraise slowly:	Удаан үнэлж болох\n алтны дээд үнэ:
+Appraisal time reduction\n Food/Scrolls/Potions:	Үнэлэх хугацааны бууралт\n Хоол/Хуйлмал/Ханд:
+Appraisal time reduction\n All other items:\n (With skill total above 50)	Үнэлэх хугацааны бууралт\n Бусад бүх эд зүйл:\n (Нийт чадвар 50-иас дээш)
+Appraisal time reduction\n for all inventory items on\n advancing to next floor: 	Дараагийн давхарт ороход\n үүргэвчийн бүх эд зүйлийн\n үнэлэх хугацааны бууралт: 
+Able to appraise\n Worthless Glass:	Үнэ цэнгүй шилийг\n үнэлэх боломж:
+Improves ability with tinkering kits, increasing the amount of craftable items and deployed machinery. Increases chances to lockpick objects in the world.	Урлах багажийн чадвар, бүтээх эд зүйл болон байрлуулах төхөөрөмжийн тоог нэмэгдүүлнэ. Орчны цоожийг онгойлгох магадлалыг өсгөнө.
+Able to repair most weapons and armor using a tinkering kit and find bonus items or gold when lockpicking chests.	Урлах багажаар ихэнх зэвсэг, хуягийг засаж, авдрын цоож онгойлгохдоо нэмэлт эд зүйл эсвэл алт олно.
+Chance to lockpick\n chests and doors:	Авдар, хаалганы цоож\n онгойлгох магадлал:
+Scrap chance from\n lockpicking chests:	Авдрын цоожоос\n хаягдал олох магадлал:
+Scrap chance from\n lockpicking Automatons:	Автоматоны цоожоос\n хаягдал олох магадлал:
+Chance to disarm\n arrow traps:	Суман урхи салгах\n магадлал:
+Bonus scrap\n while salvaging:\n (Using skill + PER stat)	Задлахад гарах\n нэмэлт хаягдал:\n (Ур чадвар + PER-ээр)
+Highest Metal/Magic\n item able to repair:\n (Using skill + PER stat)	Засаж болох хамгийн дээд\n Металл/Шидэт эд зүйл:\n (Ур чадвар + PER-ээр)
+Maximum deployed\n tinkering allies:	Байрлуулах урласан\n холбоотны дээд тоо:
+Improves ability to brew potions with alembics and increases damage of thrown offensive potions.\nDrink or brew potions to learn useful ingredients in Alchemy.	Нэрэх багажаар ханд найруулах чадвар, дайралтын ханд шидэх хохирлыг нэмэгдүүлнэ.\nХанд уух эсвэл найруулж алхимийн ашигтай орцуудыг сурна.
+Alembics never degrade.\nBrewed potions have +2 blessing.	Нэрэх багаж хэзээ ч элэгдэхгүй.\nНайруулсан ханд +2 адислалтай.
+Potion effect damage:	Хандны нөлөөний хохирол:
+Thrown potion\n impact damage:	Шидсэн хандны\n мөргөлтийн хохирол:
+Potion duplication\n chance using water:	Ус ашиглан ханд\n хувилах магадлал:
+Empty bottle salvage\n on consuming potions:	Ханд уухад хоосон\n лонх авах магадлал:
+Empty bottle salvage\n on brewing potions:	Ханд найруулахад хоосон\n лонх авах магадлал:
+Learnt Alchemy\n ingredients:\n (Primary)	Сурсан алхимийн\n орц:\n (Үндсэн)
+Learnt Alchemy\n ingredients:\n (Secondary)	Сурсан алхимийн\n орц:\n (Нэмэлт)
+Allows higher tier Sorcery spells to be learned from spellbooks. Further increases Sorcery spell power bonuses from INT stat when above Expert (60) skill level.	Номоос илүү дээд зэргийн илбийн шившлэг сурах боломж олгоно. Чадвар Мэргэжилтэн (60)-ээс дээш бол INT-ээс авах илбийн хүчний нэмэгдэл өснө.
+Sorcery spells have +40% INT stat power bonus and +100% DEX stat cast time reduction.	Илбийн шившлэгийн INT хүчний нэмэгдэл +40%, DEX шивших хугацааны бууралт +100%.
+Base spell power bonus:\n (Using 2x INT stat)	Суурь шидийн хүчний нэмэгдэл:\n (2x INT-ээр)
+Highest Sorcery tier\n able to learn:\n (Using skill + INT stat)	Сурч болох илбийн\n хамгийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Learned spells ideal to\n advance current\n Sorcery skill level:	Одоогийн илбийн\n чадварыг ахиулахад\n тохирох сурсан шившлэг:
+Learned spells\n ideal to advance\n current Sorcery\n skill level:	Одоогийн илбийн\n чадварыг\n ахиулахад тохирох\n сурсан шившлэг:
+Spells in current\n Sorcery tier:	Одоогийн илбийн\n зэргийн шившлэг:
+Able to fail casting\n of learned spells:	Сурсан шившлэгийг\n алдаж шивших боломж:
+Highest Sorcery tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)	Номоор алдалгүй\n шившиж болох\n илбийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Allows higher tier Mysticism spells to be learned from spellbooks. Further increases Mysticism spell power bonuses from INT + CHR stats when above Expert (60) skill level.	Номоос илүү дээд зэргийн нууц увдисын шившлэг сурна. Чадвар Мэргэжилтэн (60)-ээс дээш бол INT + CHR-ээс авах нууц увдисын хүчний нэмэгдэл өснө.
+Mysticism spells have +40% INT/CHR stat power bonus and +100% DEX stat cast time reduction.	Нууц увдисын INT/CHR хүчний нэмэгдэл +40%, DEX шивших хугацааны бууралт +100%.
+Base spell power bonus:\n (Using INT + CHR stat)	Суурь шидийн хүчний нэмэгдэл:\n (INT + CHR-ээр)
+Highest Mysticism tier\n able to learn:\n (Using skill + INT stat)	Сурч болох нууц увдисын\n хамгийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Learned spells ideal to\n advance current\n Mysticism skill level:	Одоогийн нууц увдисын\n чадварыг ахиулахад\n тохирох сурсан шившлэг:
+Learned spells\n ideal to advance\n current\n Mysticism skill\n level:	Одоогийн\n нууц увдисын\n чадварын түвшинг\n ахиулахад тохирох\n сурсан шившлэг:
+Spells in current\n Mysticism tier:	Одоогийн нууц увдисын\n зэргийн шившлэг:
+Highest Mysticism tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)	Номоор алдалгүй\n шившиж болох нууц\n увдисын дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Thauma	Гайхамшиг
+Allows higher tier Thaumaturgy spells to be learned from spellbooks. Further increases Thaumaturgy spell power bonuses from INT + CON stats when above Expert (60) skill level.	Номоос илүү дээд зэргийн гайхамшгийн шившлэг сурна. Чадвар Мэргэжилтэн (60)-ээс дээш бол INT + CON-оос авах гайхамшгийн хүчний нэмэгдэл өснө.
+Thaumaturgy spells have +40% INT/CON stat power bonus and +100% DEX stat cast time reduction.	Гайхамшгийн INT/CON хүчний нэмэгдэл +40%, DEX шивших хугацааны бууралт +100%.
+Base spell power bonus:\n (Using INT + CON stat)	Суурь шидийн хүчний нэмэгдэл:\n (INT + CON-оор)
+Highest Thaumaturgy tier\n able to learn:\n (Using skill + INT stat)	Сурч болох гайхамшгийн\n хамгийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Learned spells ideal to\n advance current\n Thaumaturgy skill level:	Одоогийн гайхамшгийн\n чадварыг ахиулахад\n тохирох сурсан шившлэг:
+Learned spells\n ideal to advance\n current\n Thaumaturgy\n skill level:	Одоогийн\n гайхамшгийн\n чадварын\n түвшинг ахиулахад\n тохирох сурсан шившлэг:
+Spells in current\n Thaumaturgy tier:	Одоогийн гайхамшгийн\n зэргийн шившлэг:
+Spells in current\n Thaumaturgy\n tier:	Одоогийн\n гайхамшгийн\n зэргийн шившлэг:
+Highest Thaumaturgy tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)	Номоор алдалгүй\n шившиж болох\n гайхамшгийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Allows higher level magic spells to be learned from spellbooks. Equip spells via the Magic menu and use the Cast command, or wield spellbooks and use the Defend command to use magic.	Номоос илүү дээд түвшний шившлэг сурна. Шидийн цэсээс шившлэг сонгоод шивших тушаал, эсвэл ном бариад хамгаалах тушаалаар шившинэ.
+Auto-learn Dominate spell.	Ноёрхох шившлэгийг автоматаар сурна.
+Base spell power bonus:\n (Using INT stat)	Суурь шидийн хүчний нэмэгдэл:\n (INT-ээр)
+Highest Magic tier\n able to learn:\n (Using skill + INT stat)	Сурч болох шидийн\n хамгийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Spells in current\n Magic tier:	Одоогийн шидийн\n зэргийн шившлэг:
+Casting	Шивших
+Improves reliability of Casting and Spellbook-Casting spells, reducing chances to fumble or over-expend mana. Increases passive MP regen.	Шивших болон номоор шивших найдвартай байдлыг сайжруулж, алдах эсвэл илүү мана зарцуулах магадлалыг бууруулна. Идэвхгүй MP нөхөлтийг нэмэгдүүлнэ.
+Auto-learn Forcebolt spell with (0) MP cost.	(0) MP зарцуулах Хүчний сум шившлэгийг автоматаар сурна.
+MP Regen INT multiplier\n from skill:	Ур чадварын MP нөхөлтийн\n INT үржүүлэгч:
+Base MP Regen rate:\n (Before item/race\n modifiers)	Суурь MP нөхөлтийн хурд:\n (Эд зүйл/угсааны\n өөрчлөгчөөс өмнө)
+1 MP every\n%.2f seconds	1 MP тутам\n%.2f секунд
+Highest Magic tier\n to Spellbook-Cast\n without fumbling:\n (Using skill + INT stat)	Номоор алдалгүй\n шившиж болох\n шидийн дээд зэрэг:\n (Ур чадвар + INT-ээр)
+Increases movement speed while swimming in liquids.	Шингэнд сэлэх үеийн хөдөлгөөний хурдыг нэмэгдүүлнэ.
+Permanent water-walking over water and lava.	Ус болон лааван дээгүүр үргэлж алхана.
+Movement speed\n while swimming:	Сэлэх үеийн\n хөдөлгөөний хурд:
+Base speed multiplier\n penalty in liquids:	Шингэнд байх суурь\n хурдны үржүүлэгчийн хасалт:
+Bonus speed multiplier\n from Swimming skill:	Сэлэх чадвараас авах\n хурдны нэмэлт үржүүлэгч:

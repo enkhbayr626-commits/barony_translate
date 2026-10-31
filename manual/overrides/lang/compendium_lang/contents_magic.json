@@ -1,0 +1,160 @@
+{
+    "version": 1,
+    "contents": [
+        {
+            "    ШИДЭТ ЭД ЗҮЙЛ": "-"
+        },
+        {
+            "ШИДЭТ ТАЯГ": "magicstaffs"
+        },
+        {
+            "ОЧИРТ ТАЯГ": "scepter"
+        },
+        {
+            "ЭХ БУЛАГ ТӨВЛӨРҮҮЛЭГЧ": "source_foci"
+        },
+        {
+            "АРИУН БЭЛГЭД": "holy_symbols"
+        },
+        {
+            "ХАР ШҮТЭЭН": "dark_icons"
+        },
+        {
+            "ХӨГЖМИЙН ЗЭМСЭГ": "instruments"
+        },
+        {
+            "ШИДЭТ БӨГЖ": "enchanted rings"
+        },
+        {
+            "ШИДЭТ ЗҮҮЛТ": "enchanted amulets"
+        },
+        {
+            "ҮНЭТ ЭДЛЭЛ": "jewels"
+        },
+        {
+            "    НУУЦ ШИД": "-"
+        },
+        {
+            "ХУЙЛМАЛ": "scrolls"
+        },
+        {
+            "ШИДЭТ ӨД": "enchanted feather"
+        },
+        {
+            "    ШИДЛЭГ": "-"
+        },
+        {
+            "ДУУДЛАГА": "evocation"
+        },
+        {
+            "ЭСРЭГЦҮҮЛЭЛ": "contravention"
+        },
+        {
+            "КИНЕЗИС": "kinesis"
+        },
+        {
+            "ТЕМУЛТУРГИ": "temulturgy"
+        },
+        {
+            "    ГАЙХАМШГИЙН УРЛАГ": "-"
+        },
+        {
+            "ЕРӨӨЛ": "blessings"
+        },
+        {
+            "МЭРГЭ": "divinations"
+        },
+        {
+            "ГАЙХАМШИГТ ҮЙЛ": "miraculous feats"
+        },
+        {
+            "БЯСАЛГАЛ": "meditations"
+        },
+        {
+            "    УВДИС": "-"
+        },
+        {
+            "САРКОМАНСИ": "sarkomancy"
+        },
+        {
+            "ПСИАНИМУС": "psianimus"
+        },
+        {
+            "ДАЙМОНИ": "daimonia"
+        },
+        {
+            "ИМПЕТУРИ": "impeturia"
+        }
+    ],
+    "contents_alphabetical": [
+        {
+            "ОЧИРТ ТАЯГ": "scepter"
+        },
+        {
+            "ЕРӨӨЛ": "blessings"
+        },
+        {
+            "ЭСРЭГЦҮҮЛЭЛ": "contravention"
+        },
+        {
+            "ДАЙМОНИ": "daimonia"
+        },
+        {
+            "ХАР ШҮТЭЭН": "dark_icons"
+        },
+        {
+            "МЭРГЭ": "divinations"
+        },
+        {
+            "ШИДЭТ ЗҮҮЛТ": "enchanted amulets"
+        },
+        {
+            "ШИДЭТ ӨД": "enchanted feather"
+        },
+        {
+            "ШИДЭТ БӨГЖ": "enchanted rings"
+        },
+        {
+            "ДУУДЛАГА": "evocation"
+        },
+        {
+            "АРИУН БЭЛГЭД": "holy_symbols"
+        },
+        {
+            "ИМПЕТУРИ": "impeturia"
+        },
+        {
+            "ҮНЭТ ЭДЛЭЛ": "jewels"
+        },
+        {
+            "КИНЕЗИС": "kinesis"
+        },
+        {
+            "ШИДЭТ ТАЯГ": "magicstaffs"
+        },
+        {
+            "БЯСАЛГАЛ": "meditations"
+        },
+        {
+            "ГАЙХАМШИГТ ҮЙЛ": "miraculous feats"
+        },
+        {
+            "ХӨГЖМИЙН ЗЭМСЭГ": "instruments"
+        },
+        {
+            "ПСИАНИМУС": "psianimus"
+        },
+        {
+            "САРКОМАНСИ": "sarkomancy"
+        },
+        {
+            "ХУЙЛМАЛ": "scrolls"
+        },
+        {
+            "ЭХ БУЛАГ ТӨВЛӨРҮҮЛЭГЧ": "source_foci"
+        },
+        {
+            "ТЕМУЛТУРГИ": "temulturgy"
+        }
+    ]
+}

@@ -1,0 +1,2335 @@
+{
+  "version": 1,
+  "panel_center_x_offset": -62,
+  "panel_center_y_offset": -24,
+  "panel_radius": 94,
+  "panel_button_thickness": 52,
+  "panel_inner_circle_radius_offset": -6,
+  "colors": {
+    "title": {
+      "r": 210,
+      "g": 183,
+      "b": 76,
+      "a": 255
+    },
+    "title_creature_highlight": {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "banner_default": {
+      "r": 201,
+      "g": 162,
+      "b": 100,
+      "a": 255
+    },
+    "banner_highlight_default": {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    }
+  },
+  "help_strings": {
+    "hungry": "Өлссөн",
+    "very_hungry": "Их өлссөн",
+    "starving": "Өлбөрч буй",
+    "hungry_blood": "Өлссөн",
+    "very_hungry_blood": "Их өлссөн",
+    "starving_blood": "Өлбөрч буй",
+    "healing": "Эмчилгээ хэрэгтэй",
+    "healing_urgent": "Эмчилгээ хэрэгтэй",
+    "low_steam": "Уур багассан",
+    "empty_steam": "Уур дууссан",
+    "ghost": "Амь үрэгдсэн",
+    "separator": "/"
+  },
+  "world_icons": {
+    "tag_spot": {
+      "default": "tag_spot.png",
+      "0": "tagGold_spot.png",
+      "1": "tagGreen_spot.png",
+      "2": "tagRed_spot.png",
+      "3": "tagPink_spot.png",
+      "4": "tagWhite_spot.png"
+    },
+    "tag_spot-interact_me": {
+      "default": "tag_spot-interact_me.png",
+      "0": "tagGold_spot-interact_me.png",
+      "1": "tagGreen_spot-interact_me.png",
+      "2": "tagRed_spot-interact_me.png",
+      "3": "tagPink_spot-interact_me.png",
+      "4": "tagWhite_spot-interact_me.png"
+    },
+    "tag_self_player-wave": {
+      "default": "self_player-wave.png",
+      "0": "self_playerGold-wave.png",
+      "1": "self_playerGreen-wave.png",
+      "2": "self_playerRed-wave.png",
+      "3": "self_playerPink-wave.png",
+      "4": "self_playerWhite-wave.png"
+    },
+    "tag_self_player-wave_display_self": {
+      "default": "btn_locked_wave.png",
+      "0": "btn_playerGold_wave.png",
+      "1": "btn_playerGreen_wave.png",
+      "2": "btn_playerRed_wave.png",
+      "3": "btn_playerPink_wave.png",
+      "4": "btn_playerWhite_wave.png"
+    },
+    "tag_btn_player_wave_hover": {
+      "default": "",
+      "0": "btn_playerGold_wave_hover.png",
+      "1": "btn_playerGreen_wave_hover.png",
+      "2": "btn_playerRed_wave_hover.png",
+      "3": "btn_playerPink_wave_hover.png",
+      "4": "btn_playerWhite_wave_hover.png"
+    },
+    "tag_btn_player_wave": {
+      "default": "",
+      "0": "btn_playerGold_wave.png",
+      "1": "btn_playerGreen_wave.png",
+      "2": "btn_playerRed_wave.png",
+      "3": "btn_playerPink_wave.png",
+      "4": "btn_playerWhite_wave.png"
+    },
+    "tag_btn_player_wave_to_me": {
+      "default": "btn_locked_wave.png",
+      "0": "btn_playerGold_wave_to_me.png",
+      "1": "btn_playerGreen_wave_to_me.png",
+      "2": "btn_playerRed_wave_to_me.png",
+      "3": "btn_playerPink_wave_to_me.png",
+      "4": "btn_playerWhite_wave_to_me.png"
+    },
+    "tag_spot-item": {
+      "default": "tag_spot-item.png",
+      "0": "tagGold_spot-item.png",
+      "1": "tagGreen_spot-item.png",
+      "2": "tagRed_spot-item.png",
+      "3": "tagPink_spot-item.png",
+      "4": "tagWhite_spot-item.png"
+    },
+    "tag_spot-item_me": {
+      "default": "tag_spot-item_me.png",
+      "0": "tagGold_spot-item_me.png",
+      "1": "tagGreen_spot-item_me.png",
+      "2": "tagRed_spot-item_me.png",
+      "3": "tagPink_spot-item_me.png",
+      "4": "tagWhite_spot-item_me.png"
+    },
+    "tag_spot-trap": {
+      "default": "tag_spot-trap.png",
+      "0": "tagGold_spot-trap.png",
+      "1": "tagGreen_spot-trap.png",
+      "2": "tagRed_spot-trap.png",
+      "3": "tagPink_spot-trap.png",
+      "4": "tagWhite_spot-trap.png"
+    },
+    "tag_spot_me": {
+      "default": "tag_spot_me.png",
+      "0": "tagGold_spot_me.png",
+      "1": "tagGreen_spot_me.png",
+      "2": "tagRed_spot_me.png",
+      "3": "tagPink_spot_me.png",
+      "4": "tagWhite_spot_me.png"
+    },
+    "tag_good": {
+      "default": "tag_good.png",
+      "0": "tagGold_good.png",
+      "1": "tagGreen_good.png",
+      "2": "tagRed_good.png",
+      "3": "tagPink_good.png",
+      "4": "tagWhite_good.png"
+    },
+    "tag_good_display_self": {
+      "default": "btn_player_up.png",
+      "0": "btn_playerGold_up.png",
+      "1": "btn_playerGreen_up.png",
+      "2": "btn_playerRed_up.png",
+      "3": "btn_playerPink_up.png",
+      "4": "btn_playerWhite_up.png"
+    },
+    "tag_good-NPC": {
+      "default": "tag_good-NPC.png",
+      "0": "tagGold_good-NPC.png",
+      "1": "tagGreen_good-NPC.png",
+      "2": "tagRed_good-NPC.png",
+      "3": "tagPink_good-NPC.png",
+      "4": "tagWhite_good-NPC.png"
+    },
+    "tag_good-item": {
+      "default": "tag_good-item.png",
+      "0": "tagGold_good-item.png",
+      "1": "tagGreen_good-item.png",
+      "2": "tagRed_good-item.png",
+      "3": "tagPink_good-item.png",
+      "4": "tagWhite_good-item.png"
+    },
+    "tag_good-trap": {
+      "default": "tag_good-trap.png",
+      "0": "tagGold_good-trap.png",
+      "1": "tagGreen_good-trap.png",
+      "2": "tagRed_good-trap.png",
+      "3": "tagPink_good-trap.png",
+      "4": "tagWhite_good-trap.png"
+    },
+    "tag_good-interact": {
+      "default": "tag_good-interact.png",
+      "0": "tagGold_good-interact.png",
+      "1": "tagGreen_good-interact.png",
+      "2": "tagRed_good-interact.png",
+      "3": "tagPink_good-interact.png",
+      "4": "tagWhite_good-interact.png"
+    },
+    "tag_bad": {
+      "default": "tag_bad.png",
+      "0": "tagGold_bad.png",
+      "1": "tagGreen_bad.png",
+      "2": "tagRed_bad.png",
+      "3": "tagPink_bad.png",
+      "4": "tagWhite_bad.png"
+    },
+    "tag_bad_display_self": {
+      "default": "btn_player_down.png",
+      "0": "btn_playerGold_down.png",
+      "1": "btn_playerGreen_down.png",
+      "2": "btn_playerRed_down.png",
+      "3": "btn_playerPink_down.png",
+      "4": "btn_playerWhite_down.png"
+    },
+    "tag_bad-item": {
+      "default": "tag_bad-item.png",
+      "0": "tagGold_bad-item.png",
+      "1": "tagGreen_bad-item.png",
+      "2": "tagRed_bad-item.png",
+      "3": "tagPink_bad-item.png",
+      "4": "tagWhite_bad-item.png"
+    },
+    "tag_bad-trap": {
+      "default": "tag_bad-trap.png",
+      "0": "tagGold_bad-trap.png",
+      "1": "tagGreen_bad-trap.png",
+      "2": "tagRed_bad-trap.png",
+      "3": "tagPink_bad-trap.png",
+      "4": "tagWhite_bad-trap.png"
+    },
+    "tag_bad-interact": {
+      "default": "tag_bad-interact.png",
+      "0": "tagGold_bad-interact.png",
+      "1": "tagGreen_bad-interact.png",
+      "2": "tagRed_bad-interact.png",
+      "3": "tagPink_bad-interact.png",
+      "4": "tagWhite_bad-interact.png"
+    },
+    "tag_bad-NPC": {
+      "default": "tag_bad-NPC.png",
+      "0": "tagGold_bad-NPC.png",
+      "1": "tagGreen_bad-NPC.png",
+      "2": "tagRed_bad-NPC.png",
+      "3": "tagPink_bad-NPC.png",
+      "4": "tagWhite_bad-NPC.png"
+    },
+    "tag_help": {
+      "default": "tag_help.png",
+      "0": "tagGold_help.png",
+      "1": "tagGreen_help.png",
+      "2": "tagRed_help.png",
+      "3": "tagPink_help.png",
+      "4": "tagWhite_help.png"
+    },
+    "tag_help_display_self": {
+      "default": "btn_player_genhelp.png",
+      "0": "btn_playerGold_genhelp.png",
+      "1": "btn_playerGreen_genhelp.png",
+      "2": "btn_playerRed_genhelp.png",
+      "3": "btn_playerPink_genhelp.png",
+      "4": "btn_playerWhite_genhelp.png"
+    },
+    "tag_help-ghost": {
+      "default": "tag_help-ghost.png",
+      "0": "tagGold_help-ghost.png",
+      "1": "tagGreen_help-ghost.png",
+      "2": "tagRed_help-ghost.png",
+      "3": "tagPink_help-ghost.png",
+      "4": "tagWhite_help-ghost.png"
+    },
+    "tag_help-ghost_display_self": {
+      "default": "btn_player_help-ghost.png",
+      "0": "btn_playerGold_help-ghost.png",
+      "1": "btn_playerGreen_help-ghost.png",
+      "2": "btn_playerRed_help-ghost.png",
+      "3": "btn_playerPink_help-ghost.png",
+      "4": "btn_playerWhite_help-ghost.png"
+    },
+    "tag_help-cure": {
+      "default": "tag_help-cure.png",
+      "0": "tagGold_help-cure.png",
+      "1": "tagGreen_help-cure.png",
+      "2": "tagRed_help-cure.png",
+      "3": "tagPink_help-cure.png",
+      "4": "tagWhite_help-cure.png"
+    },
+    "tag_help-cure_display_self": {
+      "default": "btn_player_help-cure.png",
+      "0": "btn_playerGold_help-cure.png",
+      "1": "btn_playerGreen_help-cure.png",
+      "2": "btn_playerRed_help-cure.png",
+      "3": "btn_playerPink_help-cure.png",
+      "4": "btn_playerWhite_help-cure.png"
+    },
+    "tag_help-food": {
+      "default": "tag_help-food.png",
+      "0": "tagGold_help-food.png",
+      "1": "tagGreen_help-food.png",
+      "2": "tagRed_help-food.png",
+      "3": "tagPink_help-food.png",
+      "4": "tagWhite_help-food.png"
+    },
+    "tag_help-food_display_self": {
+      "default": "btn_player_help-food.png",
+      "0": "btn_playerGold_help-food.png",
+      "1": "btn_playerGreen_help-food.png",
+      "2": "btn_playerRed_help-food.png",
+      "3": "btn_playerPink_help-food.png",
+      "4": "btn_playerWhite_help-food.png"
+    },
+    "tag_help-hp": {
+      "default": "tag_help-hp.png",
+      "0": "tagGold_help-hp.png",
+      "1": "tagGreen_help-hp.png",
+      "2": "tagRed_help-hp.png",
+      "3": "tagPink_help-hp.png",
+      "4": "tagWhite_help-hp.png"
+    },
+    "tag_help-hp_display_self": {
+      "default": "btn_player_help-hp.png",
+      "0": "btn_playerGold_help-hp.png",
+      "1": "btn_playerGreen_help-hp.png",
+      "2": "btn_playerRed_help-hp.png",
+      "3": "btn_playerPink_help-hp.png",
+      "4": "btn_playerWhite_help-hp.png"
+    },
+    "tag_help-item": {
+      "default": "tag_help-item.png",
+      "0": "tagGold_help-item.png",
+      "1": "tagGreen_help-item.png",
+      "2": "tagRed_help-item.png",
+      "3": "tagPink_help-item.png",
+      "4": "tagWhite_help-item.png"
+    },
+    "tag_help-npc": {
+      "default": "tag_help-npc.png",
+      "0": "tagGold_help-npc.png",
+      "1": "tagGreen_help-npc.png",
+      "2": "tagRed_help-npc.png",
+      "3": "tagPink_help-npc.png",
+      "4": "tagWhite_help-npc.png"
+    },
+    "tag_move": {
+      "default": "tag_move.png",
+      "0": "tagGold_move.png",
+      "1": "tagGreen_move.png",
+      "2": "tagRed_move.png",
+      "3": "tagPink_move.png",
+      "4": "tagWhite_move.png"
+    },
+    "tag_move_display_self": {
+      "default": "btn_player_point.png",
+      "0": "btn_playerGold_point.png",
+      "1": "btn_playerGreen_point.png",
+      "2": "btn_playerRed_point.png",
+      "3": "btn_playerPink_point.png",
+      "4": "btn_playerWhite_point.png"
+    },
+    "tag_move-exit": {
+      "default": "tag_move-exit.png",
+      "0": "tagGold_move-exit.png",
+      "1": "tagGreen_move-exit.png",
+      "2": "tagRed_move-exit.png",
+      "3": "tagPink_move-exit.png",
+      "4": "tagWhite_move-exit.png"
+    },
+    "tag_move-NPC": {
+      "default": "tag_move-NPC.png",
+      "0": "tagGold_move-NPC.png",
+      "1": "tagGreen_move-NPC.png",
+      "2": "tagRed_move-NPC.png",
+      "3": "tagPink_move-NPC.png",
+      "4": "tagWhite_move-NPC.png"
+    },
+    "thanks": {
+      "default": "self_player-thanks.png",
+      "0": "self_playerGold-thanks.png",
+      "1": "self_playerGreen-thanks.png",
+      "2": "self_playerRed-thanks.png",
+      "3": "self_playerPink-thanks.png",
+      "4": "self_playerWhite-thanks.png"
+    },
+    "thanks_display_self": {
+      "default": "self_player_thanks.png",
+      "0": "btn_playerGold_thanks.png",
+      "1": "btn_playerGreen_thanks.png",
+      "2": "btn_playerRed_thanks.png",
+      "3": "btn_playerPink_thanks.png",
+      "4": "btn_playerWhite_thanks.png"
+    },
+    "mini_spot": {
+      "default": "mini_spot.png",
+      "0": "miniGold_spot.png",
+      "1": "miniGreen_spot.png",
+      "2": "miniRed_spot.png",
+      "3": "miniPink_spot.png",
+      "4": "miniWhite_spot.png"
+    },
+    "mini_no": {
+      "default": "mini_no.png",
+      "0": "miniGold_no.png",
+      "1": "miniGreen_no.png",
+      "2": "miniRed_no.png",
+      "3": "miniPink_no.png",
+      "4": "miniWhite_no.png"
+    },
+    "mini_yes": {
+      "default": "mini_yes.png",
+      "0": "miniGold_yes.png",
+      "1": "miniGreen_yes.png",
+      "2": "miniRed_yes.png",
+      "3": "miniPink_yes.png",
+      "4": "miniWhite_yes.png"
+    },
+    "mini_move": {
+      "default": "mini_move.png",
+      "0": "miniGold_move.png",
+      "1": "miniGreen_move.png",
+      "2": "miniRed_move.png",
+      "3": "miniPink_move.png",
+      "4": "miniWhite_move.png"
+    },
+    "mini_item": {
+      "default": "mini_item.png",
+      "0": "miniGold_item.png",
+      "1": "miniGreen_item.png",
+      "2": "miniRed_item.png",
+      "3": "miniPink_item.png",
+      "4": "miniWhite_item.png"
+    },
+    "mini_help": {
+      "default": "mini_help.png",
+      "0": "miniGold_help.png",
+      "1": "miniGreen_help.png",
+      "2": "miniRed_help.png",
+      "3": "miniPink_help.png",
+      "4": "miniWhite_help.png"
+    },
+    "mini_heal": {
+      "default": "mini_heal.png",
+      "0": "miniGold_heal.png",
+      "1": "miniGreen_heal.png",
+      "2": "miniRed_heal.png",
+      "3": "miniPink_heal.png",
+      "4": "miniWhite_heal.png"
+    },
+    "mini_danger": {
+      "default": "mini_danger.png",
+      "0": "miniGold_danger.png",
+      "1": "miniGreen_danger.png",
+      "2": "miniRed_danger.png",
+      "3": "miniPink_danger.png",
+      "4": "miniWhite_danger.png"
+    }
+  },
+  "panels": [
+    {
+      "direction": "north",
+      "x": -2,
+      "y": -126,
+      "icon_offset_x": 64,
+      "icon_offset_y": 52,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_N.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_N_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_N_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_N_uh.png"
+    },
+    {
+      "direction": "northwest",
+      "x": -76,
+      "y": -114,
+      "icon_offset_x": 68,
+      "icon_offset_y": 68,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_NW.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_NW_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NW_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NW_uh.png"
+    },
+    {
+      "direction": "west",
+      "x": -88,
+      "y": -38,
+      "icon_offset_x": 58,
+      "icon_offset_y": 64,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_W.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_W_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_W_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_W_uh.png"
+    },
+    {
+      "direction": "southwest",
+      "x": -76,
+      "y": 34,
+      "icon_offset_x": 72,
+      "icon_offset_y": 60,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_SW.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_SW_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SW_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SW_uh.png"
+    },
+    {
+      "direction": "south",
+      "x": -2,
+      "y": 48,
+      "icon_offset_x": 64,
+      "icon_offset_y": 72,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_S.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_S_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_S_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_S_uh.png"
+    },
+    {
+      "direction": "southeast",
+      "x": 74,
+      "y": 34,
+      "icon_offset_x": 58,
+      "icon_offset_y": 60,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_SE.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_SE_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SE_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_SE_uh.png"
+    },
+    {
+      "direction": "east",
+      "x": 88,
+      "y": -40,
+      "icon_offset_x": 72,
+      "icon_offset_y": 64,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_E.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_E_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_E_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_E_uh.png"
+    },
+    {
+      "direction": "northeast",
+      "x": 74,
+      "y": -114,
+      "icon_offset_x": 60,
+      "icon_offset_y": 66,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_NE.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_NE_u.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NE_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_NE_uh.png"
+    },
+    {
+      "direction": "center",
+      "x": -78,
+      "y": -118,
+      "icon_offset_x": 0,
+      "icon_offset_y": 0,
+      "path": "#*images/ui/CalloutWheel/panels/cmd_player_ctr.png",
+      "path_locked": "#*images/ui/CalloutWheel/panels/cmd_player_ctr.png",
+      "path_hover": "#*images/ui/CalloutWheel/panels/cmd_player_ctr_h.png",
+      "path_locked_hover": "#*images/ui/CalloutWheel/panels/cmd_player_ctr_u.png"
+    }
+  ],
+  "icons": [
+    {
+      "action": "look_at",
+      "id": 0,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+      "text_maps": [
+        {
+          "default": {
+            "text": "Үүнийг хараарай!",
+            "word_highlights": [],
+            "msg_says": "%s\"Үүнийг хараарай!\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "player_wave": {
+            "text": "%s рүү далла!",
+            "word_highlights": [
+              2
+            ],
+            "msg_emote": "%s нь %s рүү даллалаа!",
+            "msg_emote_you": "Та %s рүү даллалаа!",
+            "msg_emote_to_you": "%s тан руу даллалаа!",
+            "world_icon": "tag_self_player-wave",
+            "world_icon_small": "mini_spot"
+          },
+          "location": {
+            "text": "Энэ газрыг заа.",
+            "word_highlights": [],
+            "msg_emote": "%s тэр газрыг заалаа.",
+            "msg_emote_you": "Та тэр газрыг заалаа.",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "item": {
+            "text": "Энд %s байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Энд %s байна.\"",
+            "world_icon": "tag_spot-item",
+            "world_icon_small": "mini_item"
+          },
+          "item_an": {
+            "text": "Энд %s байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Энд %s байна.\"",
+            "world_icon": "tag_spot-item",
+            "world_icon_small": "mini_item"
+          },
+          "npc": {
+            "text": "Наана %s байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Наана %s байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "npc_named": {
+            "text": "%s энд байна.",
+            "word_highlights": [
+              0
+            ],
+            "msg_says": "%s\"%s энд байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "npc_an": {
+            "text": "Энд %s байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Наана %s байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "npc_enemy_named": {
+            "text": "Дайсан %s энд байна!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Дайсан %s энд байна!\"",
+            "world_icon": "tag_bad-NPC",
+            "world_icon_small": "mini_spot"
+          },
+          "npc_enemy": {
+            "text": "Дайсан %s энд байна!",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Дайсан %s энд байна!\"",
+            "world_icon": "tag_bad-NPC",
+            "world_icon_small": "mini_spot"
+          },
+          "npc_ally": {
+            "text": "Манай холбоотон %s энд байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Манай холбоотон %s энд байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_heal"
+          },
+          "player_look": {
+            "text": "Манай холбоотон %s энд байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Манай холбоотон %s энд байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_heal"
+          },
+          "chest": {
+            "text": "Авдрыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би авдар оллоо!\"",
+            "world_icon": "tag_spot-item",
+            "world_icon_small": "mini_item"
+          },
+          "switch_on": {
+            "text": "Энэ идэвхтэй хөшүүргийг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг аль хэдийн татсан байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "switch_off": {
+            "text": "Энэ идэвхгүй хөшүүргийг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг татаагүй байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "wall_button_on": {
+            "text": "Энэ идэвхтэй товчийг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр товчийг аль хэдийн дарсан байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "wall_button_off": {
+            "text": "Энэ идэвхгүй товчийг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр товчийг дараагүй байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "wall_lock_on": {
+            "text": "Энэ идэвхтэй %s түлхүүрийг заа.",
+            "word_highlights": [
+              3,
+              4,
+              5
+            ],
+            "msg_says": "%s\"Тэр %s түлхүүрийг аль хэдийн идэвхжүүлсэн байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "wall_lock_off": {
+            "text": "Энэ идэвхгүй %s түлхүүрийг заа.",
+            "word_highlights": [
+              3,
+              4,
+              5
+            ],
+            "msg_says": "%s\"Тэр %s түлхүүрийг идэвхжүүлээгүй байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "wall_lock": {
+            "text": "Хоосон %s цоожийг заа.",
+            "word_highlights": [
+              4,
+              5
+            ],
+            "msg_says": "%s\"Тэнд хоосон %s цоож байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "switch": {
+            "text": "Хөшүүргийг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Тэнд хөшүүрэг байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "boulder": {
+            "text": "Бул чулууг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_emote": "%s бул чулууг заалаа.",
+            "msg_emote_you": "Та бул чулууг заалаа.",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "trap": {
+            "text": "Энд %s байна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Энд %s байна.\"",
+            "world_icon": "tag_spot-trap",
+            "world_icon_small": "mini_spot"
+          },
+          "generic_interactable": {
+            "text": "%s-г заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Наана %s байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "shrine": {
+            "text": "Тахилын газрыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Наана тахилын газар байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "bell": {
+            "text": "Хонхыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Наана хонх байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "daedalus": {
+            "text": "Дедалын тахилын газрыг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Наана Дедалын тахилын газар байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "assist_shrine": {
+            "text": "Тусламжийн тахилын газрыг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Наана тусламжийн тахилын газар байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "exit": {
+            "text": "Гарцыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Гарц наана байна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "secret_exit": {
+            "text": "Нууц давхрын гарцыг заа.",
+            "word_highlights": [
+              3,
+              4,
+              5
+            ],
+            "msg_emote": "%s нууц давхрын гарцыг заалаа.",
+            "msg_emote_you": "Та нууц давхрын гарцыг заалаа.",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "secret_entrance": {
+            "text": "Нууц давхрын орцыг заа.",
+            "word_highlights": [
+              3,
+              4,
+              5
+            ],
+            "msg_emote": "%s нууц газрын орцыг заалаа.",
+            "msg_emote_you": "Та нууц газрын орцыг заалаа.",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "gold": {
+            "text": "Алтыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_emote": "%s алтыг заалаа.",
+            "msg_emote_you": "Та алтыг заалаа.",
+            "world_icon": "tag_spot-item",
+            "world_icon_small": "mini_item"
+          },
+          "fountain": {
+            "text": "Оргилуурыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_emote": "%s оргилуурыг заалаа.",
+            "msg_emote_you": "Та оргилуурыг заалаа.",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "sink": {
+            "text": "Угаалтуурыг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_emote": "%s угаалтуурыг заалаа.",
+            "msg_emote_you": "Та угаалтуурыг заалаа.",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "teleporter": {
+            "text": "Шилжүүлэгчийг заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Энд шилжүүлэгч байгаа бололтой.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "teleporter_up": {
+            "text": "Дээш гарах замыг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Энэ шат дээш хүргэнэ.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "teleporter_down": {
+            "text": "Доош орох замыг заа.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Энэ шат биднийг доош хүргэнэ.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "bomb": {
+            "text": "%s-г заа.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Энд %s байрлуулжээ.\"",
+            "world_icon": "tag_spot-trap",
+            "world_icon_small": "mini_spot"
+          },
+          "collider": {
+            "text": "Эвдэж болох %s-г заа.",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Бид энэ %s-г эвдээд гарч чадна.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          }
+        }
+      ]
+    },
+    {
+      "action": "player_wave_1",
+      "id": 4,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+      "text_maps": [
+        {
+          "player_wave": {
+            "text": "%s рүү далла!",
+            "word_highlights": [
+              2
+            ],
+            "msg_emote": "%s нь %s рүү даллалаа!",
+            "msg_emote_you": "Та %s рүү даллалаа!",
+            "msg_emote_to_you": "%s тан руу даллалаа!",
+            "world_icon": "tag_self_player-wave",
+            "world_icon_small": "mini_spot"
+          },
+          "unavailable": {
+            "text": "Тоглогч боломжгүй",
+            "word_highlights": [
+              0,
+              1,
+              2
+            ],
+            "msg_emote": "",
+            "msg_emote_you": "",
+            "world_icon": "",
+            "world_icon_small": ""
+          }
+        }
+      ]
+    },
+    {
+      "action": "player_wave_2",
+      "id": 6,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+      "text_maps": [
+        {
+          "player_wave": {
+            "text": "%s рүү далла!",
+            "word_highlights": [
+              2
+            ],
+            "msg_emote": "%s нь %s рүү даллалаа!",
+            "msg_emote_you": "Та %s рүү даллалаа!",
+            "msg_emote_to_you": "%s тан руу даллалаа!",
+            "world_icon": "tag_self_player-wave",
+            "world_icon_small": "mini_spot"
+          },
+          "unavailable": {
+            "text": "Тоглогч боломжгүй",
+            "word_highlights": [
+              0,
+              1,
+              2
+            ],
+            "msg_emote": "",
+            "msg_emote_you": "",
+            "world_icon": "",
+            "world_icon_small": ""
+          }
+        }
+      ]
+    },
+    {
+      "action": "player_wave_3",
+      "id": 2,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_check.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_check_hover.png",
+      "text_maps": [
+        {
+          "player_wave": {
+            "text": "%s рүү далла!",
+            "word_highlights": [
+              2
+            ],
+            "msg_emote": "%s нь %s рүү даллалаа!",
+            "msg_emote_you": "Та %s рүү даллалаа!",
+            "msg_emote_to_you": "%s тан руу даллалаа!",
+            "world_icon": "tag_self_player-wave",
+            "world_icon_small": "mini_spot"
+          },
+          "unavailable": {
+            "text": "Тоглогч боломжгүй",
+            "word_highlights": [
+              0,
+              1,
+              2
+            ],
+            "msg_emote": "",
+            "msg_emote_you": "",
+            "world_icon": "",
+            "world_icon_small": ""
+          }
+        }
+      ]
+    },
+    {
+      "action": "help",
+      "id": 3,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_help.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_help_hover.png",
+      "text_maps": [
+        {
+          "default": {
+            "text": "Тусламж дууд!",
+            "word_highlights": [],
+            "msg_emote": "%s тусламж дуудлаа!",
+            "msg_emote_you": "Та тусламж дуудлаа!",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "help_all_conditions": {
+            "text": "Тусламж дууд! (%s)",
+            "word_highlights": [],
+            "msg_emote": "%s тусламж дуудлаа!\n(%s)",
+            "msg_emote_you": "Та тусламж дуудлаа!\n(%s)",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "help_deceased": {
+            "text": "Тусламж дууд! (%s)",
+            "word_highlights": [],
+            "msg_emote": "%s тусламж дуудлаа!\n(%s)",
+            "msg_emote_you": "Та тусламж дуудлаа!\n(%s)",
+            "world_icon": "tag_help-ghost",
+            "world_icon_small": "mini_help"
+          },
+          "condition_food_hungry": {
+            "text": "Надад хоол хэрэгтэй! (Өлссөн)",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Надад хоол хэрэгтэй! (Өлссөн)",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_blood_hungry": {
+            "text": "Надад цус хэрэгтэй! (Өлссөн)",
+            "word_highlights": [],
+            "msg_says": "%s\"Надад цус хэрэгтэй! (Өлссөн)",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_food_weak": {
+            "text": "Надад хоол хэрэгтэй! (Сульдсан)",
+            "word_highlights": [],
+            "msg_says": "%s\"Надад хоол хэрэгтэй! (Сульдсан)",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_blood_weak": {
+            "text": "Надад цус хэрэгтэй! (Сульдсан)",
+            "word_highlights": [],
+            "msg_says": "%s\"Надад цус хэрэгтэй! (Сульдсан)",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_steam_empty": {
+            "text": "Миний зуух хоосорлоо!",
+            "word_highlights": [],
+            "msg_says": "%s\"Миний зуух хоосорлоо!",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_food_starving": {
+            "text": "Би өлсөж үхлээ!",
+            "word_highlights": [],
+            "msg_says": "%s\"Би өлсөж үхлээ!",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_blood_starving": {
+            "text": "Би өлсөж үхлээ! (Цус)",
+            "word_highlights": [],
+            "msg_says": "%s\"Би өлсөж үхлээ!  (Цус)",
+            "world_icon": "tag_help-food",
+            "world_icon_small": "mini_help"
+          },
+          "condition_heal": {
+            "text": "Намайг эдгээгээрэй!",
+            "word_highlights": [],
+            "msg_says": "%s\"Намайг эдгээгээрэй!",
+            "world_icon": "tag_help-hp",
+            "world_icon_small": "mini_help"
+          },
+          "condition_heal_urgent": {
+            "text": "Миний амь бараг дууслаа!",
+            "word_highlights": [],
+            "msg_says": "%s\"Миний амь бараг дууслаа!",
+            "world_icon": "tag_help-hp",
+            "world_icon_small": "mini_help"
+          },
+          "condition_cure_ailment": {
+            "text": "Надад өвчин тайлах шившлэг хэрэгтэй!",
+            "word_highlights": [],
+            "msg_says": "%s\"Надад өвчин тайлах шившлэг хэрэгтэй!",
+            "world_icon": "tag_help-cure",
+            "world_icon_small": "mini_help"
+          },
+          "location": {
+            "text": "Надад туслаарай!",
+            "word_highlights": [],
+            "msg_emote": "%s-д тусламж хэрэгтэй!",
+            "msg_emote_you": "Та тусламж хүслээ!",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "item": {
+            "text": "Энэ %s дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s дээр надад туслаарай.\"",
+            "world_icon": "tag_help-item",
+            "world_icon_small": "mini_help"
+          },
+          "item_an": {
+            "text": "Энэ %s дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s дээр надад туслаарай.\"",
+            "world_icon": "tag_help-item",
+            "world_icon_small": "mini_help"
+          },
+          "npc": {
+            "text": "Энэ %s дээр надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s дээр надад туслаарай!\"",
+            "world_icon": "tag_help-npc",
+            "world_icon_small": "mini_help"
+          },
+          "npc_named": {
+            "text": "%s дээр надад туслаарай!",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"%s дээр надад туслаарай!\"",
+            "world_icon": "tag_help-npc",
+            "world_icon_small": "mini_help"
+          },
+          "npc_an": {
+            "text": "Энэ %s дээр надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s дээр надад туслаарай!\"",
+            "world_icon": "tag_help-npc",
+            "world_icon_small": "mini_help"
+          },
+          "npc_enemy_named": {
+            "text": "%s дээр надад туслаарай!",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"%s дээр надад туслаарай!\"",
+            "world_icon": "tag_help-npc",
+            "world_icon_small": "mini_help"
+          },
+          "npc_enemy": {
+            "text": "Энэ %s дээр надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s дээр надад туслаарай!\"",
+            "world_icon": "tag_help-npc",
+            "world_icon_small": "mini_help"
+          },
+          "npc_ally": {
+            "text": "Манай холбоотон %s-д тусламж хэрэгтэй!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Манай холбоотон %s-д тусламж хэрэгтэй!\"",
+            "world_icon": "tag_help-npc",
+            "world_icon_small": "mini_help"
+          },
+          "chest": {
+            "text": "Энэ авдар дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ авдар дээр надад туслаарай.\"",
+            "world_icon": "tag_help-item",
+            "world_icon_small": "mini_help"
+          },
+          "switch_on": {
+            "text": "Энэ хөшүүрэг дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ хөшүүрэг дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "switch_off": {
+            "text": "Энэ хөшүүрэг дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ хөшүүрэг дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "wall_button_on": {
+            "text": "Энэ товч дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ товч дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "wall_button_off": {
+            "text": "Энэ товч дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ товч дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "wall_lock_on": {
+            "text": "Энэ идэвхтэй %s түлхүүр дээр надад туслаарай.",
+            "word_highlights": [
+              5,
+              6,
+              7
+            ],
+            "msg_says": "%s\"Энэ идэвхтэй %s түлхүүр дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "wall_lock_off": {
+            "text": "Энэ идэвхгүй %s түлхүүр дээр надад туслаарай.",
+            "word_highlights": [
+              5,
+              6,
+              7
+            ],
+            "msg_says": "%s\"Энэ идэвхгүй %s түлхүүр дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "wall_lock": {
+            "text": "Энэ %s цоож дээр надад туслаарай.",
+            "word_highlights": [
+              5,
+              6
+            ],
+            "msg_says": "%s\"Энэ %s цоож дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "switch": {
+            "text": "Энэ хөшүүрэг дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ хөшүүрэг дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "boulder": {
+            "text": "Энэ бул чулуу дээр надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ бул чулуу дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "trap": {
+            "text": "Энэ %s-ийн дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s-ийн дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "generic_interactable": {
+            "text": "Энэ %s-ийн дэргэд надад туслаарай!",
+            "word_highlights": [
+              5,
+              6
+            ],
+            "msg_says": "%s\"Энэ %s-ийн дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "shrine": {
+            "text": "Энэ тахилын газрын дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ тахилын газрын дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "daedalus": {
+            "text": "Энэ Дедалын тахилын газрын дэргэд надад туслаарай!",
+            "word_highlights": [
+              5,
+              6
+            ],
+            "msg_says": "%s\"Энэ Дедалын тахилын газрын дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "assist_shrine": {
+            "text": "Би тусламжийн тахилын газрыг ашигламаар байна!",
+            "word_highlights": [
+              6,
+              7
+            ],
+            "msg_says": "%s\"Би тусламжийн тахилын газрыг ашигламаар байна!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "bell": {
+            "text": "Энэ хонхны дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ хонхны дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "exit": {
+            "text": "Гарцын дэргэд тусламж хүс.",
+            "word_highlights": [
+              4
+            ],
+            "msg_emote": "%s гарцын дэргэд тусламж хүслээ!",
+            "msg_emote_you": "Та гарцын дэргэд тусламж хүслээ!",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "secret_exit": {
+            "text": "Нууц давхрын гарцын дэргэд тусламж хүс.",
+            "word_highlights": [
+              4,
+              5,
+              6
+            ],
+            "msg_emote": "%s нууц давхрын гарцын дэргэд тусламж хүслээ!",
+            "msg_emote_you": "Та нууц давхрын гарцын дэргэд тусламж хүслээ!",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "secret_entrance": {
+            "text": "Нууц давхрын орцын дэргэд тусламж хүс.",
+            "word_highlights": [
+              4,
+              5,
+              6
+            ],
+            "msg_emote": "%s нууц давхрын орцын дэргэд тусламж хүслээ!",
+            "msg_emote_you": "Та нууц давхрын орцын дэргэд тусламж хүслээ!",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "gold": {
+            "text": "Энэ алтыг зөөхөд надад туслаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ алтыг зөөхөд надад туслаарай.\"",
+            "world_icon": "tag_help-item",
+            "world_icon_small": "mini_help"
+          },
+          "fountain": {
+            "text": "Энэ оргилуурын дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ оргилуурын дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "sink": {
+            "text": "Энэ угаалтуурын дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ угаалтуурын дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "teleporter": {
+            "text": "Энэ шилжүүлэгчийн дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ шилжүүлэгчийн дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "teleporter_up": {
+            "text": "Энэ шатны дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ шатны дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "teleporter_down": {
+            "text": "Энэ шатны дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ шатны дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "bomb": {
+            "text": "Энэ %s-ийн дэргэд надад туслаарай!",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Энэ %s-ийн дэргэд надад туслаарай!\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          },
+          "collider": {
+            "text": "Эвдэж болох энэ %s дээр надад туслаарай.",
+            "word_highlights": [
+              6
+            ],
+            "msg_says": "%s\"Эвдэж болох энэ %s дээр надад туслаарай.\"",
+            "world_icon": "tag_help",
+            "world_icon_small": "mini_help"
+          }
+        }
+      ]
+    },
+    {
+      "action": "move",
+      "id": 1,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_point.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_point_hover.png",
+      "text_maps": [
+        {
+          "default": {
+            "text": "Наашаа явцгаая!",
+            "word_highlights": [],
+            "msg_says": "%s\"Наашаа явцгаая!\"",
+            "world_icon": "tag_move",
+            "world_icon_small": "mini_move"
+          }
+        }
+      ]
+    },
+    {
+      "action": "thanks",
+      "id": 11,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_up.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_up_hover.png",
+      "text_maps": [
+        {
+          "default": {
+            "text": "%s-д таларх!",
+            "word_highlights": [
+              1
+            ],
+            "msg_emote": "%s нь %s-д талархлаа!",
+            "msg_emote_you": "Та %s-д талархлаа!",
+            "msg_emote_to_you": "%s танд талархлаа!",
+            "world_icon": "thanks",
+            "world_icon_small": "mini_spot"
+          }
+        }
+      ]
+    },
+    {
+      "action": "affirmative",
+      "id": 7,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_up.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_up_hover.png",
+      "text_maps": [
+        {
+          "default": {
+            "text": "Эрхий хуруугаа гозойлго.",
+            "word_highlights": [],
+            "msg_emote_you": "Та эрхий хуруугаа гозойлголоо!",
+            "msg_emote": "%s эрхий хуруугаа гозойлголоо!",
+            "world_icon": "tag_good",
+            "world_icon_small": "mini_yes"
+          },
+          "player_thanks": {
+            "text": "%s-д таларх!",
+            "word_highlights": [
+              1
+            ],
+            "msg_emote": "%s нь %s-д талархлаа!",
+            "msg_emote_you": "Та %s-д талархлаа!",
+            "msg_emote_to_you": "%s танд талархлаа!",
+            "world_icon": "thanks",
+            "world_icon_small": "mini_spot"
+          },
+          "location": {
+            "text": "Энд эрхий хуруугаа гозойлго.",
+            "word_highlights": [],
+            "msg_emote_you": "Та энд эрхий хуруугаа гозойлголоо!",
+            "msg_emote": "%s энд эрхий хуруугаа гозойлголоо!",
+            "world_icon": "tag_good",
+            "world_icon_small": "mini_yes"
+          },
+          "item": {
+            "text": "Энэ %s сайн байна.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s сайн байна.\"",
+            "world_icon": "tag_good-item",
+            "world_icon_small": "mini_yes"
+          },
+          "item_an": {
+            "text": "Энэ %s сайн байна.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s сайн байна.\"",
+            "world_icon": "tag_good-item",
+            "world_icon_small": "mini_yes"
+          },
+          "npc": {
+            "text": "Энэ %s-г зохицуулах хэрэгтэй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s-г зохицуулах хэрэгтэй.\"",
+            "world_icon": "tag_good-NPC",
+            "world_icon_small": "mini_move"
+          },
+          "npc_named": {
+            "text": "%s-г зохицуулах хэрэгтэй.",
+            "word_highlights": [
+              0
+            ],
+            "msg_says": "%s\"%s-г зохицуулах хэрэгтэй.\"",
+            "world_icon": "tag_good-NPC",
+            "world_icon_small": "mini_move"
+          },
+          "npc_an": {
+            "text": "Энэ %s-г зохицуулах хэрэгтэй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s-г зохицуулах хэрэгтэй.\"",
+            "world_icon": "tag_good-NPC",
+            "world_icon_small": "mini_move"
+          },
+          "npc_enemy_named": {
+            "text": "%s рүү дайр!",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"%s рүү дайр!\"",
+            "world_icon": "tag_good-NPC",
+            "world_icon_small": "mini_move"
+          },
+          "npc_enemy": {
+            "text": "%s рүү дайр!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"%s рүү дайр!\"",
+            "world_icon": "tag_good-NPC",
+            "world_icon_small": "mini_move"
+          },
+          "npc_ally": {
+            "text": "Манай холбоотон %s үүнийг чадна.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Манай холбоотон %s үүнийг чадна.\"",
+            "world_icon": "tag_good",
+            "world_icon_small": "mini_yes"
+          },
+          "chest": {
+            "text": "Би авдрыг шалгая.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би авдрыг шалгая.\"",
+            "world_icon": "tag_good-item",
+            "world_icon_small": "mini_yes"
+          },
+          "switch_on": {
+            "text": "Тэр хөшүүргийг унтраа!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг унтраа!\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "switch_off": {
+            "text": "Тэр хөшүүргийг асаа!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг асаа!\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "wall_button_on": {
+            "text": "Тэр товч идэвхтэй байна!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр товч идэвхтэй байна!\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "wall_button_off": {
+            "text": "Тэр товчийг дар!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Тэр товчийг дар!\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "wall_lock_on": {
+            "text": "Тэр %s түлхүүрийг буцаа!",
+            "word_highlights": [
+              0,
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр %s түлхүүрийг буцаа!\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "wall_lock_off": {
+            "text": "Тэр %s түлхүүрийг идэвхжүүл!",
+            "word_highlights": [
+              2,
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр %s түлхүүрийг идэвхжүүл!\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "wall_lock": {
+            "text": "Тэр %s цоожийг онгойлгоорой.",
+            "word_highlights": [
+              5,
+              6
+            ],
+            "msg_says": "%s\"Тэр %s цоожийг онгойлгоорой.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "switch": {
+            "text": "Тэр хөшүүргийг ашиглаарай.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг ашиглаарай.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "boulder": {
+            "text": "Тэр бул чулууг зохицуулах хэрэгтэй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Тэр бул чулууг зохицуулах хэрэгтэй.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_yes"
+          },
+          "trap": {
+            "text": "Тэр %s аюулгүй гэж бодож байна.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Тэр %s аюулгүй гэж бодож байна.\"",
+            "world_icon": "tag_good-trap",
+            "world_icon_small": "mini_yes"
+          },
+          "generic_interactable": {
+            "text": "Энэ %s ашиглахад бэлэн.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s ашиглахад бэлэн.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "shrine": {
+            "text": "Би тахилын газрыг ашиглая.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би тахилын газрыг ашиглая.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "daedalus": {
+            "text": "Би Дедалын тахилын газрыг ашиглая.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Би Дедалын тахилын газрыг ашиглая.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "assist_shrine": {
+            "text": "Тусламжийн тахилын газар бэлэн боллоо.",
+            "word_highlights": [
+              1,
+              2
+            ],
+            "msg_says": "%s\"Тусламжийн тахилын газар бэлэн боллоо.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "bell": {
+            "text": "Би хонхыг ашиглая.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би хонхыг ашиглая.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "exit": {
+            "text": "Би гарцаар гарахад бэлэн.",
+            "word_highlights": [
+              5
+            ],
+            "msg_says": "%s\"Би гарцаар гарахад бэлэн.\"",
+            "world_icon": "tag_move-exit",
+            "world_icon_small": "mini_move"
+          },
+          "secret_exit": {
+            "text": "Нууц давхраас гарцгаая.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Эндээс гарцгаая!\"",
+            "world_icon": "tag_move-exit",
+            "world_icon_small": "mini_move"
+          },
+          "secret_entrance": {
+            "text": "Нууц замаар явцгаая.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Нууц замаар явцгаая.\"",
+            "world_icon": "tag_spot",
+            "world_icon_small": "mini_spot"
+          },
+          "gold": {
+            "text": "Би алтыг зөөе.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би алтыг зөөе.\"",
+            "world_icon": "tag_good-item",
+            "world_icon_small": "mini_yes"
+          },
+          "fountain": {
+            "text": "Би оргилуурыг ашиглая.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би оргилуурыг ашиглая.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "sink": {
+            "text": "Би угаалтуурыг ашиглая.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Би угаалтуурыг ашиглая.\"",
+            "world_icon": "tag_good-interact",
+            "world_icon_small": "mini_spot"
+          },
+          "teleporter": {
+            "text": "Би шилжүүлэгчээр дамжъя.",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Би шилжүүлэгчээр дамжъя.\"",
+            "world_icon": "tag_move-exit",
+            "world_icon_small": "mini_move"
+          },
+          "teleporter_up": {
+            "text": "Би энэ шатаар өгслөө.",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Би энэ шатаар өгслөө.\"",
+            "world_icon": "tag_move-exit",
+            "world_icon_small": "mini_move"
+          },
+          "teleporter_down": {
+            "text": "Би шатаар уруудлаа.",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Би шатаар уруудлаа.\"",
+            "world_icon": "tag_move-exit",
+            "world_icon_small": "mini_move"
+          },
+          "bomb": {
+            "text": "Энэ %s бэлэн боллоо.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s бэлэн боллоо.\"",
+            "world_icon": "tag_good-trap",
+            "world_icon_small": "mini_yes"
+          },
+          "collider": {
+            "text": "Энэ %s-г эвдээд гарцгаая.",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Энэ %s-г эвдээд гарцгаая.\"",
+            "world_icon": "tag_good-NPC",
+            "world_icon_small": "mini_help"
+          }
+        }
+      ]
+    },
+    {
+      "action": "negative",
+      "id": 5,
+      "path": "#*images/ui/CalloutWheel/icons/btn_player_down.png",
+      "path_hover": "#*images/ui/CalloutWheel/icons/btn_player_down_hover.png",
+      "text_maps": [
+        {
+          "default": {
+            "text": "Эрхий хуруугаа доош харуул.",
+            "word_highlights": [],
+            "msg_emote_you": "Та эрхий хуруугаа доош харууллаа.",
+            "msg_emote": "%s эрхий хуруугаа доош харууллаа.",
+            "world_icon": "tag_bad",
+            "world_icon_small": "mini_no"
+          },
+          "location": {
+            "text": "Энд эрхий хуруугаа доош харуул.",
+            "word_highlights": [],
+            "msg_emote_you": "Та энд эрхий хуруугаа доош харууллаа.",
+            "msg_emote": "%s энд эрхий хуруугаа доош харууллаа.",
+            "world_icon": "tag_bad",
+            "world_icon_small": "mini_no"
+          },
+          "item": {
+            "text": "Энэ %s надад тохирохгүй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s надад тохирохгүй.\"",
+            "world_icon": "tag_bad-item",
+            "world_icon_small": "mini_no"
+          },
+          "item_an": {
+            "text": "Энэ %s надад тохирохгүй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ %s надад тохирохгүй.\"",
+            "world_icon": "tag_bad-item",
+            "world_icon_small": "mini_no"
+          },
+          "npc": {
+            "text": "Тэр %s-ээс зайлсхий!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Тэр %s-ээс зайлсхий!\"",
+            "world_icon": "tag_bad-NPC",
+            "world_icon_small": "mini_no"
+          },
+          "npc_named": {
+            "text": "%s-ээс зайлсхий!",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"%s-ээс зайлсхий!\"",
+            "world_icon": "tag_bad-NPC",
+            "world_icon_small": "mini_no"
+          },
+          "npc_an": {
+            "text": "Тэр %s-ээс зайлсхий!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Тэр %s-ээс зайлсхий!\"",
+            "world_icon": "tag_bad-NPC",
+            "world_icon_small": "mini_no"
+          },
+          "npc_enemy_named": {
+            "text": "%s-ээс зугт!",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"%s-ээс зугт!\"",
+            "world_icon": "tag_move-NPC",
+            "world_icon_small": "mini_danger"
+          },
+          "npc_enemy": {
+            "text": "%s-ээс зугт!",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"%s-ээс зугт!\"",
+            "world_icon": "tag_move-NPC",
+            "world_icon_small": "mini_danger"
+          },
+          "npc_ally": {
+            "text": "Манай холбоотон %s үүнийг чадахгүй.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Манай холбоотон %s үүнийг чадахгүй.\"",
+            "world_icon": "tag_bad",
+            "world_icon_small": "mini_no"
+          },
+          "chest": {
+            "text": "Энэ авдарт хэрэгтэй зүйл алга.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Энэ авдарт хэрэгтэй зүйл алга.\"",
+            "world_icon": "tag_bad-item",
+            "world_icon_small": "mini_no"
+          },
+          "switch_on": {
+            "text": "Тэр хөшүүргийг асаалттай орхи!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг асаалттай орхи!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "switch_off": {
+            "text": "Тэр хөшүүргийг унтраалттай орхи!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг унтраалттай орхи!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "wall_button_on": {
+            "text": "Тэр товчийг дарсан чигээр нь орхи!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр товчийг дарсан чигээр нь орхи!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "wall_button_off": {
+            "text": "Тэр товчийг бүү хөнд!",
+            "word_highlights": [
+              2,
+              3
+            ],
+            "msg_says": "%s\"Тэр товчийг бүү хөнд!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "wall_lock_on": {
+            "text": "Тэр %s түлхүүрийг эргүүлсэн чигээр нь орхи!",
+            "word_highlights": [
+              2,
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр %s түлхүүрийг эргүүлсэн чигээр нь орхи!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "wall_lock_off": {
+            "text": "Тэр %s түлхүүрийг бүү эргүүл!",
+            "word_highlights": [
+              2,
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр %s түлхүүрийг бүү эргүүл!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "wall_lock": {
+            "text": "Тэр %s цоожийг бүү онгойлго!",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр %s цоожийг бүү онгойлго!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "switch": {
+            "text": "Тэр хөшүүргийг бүү хөнд!",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Тэр хөшүүргийг бүү хөнд!\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "boulder": {
+            "text": "Тэр бул чулуунаас болгоомжил!",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Тэр бул чулуунаас болгоомжил!\"",
+            "world_icon": "tag_move-NPC",
+            "world_icon_small": "mini_danger"
+          },
+          "trap": {
+            "text": "Тэр %s асуудал тарьж магадгүй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Тэр %s асуудал тарьж магадгүй.\"",
+            "world_icon": "tag_bad-trap",
+            "world_icon_small": "mini_danger"
+          },
+          "generic_interactable": {
+            "text": "Тэр %s-г бүү ашигла.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Тэр %s-г бүү ашигла.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "shrine": {
+            "text": "Тэр тахилын газрыг бүү ашигла.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Тэр тахилын газрыг бүү ашигла.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "daedalus": {
+            "text": "Тэр Дедалын тахилын газрыг бүү ашигла.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр Дедалын тахилын газрыг бүү ашигла.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "assist_shrine": {
+            "text": "Тэр тусламжийн тахилын газрыг бүү ашигла.",
+            "word_highlights": [
+              3,
+              4
+            ],
+            "msg_says": "%s\"Тэр тусламжийн тахилын газрыг бүү ашигла.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "bell": {
+            "text": "Тэр хонхыг бүү ашигла.",
+            "word_highlights": [
+              3
+            ],
+            "msg_says": "%s\"Тэр хонхыг бүү ашигла.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "exit": {
+            "text": "Би гарцаар гарахад бэлэн биш.",
+            "word_highlights": [
+              6
+            ],
+            "msg_says": "%s\"Би одоохондоо гарахад бэлэн биш.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "secret_exit": {
+            "text": "Би нууц давхраас гарахад бэлэн биш.",
+            "word_highlights": [
+              6,
+              7
+            ],
+            "msg_says": "%s\"Би энэ газраас гарахад бэлэн биш.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "secret_entrance": {
+            "text": "Бид нууц замаас зайлсхийх хэрэгтэй.",
+            "word_highlights": [
+              4,
+              5
+            ],
+            "msg_says": "%s\"Бид нууц замаас зайлсхийх хэрэгтэй.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "gold": {
+            "text": "Надад энэ алт хэрэггүй.",
+            "word_highlights": [
+              4
+            ],
+            "msg_says": "%s\"Надад энэ алт хэрэггүй.\"",
+            "world_icon": "tag_bad-item",
+            "world_icon_small": "mini_no"
+          },
+          "fountain": {
+            "text": "Энэ оргилуур надад тохирохгүй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ оргилуур надад тохирохгүй.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "sink": {
+            "text": "Энэ угаалтуур надад тохирохгүй.",
+            "word_highlights": [
+              1
+            ],
+            "msg_says": "%s\"Энэ угаалтуур надад тохирохгүй.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "teleporter": {
+            "text": "Би шилжүүлэгчээр дамжихад хараахан бэлэн биш.",
+            "word_highlights": [
+              7
+            ],
+            "msg_says": "%s\"Би шилжүүлэгчээр дамжихад хараахан бэлэн биш.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "teleporter_up": {
+            "text": "Би одоохондоо өгсөхөд бэлэн биш.",
+            "word_highlights": [],
+            "msg_says": "%s\"Би одоохондоо өгсөхөд бэлэн биш.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "teleporter_down": {
+            "text": "Би одоохондоо уруудахад бэлэн биш.",
+            "word_highlights": [],
+            "msg_says": "%s\"Би одоохондоо уруудахад бэлэн биш.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          },
+          "bomb": {
+            "text": "Энэ %s-г бүү хөнд.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Энэ %s-г бүү хөнд.\"",
+            "world_icon": "tag_bad-trap",
+            "world_icon_small": "mini_no"
+          },
+          "collider": {
+            "text": "Тэр %s-г бүү хөнд.",
+            "word_highlights": [
+              2
+            ],
+            "msg_says": "%s\"Тэр %s-г бүү хөнд.\"",
+            "world_icon": "tag_bad-interact",
+            "world_icon_small": "mini_no"
+          }
+        }
+      ]
+    },
+    {
+      "action": "cancel",
+      "id": -1,
+      "path": "",
+      "path_hover": "",
+      "path_active": "",
+      "path_active_hover": "",
+      "text_maps": [
+        {
+          "default": {
+            "text": "Болих",
+            "word_highlights": [
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "action": "invalid_action",
+      "id": -1,
+      "path": "",
+      "path_hover": "",
+      "path_active": "",
+      "path_active_hover": "",
+      "text_maps": [
+        {
+          "skill_missing_leader": {
+            "text": "Ур чадвар / үзүүлэлт хүрэхгүй: %d / %d",
+            "word_highlights": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          "skill_missing_tinker": {
+            "text": "Ур чадвар / үзүүлэлт хүрэхгүй: %d / %d ",
+            "word_highlights": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          "command_unavailable": {
+            "text": "%s энэ тушаалыг биелүүлэхгүй",
+            "word_highlights": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          "rest_cooldown": {
+            "text": "Энэ тушаалыг давхар бүрд нэг л удаа ашиглана",
+            "word_highlights": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          "tinker_quality_low": {
+            "text": "Илүү чанартай %s шаардлагатай",
+            "word_highlights": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

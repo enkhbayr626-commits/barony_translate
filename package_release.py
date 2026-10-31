@@ -3,7 +3,7 @@ from pathlib import Path
 import hashlib,json,zipfile
 ROOT=Path(__file__).resolve().parent
 PAYLOAD=ROOT/'Barony-Mongolian'
-VERSION='0.2.0'
+VERSION='0.3.0'
 
 def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 

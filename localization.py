@@ -49,11 +49,12 @@ def snapshot():
     print('Snapshotted',len(manifest),'files')
 def translatable(rel,p,s):
     if not re.search('[A-Za-z]',s): return False
-    if re.fullmatch(r'(?:DEPRECATED|NULL|null|UNKNOWN|unnamed)',s): return False
+    if s.startswith('DEPRECATED') or re.fullmatch(r'(?:NULL|null|UNKNOWN|unnamed)',s): return False
     key=next((v for v in reversed(p) if isinstance(v,str)),'')
     rel=rel.as_posix()
     if rel.startswith('themes/'):
         rel='/'.join(rel.split('/')[2:])
+    if rel.startswith('lang/compendium_lang/contents_'): return False  # Values are internal navigation IDs; keys are labels.
     if rel.startswith('lang/'):
         return key not in ('comment',)
     if rel.startswith('books/'): return True
@@ -86,6 +87,12 @@ def source_units():
                 if translatable(rel,(),m[2]): result.append((rel,('id',int(m[1])),m[2]))
         elif f.suffix=='.json':
             obj=json.loads(f.read_text('utf-8-sig'))
+            if rel.parent.as_posix()=='lang/compendium_lang' and f.name.startswith('contents_'):
+                for section,rows in obj.items():
+                    if not isinstance(rows,list): continue
+                    for i,row in enumerate(rows):
+                        for key in row: result.append((rel,('display_key',section,i),key))
+                continue
             for p,s in walk(obj):
                 if translatable(rel,p,s): result.append((rel,p,s))
         else:

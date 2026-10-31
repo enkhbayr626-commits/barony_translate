@@ -1,0 +1,173 @@
+Autosort inventory.\nHold [Right-click] for more options.	Үүргэвчийг эрэмбэлнэ.\nНэмэлт сонголтод [Баруун товч]-ийг дарж барина.
+Autosort inventory.\nHold [Right-click] for\nmore options.	Үүргэвчийг эрэмбэлнэ.\nНэмэлт сонголтод\n[Баруун товч]-ийг дарж барина.
+Hold [Right-click] to drop gold.	Алт хаяхын тулд [Баруун товч]-ийг дарж барина.
+Press a button to drop gold:	Алт хаях товч дарна уу:
+10 gold	10 алт
+100 gold	100 алт
+1000 gold	1000 алт
+ALL gold	БҮХ алт
+[Left-click] to 	[Зүүн товч]-оор 
+pin the game timer to the HUD.	тоглоомын цагийг дэлгэцэд тогтооно.
+unpin the game timer from the HUD.	тоглоомын цагийг дэлгэцээс салгана.
+Traits:	Онцлог:
+RACE INFO	УГСААНЫ МЭДЭЭЛЭЛ
+RACE INFO (Polymorphed)	УГСААНЫ МЭДЭЭЛЭЛ (Дүр хувирсан)
+RACE INFO (Shapeshifted)	УГСААНЫ МЭДЭЭЛЭЛ (Хэлбэр хувирсан)
+CLASS STAT GROWTHS	АНГИЙН ҮЗҮҮЛЭЛТИЙН ӨСӨЛТ
+CLASS STAT GROWTHS (Shapeshifted)	АНГИЙН ҮЗҮҮЛЭЛТИЙН ӨСӨЛТ (Хэлбэр хувирсан)
+Level Up increases three Stats by +1, influenced by Class\nImproving skills provides +20% to roll +2 for an Associated Stat   (See Associated Stats in Skills List)	Түвшин ахихад ангиас хамааран гурван үзүүлэлт +1 нэмэгдэнэ\nУр чадвар ахихад холбогдох үзүүлэлт +2 нэмэгдэх магадлал +20% өснө   (Ур чадварын жагсаалтаас холбогдох үзүүлэлтийг үзнэ үү)
+Base:	Суурь:
+Bonuses:\n (From items/effects)	Нэмэгдэл:\n (Эд зүйл/нөлөөнөөс)
+Increases melee ATK damage, stronger weapons receive higher STR benefit\nImproves movement speed while carrying large weights and HP Regen	Ойрын дайралтын хохирлыг нэмэгдүүлнэ. Хүчтэй зэвсэг STR-ээс илүү ашиг авна\nХүнд ачаатай үеийн хөдөлгөөн болон HP нөхөлтийг сайжруулна
+Increases ranged and thrown ATK damage, stronger weapons and ammunition receive higher DEX benefit\nImproves movement speed while carrying small weights, HP Regen and spell cast times	Холын болон шидэх дайралтын хохирлыг нэмэгдүүлнэ. Хүчтэй зэвсэг, сум DEX-ээс илүү ашиг авна\nХөнгөн ачаатай үеийн хөдөлгөөн, HP нөхөлт болон шивших хурдыг сайжруулна
+Increases Armor Class (AC) and reduces duration of negative status effects\nIncreases Spell Power (PWR) of Thaumaturgy spells\nImproves effects of Potions of Healing	Хуягийн зэрэг (AC)-ийг нэмэгдүүлж, сөрөг төлөвийн хугацааг бууруулна\nГайхамшгийн шившлэгийн хүч (PWR)-ийг нэмэгдүүлнэ\nЭдгээх хандны нөлөөг сайжруулна
+Increases Spell Power (PWR) and effects of all magic spell schools\nIncreases Magic Resistance (RES)\nImproves effects of Potions of Restore Magic	Бүх шидийн сургуулийн шившлэгийн хүч (PWR) ба нөлөөг нэмэгдүүлнэ\nШидийн тэсвэр (RES)-ийг нэмэгдүүлнэ\nШид нөхөх хандны нөлөөг сайжруулна
+Increases Armor Pierce chance with Ranged weaponry\nIncreases effects of Tinkering and Lore skills\nProvides extra visibility in dark areas\nImproves MP Regen and spell distance	Холын зэвсгээр хуяг нэвтлэх магадлалыг нэмэгдүүлнэ\nУрлах ба мэдлэгийн ур чадварын нөлөөг нэмэгдүүлнэ\nХаранхуйд харах зайг нэмэгдүүлнэ\nMP нөхөлт болон шившлэгийн зайг сайжруулна
+Increases effects of Leadership and Trading skills\nIncreases Spell Power (PWR) of Mysticism spells and improves MP Regen\nIncreases HP/MP restored on level up	Манлайлах болон худалдаалах ур чадварын нөлөөг нэмэгдүүлнэ\nНууц увдисын шившлэгийн хүч (PWR) болон MP нөхөлтийг сайжруулна\nТүвшин ахихад нөхөгдөх HP/MP-г нэмэгдүүлнэ
+STR Speed Bonus:	STR хурдны нэмэгдэл:
+Melee ATK Bonus:	Ойрын ATK нэмэгдэл:
+DEX Speed Bonus:	DEX хурдны нэмэгдэл:
+Ranged ATK Bonus:	Холын ATK нэмэгдэл:
+Thrown ATK Bonus:	Шидэх ATK нэмэгдэл:
+Armor Class Bonus:	Хуягийн зэргийн нэмэгдэл:
+Base Spell Power Bonus:	Суурь шидийн хүчний нэмэгдэл:
+Sorcery Bonus:	Илбийн нэмэгдэл:
+Magic Resistance Bonus:	Шидийн тэсвэрийн нэмэгдэл:
+Thaumaturgy Bonus:	Гайхамшгийн нэмэгдэл:
+Mysticism Bonus:	Нууц увдисын нэмэгдэл:
+Level Up Restoration:	Түвшин ахих нөхөлт:
+MP Regen Bonus:	MP нөхөлтийн нэмэгдэл:
+Ranged Armor Pierce Chance:	Холын хуяг нэвтлэх магадлал:
+Passive Bonus Vision:	Идэвхгүй харааны нэмэгдэл:
+Sneaking Bonus Vision:	Нуугдах харааны нэмэгдэл:
+%+d Light	%+d Гэрэл
+Item Sell Value:	Эд зүйл зарах үнэ:
+Item Buying Discount:	Эд зүйл авах хөнгөлөлт:
+%+.1f%% Gold	%+.1f%% Алт
+Max ATK Totals:	Хамгийн их ATK нийлбэр:
+ATK Damage Range:\n (Using %s skill: %d/100)	ATK хохирлын хүрээ:\n (%s ур чадвар: %d/100)
+ATK Damage Range:	ATK хохирлын хүрээ:
+ATK Average:	Дундаж ATK:
+ATK Damage:	ATK хохирол:
+Critical strikes deal 200%% damage\nHigher %s skill increases ATK average\nStriking enemies from behind deals additional damage based on Stealth skill	Хүчтэй цохилт 200%% хохирол учруулна\n%s ур чадвар өсөхөд дундаж ATK нэмэгдэнэ\nАраас цохиход нуугдах чадвараас хамаарч нэмэлт хохирол учруулна
+Critical strikes deal 200%% damage\nStriking enemies from behind deals additional damage based on Stealth skill	Хүчтэй цохилт 200%% хохирол учруулна\nАраас цохиход нуугдах чадвараас хамаарч нэмэлт хохирол учруулна
+Critical strikes deal 200%% damage\nHigher %s skill increases ATK average\nEquipped rings and fist weapons modify ATK\nStriking enemies from behind deals additional damage based on Stealth skill	Хүчтэй цохилт 200%% хохирол учруулна\n%s ур чадвар өсөхөд дундаж ATK нэмэгдэнэ\nЗүүсэн бөгж, гарын зэвсэг ATK-д нөлөөлнө\nАраас цохиход нуугдах чадвараас хамаарч нэмэлт хохирол учруулна
+Ranged attacks have a chance to ignore 50%% of target's AC based on PER stat\nHigher %s skill increases ATK average\nEquipped quivers modify ATK and apply additional effects on hit	PER-ээс хамаарч холын дайралт байны AC-ийн 50%%-ийг үл тоох магадлалтай\n%s ур чадвар өсөхөд дундаж ATK нэмэгдэнэ\nЗүүсэн хоромсого ATK-г өөрчилж, оноход нэмэлт нөлөө үзүүлнэ
+Attacks ignore 50-75%% of target's AC\nHigher %s skill increases damage\nFully charged throw deals maximum damage and increases Armor Pierce on target	Дайралт байны AC-ийн 50-75%%-ийг үл тооно\n%s ур чадвар өсөхөд хохирол нэмэгдэнэ\nБүрэн бэлдсэн шидэлт хамгийн их хохирол учруулж, хуяг нэвтлэлтийг нэмэгдүүлнэ
+Higher %s skill increases damage\nFully charged throws deal maximum damage	%s ур чадвар өсөхөд хохирол нэмэгдэнэ\nБүрэн бэлдсэн шидэлт хамгийн их хохирол учруулна
+Potion effects are also applied to the target on impact\nHigher %s skill increases impact and potion effect damage	Оноход хандны нөлөө мөн байнд үйлчилнэ\n%s ур чадвар өсөхөд мөргөлт болон хандны хохирол нэмэгдэнэ
+Casts contained Magicstaff spell on attack\nCharging magicstaff allows finer aim when releasing attack\nSpell power and effects are unaffected by charge amount	Дайрахад таягт агуулагдах шившлэгийг гаргана\nТаягийг бэлдэж барихад тавихдаа илүү нарийн онилно\nБэлдсэн хэмжээнээс шидийн хүч, нөлөө хамаарахгүй
+Unable to attack while held\nInteracts with objects in the world on use	Барихдаа дайрах боломжгүй\nАшиглахад орчны зүйлстэй харилцана
+Deploys held Tinkering tool on attack\nFully charged throw deploys held item further	Дайрахад барьсан урлах төхөөрөмжийг байрлуулна\nБүрэн бэлдэж шидвэл илүү хол байрлуулна
+Weapon Bonus:	Зэвсгийн нэмэгдэл:
+Items / Effects Bonus:	Эд зүйл / нөлөөний нэмэгдэл:
+Attribute Bonus (STR):	Үзүүлэлтийн нэмэгдэл (STR):
+Attribute Bonus (DEX):	Үзүүлэлтийн нэмэгдэл (DEX):
+Attribute Bonus (STR/DEX):	Үзүүлэлтийн нэмэгдэл (STR/DEX):
+Base Melee Damage:	Ойрын суурь хохирол:
+Base Ranged Damage:	Холын суурь хохирол:
+Base Unarmed Damage:	Гар нүцгэн суурь хохирол:
+Base Thrown Damage:	Шидэлтийн суурь хохирол:
+Fully charged throw bonus:	Бүрэн бэлдсэн шидэлтийн нэмэгдэл:
+ATK variance from skill:	Ур чадвараас хамаарах ATK хэлбэлзэл:
+Skill Bonus:	Ур чадварын нэмэгдэл:
+Base Armor Class:	Суурь хуягийн зэрэг:
+Active Blocking Bonus:\n (Using %s skill: %d/100)	Идэвхтэй хаалтын нэмэгдэл:\n (%s ур чадвар: %d/100)
+Attribute Bonus (CON):	Үзүүлэлтийн нэмэгдэл (CON):
+Base AC Totals:	Суурь AC нийлбэр:
+Passive Skill Bonus:	Идэвхгүй чадварын нэмэгдэл:
+Reduces physical damage taken per AC point\nBlocking increases AC no matter the direction or timing of incoming attacks\nActive Blocking Bonus applies to most Off-hand items, while Passive Skill Bonus applies only to held shields	AC нэгж бүр биет хохирлыг бууруулна\nХаалт нь дайралтын чиглэл, хугацаанаас үл хамааран AC-г нэмэгдүүлнэ\nИдэвхтэй хаалтын нэмэгдэл туслах гарын ихэнх зүйлд, идэвхгүй чадварын нэмэгдэл зөвхөн барьсан бамбайд үйлчилнэ
+SPELL POWER (%s)	ШИДИЙН ХҮЧ (%s)
+Spell Power:	Шидийн хүч:
+Spellbook-Cast Bonus:\n (Using INT stat)	Номоор шивших нэмэгдэл:\n (INT үзүүлэлтээр)
+Attribute Bonus (INT):	Үзүүлэлтийн нэмэгдэл (INT):
+Attribute Bonus (INT + CHR):	Үзүүлэлтийн нэмэгдэл (INT + CHR):
+Attribute Bonus (INT + CON):	Үзүүлэлтийн нэмэгдэл (INT + CON):
+Base Spell Power:	Суурь шидийн хүч:
+Spell Power Totals:	Шидийн хүчний нийлбэр:
+Increases spell damage and healing when casting learned spells\nSpellbook-Casting with held spellbooks provides greater spell amplification	Цээжилсэн шившлэгээр шившихэд хохирол болон эдгэрэлт нэмэгдэнэ\nБарьсан шившлэгийн номоор шившихэд шидийн хүч илүү нэмэгдэнэ
+Diminished Magic Resistance Totals:	Буурч тооцогдох шидийн тэсвэрийн нийлбэр:
+Magic Resistance:	Шидийн тэсвэр:
+Resistance Sources:\n (From items/effects)	Тэсвэрийн эх үүсвэр:\n (Эд зүйл/нөлөөнөөс)
+Racial Bonus (%s):	Угсааны нэмэгдэл (%s):
+%+d source(s)	%+d эх үүсвэр
+Reduces spell damage taken by resistance % (Negative % increases damage taken)\nAll sources of Magic Resistance stack diminishingly	Шидийн хохирлыг тэсвэрийн %-иар бууруулна (Сөрөг % нь хохирлыг нэмэгдүүлнэ)\nШидийн тэсвэрийн эх үүсвэрүүдийн нэмэгдэх үр дүн буурч тооцогдоно
+HP Regeneration Totals:	HP нөхөлтийн нийлбэр:
+Total HP Regeneration:	Нийт HP нөхөлт:
+Regen Modifier:\n (From items/effects)	Нөхөлтийн өөрчлөгч:\n (Эд зүйл/нөлөөнөөс)
+Class LVL / Racial Bonus:	Ангийн түвшин / угсааны нэмэгдэл:
+Effective Rate:	Бодит хурд:
+0 HP every %2.1f seconds	%2.1f секунд тутам 0 HP
+HP Regeneration disabled	HP нөхөлт идэвхгүй
++1 HP every %2.1f seconds	%2.1f секунд тутам +1 HP
+%+d  [HP Regen]	%+d  [HP нөхөлт]
+HP Regenerates slowly over time, instant HP restoration requires potions or spells\nMaximum Regen Modifier from items/effects limited to +3 [HP Regen]	HP хугацааны явцад аажим нөхөгдөнө. Шууд нөхөхөд ханд эсвэл шившлэг хэрэгтэй\nЭд зүйл/нөлөөний нөхөлтийн өөрчлөгчийн дээд хэмжээ +3 [HP нөхөлт]
+NOTE: Hunger is disabled in Game Settings, HP requires Regen Modifiers to restore passively\nMaximum Regen Modifier from items/effects limited to +3 [HP Regen]	ТАЙЛБАР: Тоглоомын тохиргоонд өлсгөлөнг унтраасан тул HP аяндаа нөхөгдөхөд нөхөлтийн өөрчлөгч хэрэгтэй\nЭд зүйл/нөлөөний нөхөлтийн өөрчлөгчийн дээд хэмжээ +3 [HP нөхөлт]
+NOTE: Hunger is disabled in Game Settings for the current play session, HP no longer regenerates passively without modifiers\nInstead, restore HP by consuming food and using potions/spells	ТАЙЛБАР: Энэ тоглолтод өлсгөлөнг унтраасан тул өөрчлөгчгүй үед HP аяндаа нөхөгдөхгүй\nХоол, ханд, шившлэгээр HP-гээ нөхөөрэй
+NOTE: Hunger is disabled in Game Settings for the current play session, EN no longer degenerates passively\nCasting spells consumes EN\nStarvation occurs when EN is empty\nRestore EN by consuming food, sweet liquids and using MP restoring effects	ТАЙЛБАР: Энэ тоглолтод өлсгөлөнг унтраасан тул EN аяндаа буурахгүй\nШившихэд EN зарцуулна\nEN дуусахад өлсөж эхэлнэ\nХоол, чихэрлэг шингэн болон MP нөхөх нөлөөгөөр EN-ээ нөхнө
+HEAT STATUS	ДУЛААНЫ ТӨЛӨВ
+ENERGY BURN RATE	ЭРЧИМ ХҮЧНИЙ ЗАРЦУУЛАЛТ
+MP Regeneration Totals:	MP нөхөлтийн нийлбэр:
+STATUS REPORT:	ТӨЛӨВИЙН ТАЙЛАН:
+Energy Burn Rate Totals:	Эрчим хүчний нийт зарцуулалт:
+Rate Modifier:\n (From items/effects)	Хурдны өөрчлөгч:\n (Эд зүйл/нөлөөнөөс)
+Total MP Regeneration:	Нийт MP нөхөлт:
+Total Heat (HT) Rate:	Нийт дулааны (HT) хурд:
+Energy (EN) Burn Rate:	Эрчим хүчний (EN) зарцуулалт:
+Items / Effects Modifiers:	Эд зүйл / нөлөөний өөрчлөгч:
+Boiler Status:	Уурын зуухны төлөв:
+NOMINAL	ХЭВИЙН
+SUPERHEATED	ХЭТ ХАЛСАН
+CRITICALLY LOW	НОЦТОЙ БАГА
+Base HT Rate:	Суурь HT хурд:
+Base EN Burn Rate:\n (Using any map Hunger modifiers)	Суурь EN зарцуулалт:\n (Газрын зургийн өлсгөлөнгийн өөрчлөгчөөр)
+Attribute Bonus (PER/CHR):	Үзүүлэлтийн нэмэгдэл (PER/CHR):
++1 MP every %2.1f seconds	%2.1f секунд тутам +1 MP
+%+d HT every %2.1f seconds	%+d HT / %2.1f секунд
+-1 EN every %2.1f seconds	%2.1f секунд тутам -1 EN
+%+d  [MP Regen]	%+d  [MP нөхөлт]
+%+d  [HT Regen]	%+d  [HT нөхөлт]
+%+d  [EN Sustain]	%+d  [EN хадгалалт]
+MP regenerates slowly over time, maximum of 1 MP every 1 second\nMaximum Regen Modifier from items/effects limited to +3 [MP Regen]	MP аажим нөхөгдөх ба секунд тутам хамгийн ихдээ 1 MP нөхөгдөнө\nЭд зүйл/нөлөөний нөхөлтийн өөрчлөгчийн дээд хэмжээ +3 [MP нөхөлт]
+NOMINAL boiler increases HT production\nSUPERHEATED boiler increases HT production 2x as fast, and 4x if HT below 50% capacity\nCRITICALLY LOW boiler rapidly loses HT, unit malfunction may occur at 0 HT	ХЭВИЙН зуух HT үүсэлтийг нэмэгдүүлнэ\nХЭТ ХАЛСАН зуух HT үүсэлтийг 2 дахин, HT багтаамжийн 50%-иас бага бол 4 дахин хурдасгана\nНОЦТОЙ БАГА үед HT хурдан буурч, 0 HT-д төхөөрөмж доголдож болзошгүй
+Energy reduces slowly over time, effects of Slow Digestion increases the longevity of EN\nCasting spells consumes EN\nStarvation occurs when EN is empty\nRestore EN by consuming food, sweet liquids and using MP restoring effects	Эрчим хүч аажим буурна. Удаан шингээлт EN-ийн үргэлжлэх хугацааг уртасгана\nШившихэд EN зарцуулна\nEN дуусахад өлсөж эхэлнэ\nХоол, чихэрлэг шингэн болон MP нөхөх нөлөөгөөр EN-ээ нөхнө
+Movement Speed Totals:	Хөдөлгөөний хурдны нийлбэр:
+Carried Weight:	Үүрсэн жин:
+Current Movement speed:\n (Using Weight + STR + DEX stat)	Одоогийн хөдөлгөөний хурд:\n (Жин + STR + DEX-ээр)
+Inventory Weight Penalty:	Үүргэвчийн жингийн хасалт:
+Equipped Weight Penalty:	Өмссөн жингийн хасалт:
+Carried Gold Penalty:	Үүрсэн алтны хасалт:
+Carried Weight Penalty:	Үүрсэн жингийн хасалт:
+Carrying items and gold increases Carried Weight, reducing movement speed\nSTR stat reduces Weight Penalties\nDEX stat provides passive movement speed and increases maximum movement speed	Эд зүйл, алт үүрэхэд жин өсөж, хөдөлгөөний хурд буурна\nSTR жингийн хасалтыг бууруулна\nDEX хөдөлгөөний идэвхгүй болон дээд хурдыг нэмэгдүүлнэ
+The Hamlet Minehead	Хамлетын уурхайн ам
+The outskirts of Hamlet's southwest gate holds the entrance to the Devils' Bastion.	Хамлетын баруун өмнөд хаалганы гадна Чөтгөрүүдийн цайзын үүд бий.
+The Mines	Уурхай
+Citizens of Hamlet dug in vain for gold here.	Хамлетын иргэд энд алт хайж дэмий ухжээ.
+The Swamp	Намаг
+Underground springs feed the strange plants here.	Гүний булаг эндхийн хачирхалтай ургамлыг тэтгэдэг.
+Sand Labyrinth	Элсэн төөрдөг хонгил
+The sands seem to be from an ancient ocean run dry.	Энэ элс хатаж ширгэсэн эртний далайнх бололтой.
+The Ruins	Балгас
+In the deepest depths, Herx's slaves built a city.	Хамгийн гүнд Херксийн боолууд хот босгожээ.
+Mines Exit	Уурхайн гарц
+A place built for those who are passing through.	Замдаа дайран өнгөрөгчдөд зориулж барьсан газар.
+Swamp Exit	Намгийн гарц
+The bridges allow access across the great chasm.	Гүүрнүүд аварга ангалын цаана гарах зам болжээ.
+Labyrinth Exit	Төөрдөг хонгилын гарц
+It looks like the bridges used to be withdrawn.	Гүүрнүүдийг урьд нь хурааж татдаг байсан бололтой.
+Herx's Lair	Херксийн үүр
+This place looks like it wasn't built by humans.	Энэ газрыг хүн бариагүй мэт харагдана.
+Baphomet's Domain	Бафометын эзэмшил
+You feel a magic connection to Herx's Lair here.	Энд Херксийн үүртэй холбогдох шидийн холбоог мэдэрнэ.
+Hell	Там
+This place beckons the hatred within you.	Энэ газар таны доторх үзэн ядалтыг дуудна.
+Hamlet	Хамлет
+The buildings around the entrance to the minehead look to have serviced adventurers moving through here.	Уурхайн амны эргэн тойрон дахь барилгууд дайран өнгөрөх адал явдалтнуудад үйлчилдэг байсан бололтой.
+Caves Exit	Агуйн гарц
+The machinery here appears to be drawing upon the crystals.	Эндхийн төхөөрөмж талстуудаас хүч авдаг бололтой.
+Crystal Caves	Талст агуй
+The air throbs with magic from the materials in the walls here.	Ханын эрдсээс ялгарах ид шид агаарыг лугшуулна.
+The Citadel	Цайз
+This mechanical campus feels cut off from the outside world.	Энэ механик цогцолбор гадаад ертөнцөөс тасарсан мэт санагдана.
+Sanctum	Ариун өргөө
+The laws of reality appear to be breaking at the center of this massive machine.	Энэ аварга машины төвд бодит ертөнцийн хууль эвдэрч буй мэт.
